@@ -1,0 +1,1220 @@
+[
+  {
+    "ability_id": "march-of-the-honoured-dead",
+    "name": "March of the Honoured Dead",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Might of the Moritoi",
+      "phases": []
+    },
+    "raw_text": "Friendly ADEPTUS CUSTODES WALKER units: Have +2\" M. Have +1 to advance rolls and charge rolls. This detachment has the ARMOURY tag and cannot be taken with another ARMOURY detachment."
+  },
+  {
+    "ability_id": "interred-expertise-upgrade",
+    "name": "Interred Expertise Upgrade",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Might of the Moritoi",
+      "phases": []
+    },
+    "raw_text": "ADEPTUS CUSTODES WALKER unit only. This unit's attacks can: Reroll hit rolls of 1. Reroll wound rolls of 1."
+  },
+  {
+    "ability_id": "auramite-sarcophagus-upgrade",
+    "name": "Auramite Sarcophagus Upgrade",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Might of the Moritoi",
+      "phases": []
+    },
+    "raw_text": "ADEPTUS CUSTODES WALKER unit only. When you target this unit with the Crushing Impact stratagem, that use is -1 CP."
+  },
+  {
+    "ability_id": "flawless-construction-moritoi",
+    "name": "Flawless Construction (Moritoi)",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Might of the Moritoi",
+      "phases": [
+        "Shooting",
+        "Fight"
+      ]
+    },
+    "raw_text": "WHEN: Your opponent's Shooting phase or the Fight phase, when an enemy unit targets a friendly ADEPTUS CUSTODES WALKER unit. TARGET: That ADEPTUS CUSTODES WALKER unit. EFFECT: Attacks that target your unit with a S greater than your unit's T have -1 to wound rolls."
+  },
+  {
+    "ability_id": "unstoppable-advance",
+    "name": "Unstoppable Advance",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Might of the Moritoi",
+      "phases": [
+        "Movement"
+      ]
+    },
+    "raw_text": "WHEN: Your Movement phase, when a friendly ADEPTUS CUSTODES WALKER unit is selected to move. TARGET: That ADEPTUS CUSTODES WALKER unit. EFFECT: Your unit has MOBILE."
+  },
+  {
+    "ability_id": "prioritised-eradication",
+    "name": "Prioritised Eradication",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Might of the Moritoi",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "WHEN: Your Shooting phase, when a friendly TELEMON HEAVY DREADNOUGHT unit is selected to shoot. TARGET: That TELEMON HEAVY DREADNOUGHT unit. EFFECT: Your unit's: Arachnus Storm Cannon weapons have [RAPID FIRE 6]. Iliastus Accelerator Culverin weapons have [RAPID FIRE 2]."
+  },
+  {
+    "ability_id": "skin-crawling-disorientation",
+    "name": "Skin-Crawling Disorientation",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Silent Hunters",
+      "phases": [
+        "Movement",
+        "Shooting"
+      ]
+    },
+    "raw_text": "When a friendly ANATHEMA PSYKANA unit is selected to make an advance move, that advance move does not prevent that unit from being eligible to start an action. Friendly ANATHEMA PSYKANA units have the following ability: Ceaseless Vigilance: In your Shooting phase, this unit can select one visible enemy unit within 12\". That enemy unit is nulled: While a unit is nulled, that unit has +3\" detection range."
+  },
+  {
+    "ability_id": "encircling-hunter",
+    "name": "Encircling Hunter",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Silent Hunters",
+      "phases": []
+    },
+    "raw_text": "ANATHEMA PSYKANA model only. When both players have deployed their armies, you can redeploy up to three friendly ANATHEMA PSYKANA INFANTRY units. When doing so, you can set those units up in strategic reserves, regardless of how many units are already in strategic reserves."
+  },
+  {
+    "ability_id": "psyk-out-grenades-upgrade",
+    "name": "Psyk-Out Grenades Upgrade",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Silent Hunters",
+      "phases": []
+    },
+    "raw_text": "ANATHEMA PSYKANA unit only. This unit has EXPLOSIVES. When you target this unit with the Explosives stratagem, if you select an enemy PSYKER unit, you can re-roll rolls to determine whether that enemy unit suffers a mortal wound."
+  },
+  {
+    "ability_id": "deathsong-scythes",
+    "name": "Deathsong Scythes",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Silent Hunters",
+      "phases": [
+        "Fight"
+      ]
+    },
+    "raw_text": "WHEN: Fight phase, when a friendly VIGILATORS unit is selected to fight. TARGET: That VIGILATORS unit. EFFECT: Your unit's melee attacks have [LANCE]. Your unit's melee attacks that target a PSYKER unit have +1 A."
+  },
+  {
+    "ability_id": "umbral-prosecution",
+    "name": "Umbral Prosecution",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Silent Hunters",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "WHEN: Your Shooting phase, when a friendly PROSECUTORS unit is selected to shoot. TARGET: That PROSECUTORS unit. EFFECT: Your unit's Boltgun weapons have: [RAPID FIRE 2]. +1 AP."
+  },
+  {
+    "ability_id": "synchronised-inferno",
+    "name": "Synchronised Inferno",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Silent Hunters",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "WHEN: Your Shooting phase, when a friendly WITCHSEEKERS unit is selected to shoot. TARGET: That WITCHSEEKERS unit. EFFECT: Your unit's [TORRENT] ranged attacks have [BLAST 1]."
+  },
+  {
+    "ability_id": "the-hammer-falls",
+    "name": "The Hammer Falls",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Tharanatoi Hammerblow",
+      "phases": [
+        "Charge"
+      ]
+    },
+    "raw_text": "If a friendly ADEPTUS CUSTODES TERMINATOR unit made an ingress move this turn, that unit can reroll charge rolls. This detachment has the LIONS tag and cannot be taken with another LIONS detachment."
+  },
+  {
+    "ability_id": "mnemo-locked-shrine-cipher",
+    "name": "Mnemo-Locked Shrine Cipher",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Tharanatoi Hammerblow",
+      "phases": [
+        "Movement"
+      ]
+    },
+    "raw_text": "ADEPTUS CUSTODES TERMINATOR model only. In your first Movement phase, this unit can make an ingress move."
+  },
+  {
+    "ability_id": "efficient-aggression",
+    "name": "Efficient Aggression",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Tharanatoi Hammerblow",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "ADEPTUS CUSTODES TERMINATOR model only. (Once per turn, per army) In your opponent's Shooting phase, when an enemy unit has shot, if this unit lost a wound as a result of those attacks, this unit can make a surge move of up to D6+1\"."
+  },
+  {
+    "ability_id": "hardened-resolve",
+    "name": "Hardened Resolve",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Tharanatoi Hammerblow",
+      "phases": [
+        "Shooting",
+        "Fight"
+      ]
+    },
+    "raw_text": "WHEN: Your opponent's Shooting phase or the Fight phase, when an enemy unit targets a friendly ADEPTUS CUSTODES TERMINATOR unit. TARGET: That ADEPTUS CUSTODES TERMINATOR unit. EFFECT: Your unit has +1 T."
+  },
+  {
+    "ability_id": "unleash-the-lions-hammerblow",
+    "name": "Unleash the Lions (Hammerblow)",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Tharanatoi Hammerblow",
+      "phases": [
+        "Command"
+      ]
+    },
+    "raw_text": "WHEN: Your Command phase. TARGET: One friendly ALLARUS CUSTODIANS/AQUILON CUSTODIANS unit that is on the battlefield. EFFECT: Your unit is split into separate units, each containing one model. These new units each have a starting strength of 1."
+  },
+  {
+    "ability_id": "electroexorcist-saturation",
+    "name": "Electroexorcist Saturation",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Tharanatoi Hammerblow",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "WHEN: Your Shooting phase, when a friendly ADEPTUS CUSTODES TERMINATOR unit is selected to shoot. TARGET: That ADEPTUS CUSTODES TERMINATOR unit. EFFECT: Your unit's Ballistus Grenade Launcher weapons have D3+3 A."
+  },
+  {
+    "ability_id": "unleash-the-lions",
+    "name": "Unleash the Lions",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Lions of the Emperor",
+      "phases": [
+        "Command"
+      ]
+    },
+    "raw_text": "WHEN: Your Command phase. TARGET: One Allarus Custodians or Aquilon Custodians unit from your army that is on the battlefield. EFFECT: That unit is split into separate units, each containing one model. These new units each have a Starting Strength of 1."
+  },
+  {
+    "ability_id": "against-all-odds",
+    "name": "Against All Odds",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Lions of the Emperor",
+      "phases": []
+    },
+    "raw_text": "Each time a model in an Adeptus Custodes unit from your army (excluding Vehicles) makes an attack, if there are no other friendly units within 6\" of that unit, add 1 to the Hit roll and add 1 to the Wound roll."
+  },
+  {
+    "ability_id": "superior-creation",
+    "name": "Superior Creation",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Lions of the Emperor",
+      "phases": []
+    },
+    "raw_text": "Adeptus Custodes Infantry model only. The first time the bearer is destroyed, roll one D6 at the end of the phase. On a 2+, set the bearer back up on the battlefield, as close as possible to where it was destroyed and not within Engagement Range of one or more enemy units, with its full wounds remaining."
+  },
+  {
+    "ability_id": "praesidius",
+    "name": "Praesidius",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Lions of the Emperor",
+      "phases": []
+    },
+    "raw_text": "Adeptus Custodes model only. The bearer has the Lone Operative and Stealth abilities."
+  },
+  {
+    "ability_id": "fierce-conqueror",
+    "name": "Fierce Conqueror",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Lions of the Emperor",
+      "phases": [
+        "Fight"
+      ]
+    },
+    "raw_text": "Shield-Captain model only. At the start of the Fight phase, until the end of the phase, add 2 to the Attacks characteristic of melee weapons equipped by the bearer for every 5 enemy models within 6\" of the bearer (rounding down)."
+  },
+  {
+    "ability_id": "admonimortis",
+    "name": "Admonimortis",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Lions of the Emperor",
+      "phases": []
+    },
+    "raw_text": "Shield-Captain model only. Improve the Strength characteristic of melee weapons equipped by the bearer by 3, and improve the Armour Penetration and Damage characteristics of those weapons by 1."
+  },
+  {
+    "ability_id": "gilded-champion",
+    "name": "Gilded Champion",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Lions of the Emperor",
+      "phases": []
+    },
+    "raw_text": "WHEN: Any phase, just after an Adeptus Custodes Character model from your army has used an ability on its datasheet that states it can only be used 'once per battle'. TARGET: That Adeptus Custodes Character model. EFFECT: Your model can use that 'once per battle' ability one additional time during the battle (but not in the same phase). RESTRICTIONS: You cannot use this Stratagem on the same Adeptus Custodes Character model more than once per battle."
+  },
+  {
+    "ability_id": "defiant-to-the-last",
+    "name": "Defiant to the Last",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Lions of the Emperor",
+      "phases": [
+        "Fight"
+      ]
+    },
+    "raw_text": "WHEN: Fight phase, just after an enemy unit has selected its targets. TARGET: One Adeptus Custodes unit from your army that was selected as the target of one or more of the attacking unit's attacks. EFFECT: Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, adding 2 to the result if that model has the Character keyword. On a 4+, do not remove it from play; the destroyed model can fight after the attacking unit has finished making its attacks (when doing so, it is treated as having 1 wound remaining), and is then removed from play."
+  },
+  {
+    "ability_id": "peerless-warrior",
+    "name": "Peerless Warrior",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Lions of the Emperor",
+      "phases": [
+        "Fight"
+      ]
+    },
+    "raw_text": "WHEN: Fight phase. TARGET: One Adeptus Custodes unit from your army that has not been selected to fight this phase. EFFECT: Until the end of the phase, melee weapons equipped by models in your unit have the [PRECISION] ability."
+  },
+  {
+    "ability_id": "manoeuvre-and-fire",
+    "name": "Manoeuvre and Fire",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Lions of the Emperor",
+      "phases": [
+        "Movement"
+      ]
+    },
+    "raw_text": "WHEN: Your Movement phase, just after an Adeptus Custodes unit from your army Falls Back. TARGET: That Adeptus Custodes unit. EFFECT: Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
+  },
+  {
+    "ability_id": "swift-as-the-eagle",
+    "name": "Swift as the Eagle",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Lions of the Emperor",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "WHEN: Your opponent's Shooting phase, just after an enemy unit has shot. TARGET: One Adeptus Custodes unit from your army (excluding VEHICLE units) that was selected as the target of one or more of the attacking unit's attacks. EFFECT: Your unit can make a Normal move of up to D6\"."
+  },
+  {
+    "ability_id": "auric-armour",
+    "name": "Auric Armour",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Solar Spearhead",
+      "phases": []
+    },
+    "raw_text": "While an Adeptus Custodes Vehicle unit from your army is at Starting Strength, unless that unit is an Aircraft or it is Battleshocked, add 2 to the Objective Control characteristic of models in that unit. While an Adeptus Custodes Vehicle unit from your army is below Starting Strength, each time a model in that unit makes an attack, reroll a Hit roll of 1. While an Adeptus Custodes Vehicle unit from your army is Below Half-strength, each time a model in that unit makes an attack, reroll a Hit roll of 1 and reroll a Wound roll of 1."
+  },
+  {
+    "ability_id": "moritoi-ancients",
+    "name": "Moritoi Ancients",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Solar Spearhead",
+      "phases": []
+    },
+    "raw_text": "Add 2\" to the Move characteristic of models in Adeptus Custodes Walker units from your army and add 1 to Advance and Charge rolls made for such units. KEYWORDS: In the Muster Armies step, you can select up to 2 Adeptus Custodes Walker models from your army. The selected units gain the Character keyword."
+  },
+  {
+    "ability_id": "adamantine-talisman",
+    "name": "Adamantine Talisman",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Solar Spearhead",
+      "phases": []
+    },
+    "raw_text": "Adeptus Custodes model only. Improve the Attacks, Strength and Damage characteristics of melee weapons equipped by the bearer by 1."
+  },
+  {
+    "ability_id": "augury-uplink",
+    "name": "Augury Uplink",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Solar Spearhead",
+      "phases": []
+    },
+    "raw_text": "Adeptus Custodes model only. The bearer has the Feel No Pain 5+ ability."
+  },
+  {
+    "ability_id": "honoured-fallen",
+    "name": "Honoured Fallen",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Solar Spearhead",
+      "phases": []
+    },
+    "raw_text": "Adeptus Custodes Vehicle model only (Aura). While a friendly Adeptus Custodes Infantry or Adeptus Custodes Mounted unit is within 6\" of the bearer, each time a model in that unit makes an attack, reroll a Hit roll of 1."
+  },
+  {
+    "ability_id": "veteran-of-the-kataphraktoi",
+    "name": "Veteran of the Kataphraktoi",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Solar Spearhead",
+      "phases": [
+        "Command"
+      ]
+    },
+    "raw_text": "Adeptus Custodes Infantry or Adeptus Custodes Mounted model only. In your Command phase, select one Adeptus Custodes Vehicle or Adeptus Custodes Mounted unit within 6\" of the bearer. Until the start of your next Command phase, that unit is eligible to shoot in a turn in which it Fell Back."
+  },
+  {
+    "ability_id": "flawless-construction-solar-spearhead",
+    "name": "Flawless Construction (Solar Spearhead)",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Solar Spearhead",
+      "phases": [
+        "Shooting",
+        "Fight"
+      ]
+    },
+    "raw_text": "WHEN: Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets. TARGET: One Adeptus Custodes Vehicle unit from your army that was selected as the target of one or more of the attacking unit's attacks. EFFECT: Until the end of the phase, each time an attack targets a model in your unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of your unit, subtract 1 from the Wound roll."
+  },
+  {
+    "ability_id": "emperors-vengeance",
+    "name": "Emperor's Vengeance",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Solar Spearhead",
+      "phases": [
+        "Fight"
+      ]
+    },
+    "raw_text": "WHEN: Fight phase, just after an enemy unit has selected its targets. TARGET: One Adeptus Custodes unit from your army that was selected as the target of one or more of the attacking unit's attacks. EFFECT: Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, adding 1 to the result if your unit has the Walker keyword. On a 4+, do not remove it from play; The destroyed model can fight after the attacking unit has finished making its attacks (when doing so, it is assumed to have 1 wound remaining), and is then removed from play."
+  },
+  {
+    "ability_id": "wrathful-advance",
+    "name": "Wrathful Advance",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Solar Spearhead",
+      "phases": [
+        "Fight"
+      ]
+    },
+    "raw_text": "WHEN: Fight phase, just before an Adeptus Custodes unit from your army Piles In. TARGET: That Adeptus Custodes unit. EFFECT: Until the end of the phase, each time a model in your unit makes a Pile-in move, it can move up to D3+3\" instead of up to 3\"."
+  },
+  {
+    "ability_id": "unstoppable",
+    "name": "Unstoppable",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Solar Spearhead",
+      "phases": [
+        "Movement",
+        "Charge"
+      ]
+    },
+    "raw_text": "WHEN: Your Movement phase or your Charge phase. TARGET: One Adeptus Custodes Vehicle or Adeptus Custodes Mounted unit from your army. EFFECT: Until the end of the phase, each time a model in your unit makes a move, it can move through terrain features."
+  },
+  {
+    "ability_id": "relentless-persecution",
+    "name": "Relentless Persecution",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Solar Spearhead",
+      "phases": [
+        "Movement"
+      ]
+    },
+    "raw_text": "WHEN: Your Movement phase, just after an Adeptus Custodes Vehicle unit from your army Advances. TARGET: That Adeptus Custodes Vehicle unit. EFFECT: Until the end of the turn, your unit is eligible to shoot in a turn in which it Advanced. If your unit has the Walker keyword, until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced instead."
+  },
+  {
+    "ability_id": "punishment-inescapable",
+    "name": "Punishment Inescapable",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Solar Spearhead",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "WHEN: Your Shooting phase. TARGET: One Adeptus Custodes unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, ranged weapons equipped by models in your unit have the [IGNORES COVER] ability, and until the end of the phase, each time a model in your unit makes an attack, you can ignore any or all modifiers to that attack's Ballistic Skill characteristic and/or any or all modifiers to the Hit roll."
+  },
+  {
+    "ability_id": "stand-vigil",
+    "name": "Stand Vigil",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [
+      "custodian-guard",
+      "custodian-guard-with-adrasite-and-pyrithite-spears"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Imperial Armour Datasheets",
+      "phases": []
+    },
+    "raw_text": "Each time a model in this unit makes an attack, re-roll a Wound roll of 1. While this unit is within range of an objective marker you control, you can re-roll the Wound roll instead."
+  },
+  {
+    "ability_id": "no-foe-shall-stand",
+    "name": "No Foe Shall Stand",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [
+      "custodian-guard-with-adrasite-and-pyrithite-spears"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Imperial Armour Datasheets",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "Once per battle, at the start of your Shooting phase, this unit can use this ability. If it does, until the end of the phase, ranged weapons equipped by models in this unit have the [LETHAL HITS] and [IGNORES COVER] abilities."
+  },
+  {
+    "ability_id": "saturation-volleys",
+    "name": "Saturation Volleys",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [
+      "sagittarum-custodians"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Imperial Armour Datasheets",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "In your Shooting phase, after this unit has shot, select one enemy unit (excluding Monsters and Vehicles) hit by one or more of those attacks. Until the start of your next turn, while this unit is on the battlefield, that enemy unit is suppressed. While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll."
+  },
+  {
+    "ability_id": "disintegration-beams",
+    "name": "Disintegration Beams",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [
+      "sagittarum-custodians"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Imperial Armour Datasheets",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "Once per battle, at the start of your Shooting phase, this unit can use this ability. If it does, until the end of the phase, ranged weapons equipped by models in this unit have the [DEVASTATING WOUNDS] ability."
+  },
+  {
+    "ability_id": "heavy-assault-infantry",
+    "name": "Heavy Assault Infantry",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [
+      "aquilon-custodians"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Imperial Armour Datasheets",
+      "phases": []
+    },
+    "raw_text": "Each time a model in this unit makes a ranged attack that targets the closest eligible target, re-roll a Wound roll of 1."
+  },
+  {
+    "ability_id": "from-golden-light",
+    "name": "From Golden Light",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [
+      "allarus-custodians",
+      "aquilon-custodians"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Imperial Armour Datasheets",
+      "phases": []
+    },
+    "raw_text": "Once per battle, at the end of your opponent's turn, if this unit is not within Engagement Range of one or more enemy units, you can remove it from the battlefield and place it into Strategic Reserves."
+  },
+  {
+    "ability_id": "deadly-demise-1",
+    "name": "Deadly Demise 1",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [
+      "contemptor-achillus-dreadnought"
+    ],
+    "ability_type": "core",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Imperial Armour Datasheets",
+      "phases": []
+    },
+    "raw_text": "When this model is destroyed, roll one D6 before removing it from play. On a 6, each unit within 6\" suffers 1 mortal wound."
+  },
+  {
+    "ability_id": "dread-foe",
+    "name": "Dread Foe",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [
+      "contemptor-achillus-dreadnought"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Imperial Armour Datasheets",
+      "phases": [
+        "Fight"
+      ]
+    },
+    "raw_text": "Each time this model is selected to fight, you can select one enemy unit within Engagement Range of it and roll one D6, adding 2 to the result if this model made a Charge move this turn: on a 4-5, that enemy unit suffers D3 mortal wounds; on a 6+, that enemy unit suffers 3 mortal wounds."
+  },
+  {
+    "ability_id": "turbo-boost",
+    "name": "Turbo-boost",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [
+      "agamatus-custodians"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Imperial Armour Datasheets",
+      "phases": [
+        "Movement"
+      ]
+    },
+    "raw_text": "Each time this unit Advances, do not make an Advance roll. Instead, until the end of the phase, add 6\" to the Move characteristic of models in this unit."
+  },
+  {
+    "ability_id": "implacable-vanguard",
+    "name": "Implacable Vanguard",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [
+      "agamatus-custodians"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Imperial Armour Datasheets",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "Once per battle, in your Shooting phase, after this unit has shot, if it is not within Engagement Range of one or more enemy units, it can make a Normal move of up to 6\". If it does, until the end of the turn, this unit is not eligible to declare a charge."
+  },
+  {
+    "ability_id": "strike-from-the-skies",
+    "name": "Strike from the Skies",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [
+      "venatari-custodians"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Imperial Armour Datasheets",
+      "phases": []
+    },
+    "raw_text": "This unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
+  },
+  {
+    "ability_id": "swooping-dive",
+    "name": "Swooping Dive",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [
+      "venatari-custodians"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Imperial Armour Datasheets",
+      "phases": []
+    },
+    "raw_text": "Once per battle, you can target this unit with the Rapid Ingress Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this phase."
+  },
+  {
+    "ability_id": "tarsis-buckler",
+    "name": "Tarsis Buckler",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [
+      "venatari-custodians"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Imperial Armour Datasheets",
+      "phases": []
+    },
+    "raw_text": "The bearer has a Wounds characteristic of 4."
+  },
+  {
+    "ability_id": "merciless-hunter",
+    "name": "Merciless Hunter",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [
+      "pallas-grav-attack"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Imperial Armour Datasheets",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "In your Shooting phase, each time this model makes an attack that targets an enemy unit that is Below Half-strength, add 1 to the Wound roll."
+  },
+  {
+    "ability_id": "deadly-demise-d3",
+    "name": "Deadly Demise D3",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [
+      "telemon-heavy-dreadnought",
+      "pallas-grav-attack",
+      "caladius-grav-tank",
+      "coronus-grav-carrier"
+    ],
+    "ability_type": "core",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Imperial Armour Datasheets",
+      "phases": []
+    },
+    "raw_text": "When this model is destroyed, roll one D3 before removing it from play. On a 1, nothing happens. On a 2, each unit within 6\" suffers 1 mortal wound. On a 3, each unit within 6\" suffers D3 mortal wounds."
+  },
+  {
+    "ability_id": "guardian-eternal",
+    "name": "Guardian Eternal",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [
+      "telemon-heavy-dreadnought"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Imperial Armour Datasheets",
+      "phases": []
+    },
+    "raw_text": "Each time an attack is allocated to this model, subtract 1 from the Damage characteristic of that attack."
+  },
+  {
+    "ability_id": "devoted-to-destruction",
+    "name": "Devoted to Destruction",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [
+      "telemon-heavy-dreadnought"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Imperial Armour Datasheets",
+      "phases": []
+    },
+    "raw_text": "If this model is equipped with 2 Telemon caestus weapons in addition to its armoured feet weapon, add 2 to the Attacks characteristic of those Telemon caestus weapons."
+  },
+  {
+    "ability_id": "advanced-firepower",
+    "name": "Advanced Firepower",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [
+      "caladius-grav-tank"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Imperial Armour Datasheets",
+      "phases": []
+    },
+    "raw_text": "Each time this model makes an attack with its twin iliastus accelerator cannon that targets an enemy unit (excluding Monsters and Vehicles), that attack has the [LETHAL HITS] ability. Each time this model makes an attack with its twin arachnus heavy blaze cannon that targets an enemy Monster or Vehicle unit, that attack has the [LETHAL HITS] ability."
+  },
+  {
+    "ability_id": "fire-support",
+    "name": "Fire Support",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [
+      "coronus-grav-carrier"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Imperial Armour Datasheets",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. Until the end of the phase, each time a friendly model that disembarked from this Transport this turn makes an attack that targets that enemy unit, you can re-roll the Wound roll."
+  },
+  {
+    "ability_id": "deadly-demise-d6",
+    "name": "Deadly Demise D6",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [
+      "ares-gunship",
+      "coronus-grav-carrier",
+      "orion-assault-dropship"
+    ],
+    "ability_type": "core",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Imperial Armour Datasheets",
+      "phases": []
+    },
+    "raw_text": "When this model is destroyed, roll one D6 before removing it from play. On a 1-2, nothing happens. On a 3-4, each unit within 6\" suffers 1 mortal wound. On a 5-6, each unit within 6\" suffers D3 mortal wounds."
+  },
+  {
+    "ability_id": "assault-dropship",
+    "name": "Assault Dropship",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [
+      "orion-assault-dropship"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Imperial Armour Datasheets",
+      "phases": []
+    },
+    "raw_text": "If a unit disembarks from this Transport before it moves, until the end of the turn, that unit is eligible to charge in a turn in which it Advanced."
+  },
+  {
+    "ability_id": "infernus-firebombs",
+    "name": "Infernus Firebombs",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [
+      "ares-gunship"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Imperial Armour Datasheets",
+      "phases": [
+        "Movement"
+      ]
+    },
+    "raw_text": "Each time this model ends a Normal move, you can select one enemy unit it moved over during that move. Until the end of the turn, models in that unit cannot have the Benefit of Cover. In addition, roll one D6 for each model in that unit: for each 6, that unit suffers 1 mortal wound."
+  },
+  {
+    "ability_id": "galatus-shield",
+    "name": "Galatus Shield",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [
+      "contemptor-galatus-dreadnought"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes.pdf, Imperial Armour Datasheets",
+      "phases": [
+        "Fight"
+      ]
+    },
+    "raw_text": "Each time a melee attack targets this model, subtract 1 from the Wound roll."
+  }
+]
