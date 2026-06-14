@@ -188,8 +188,8 @@
     "raw_text": "Once per battle, at the end of your opponent's turn, if this unit is not within Engagement Range of one or more enemy units, you can remove it from the battlefield and place it into Strategic Reserves."
   },
   "deadly-demise-1": {
-    "faction": "adeptus-custodes",
-    "raw_text": "When this model is destroyed, roll one D6 before removing it from play. On a 6, each unit within 6\" suffers 1 mortal wound."
+    "faction": "core",
+    "raw_text": "Deadly Demise X. Each time a model with this ability is destroyed, after any embarked units have made emergency disembark moves, roll one D6: on a 6 each unit within 6\" of that model suffers X mortal wounds (roll separately for each unit if X is random)."
   },
   "dread-foe": {
     "faction": "adeptus-custodes",
@@ -220,8 +220,8 @@
     "raw_text": "In your Shooting phase, each time this model makes an attack that targets an enemy unit that is Below Half-strength, add 1 to the Wound roll."
   },
   "deadly-demise-d3": {
-    "faction": "adeptus-custodes",
-    "raw_text": "When this model is destroyed, roll one D3 before removing it from play. On a 1, nothing happens. On a 2, each unit within 6\" suffers 1 mortal wound. On a 3, each unit within 6\" suffers D3 mortal wounds."
+    "faction": "core",
+    "raw_text": "Deadly Demise X. Each time a model with this ability is destroyed, after any embarked units have made emergency disembark moves, roll one D6: on a 6 each unit within 6\" of that model suffers X mortal wounds (roll separately for each unit if X is random)."
   },
   "guardian-eternal": {
     "faction": "adeptus-custodes",
@@ -240,8 +240,8 @@
     "raw_text": "In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. Until the end of the phase, each time a friendly model that disembarked from this Transport this turn makes an attack that targets that enemy unit, you can re-roll the Wound roll."
   },
   "deadly-demise-d6": {
-    "faction": "adeptus-custodes",
-    "raw_text": "When this model is destroyed, roll one D6 before removing it from play. On a 1-2, nothing happens. On a 3-4, each unit within 6\" suffers 1 mortal wound. On a 5-6, each unit within 6\" suffers D3 mortal wounds."
+    "faction": "core",
+    "raw_text": "Deadly Demise X. Each time a model with this ability is destroyed, after any embarked units have made emergency disembark moves, roll one D6: on a 6 each unit within 6\" of that model suffers X mortal wounds (roll separately for each unit if X is random)."
   },
   "assault-dropship": {
     "faction": "adeptus-custodes",
@@ -254,5 +254,513 @@
   "galatus-shield": {
     "faction": "adeptus-custodes",
     "raw_text": "Each time a melee attack targets this model, subtract 1 from the Wound roll."
+  },
+  "angelic-judgement": {
+    "faction": "adepta-sororitas",
+    "raw_text": "Friendly ADEPTA SORORITAS INFANTRY FLY units have the following ability: Condemnatory Psalms: In your Shooting phase, this unit can select one visible enemy unit within 12\". That enemy unit is condemned: While a unit is condemned, that unit has +3\" detection range."
+  },
+  "clarion-of-urgency": {
+    "faction": "adepta-sororitas",
+    "raw_text": "CANONESS WITH JUMP PACK model only. At the end of your opponent's Fight phase, if this unit is unengaged, you can place this unit in strategic reserves."
+  },
+  "symphonic-payload": {
+    "faction": "adepta-sororitas",
+    "raw_text": "EXORCIST unit only. This unit can re-roll rolls to determine the A of a weapon."
+  },
+  "inspirational-battle-canticles": {
+    "faction": "adepta-sororitas",
+    "raw_text": "1CP. WHEN: Start of the Command phase. TARGET: One friendly ADEPTA SORORITAS INFANTRY FLY unit or one friendly EXORCIST unit. EFFECT: Select one friendly battle-shocked ADEPTA SORORITAS unit within 6\" of your unit. That unit is no longer battle-shocked."
+  },
+  "harmonised-exorcism": {
+    "faction": "adepta-sororitas",
+    "raw_text": "1CP. WHEN: Your Shooting phase, when a friendly EXORCIST unit is selected to shoot. TARGET: That EXORCIST unit. EFFECT: Select one unit visible to and within 9\" of a friendly ADEPTA SORORITAS INFANTRY FLY unit. Your unit's ranged attacks that target that unit have +1 to hit rolls."
+  },
+  "devastating-reprise": {
+    "faction": "adepta-sororitas",
+    "raw_text": "1CP. WHEN: Your Shooting phase, when a friendly EXORCIST unit has shot. TARGET: One friendly ADEPTA SORORITAS INFANTRY FLY unit. EFFECT: Select one enemy unit (excluding MONSTER/VEHICLE units) hit by those ranged attacks. Your unit's ranged attacks that target that unit have [DEVASTATING WOUNDS]."
+  },
+  "holy-quest": {
+    "faction": "adepta-sororitas",
+    "raw_text": "Friendly CELESTIAN SACRESANTS units' attacks have +1 BS and WS. This detachment has the REVEREND tag and cannot be taken with another REVEREND detachment."
+  },
+  "writ-of-compunction": {
+    "faction": "adepta-sororitas",
+    "raw_text": "CELESTIAN SACRESANTS unit only. This unit has +1 OC."
+  },
+  "perfervid-haste": {
+    "faction": "adepta-sororitas",
+    "raw_text": "ADEPTA SORORITAS model only. This unit has +1\" M."
+  },
+  "sanctified-blows": {
+    "faction": "adepta-sororitas",
+    "raw_text": "1CP. WHEN: Fight phase, when a friendly CELESTIAN SACRESANTS unit is selected to fight. TARGET: That CELESTIAN SACRESANTS unit. EFFECT: Your unit's melee attacks have +1 A and S."
+  },
+  "faithful-fortitude": {
+    "faction": "adepta-sororitas",
+    "raw_text": "1CP. WHEN: Any phase, when a friendly CELESTIAN SACRESANTS unit suffers a mortal wound. TARGET: That CELESTIAN SACRESANTS unit. EFFECT: Your unit has Feel No Pain 5+ against mortal wounds until the end of the phase."
+  },
+  "unflinching-determination-sacred-champions": {
+    "faction": "adepta-sororitas",
+    "raw_text": "1CP. WHEN: Your Movement phase, when a friendly CELESTIAN SACRESANTS unit is selected to make an advance/fall-back move. TARGET: That CELESTIAN SACRESANTS unit. EFFECT: Your unit's ranged attacks have [ASSAULT] until the end of the turn. That move does not prevent your unit from being eligible to shoot/declare a charge."
+  },
+  "hymns-of-battle": {
+    "faction": "adepta-sororitas",
+    "raw_text": "Enhancements selected from this detachment do not count towards the total number of enhancements in your army. Friendly ADEPTA SORORITAS CHARACTER units have +1 Ld."
+  },
+  "hagiomnifex": {
+    "faction": "adepta-sororitas",
+    "raw_text": "ADEPTA SORORITAS CHARACTER unit only (excluding PENITENT units). (Once per turn, per unit) At the start of a phase, you can use this ability. If you do, select one of the abilities below: Rite of Revelation: While this unit is shooting, enemy units have +6\" detection range. Sermon of Intolerance: This unit's battle-shock rolls automatically succeed. Catechism of Raging Fervour: This unit has +1\" M. Psalm of Righteous Smiting: This unit's attacks have +1 S. Chorus of Repudiation: Attacks that target this unit with a S greater than this unit's T have -1 to wound rolls."
+  },
+  "righteous-purpose": {
+    "faction": "adepta-sororitas",
+    "raw_text": "In your Command phase, you can select up to 3 Adepta Sororitas units from your army (including units that are embarked within Transports), until the start of your next Command phase, those units are Righteous. While a unit is Righteous: Add 1\" to the Move characteristic of models in that unit. Improve the Leadership characteristic of models in that unit by 1. Improve the Weapon Skill and Ballistic Skill characteristics of weapons equipped by Battle Sisters Squad, Celestian Sacresants and Paragon Warsuits models in that unit by 1. KEYWORDS: While a Celestian Sacresants unit from your army is not Battle-shocked, add 1 to the Objective Control characteristic of Celestian Sacresants models in that unit."
+  },
+  "triptych-of-judgement": {
+    "faction": "adepta-sororitas",
+    "raw_text": "Adepta Sororitas model only. Each time a model in the bearer's unit makes an attack, you can ignore any or all modifiers to that attack's Ballistic Skill or Weapon Skill characteristics and/or any or all modifiers to the Hit roll."
+  },
+  "mark-of-devotion": {
+    "faction": "adepta-sororitas",
+    "raw_text": "Adepta Sororitas model only. Add 1 to the Attacks characteristic of the bearer's melee weapons. While the bearer's unit is Righteous, add 2 to the Attacks characteristic and add 1 to the Damage characteristic of the bearer's melee weapons instead."
+  },
+  "eyes-of-the-oracle": {
+    "faction": "adepta-sororitas",
+    "raw_text": "Adepta Sororitas model only. The bearer's weapons have the [PRECISION] ability. Each time the bearer's unit destroys an enemy Character model, you gain 1CP."
+  },
+  "sanctified-amulet": {
+    "faction": "adepta-sororitas",
+    "raw_text": "Adepta Sororitas model only. Enemy units that are set up on the battlefield from Reserves cannot be set up within 12\" of the bearer."
+  },
+  "shield-of-denial": {
+    "faction": "adepta-sororitas",
+    "raw_text": "1CP. WHEN: Any phase, just after a mortal wound is allocated to an Adepta Sororitas unit from your army. TARGET: That Adepta Sororitas unit. EFFECT: Until the end of the phase, models in your unit have the Feel No Pain 6+ ability against mortal wounds. If your unit is Righteous, until the end of the phase, models in your unit have the Feel No Pain 5+ ability against mortal wounds instead."
+  },
+  "suffer-not-the-unfaithful": {
+    "faction": "adepta-sororitas",
+    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase. TARGET: One Adepta Sororitas unit from your army that is Righteous and that has not been selected to shoot or fight this phase. EFFECT: Select either the [LETHAL HITS] or [SUSTAINED HITS 1] ability. Until the end of the phase, weapons equipped by models in your unit have the selected ability."
+  },
+  "to-the-heart-of-heresy": {
+    "faction": "adepta-sororitas",
+    "raw_text": "1CP. WHEN: Fight phase. TARGET: One Adepta Sororitas unit from your army that has not been selected to fight this phase. EFFECT: Until the end of the turn, improve the Strength characteristic of melee weapons equipped by models in your unit by 1. If your unit is Righteous, until the end of the phase, improve the Armour Penetration characteristic of melee weapons equipped by models in your unit by 1 as well."
+  },
+  "path-of-the-righteous": {
+    "faction": "adepta-sororitas",
+    "raw_text": "1CP. WHEN: Fight phase. TARGET: One Adepta Sororitas unit from your army that has not been selected to fight this phase. EFFECT: Until the end of the turn, each time a model in your unit makes a Pile-in or Consolidation move, it can move up to 6\" instead of up to 3\". When doing so, if your unit is Righteous, it does not need to end that move closer to the closest enemy model, provided it ends that move as close as possible to the closest enemy unit."
+  },
+  "bastion-of-faith": {
+    "faction": "adepta-sororitas",
+    "raw_text": "1CP. WHEN: Fight phase, just after an enemy unit has selected its targets. TARGET: One Celestian Sacresants unit that was selected as the target of one or more of the attacking unit's attacks. EFFECT: Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll. In addition, if your unit is Righteous, you can select one other Celestian Sacresants unit from your army that is not Battle-shocked and is within 6\" of your unit. Until the end of the phase, each time an attack targets that Celestian Sacresants unit, subtract 1 from the Hit roll as well."
+  },
+  "indefatigable-dedication": {
+    "faction": "adepta-sororitas",
+    "raw_text": "1CP. WHEN: Your Movement phase, just after an Adepta Sororitas unit from your army Falls Back. TARGET: That Adepta Sororitas unit. EFFECT: Until the end of the turn, your unit is eligible to shoot in a turn in which it Fell Back. If your unit is Righteous, until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back instead."
+  },
+  "righteous-denunciation": {
+    "faction": "adepta-sororitas",
+    "raw_text": "At the start of the Fight phase, each enemy unit within 6\" of this model must take a Battle-shock test, subtracting 1 from that test."
+  },
+  "judged-for-execution": {
+    "faction": "adepta-sororitas",
+    "raw_text": "At the end of your Movement phase, you can select one enemy unit within 18\" of and visible to this model. Until the start of your next Command phase, each time a friendly Adepta Sororitas model makes an attack that targets that enemy unit, that attack has the [LETHAL HITS] ability."
+  },
+  "ministorum-sermon": {
+    "faction": "adepta-sororitas",
+    "raw_text": "While this unit contains a Ministorum Priest, melee weapons equipped by models in this unit have the [SUSTAINED HITS 1] ability."
+  },
+  "cherub": {
+    "faction": "adepta-sororitas",
+    "raw_text": "Once per battle, after this unit has performed an Act of Faith, you gain 1 Miracle dice. Designer's Note: Place a Cherub token next to the unit, removing it once this ability has been used."
+  },
+  "salvationist-medikit": {
+    "faction": "adepta-sororitas",
+    "raw_text": "In your Command phase, if the bearer is on the battlefield, you can return up to D3 destroyed models (excluding Character models) to this unit."
+  },
+  "simulacrum-imperialis": {
+    "faction": "adepta-sororitas",
+    "raw_text": "At the end of your Command phase, for each objective marker you control that has one or more units from your army with this ability within range of it, roll one D6: on a 4+, you gain 1 Miracle dice showing a value equal to that result."
+  },
+  "attached-unit": {
+    "faction": "adepta-sororitas",
+    "raw_text": "If a Ministorum Priest from your army with the Leader ability can be attached to a Battle Sisters Squad, it can be attached to this unit instead. If a Ministorum Priest from your army is attached to this unit during the Declare Battle Formations step, that model gains the Scouts 6\" ability."
+  },
+  "rituale-nullificatus": {
+    "faction": "adepta-sororitas",
+    "raw_text": "Models in this unit have the Feel No Pain 4+ ability against Psychic Attacks and mortal wounds."
+  },
+  "virtue-of-intolerance": {
+    "faction": "adepta-sororitas",
+    "raw_text": "At the start of the battle, select one unit from your opponent's army to be this unit's quarry. Each time a model in this unit makes an attack that targets its quarry, that attack has the [PRECISION] ability and you can re-roll the Hit roll. This ability can be used even if this unit is embarked within a Transport."
+  },
+  "denuncia-oratory": {
+    "faction": "adepta-sororitas",
+    "raw_text": "Each time the bearer's unit's quarry is destroyed, you can select a new unit from your opponent's army to be its quarry."
+  },
+  "attached-unit-celestian-insidiants": {
+    "faction": "adepta-sororitas",
+    "raw_text": "If a Character unit from your army can be attached to a Dominion Squad unit, it can be attached to this unit instead."
+  },
+  "acts-of-faith": {
+    "faction": "adepta-sororitas",
+    "raw_text": "If your Army Faction is ADEPTA SORORITAS, you gain 1 Miracle dice: At the start of each battle round. Each time an ADEPTA SORORITAS unit from your army is destroyed. Each time you gain a Miracle dice, roll one D6. The number you roll is the value of that Miracle dice. This value cannot be changed or re-rolled, unless a rule specifically states otherwise. Keep your Miracle dice to one side - this is your Miracle dice pool."
+  },
+  "shield-of-aversion": {
+    "faction": "adepta-sororitas",
+    "raw_text": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+  },
+  "rites-of-fire": {
+    "faction": "adepta-sororitas",
+    "raw_text": "Until the end of the phase, each time a model in your unit makes a ranged attack that targets an enemy unit within 6\" that is also within range of an objective marker, add 1 to the Wound roll. If one or more enemy models are destroyed as the result of those attacks, select one of those destroyed models; that destroyed model's unit must take a Battle-shock test."
+  },
+  "fervent-purgation": {
+    "faction": "adepta-sororitas",
+    "raw_text": "Ranged weapons equipped by ADEPTA SORORITAS models from your army have the [ASSAULT] ability, and each time an attack made with such a weapon targets a unit within 6\", add 1 to the Strength characteristic of that attack."
+  },
+  "suffering-and-sacrifice": {
+    "faction": "adepta-sororitas",
+    "raw_text": "Until the end of the phase, each time an enemy model within Engagement Range of your unit selects its targets, it must select your unit as the target of its attacks."
+  },
+  "divine-intervention": {
+    "faction": "adepta-sororitas",
+    "raw_text": "You can discard 1-3 Miracle dice. At the end of the phase, set the last destroyed model from your unit back up on the battlefield, as close as possible to where it was destroyed and not within Engagement Range of any enemy models. Roll one D3, adding 1 to the result for each Miracle dice you discarded. That model is set back up with that number of wounds remaining (up to its starting number of wounds)."
+  },
+  "devout-fanaticism": {
+    "faction": "adepta-sororitas",
+    "raw_text": "WHEN: Your opponent's Shooting phase, just after an enemy unit has shot. EFFECT: Your unit can make a surge move of up to D6\"."
+  },
+  "desperate-for-redemption": {
+    "faction": "adepta-sororitas",
+    "raw_text": "At the start of the battle round, you can select one of the following Vows of Atonement to be active for your army until the start of the next battle round. You can only select each Vow of Atonement once per battle."
+  },
+  "mysterious-saviours": {
+    "faction": "adepta-sororitas",
+    "raw_text": "You can target this unit with the Heroic Intervention stratagem, regardless of any other uses of that stratagem this phase. If you do: That use is -1 CP. That use does not prevent any uses of that stratagem on other units this phase."
+  },
+  "righteous-awareness": {
+    "faction": "adepta-sororitas",
+    "raw_text": "In your opponent's Movement phase, if an enemy unit ends a move within 8\" of this unit, if this unit is not within Engagement Range of one or more enemy units it can make a Normal move of up to D6\"."
+  },
+  "storm-of-retribution": {
+    "faction": "adepta-sororitas",
+    "raw_text": "Each time a model in this unit makes a ranged attack, that model can re-roll a Hit roll of 1 and re-roll a Wound roll of 1. If such an attack targets an enemy unit that has destroyed one or more ADEPTA SORORITAS units from your army during the battle, add 1 to the Hit roll and add 1 to the Wound roll as well."
+  },
+  "solemn-procession": {
+    "faction": "adepta-sororitas",
+    "raw_text": "Each time you gain 1 Miracle dice at the start of the battle round, if this model is on the battlefield, do not roll one D6 to determine the value of that Miracle dice; it has a value of 6."
+  },
+  "embodied-prophecy": {
+    "faction": "adepta-sororitas",
+    "raw_text": "Each time this unit is selected to fight, select one of the following abilities to apply to melee weapons equipped by models in this unit until the end of the phase: [SUSTAINED HITS 1] [LETHAL HITS] If this unit made a Charge move this turn, until the end of the phase, select both abilities above to apply to melee weapons equipped by models in this unit instead."
+  },
+  "immolator-transport": {
+    "faction": "adepta-sororitas",
+    "raw_text": "At the start of the Declare Battle Formations step, you can select one BATTLE SISTERS SQUAD, DOMINION SQUAD or SISTERS NOVITIATE SQUAD from your army. If you do, that unit is split into two units, each containing as equal a number of models as possible (when splitting a unit in this way, make a note of which models form each of the two new units. If you are splitting a unit that has the Cherub ability, only one of the new units can use that ability during the battle - make a note of which of the new units this will be). One of these units must start the battle embarked within this TRANSPORT; the other can start the battle embarked within another TRANSPORT, or it can be deployed as a separate unit."
+  },
+  "instrument-of-the-emperors-wrath": {
+    "faction": "adepta-sororitas",
+    "raw_text": "Once per battle, at the start of the Fight phase, this model can use this ability. If it does, until the end of the phase, add 3 to the Attacks characteristic of melee weapons equipped by this model and those weapons have the [DEVASTATING WOUNDS] ability."
+  },
+  "daemonbreaker": {
+    "faction": "adepta-sororitas",
+    "raw_text": "Each time this model makes an attack that targets a Daemon unit, you can re-roll the Hit roll and you can re-roll the Wound roll."
+  },
+  "emergency-combat-embarkation": {
+    "faction": "adepta-sororitas",
+    "raw_text": "Once per turn, in your opponent's Charge phase, after an enemy unit has selected targets for its charge but before it makes a Charge move, you can select one Adepta Sororitas unit from your army that was selected as a target of that charge. Provided that unit is not within Engagement Range of any enemy units and every model in that unit is within 3\" of this Transport, it can embark within this Transport."
+  },
+  "damaged": {
+    "faction": "adepta-sororitas",
+    "raw_text": "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+  },
+  "repressor-transport": {
+    "faction": "adepta-sororitas",
+    "raw_text": "This model has a transport capacity of 12 Adepta Sororitas Infantry models. It cannot transport Jump Pack models or the Triumph of Saint Katherine."
+  },
+  "consecrated-ground": {
+    "faction": "adepta-sororitas",
+    "raw_text": "When this Fortification is set up, all parts of it must be set up within 1\" of another part. Friendly Adepta Sororitas Infantry models can be set up or end any type of move on top of the floor sections of this Fortification. While an Adepta Sororitas unit from your army is within 1\" of this Fortification, that unit can perform one additional Act of Faith per phase."
+  },
+  "holy-cover": {
+    "faction": "adepta-sororitas",
+    "raw_text": "Each time a ranged attack is allocated to a model, if that model is not fully visible to every model in the attacking unit because of this Fortification, that model has the Benefit of Cover against that attack."
+  },
+  "fortification": {
+    "faction": "adepta-sororitas",
+    "raw_text": "While an enemy unit is only within Engagement Range of one or more Fortifications from your army: That unit can still be selected as the target of ranged attacks, but each time such an attack is made, unless it is made with a Pistol, subtract 1 from the Hit roll. Models in that unit do not need to take Desperate Escape tests due to Falling Back while Battle-shocked, except for those that will move over enemy models when doing so."
+  },
+  "spiritual-fortitude": {
+    "faction": "adepta-sororitas",
+    "raw_text": "Models in this unit have the Feel No Pain 4+ ability against Psychic Attacks and mortal wounds."
+  },
+  "death-cult": {
+    "faction": "adepta-sororitas",
+    "raw_text": "Each time a model in this unit makes an attack that targets a Character unit, you can re-roll the Wound roll."
+  },
+  "anti": {
+    "faction": "core",
+    "raw_text": "[ANTI-X Y+]. Each time an attack is made with this weapon against a unit that has the keyword X, an unmodified wound roll of Y+ scores a critical wound."
+  },
+  "assault": {
+    "faction": "core",
+    "raw_text": "A unit that contains one or more models equipped with an [ASSAULT] weapon can shoot with such weapons even in a turn in which it Advanced (using assault shooting)."
+  },
+  "blast": {
+    "faction": "core",
+    "raw_text": "[BLAST]. Each time you gather attack dice for this weapon, add one additional attack die for every five models that were in the target unit when you selected targets (rounding down). [BLAST] weapons can never target a unit that is within engagement range of the bearer's unit."
+  },
+  "command-re-roll": {
+    "faction": "core",
+    "raw_text": "WHEN: Any phase, just after you make an Advance, Charge, Hit, Wound, Damage, Save or Hazardous roll, or a roll to determine the number of attacks made with a weapon, for a friendly unit. TARGET: That unit. EFFECT: Re-roll that roll. If several dice were rolled together, re-roll one of them (a Charge roll must be re-rolled in full)."
+  },
+  "counter-offensive": {
+    "faction": "core",
+    "raw_text": "WHEN: Fight step of your opponent's Fight phase, just after an enemy unit has resolved its attacks. TARGET: One friendly unit eligible to fight. EFFECT: Until the end of the phase your unit has the Fights First ability, and it must be the next unit you select to fight."
+  },
+  "crushing-impact": {
+    "faction": "core",
+    "raw_text": "WHEN: Your Charge phase, just after a friendly MONSTER or VEHICLE unit ends a Charge move. TARGET: That MONSTER/VEHICLE unit. EFFECT: Select one enemy unit engaged with your unit and one of your models engaged with it, then roll a number of D6 equal to that model's Toughness: for each 1 your unit suffers 1 mortal wound, and for each 5+ the enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds per unit)."
+  },
+  "deadly-demise": {
+    "faction": "core",
+    "raw_text": "Deadly Demise X. Each time a model with this ability is destroyed, after any embarked units have made emergency disembark moves, roll one D6: on a 6 each unit within 6\" of that model suffers X mortal wounds (roll separately for each unit if X is random)."
+  },
+  "deadly-demise-2d6": {
+    "faction": "core",
+    "raw_text": "Deadly Demise X. Each time a model with this ability is destroyed, after any embarked units have made emergency disembark moves, roll one D6: on a 6 each unit within 6\" of that model suffers X mortal wounds (roll separately for each unit if X is random)."
+  },
+  "deadly-demise-3d6": {
+    "faction": "core",
+    "raw_text": "Deadly Demise X. Each time a model with this ability is destroyed, after any embarked units have made emergency disembark moves, roll one D6: on a 6 each unit within 6\" of that model suffers X mortal wounds (roll separately for each unit if X is random)."
+  },
+  "deadly-demise-d6-2": {
+    "faction": "core",
+    "raw_text": "Deadly Demise X. Each time a model with this ability is destroyed, after any embarked units have made emergency disembark moves, roll one D6: on a 6 each unit within 6\" of that model suffers X mortal wounds (roll separately for each unit if X is random)."
+  },
+  "deadly-demise-d6-3": {
+    "faction": "core",
+    "raw_text": "Deadly Demise X. Each time a model with this ability is destroyed, after any embarked units have made emergency disembark moves, roll one D6: on a 6 each unit within 6\" of that model suffers X mortal wounds (roll separately for each unit if X is random)."
+  },
+  "deadly-demise-d6-3-szarekh-model-only": {
+    "faction": "core",
+    "raw_text": "Deadly Demise X. Each time a model with this ability is destroyed, after any embarked units have made emergency disembark moves, roll one D6: on a 6 each unit within 6\" of that model suffers X mortal wounds (roll separately for each unit if X is random)."
+  },
+  "deadly-demise-d6-6": {
+    "faction": "core",
+    "raw_text": "Deadly Demise X. Each time a model with this ability is destroyed, after any embarked units have made emergency disembark moves, roll one D6: on a 6 each unit within 6\" of that model suffers X mortal wounds (roll separately for each unit if X is random)."
+  },
+  "deadly-demise-d6-plus-2": {
+    "faction": "core",
+    "raw_text": "Deadly Demise X. Each time a model with this ability is destroyed, after any embarked units have made emergency disembark moves, roll one D6: on a 6 each unit within 6\" of that model suffers X mortal wounds (roll separately for each unit if X is random)."
+  },
+  "deep-strike": {
+    "faction": "core",
+    "raw_text": "If every model in this unit has Deep Strike, then each time it makes an ingress move (arrives from Reserves), it can be set up anywhere on the battlefield that is more than 8\" horizontally from all enemy units — even within your opponent's deployment zone."
+  },
+  "devastating-wounds": {
+    "faction": "core",
+    "raw_text": "Each time an attack made with this weapon scores a critical wound (an unmodified wound roll of 6), the attack sequence ends and the target suffers a number of mortal wounds equal to the weapon's Damage characteristic instead of its normal damage. These mortal wounds can destroy at most one model per critical wound; any excess is lost."
+  },
+  "epic-challenge": {
+    "faction": "core",
+    "raw_text": "WHEN: Fight phase, just after a friendly CHARACTER unit is selected to fight. TARGET: That CHARACTER unit. EFFECT: Select one CHARACTER model in your unit; until the end of the phase, that model's melee weapons have the [PRECISION] ability."
+  },
+  "explosives": {
+    "faction": "core",
+    "raw_text": "WHEN: Your Shooting phase. TARGET: One friendly unengaged EXPLOSIVES/GRENADES unit that is eligible to shoot and did not Advance this turn. EFFECT: Select one EXPLOSIVES/GRENADES model in your unit and one unengaged enemy unit within 8\" of and visible to it, then roll six D6: for each 4+, that enemy unit suffers 1 mortal wound."
+  },
+  "extra-attacks": {
+    "faction": "core",
+    "raw_text": "When the bearer fights, it makes attacks with an [EXTRA ATTACKS] weapon in addition to its other melee weapons. In the Select Weapons step you select all of the model's [EXTRA ATTACKS] weapons and one of its other melee weapons; [EXTRA ATTACKS] weapons cannot themselves be selected as that \"other\" weapon."
+  },
+  "feel-no-pain": {
+    "faction": "core",
+    "raw_text": "Feel No Pain X+. Each time a model with this ability would lose a wound, roll one D6: on an X+, that wound is not lost."
+  },
+  "feel-no-pain-4": {
+    "faction": "core",
+    "raw_text": "Feel No Pain X+. Each time a model with this ability would lose a wound, roll one D6: on an X+, that wound is not lost."
+  },
+  "feel-no-pain-5": {
+    "faction": "core",
+    "raw_text": "Feel No Pain X+. Each time a model with this ability would lose a wound, roll one D6: on an X+, that wound is not lost."
+  },
+  "feel-no-pain-5-plus": {
+    "faction": "core",
+    "raw_text": "Feel No Pain X+. Each time a model with this ability would lose a wound, roll one D6: on an X+, that wound is not lost."
+  },
+  "feel-no-pain-6": {
+    "faction": "core",
+    "raw_text": "Feel No Pain X+. Each time a model with this ability would lose a wound, roll one D6: on an X+, that wound is not lost."
+  },
+  "fights-first": {
+    "faction": "core",
+    "raw_text": "While every model in this unit has this ability, the unit is a Fights First unit: in the Fight phase, Fights First units are selected to fight before units that do not have this ability."
+  },
+  "fire-overwatch": {
+    "faction": "core",
+    "raw_text": "WHEN: End of your opponent's Movement or Charge phase, just after an enemy unit is set up or finishes a move. TARGET: One friendly unengaged unit (excluding TITANIC units). EFFECT: Your unit shoots the enemy unit using snap shooting — it can only target that one visible enemy unit within 24\", each attack hits only on an unmodified 6, and hit rolls cannot be re-rolled. After shooting, the unit is not eligible to start an action this turn."
+  },
+  "firing-deck": {
+    "faction": "core",
+    "raw_text": "Firing Deck X. In your Shooting phase, when this TRANSPORT is selected to shoot and has units embarked within it, you can select up to X embarked models and one ranged weapon (excluding [ONE SHOT]) from each; until the TRANSPORT resolves its attacks it is also equipped with those weapons. Until the end of the turn, units embarked within it are not eligible to shoot."
+  },
+  "firing-deck-11": {
+    "faction": "core",
+    "raw_text": "Firing Deck X. In your Shooting phase, when this TRANSPORT is selected to shoot and has units embarked within it, you can select up to X embarked models and one ranged weapon (excluding [ONE SHOT]) from each; until the TRANSPORT resolves its attacks it is also equipped with those weapons. Until the end of the turn, units embarked within it are not eligible to shoot."
+  },
+  "firing-deck-12": {
+    "faction": "core",
+    "raw_text": "Firing Deck X. In your Shooting phase, when this TRANSPORT is selected to shoot and has units embarked within it, you can select up to X embarked models and one ranged weapon (excluding [ONE SHOT]) from each; until the TRANSPORT resolves its attacks it is also equipped with those weapons. Until the end of the turn, units embarked within it are not eligible to shoot."
+  },
+  "firing-deck-2": {
+    "faction": "core",
+    "raw_text": "Firing Deck X. In your Shooting phase, when this TRANSPORT is selected to shoot and has units embarked within it, you can select up to X embarked models and one ranged weapon (excluding [ONE SHOT]) from each; until the TRANSPORT resolves its attacks it is also equipped with those weapons. Until the end of the turn, units embarked within it are not eligible to shoot."
+  },
+  "firing-deck-20": {
+    "faction": "core",
+    "raw_text": "Firing Deck X. In your Shooting phase, when this TRANSPORT is selected to shoot and has units embarked within it, you can select up to X embarked models and one ranged weapon (excluding [ONE SHOT]) from each; until the TRANSPORT resolves its attacks it is also equipped with those weapons. Until the end of the turn, units embarked within it are not eligible to shoot."
+  },
+  "firing-deck-22": {
+    "faction": "core",
+    "raw_text": "Firing Deck X. In your Shooting phase, when this TRANSPORT is selected to shoot and has units embarked within it, you can select up to X embarked models and one ranged weapon (excluding [ONE SHOT]) from each; until the TRANSPORT resolves its attacks it is also equipped with those weapons. Until the end of the turn, units embarked within it are not eligible to shoot."
+  },
+  "firing-deck-5": {
+    "faction": "core",
+    "raw_text": "Firing Deck X. In your Shooting phase, when this TRANSPORT is selected to shoot and has units embarked within it, you can select up to X embarked models and one ranged weapon (excluding [ONE SHOT]) from each; until the TRANSPORT resolves its attacks it is also equipped with those weapons. Until the end of the turn, units embarked within it are not eligible to shoot."
+  },
+  "firing-deck-6": {
+    "faction": "core",
+    "raw_text": "Firing Deck X. In your Shooting phase, when this TRANSPORT is selected to shoot and has units embarked within it, you can select up to X embarked models and one ranged weapon (excluding [ONE SHOT]) from each; until the TRANSPORT resolves its attacks it is also equipped with those weapons. Until the end of the turn, units embarked within it are not eligible to shoot."
+  },
+  "hazardous": {
+    "faction": "core",
+    "raw_text": "After a unit shoots or fights with one or more [HAZARDOUS] weapons, make one Hazardous test (roll one D6) for each such weapon that was selected: on a 1, the bearer is destroyed — or, if it is a CHARACTER, MONSTER or VEHICLE, it instead suffers 3 mortal wounds."
+  },
+  "heavy": {
+    "faction": "core",
+    "raw_text": "In your Shooting phase, each time an attack is made with this weapon, add 1 to the hit roll if all of the following apply to the attacking unit: it is unengaged; it was not set up on the battlefield this turn; and no model in it has moved more than 3\" this turn."
+  },
+  "heroic-intervention": {
+    "faction": "core",
+    "raw_text": "WHEN: End of your opponent's Charge phase. TARGET: One friendly unengaged unit within 12\" of one or more enemy units (a VEHICLE only if it is a CHARACTER or WALKER unit). EFFECT: Resolve a charge with your unit, selecting an enemy unit that made a Charge move this phase and is within range."
+  },
+  "hover": {
+    "faction": "core",
+    "raw_text": "Each time this unit takes to the skies, do not subtract 2\" from the maximum distance it can move — letting it hover and skim over the battlefield instead of leaving the table."
+  },
+  "ignores-cover": {
+    "faction": "core",
+    "raw_text": "Each time an attack is made with this weapon, the target cannot have the benefit of cover against that attack."
+  },
+  "indirect-fire": {
+    "faction": "core",
+    "raw_text": "A unit with one or more [INDIRECT FIRE] weapons can shoot them at a target unit even if no models in the target are visible to the firing models. Each time such a weapon attacks a unit that none of the firing models can see, the target has the benefit of cover and the attack suffers -1 to the hit roll."
+  },
+  "infiltrators": {
+    "faction": "core",
+    "raw_text": "During deployment, if every model in this unit has this ability, it can be set up anywhere on the battlefield that is more than 8\" horizontally from your opponent's deployment zone and from all enemy units."
+  },
+  "insane-bravery": {
+    "faction": "core",
+    "raw_text": "WHEN: Battle-shock step of your Command phase, just before you take a Battle-shock test for a friendly unit. TARGET: That unit. EFFECT: That Battle-shock test is automatically passed. RESTRICTIONS: You cannot use this Stratagem more than once per battle."
+  },
+  "lance": {
+    "faction": "core",
+    "raw_text": "Each time an attack is made with this weapon, if the bearer's unit made a Charge move this turn, add 1 to the wound roll."
+  },
+  "leader": {
+    "faction": "core",
+    "raw_text": "This unit is a Leader. During the Declare Battle Formations step it can be attached to one of the Bodyguard units listed on its datasheet to form a single Attached unit. See Attached Units."
+  },
+  "lethal-hits": {
+    "faction": "core",
+    "raw_text": "Each time an attack made with this weapon scores a critical hit (an unmodified hit roll of 6), you can choose for that attack to automatically wound the target — no wound roll is made (so that attack cannot then score a critical wound)."
+  },
+  "lone-operative": {
+    "faction": "core",
+    "raw_text": "Unless this unit is part of an Attached unit, enemy models can only target it with a ranged attack if the attacking model is within 12\" of it, and it cannot be targeted by [INDIRECT FIRE] weapons unless the attacking model is within 12\". If the ability is written Lone Operative X\", use X\" in place of 12\"."
+  },
+  "melta": {
+    "faction": "core",
+    "raw_text": "[MELTA X]. Each time an attack is made with this weapon, if the target unit was within half range of the weapon in the Select Targets step, add X to that weapon's Damage characteristic for that attack."
+  },
+  "one-shot": {
+    "faction": "core",
+    "raw_text": "A weapon with this ability can be selected to make attacks with only once per battle."
+  },
+  "pistol": {
+    "faction": "core",
+    "raw_text": "[PISTOL] and [CLOSE-QUARTERS] are identical for all rules purposes: a model can make attacks with its pistols while its unit is within engagement range of enemy units, but if it does it can target only an enemy unit it is engaged with, and can make attacks only with its pistols."
+  },
+  "precision": {
+    "faction": "core",
+    "raw_text": "While resolving attacks made with this weapon against a unit that contains an attached CHARACTER, if a CHARACTER model in the target unit is visible to the attacker, the attacking player can choose to allocate the attack to that CHARACTER model."
+  },
+  "psychic": {
+    "faction": "core",
+    "raw_text": "Attacks made with a [PSYCHIC] weapon are psychic attacks. Each time such an attack is made, you can ignore any or all modifiers to the attacking model's Ballistic/Weapon Skill characteristic and any or all modifiers to the hit roll."
+  },
+  "rapid-fire": {
+    "faction": "core",
+    "raw_text": "[RAPID FIRE X]. Each time you gather attack dice for this weapon, add X additional attack dice if the target unit was within half range of the weapon in the Select Targets step."
+  },
+  "rapid-ingress": {
+    "faction": "core",
+    "raw_text": "WHEN: End of your opponent's Movement phase. TARGET: One friendly unit in Reserves (excluding AIRCRAFT). EFFECT: Your unit makes an ingress move (arrives from Reserves) now. RESTRICTIONS: You cannot use this Stratagem during the first battle round."
+  },
+  "scouts": {
+    "faction": "core",
+    "raw_text": "Scouts X\". If every model in this unit has this ability, then in the Resolve Pre-battle Abilities step you can either set the unit up in your deployment zone (if it was in Reserves) or, if it is wholly within your deployment zone, make a Scout move of up to X\". After any Scout move, every model in the unit must be more than 8\" horizontally from all enemy units. A Dedicated Transport can make this move instead if every model embarked within it also has Scouts."
+  },
+  "scouts-6": {
+    "faction": "core",
+    "raw_text": "Scouts X\". If every model in this unit has this ability, then in the Resolve Pre-battle Abilities step you can either set the unit up in your deployment zone (if it was in Reserves) or, if it is wholly within your deployment zone, make a Scout move of up to X\". After any Scout move, every model in the unit must be more than 8\" horizontally from all enemy units. A Dedicated Transport can make this move instead if every model embarked within it also has Scouts."
+  },
+  "scouts-7": {
+    "faction": "core",
+    "raw_text": "Scouts X\". If every model in this unit has this ability, then in the Resolve Pre-battle Abilities step you can either set the unit up in your deployment zone (if it was in Reserves) or, if it is wholly within your deployment zone, make a Scout move of up to X\". After any Scout move, every model in the unit must be more than 8\" horizontally from all enemy units. A Dedicated Transport can make this move instead if every model embarked within it also has Scouts."
+  },
+  "scouts-8": {
+    "faction": "core",
+    "raw_text": "Scouts X\". If every model in this unit has this ability, then in the Resolve Pre-battle Abilities step you can either set the unit up in your deployment zone (if it was in Reserves) or, if it is wholly within your deployment zone, make a Scout move of up to X\". After any Scout move, every model in the unit must be more than 8\" horizontally from all enemy units. A Dedicated Transport can make this move instead if every model embarked within it also has Scouts."
+  },
+  "scouts-9": {
+    "faction": "core",
+    "raw_text": "Scouts X\". If every model in this unit has this ability, then in the Resolve Pre-battle Abilities step you can either set the unit up in your deployment zone (if it was in Reserves) or, if it is wholly within your deployment zone, make a Scout move of up to X\". After any Scout move, every model in the unit must be more than 8\" horizontally from all enemy units. A Dedicated Transport can make this move instead if every model embarked within it also has Scouts."
+  },
+  "smokescreen": {
+    "faction": "core",
+    "raw_text": "WHEN: Start of your opponent's Shooting phase. TARGET: One friendly SMOKE unit. EFFECT: Until the end of the phase, each time an attack targets your SMOKE unit — or a unit that is not fully visible to the attacker because of your SMOKE unit — the target has the benefit of cover against that attack."
+  },
+  "stealth": {
+    "faction": "core",
+    "raw_text": "If every model in this unit has this ability, then each time a ranged attack targets the unit, that unit has the benefit of cover against the attack."
+  },
+  "super-heavy-walker": {
+    "faction": "core",
+    "raw_text": "Each time a unit with this ability makes a normal, advance or fall-back move, its models can move through other models (excluding TITANIC models) and horizontally through terrain features 4\" or less in height. Before moving, you can give all models in the unit the MOBILE keyword until the move ends; if you do, roll one D6 when the move ends — on a 1, the unit is battle-shocked."
+  },
+  "support": {
+    "faction": "core",
+    "raw_text": "This is a support unit. Like a Leader, during the Declare Battle Formations step it can be attached to a Bodyguard unit to form a single Attached unit. See Attached Units."
+  },
+  "sustained-hits": {
+    "faction": "core",
+    "raw_text": "[SUSTAINED HITS X]. Each time an attack made with this weapon scores a critical hit (an unmodified hit roll of 6), that attack scores X additional hits on the target."
+  },
+  "torrent": {
+    "faction": "core",
+    "raw_text": "Each time an attack is made with this weapon, that attack automatically hits the target (no hit roll is made)."
+  },
+  "twin-linked": {
+    "faction": "core",
+    "raw_text": "Each time an attack is made with this weapon, you can re-roll the wound roll."
+  },
+  "cleave": {
+    "faction": "core",
+    "raw_text": "[CLEAVE X]. Each time you gather attack dice for this weapon, if you selected only one target for all of that weapon's attacks, add X additional attack dice for every five models that were in the target unit when you selected targets (rounding down)."
+  },
+  "close-quarters": {
+    "faction": "core",
+    "raw_text": "A unit containing one or more models with a [CLOSE-QUARTERS] weapon can shoot with those weapons even while within engagement range (close-quarters shooting). When shooting using another type, each model in the unit (excluding MONSTER/VEHICLE models) must choose to make attacks with either its [CLOSE-QUARTERS] weapons or its other ranged weapons — not both. [PISTOL] is identical to [CLOSE-QUARTERS] for all rules purposes."
   }
 }

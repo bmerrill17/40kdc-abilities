@@ -1,0 +1,49 @@
+name: Publish 40kdc abilities to R2
+
+# Publishes ONLY this repo's slice (ability text + manifest-abilities.json) to the
+# shared bucket, scoped to the abilities/ prefix. The 40kdc-data repo publishes the
+# core slice + manifest-core.json independently. No cross-repo coupling, no PAT.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+concurrency:
+  group: publish-r2-abilities
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Build dist + manifest-abilities.json
+        run: node scripts/build-abilities.mjs
+        env:
+          VERSION: ${{ github.sha }}
+
+      - name: Sync abilities slice to R2
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: auto
+        run: |
+          ENDPOINT="https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com"
+          # Scoped --delete: only ever touches the abilities/ prefix (never core/).
+          aws s3 sync dist/abilities "s3://${{ secrets.R2_BUCKET }}/abilities" \
+            --endpoint-url "$ENDPOINT" --delete \
+            --content-type application/json --cache-control "no-cache"
+          aws s3 cp dist/manifest-abilities.json "s3://${{ secrets.R2_BUCKET }}/manifest-abilities.json" \
+            --endpoint-url "$ENDPOINT" \
+            --content-type application/json --cache-control "no-cache"
