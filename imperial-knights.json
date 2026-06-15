@@ -1,0 +1,1014 @@
+[
+  {
+    "ability_id": "rain-of-devastation",
+    "name": "Rain of Devastation",
+    "faction_id": "imperial-knights",
+    "detachment_id": "dominus-foebreakers",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Dominus Foebreakers",
+      "phases": []
+    },
+    "raw_text": "Packing together within the confines of cover might work against small arms, but in the face of Dominus-class Knights, it only serves to concentrate and magnify the fury of their firepower.\n\nFriendly IMPERIAL KNIGHTS DOMINUS units' attacks that target a unit in a terrain area have +1 to hit rolls."
+  },
+  {
+    "ability_id": "blessed-plate",
+    "name": "Blessed Plate",
+    "faction_id": "imperial-knights",
+    "detachment_id": "dominus-foebreakers",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Dominus Foebreakers",
+      "phases": []
+    },
+    "raw_text": "Some of this Knight's hull plates are revered antiques, dating back millennia; their durability is a testament to the secrets of construction now lost to the mists of time.\n\nIMPERIAL KNIGHTS DOMINUS model only. This model has +1 T."
+  },
+  {
+    "ability_id": "archeotech-autoloaders",
+    "name": "Archeotech Autoloaders",
+    "faction_id": "imperial-knights",
+    "detachment_id": "dominus-foebreakers",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Dominus Foebreakers",
+      "phases": []
+    },
+    "raw_text": "These ancient and precious components are installed with great reverence; their function is to keep the Dominus-class Knight's guns firing with ferocious efficiency.\n\nIMPERIAL KNIGHTS DOMINUS model only. This unit can reroll rolls to determine the A of a weapon."
+  },
+  {
+    "ability_id": "ground-shaking-strides",
+    "name": "Ground-Shaking Strides",
+    "faction_id": "imperial-knights",
+    "detachment_id": "dominus-foebreakers",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Dominus Foebreakers",
+      "phases": [
+        "Movement"
+      ]
+    },
+    "raw_text": "Making the most of their Knightsuit's twinned reactor cores, the pilot pushes its motivator-units to their limits to gain a burst of speed.\n\nWHEN: Your Movement phase, when a friendly IMPERIAL KNIGHTS DOMINUS unit is selected to move.\nTARGET: That IMPERIAL KNIGHTS DOMINUS unit.\nEFFECT: Your unit has +2\" M."
+  },
+  {
+    "ability_id": "foebreaker-firestorm",
+    "name": "Foebreaker Firestorm",
+    "faction_id": "imperial-knights",
+    "detachment_id": "dominus-foebreakers",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Dominus Foebreakers",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "It takes a skilled noble and a steady machine spirit to unleash such weaponry at point-blank range into closing enemy threats.\n\nWHEN: Your Shooting phase, when a friendly engaged IMPERIAL KNIGHTS DOMINUS unit is selected to shoot.\nTARGET: That IMPERIAL KNIGHTS DOMINUS unit.\nEFFECT: Your unit's [BLAST] ranged attacks:\n Do not have [BLAST].\n Have +1 A."
+  },
+  {
+    "ability_id": "fire-shocked",
+    "name": "Fire Shocked",
+    "faction_id": "imperial-knights",
+    "detachment_id": "dominus-foebreakers",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Dominus Foebreakers",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "So thunderous is the fire of a Dominus-class Knight that even those who survive its salvoes are often reduced to shattered remnants cowering and praying for their lives.\n\nWHEN: Your Shooting phase, when a friendly IMPERIAL KNIGHTS DOMINUS unit has shot.\nTARGET: That IMPERIAL KNIGHTS DOMINUS unit.\nEFFECT: Select one enemy unit hit by those attacks. That enemy unit makes a battleshock roll, with 1 to that battleshock roll."
+  },
+  {
+    "ability_id": "cogbound-alliance",
+    "name": "Cogbound Alliance",
+    "faction_id": "imperial-knights",
+    "detachment_id": "questor-forgepact",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Questor Forgepact",
+      "phases": []
+    },
+    "raw_text": "The Nobles of Questor Mechanicus houses commonly fight alongside the armies of forge worlds. They are bound together by their shared devotion to the Machine Cult.\n\nFriendly IMPERIAL KNIGHTS models have the following ability:\n   Assisted Targeting (Aura): While a friendly ADEPTUS MECHANICUS unit is within 6\" of this model, that ADEPTUS MECHANICUS unit's ranged attacks have:\n    +1 BS.\n    [HEAVY].\n\nFriendly TECHPRIEST models have the following ability:\n   Sacristan Pledge: In your Command phase, you can select one friendly IMPERIAL KNIGHTS model within 3\" of this model that has not been selected by this ability this phase. If you do, that model heals D3 wounds.\n\nMechanicus Allies: You can include TECHPRIEST DOMINUS/TECHPRIEST MANIPULUS/MARSHAL/RANGERS/VANGUARD units in your army (see Codex: Adeptus Mechanicus). The combined points value of such units cannot exceed 500 points."
+  },
+  {
+    "ability_id": "magos-questoris",
+    "name": "Magos Questoris",
+    "faction_id": "imperial-knights",
+    "detachment_id": "questor-forgepact",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Questor Forgepact",
+      "phases": []
+    },
+    "raw_text": "An expert in the intricate mechanisms and weapons systems of Imperial Knights, this Tech-Priest taught Sacristans their craft. They now walk in the shadow of these war machines and make field repairs in the midst of battle.\n\nTECHPRIEST model only. When using this model's Sacristan Pledge ability, the selected IMPERIAL KNIGHTS model heals 2 additional wounds."
+  },
+  {
+    "ability_id": "knight-of-the-opus-machina-aura",
+    "name": "Knight of the Opus Machina (Aura)",
+    "faction_id": "imperial-knights",
+    "detachment_id": "questor-forgepact",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Questor Forgepact",
+      "phases": []
+    },
+    "raw_text": "A devotee of the Omnissian creed, this Noble is inspired by the presence of the Adeptus Mechanicus, fighting with greater zeal and vigour in their holy presence.\n\nIMPERIAL KNIGHTS model only. While a friendly ADEPTUS MECHANICUS unit is within 6\" of this model, that ADEPTUS MECHANICUS unit's melee attacks have +1 WS and AP."
+  },
+  {
+    "ability_id": "omnissiahs-grace",
+    "name": "Omnissiah's Grace",
+    "faction_id": "imperial-knights",
+    "detachment_id": "questor-forgepact",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Questor Forgepact",
+      "phases": []
+    },
+    "raw_text": "So resolute is their faith that the Machine God's worshippers brave storms of killing fire, trusting in the Omnissiah to shield them from harm.\n\nWHEN: Any phase, when a friendly IMPERIAL KNIGHTS unit suffers a mortal wound.\nTARGET: That IMPERIAL KNIGHTS unit.\nEFFECT: Your unit has Feel No Pain 5+ against mortal wounds."
+  },
+  {
+    "ability_id": "vengeance-of-the-machine-cult",
+    "name": "Vengeance of the Machine Cult",
+    "faction_id": "imperial-knights",
+    "detachment_id": "questor-forgepact",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Questor Forgepact",
+      "phases": []
+    },
+    "raw_text": "Those who dare to fell the Machine God's creations find themselves subject to the vengeance of the Adeptus Mechanicus.\n\nWHEN: Any phase, when a friendly IMPERIAL KNIGHTS TITANIC unit is destroyed by an enemy unit.\nTARGET: One friendly ADEPTUS MECHANICUS unit.\nEFFECT: That enemy unit is marked until the end of the battle: While a unit is marked, friendly ADEPTUS MECHANICUS units' attacks that target that unit can reroll wound rolls."
+  },
+  {
+    "ability_id": "in-the-shadow-of-giants",
+    "name": "In the Shadow of Giants",
+    "faction_id": "imperial-knights",
+    "detachment_id": "questor-forgepact",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Questor Forgepact",
+      "phases": [
+        "Movement"
+      ]
+    },
+    "raw_text": "With the enemy distracted by battling the mighty Knights, the servants of the Omnissiah are free to complete crucial missions unimpeded.\n\nWHEN: Your Movement phase, when a friendly ADEPTUS MECHANICUS unit is selected to make an advance/fallback move.\nTARGET: That ADEPTUS MECHANICUS unit.\nEFFECT: That move does not prevent your unit from being eligible to start an action."
+  },
+  {
+    "ability_id": "driven-from-their-lairs",
+    "name": "Driven from Their Lairs",
+    "faction_id": "imperial-knights",
+    "detachment_id": "throne-bonded-outriders",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Throne-bonded Outriders",
+      "phases": []
+    },
+    "raw_text": "The moment the loyal bondsmen locate and identify the foe, they share targeting datachoristry with their ruling lords and ladies.\n\nWhile a friendly ARMIGER unit is affected by a Bondsman ability, that unit's ranged attacks have [IGNORES COVER].\n\nThis detachment has the ARMIGERS tag and cannot be taken with another ARMIGERS detachment."
+  },
+  {
+    "ability_id": "gyro-optimised-actuators-upgrade",
+    "name": "Gyro-Optimised Actuators Upgrade",
+    "faction_id": "imperial-knights",
+    "detachment_id": "throne-bonded-outriders",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Throne-bonded Outriders",
+      "phases": []
+    },
+    "raw_text": "Flowing down the neural tether between Thrones and Helms Mechanicum, the faint whispering of ancestral gheists drives bondsmen on to greater urgency.\n\nARMIGER unit only. This unit has MOBILE."
+  },
+  {
+    "ability_id": "ancestral-overbleed-upgrade",
+    "name": "Ancestral Overbleed Upgrade",
+    "faction_id": "imperial-knights",
+    "detachment_id": "throne-bonded-outriders",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Throne-bonded Outriders",
+      "phases": []
+    },
+    "raw_text": "Though it requires additional work by the Sacristans, when Armigers are to be used like hunting hounds amidst dense terrain, it is considered worthwhile to enhance their steeds' agility.\n\nARMIGER unit only. When you target this unit with the Fire Overwatch/Heroic Intervention stratagem, that use is 1 CP."
+  },
+  {
+    "ability_id": "neural-lash",
+    "name": "Neural Lash",
+    "faction_id": "imperial-knights",
+    "detachment_id": "throne-bonded-outriders",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Throne-bonded Outriders",
+      "phases": [
+        "Command"
+      ]
+    },
+    "raw_text": "Noble pilots have little time for panicked or despairing bondsmen, and think nothing of enforcing stoic obedience by way of stinging neural compulsion.\n\nWHEN: Command phase.\nTARGET: One friendly IMPERIAL KNIGHTS TITANIC unit.\nEFFECT: Select one friendly battleshocked ARMIGER unit within 12\" of your unit. That ARMIGER unit is no longer battleshocked."
+  },
+  {
+    "ability_id": "helm-conditioning",
+    "name": "Helm Conditioning",
+    "faction_id": "imperial-knights",
+    "detachment_id": "throne-bonded-outriders",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Throne-bonded Outriders",
+      "phases": [
+        "Command"
+      ]
+    },
+    "raw_text": "Some longer-serving bondsmen become so conditioned to efficient obedience by their Helm Mechanicum that they can be issued neural commands from ever-greater distances.\n\nWHEN: Your Command phase, when a friendly IMPERIAL KNIGHTS unit uses a Bondsman ability.\nTARGET: That IMPERIAL KNIGHTS unit.\nEFFECT: When selecting an ARMIGER model for that Bondsman ability, you can select one within 18\" of your unit (excluding models already affected by a Bondsman ability)."
+  },
+  {
+    "ability_id": "honoured-to-serve",
+    "name": "Honoured to Serve",
+    "faction_id": "imperial-knights",
+    "detachment_id": "throne-bonded-outriders",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Throne-bonded Outriders",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "Determined to prove worthy of a place in battle alongside their supposed betters, bondsmen jump to obey every command issued by their rulers.\n\nWHEN: Your Shooting phase, when a friendly ARMIGER unit has shot.\nTARGET: That ARMIGER unit.\nEFFECT: Those attacks do not prevent your unit from being eligible to start an action."
+  },
+  {
+    "ability_id": "knights-of-legend",
+    "name": "Knights of Legend",
+    "faction_id": "imperial-knights",
+    "detachment_id": "freeblade-company",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Freeblade Company",
+      "phases": []
+    },
+    "raw_text": "Imperial Knights models from your army have the Feel No Pain 6+ ability. In addition, at the start of your Command phase, each Imperial Knights model from your army regains 1 lost wound."
+  },
+  {
+    "ability_id": "mysterious-guardian",
+    "name": "Mysterious Guardian",
+    "faction_id": "imperial-knights",
+    "detachment_id": "freeblade-company",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Freeblade Company",
+      "phases": [
+        "Movement"
+      ]
+    },
+    "raw_text": "Imperial Knights model only. The bearer has the Deep Strike ability. Once per battle, at the end of your opponent's turn, if the bearer is not within Engagement Range of one or more enemy units, it can use this Enhancement. If it does, remove the bearer from the battlefield. In the Reinforcements step of your subsequent Movement phase, set the bearer up anywhere on the battlefield that is more than 9\" horizontally away from all enemy units. If the battle ends and the bearer is not on the battlefield, it is destroyed."
+  },
+  {
+    "ability_id": "sanctuary",
+    "name": "Sanctuary",
+    "faction_id": "imperial-knights",
+    "detachment_id": "freeblade-company",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Freeblade Company",
+      "phases": []
+    },
+    "raw_text": "Through the projection of rapidly modulating ion fields, this unique generator's effects wreathe the suit in an all-encompassing fog of protective energies that defend it from close-quarters attacks.\n\nImperial Knights model only. The bearer has a 5+ invulnerable save."
+  },
+  {
+    "ability_id": "bringer-of-justice",
+    "name": "Bringer of Justice",
+    "faction_id": "imperial-knights",
+    "detachment_id": "freeblade-company",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Freeblade Company",
+      "phases": [
+        "Fight"
+      ]
+    },
+    "raw_text": "Imperial Knights model only. Improve the Attacks characteristic of melee weapons equipped by the bearer by 2, and each time the bearer makes a melee attack, add 1 to the Hit roll."
+  },
+  {
+    "ability_id": "hunters-eye",
+    "name": "Hunter's Eye",
+    "faction_id": "imperial-knights",
+    "detachment_id": "freeblade-company",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Freeblade Company",
+      "phases": []
+    },
+    "raw_text": "Imperial Knights model only. Ranged weapons equipped by the bearer have the [IGNORES COVER] ability."
+  },
+  {
+    "ability_id": "noble-sacrifice",
+    "name": "Noble Sacrifice",
+    "faction_id": "imperial-knights",
+    "detachment_id": "freeblade-company",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Freeblade Company",
+      "phases": []
+    },
+    "raw_text": "Sensing their end drawing close, the scion overloads their Knight's plasma core to take the enemy with them.\n\nWHEN: Any phase.\nTARGET: One Imperial Knights unit from your army that was just destroyed. You can target that unit with this Stratagem even though it was just destroyed.\nEFFECT: Your unit's Deadly Demise ability inflicts mortal wounds on a D6 roll of 4+, adding 1 to the result if it is an Armiger unit, instead of only a 6."
+  },
+  {
+    "ability_id": "pointblank-barrage",
+    "name": "Pointblank Barrage",
+    "faction_id": "imperial-knights",
+    "detachment_id": "freeblade-company",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Freeblade Company",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "Few can withstand the pointblank fury of a Knight.\n\nWHEN: Your Shooting phase.\nTARGET: One Imperial Knights unit from your army that has not been selected to shoot this phase.\nEFFECT: Until the end of the phase, when making ranged attacks with Blast weapons, models in your unit can target enemy units within Engagement Range of your unit (provided no other friendly units are also within Engagement Range of that enemy unit). In addition, until the end of the phase, your unit does not suffer the penalty to its Hit rolls for being within Engagement Range of one or more enemy units, but each time a model in your unit makes an attack with a Blast weapon that targets a unit within Engagement Range of your unit, on an unmodified Hit roll of 1, your unit suffers 1 mortal wound after all of its attacks have been resolved."
+  },
+  {
+    "ability_id": "strength-from-exile",
+    "name": "Strength from Exile",
+    "faction_id": "imperial-knights",
+    "detachment_id": "freeblade-company",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Freeblade Company",
+      "phases": [
+        "Shooting",
+        "Fight"
+      ]
+    },
+    "raw_text": "Well used to a life without allies or fire support, Freeblades operate more effectively alone.\n\nWHEN: Your Shooting phase or the Fight phase.\nTARGET: One Imperial Knights unit from your army that has not been selected to shoot or fight this phase.\nEFFECT: Until the end of the phase, each time a model in your unit makes an attack, if there are no other friendly units within 9\" of your unit, reroll a Hit roll of 1 and reroll a Wound roll of 1."
+  },
+  {
+    "ability_id": "full-tilt",
+    "name": "Full Tilt",
+    "faction_id": "imperial-knights",
+    "detachment_id": "freeblade-company",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Freeblade Company",
+      "phases": [
+        "Movement"
+      ]
+    },
+    "raw_text": "With the enemy before them, their Knight's machine spirit snarling, and the rush of battle coursing through their veins, this scion pours power into their motive actuators and thunders forward.\n\nWHEN: Your Movement phase.\nTARGET: One Imperial Knights unit from your army.\nEFFECT: Until the end of the phase, if your unit Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in your unit, or 9\" instead if your unit is an Armiger or Destrier unit."
+  },
+  {
+    "ability_id": "survivor-of-strife",
+    "name": "Survivor of Strife",
+    "faction_id": "imperial-knights",
+    "detachment_id": "freeblade-company",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Freeblade Company",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "The fires of war have steeled this Freeblade's resolve.\n\nWHEN: Your opponent's Shooting phase, just after an enemy unit has selected its targets.\nTARGET: One Imperial Knights unit from your army that was selected as the target of one or more of the attacking unit's attacks.\nEFFECT: Until the end of the phase, each time an attack targets your unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of your unit, subtract 1 from the Wound roll."
+  },
+  {
+    "ability_id": "flanking-manoeuvres",
+    "name": "Flanking Manoeuvres",
+    "faction_id": "imperial-knights",
+    "detachment_id": "freeblade-company",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Freeblade Company",
+      "phases": [
+        "Fight"
+      ]
+    },
+    "raw_text": "Eager to earn glory, Knight Armigers focus on swiftly redeploying mid-battle to flank the foe.\n\nWHEN: End of your opponent's Fight phase.\nTARGET: One Armiger unit from your army that is within 9\" of one or more battlefield edges and not within Engagement Range of one or more enemy units.\nEFFECT: Remove your unit from the battlefield and place it into Strategic Reserves."
+  },
+  {
+    "ability_id": "ram-jets",
+    "name": "Ram Jets",
+    "faction_id": "imperial-knights",
+    "detachment_id": null,
+    "unit_ids": [
+      "knight-destrier"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Knight Destrier datasheet",
+      "phases": [
+        "Movement"
+      ]
+    },
+    "raw_text": "Each time this unit is selected to make a Normal or Advance move, until the end of the phase, add D3\" to the Move characteristic of this model."
+  },
+  {
+    "ability_id": "thundercharge",
+    "name": "Thundercharge",
+    "faction_id": "imperial-knights",
+    "detachment_id": null,
+    "unit_ids": [
+      "knight-destrier"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Knight Destrier datasheet",
+      "phases": []
+    },
+    "raw_text": "If this model is equipped with a thundershock spear and a bellatus reaper chainsword, add 2 to the Attacks characteristic of melee weapons equipped by this model."
+  },
+  {
+    "ability_id": "saturation-fire",
+    "name": "Saturation Fire",
+    "faction_id": "imperial-knights",
+    "detachment_id": null,
+    "unit_ids": [
+      "knight-destrier"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Knight Destrier datasheet",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "Each time this model makes a ranged attack that targets a unit within range of one or more objective markers, that attack has the [IGNORES COVER] ability."
+  },
+  {
+    "ability_id": "deadly-demise-d6",
+    "name": "Deadly Demise D6",
+    "faction_id": "imperial-knights",
+    "detachment_id": null,
+    "unit_ids": [
+      "knight-defender",
+      "knight-destrier",
+      "questoris-knight-magaera",
+      "questoris-knight-styrix"
+    ],
+    "ability_type": "core",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Imperial Armour Datasheets",
+      "phases": []
+    },
+    "raw_text": "Deadly Demise D6"
+  },
+  {
+    "ability_id": "sunderer-of-fortresses",
+    "name": "Sunderer of Fortresses",
+    "faction_id": "imperial-knights",
+    "detachment_id": null,
+    "unit_ids": [
+      "acastus-knight-asterius"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Acastus Knight Asterius datasheet",
+      "phases": []
+    },
+    "raw_text": "Each time this model makes an attack that targets a Vehicle, improve the Strength and Damage characteristics of that attack by 1. If that attack targets a Fortification, improve the Strength and Damage characteristics of that attack by 2 instead."
+  },
+  {
+    "ability_id": "deadly-demise-2d6",
+    "name": "Deadly Demise 2D6",
+    "faction_id": "imperial-knights",
+    "detachment_id": null,
+    "unit_ids": [
+      "acastus-knight-asterius",
+      "acastus-knight-porphyrion"
+    ],
+    "ability_type": "core",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Imperial Armour Datasheets",
+      "phases": []
+    },
+    "raw_text": "Deadly Demise 2D6"
+  },
+  {
+    "ability_id": "bastion-of-firepower",
+    "name": "Bastion of Firepower",
+    "faction_id": "imperial-knights",
+    "detachment_id": null,
+    "unit_ids": [
+      "acastus-knight-porphyrion"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Acastus Knight Porphyrion datasheet",
+      "phases": []
+    },
+    "raw_text": "Each time this model Remains Stationary, until the end of the turn, ranged weapons equipped by this model have the [LETHAL HITS] ability."
+  },
+  {
+    "ability_id": "lancers-duty-bondsman",
+    "name": "Lancer's Duty (Bondsman)",
+    "faction_id": "imperial-knights",
+    "detachment_id": null,
+    "unit_ids": [
+      "cerastus-knight-lancer"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Cerastus Knight Lancer datasheet",
+      "phases": []
+    },
+    "raw_text": "While a model is affected by this ability, it is eligible to declare a charge in a turn in which it Advanced."
+  },
+  {
+    "ability_id": "shock-charge",
+    "name": "Shock Charge",
+    "faction_id": "imperial-knights",
+    "detachment_id": null,
+    "unit_ids": [
+      "cerastus-knight-lancer"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Cerastus Knight Lancer datasheet",
+      "phases": []
+    },
+    "raw_text": "You can target this model with the Tank Shock Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this phase."
+  },
+  {
+    "ability_id": "deadly-demise-d6-2",
+    "name": "Deadly Demise D6+2",
+    "faction_id": "imperial-knights",
+    "detachment_id": null,
+    "unit_ids": [
+      "cerastus-knight-acheron",
+      "cerastus-knight-lancer",
+      "cerastus-knight-castigator",
+      "cerastus-knight-atrapos"
+    ],
+    "ability_type": "core",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Imperial Armour Datasheets",
+      "phases": []
+    },
+    "raw_text": "Deadly Demise D6+2"
+  },
+  {
+    "ability_id": "castigators-duty-bondsman",
+    "name": "Castigator's Duty (Bondsman)",
+    "faction_id": "imperial-knights",
+    "detachment_id": null,
+    "unit_ids": [
+      "cerastus-knight-castigator"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Cerastus Knight Castigator datasheet",
+      "phases": []
+    },
+    "raw_text": "While a model is affected by this ability, its ranged weapons have the [SUSTAINED HITS 1] ability and the Armour Penetration characteristic of its ranged weapons is improved by 1."
+  },
+  {
+    "ability_id": "storm-of-bolts",
+    "name": "Storm of Bolts",
+    "faction_id": "imperial-knights",
+    "detachment_id": null,
+    "unit_ids": [
+      "cerastus-knight-castigator"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Cerastus Knight Castigator datasheet",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "In your Shooting phase, after this model has shot, select one unit (excluding Monsters and Vehicles) hit by one or more of those attacks. Until the start of your next turn, while this model is on the battlefield, that enemy unit is suppressed. While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll."
+  },
+  {
+    "ability_id": "acherons-duty-bondsman",
+    "name": "Acheron's Duty (Bondsman)",
+    "faction_id": "imperial-knights",
+    "detachment_id": null,
+    "unit_ids": [
+      "cerastus-knight-acheron"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Cerastus Knight Acheron datasheet",
+      "phases": [
+        "Fight"
+      ]
+    },
+    "raw_text": "While a model is affected by this ability, at the start of the Fight phase, each enemy unit within Engagement Range of one or more units with this ability must take a Battle-shock test, subtracting 1 from the result when they do."
+  },
+  {
+    "ability_id": "searing-flames",
+    "name": "Searing Flames",
+    "faction_id": "imperial-knights",
+    "detachment_id": null,
+    "unit_ids": [
+      "cerastus-knight-acheron"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Cerastus Knight Acheron datasheet",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks made with an Acheron flame cannon. Until the end of the phase, that enemy unit cannot have the Benefit of Cover."
+  },
+  {
+    "ability_id": "atrapos-duty-bondsman",
+    "name": "Atrapos' Duty (Bondsman)",
+    "faction_id": "imperial-knights",
+    "detachment_id": null,
+    "unit_ids": [
+      "cerastus-knight-atrapos"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Cerastus Knight Atrapos datasheet",
+      "phases": []
+    },
+    "raw_text": "While a model is affected by this ability, each time that model makes an attack that targets a Titanic or Towering model, you can re-roll the Hit roll and you can re-roll the Wound roll."
+  },
+  {
+    "ability_id": "macro-extinction-protocols",
+    "name": "Macro-extinction Protocols",
+    "faction_id": "imperial-knights",
+    "detachment_id": null,
+    "unit_ids": [
+      "cerastus-knight-atrapos"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Cerastus Knight Atrapos datasheet",
+      "phases": []
+    },
+    "raw_text": "Each time this model makes an attack that targets a Monster or Vehicle unit, add 1 to the Hit roll. If that target is Titanic or Towering, add 1 to the Wound roll as well."
+  },
+  {
+    "ability_id": "magaeras-duty-bondsman",
+    "name": "Magaera's Duty (Bondsman)",
+    "faction_id": "imperial-knights",
+    "detachment_id": null,
+    "unit_ids": [
+      "questoris-knight-magaera"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Questoris Knight Magaera datasheet",
+      "phases": []
+    },
+    "raw_text": "While a model is affected by this ability, each time that model makes a ranged attack that targets the closest eligible target, improve the Strength and Armour Penetration characteristics of that attack by 1."
+  },
+  {
+    "ability_id": "repair-auto-simulacra",
+    "name": "Repair Auto-simulacra",
+    "faction_id": "imperial-knights",
+    "detachment_id": null,
+    "unit_ids": [
+      "questoris-knight-magaera"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Questoris Knight Magaera datasheet",
+      "phases": [
+        "Command"
+      ]
+    },
+    "raw_text": "At the end of your Command phase, this model regains up to D3 lost wounds."
+  },
+  {
+    "ability_id": "styrixs-duty-bondsman",
+    "name": "Styrix's Duty (Bondsman)",
+    "faction_id": "imperial-knights",
+    "detachment_id": null,
+    "unit_ids": [
+      "questoris-knight-styrix"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Questoris Knight Styrix datasheet",
+      "phases": []
+    },
+    "raw_text": "While a model is affected by this ability, each time that model is selected to shoot or fight, after it has resolved all of its attacks, select one enemy unit hit by one or more of those attacks; that unit must take a Battle-shock test, subtracting one from the test when doing so."
+  },
+  {
+    "ability_id": "grav-pinned",
+    "name": "Grav-pinned",
+    "faction_id": "imperial-knights",
+    "detachment_id": null,
+    "unit_ids": [
+      "questoris-knight-styrix"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Questoris Knight Styrix datasheet",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "In your Shooting phase, after this model has shot, if an enemy Infantry unit was hit by one or more of those attacks made with a graviton crusher, until the end of your opponent's next turn, that enemy unit is grav-pinned. While a unit is grav-pinned, subtract 2 from that unit's Move characteristic and subtract 2 from Charge rolls made for that unit."
+  },
+  {
+    "ability_id": "protection-protocols",
+    "name": "Protection Protocols",
+    "faction_id": "imperial-knights",
+    "detachment_id": null,
+    "unit_ids": [
+      "armiger-moirax"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Armiger Moirax datasheet",
+      "phases": []
+    },
+    "raw_text": "You can target this unit with the Heroic Intervention stratagem, regardless of any other uses of that stratagem this phase. If you do:\n That use is -1 CP.\n That use does not prevent any uses of that stratagem on other units this phase."
+  },
+  {
+    "ability_id": "deadly-demise-d3",
+    "name": "Deadly Demise D3",
+    "faction_id": "imperial-knights",
+    "detachment_id": null,
+    "unit_ids": [
+      "armiger-moirax"
+    ],
+    "ability_type": "core",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights.pdf, Armiger Moirax datasheet",
+      "phases": []
+    },
+    "raw_text": "Deadly Demise D3"
+  }
+]

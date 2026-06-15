@@ -1,42 +1,44 @@
-// Stages this repo's ability-text JSON into dist/abilities/ (mirroring the R2 bucket
-// layout) and writes dist/manifest-abilities.json in the contract the ListForge app's
-// Kdc40DataService expects. Run by .github/workflows/publish.yml.
+// Merges this repo's ability-text files into ONE bundle, dist/bundle-abilities.json, in
+// the shape the ListForge app's Kdc40DataService expects. Run by
+// .github/workflows/publish.yml, which uploads the single file to R2.
 //
-//   index.json    -> dist/abilities/index.json        (type: abilities-index)
-//   <other>.json  -> dist/abilities/<other>.json      (type: abilities)
-//   dist/manifest-abilities.json -> { version, generated_at, files: [{type, path}] }
+//   { "version", "generated_at",
+//     "abilities":[...],            // every <faction>.json + core.json record, concatenated
+//     "abilities-index": { ... } }  // index.json (id -> {faction, raw_text})
 //
-// This repo owns ONLY the abilities slice + manifest-abilities.json. The 40kdc-data repo
-// independently publishes the core slice + manifest-core.json. The app fetches both
-// manifests and unions them, so there is no cross-repo coupling.
+// This repo owns ONLY the abilities slice. The 40kdc-data repo independently publishes
+// bundle-core.json. The client downloads both (presigned, via the Fly signer) and merges
+// them — no cross-repo coupling.
 
-import { mkdirSync, copyFileSync, readdirSync, statSync, writeFileSync, rmSync } from 'node:fs';
-import { dirname, join } from 'node:path';
+import { mkdirSync, readdirSync, statSync, writeFileSync, readFileSync } from 'node:fs';
+import { join } from 'node:path';
 
 const SRC = process.env.ABILITIES_SRC || '.';
-const DIST = 'dist';
+const OUT = 'dist/bundle-abilities.json';
 const VERSION = process.env.VERSION || new Date().toISOString();
 
-const files = [];
-function stage(src, bucketPath, type) {
-  const dest = join(DIST, bucketPath);
-  mkdirSync(dirname(dest), { recursive: true });
-  copyFileSync(src, dest);
-  files.push({ type, path: bucketPath });
-}
-
-rmSync(DIST, { recursive: true, force: true });
-mkdirSync(DIST, { recursive: true });
+const bundle = {
+  version: VERSION,
+  generated_at: new Date().toISOString(),
+  abilities: [],
+  'abilities-index': {},
+};
 
 for (const entry of readdirSync(SRC)) {
-  if (!entry.endsWith('.json')) continue;
+  if (!entry.endsWith('.json') || entry.startsWith('bundle-')) continue;
   const p = join(SRC, entry);
   if (!statSync(p).isFile()) continue;
-  stage(p, `abilities/${entry}`, entry === 'index.json' ? 'abilities-index' : 'abilities');
+  const json = JSON.parse(readFileSync(p, 'utf8'));
+  if (entry === 'index.json') {
+    if (json && typeof json === 'object') bundle['abilities-index'] = json;
+  } else if (Array.isArray(json)) {
+    bundle.abilities.push(...json);
+  }
 }
 
-writeFileSync(
-  join(DIST, 'manifest-abilities.json'),
-  JSON.stringify({ version: VERSION, generated_at: new Date().toISOString(), files }, null, 2),
+mkdirSync('dist', { recursive: true });
+writeFileSync(OUT, JSON.stringify(bundle));
+console.log(
+  `Wrote ${OUT}; version=${VERSION}; abilities:${bundle.abilities.length} ` +
+  `index:${Object.keys(bundle['abilities-index']).length}`,
 );
-console.log(`Staged ${files.length} ability files; version=${VERSION}`);
