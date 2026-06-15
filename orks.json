@@ -1,0 +1,2217 @@
+[
+  {
+    "ability_id": "waaagh-energy",
+    "name": "Waaagh! Energy",
+    "faction_id": "orks",
+    "unit_ids": [
+      "weirdboy"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, add 1 to the Strength and Damage characteristics of this model’s ’Eadbanger weapon for every 5 models in that unit (rounding down), but while that unit contains 10 or more models, that weapon has the [HAZARDOUS] ability."
+  },
+  {
+    "ability_id": "da-jump-psychic",
+    "name": "Da Jump (Psychic)",
+    "faction_id": "orks",
+    "unit_ids": [
+      "weirdboy"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per turn, at the end of your Movement phase, one WEIRDBOY from your army can use this ability. If it does, roll one D6: on a 1, that WEIRDBOY’s unit suffers D6 mortal wounds; on a 2+, remove that WEIRDBOY’s unit from the battlefield and set it up again anywhere on the battlefield that is more than 9\" horizontally away from all enemy models."
+  },
+  {
+    "ability_id": "drill-through",
+    "name": "Drill Through",
+    "faction_id": "orks",
+    "unit_ids": [
+      "megatrakk-scrapjet"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model ends a Charge move, select one enemy unit within Engagement Range of it and roll one D6: on a 2‑5, that enemy unit suffers D3 mortal wounds; on a 6, that enemy unit suffers 3 mortal wounds."
+  },
+  {
+    "ability_id": "drive-by-dakka",
+    "name": "Drive-by Dakka",
+    "faction_id": "orks",
+    "unit_ids": [
+      "warbikers"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a model in this unit makes a ranged attack that targets a unit within 9\", improve the Armour Penetration characteristic of that attack by 1."
+  },
+  {
+    "ability_id": "deff-from-above",
+    "name": "Deff from Above",
+    "faction_id": "orks",
+    "unit_ids": [
+      "deffkoptas",
+      "deffkoptas-with-big-shootas"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this unit ends a Normal move, you can select one enemy unit it moved over during that move and roll one D6 for each model in this unit: for each 4+, that enemy unit suffers 1 mortal wound."
+  },
+  {
+    "ability_id": "rivetin-dakka",
+    "name": "Rivetin’ Dakka",
+    "faction_id": "orks",
+    "unit_ids": [
+      "kustom-boosta-blasta"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks made with a rivet kannon. Until the start of your next turn, that enemy unit is suppressed. While a unit is suppressed, each time a model in that unit makes a ranged attack, subtract 1 from the Hit roll."
+  },
+  {
+    "ability_id": "dok-s-toolz",
+    "name": "Dok’s Toolz",
+    "faction_id": "orks",
+    "unit_ids": [
+      "painboy"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability."
+  },
+  {
+    "ability_id": "hold-still-and-say-aargh",
+    "name": "Hold Still and Say ‘Aargh!’",
+    "faction_id": "orks",
+    "unit_ids": [
+      "painboy"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time an attack made by this model with its ’urty syringe scores a Critical Wound against a unit (excluding VEHICLE units), that unit suffers D6 mortal wounds."
+  },
+  {
+    "ability_id": "grot-orderly",
+    "name": "Grot Orderly",
+    "faction_id": "orks",
+    "unit_ids": [
+      "painboy"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per battle, in your Command phase, if the bearer is leading a unit that is below its Starting Strength, you can return up to D3 destroyed Bodyguard models to that unit."
+  },
+  {
+    "ability_id": "shooty-power-trip",
+    "name": "Shooty Power Trip",
+    "faction_id": "orks",
+    "unit_ids": [
+      "killa-kans"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this unit is selected to shoot, you can roll one D6:\n\n■ On a 1‑2, this unit suffers D3 mortal wounds.\n■ On a 3‑4, until the end of the phase, add 1 to the Strength characteristic of ranged weapons equipped by models in this unit.\n■ On a 5‑6, until the end of the phase, add 1 to the Attacks characteristic of ranged weapons equipped by models in this unit."
+  },
+  {
+    "ability_id": "dat-s-our-loot",
+    "name": "Dat’s Our Loot!",
+    "faction_id": "orks",
+    "unit_ids": [
+      "lootas"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a model in this unit makes a ranged attack, re-roll a Hit roll of 1. If that attack targets a unit that is within range of an objective marker, you can re-roll the Hit roll instead."
+  },
+  {
+    "ability_id": "more-dakka",
+    "name": "More Dakka",
+    "faction_id": "orks",
+    "unit_ids": [
+      "big-mek"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, each time a model in that unit makes a ranged attack, re‑roll a Hit roll of 1."
+  },
+  {
+    "ability_id": "shokk-boosta",
+    "name": "Shokk-boosta",
+    "faction_id": "orks",
+    "unit_ids": [
+      "big-mek"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "You can re‐roll Advance rolls made for this model’s unit. In addition, each time this model’s unit makes a Normal, Advance or Fall Back move, models in that unit can move through models and terrain features. When doing so, they can move within Engagement Range of such models but cannot end that move within Engagement Range of them, and any Desperate Escape test is automatically passed."
+  },
+  {
+    "ability_id": "wild-ride",
+    "name": "Wild Ride",
+    "faction_id": "orks",
+    "unit_ids": [
+      "squighog-boyz"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "You can ignore any or all modifiers to this unit’s Move characteristic and to Advance and Charge rolls made for this unit."
+  },
+  {
+    "ability_id": "bomb-squig",
+    "name": "Bomb Squig",
+    "faction_id": "orks",
+    "unit_ids": [
+      "squighog-boyz"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per battle, for each bomb squig this unit has, after this unit ends a Normal move, you can use one Bomb Squig. If you do, select one enemy unit within 12\" and visible to this unit and roll one D6: on a 3+, that enemy unit suffers D3 mortal wounds."
+  },
+  {
+    "ability_id": "might-is-right",
+    "name": "Might is Right",
+    "faction_id": "orks",
+    "unit_ids": [
+      "warboss-in-mega-armour"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Hit roll."
+  },
+  {
+    "ability_id": "dead-brutal",
+    "name": "Dead Brutal",
+    "faction_id": "orks",
+    "unit_ids": [
+      "warboss-in-mega-armour"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "While the Waaagh! is active for your army, this model’s ’uge choppa has a Damage characteristic of 3."
+  },
+  {
+    "ability_id": "blastajet-attack-run",
+    "name": "Blastajet Attack Run",
+    "faction_id": "orks",
+    "unit_ids": [
+      "wazbom-blastajet"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model makes a ranged attack that targets a unit that cannot FLY, re-roll a Hit roll of 1."
+  },
+  {
+    "ability_id": "blastajet-force-field",
+    "name": "Blastajet Force Field",
+    "faction_id": "orks",
+    "unit_ids": [
+      "wazbom-blastajet"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "The bearer has a 4+ invulnerable save, but it loses the GRENADES keyword."
+  },
+  {
+    "ability_id": "ramshackle-but-rugged",
+    "name": "Ramshackle but Rugged",
+    "faction_id": "orks",
+    "unit_ids": [
+      "battlewagon"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time an attack is allocated to this model, worsen the Armour Penetration characteristic of that attack by 1."
+  },
+  {
+    "ability_id": "ard-case",
+    "name": "’Ard Case",
+    "faction_id": "orks",
+    "unit_ids": [
+      "battlewagon"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Add 2 to the bearer’s Toughness characteristic, but it no longer has the Firing Deck ability."
+  },
+  {
+    "ability_id": "red-skull-kommandos",
+    "name": "Red Skull Kommandos",
+    "faction_id": "orks",
+    "unit_ids": [
+      "boss-snikrot"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, models in that unit have the Benefit of Cover."
+  },
+  {
+    "ability_id": "kunnin-infiltrator",
+    "name": "Kunnin’ Infiltrator",
+    "faction_id": "orks",
+    "unit_ids": [
+      "boss-snikrot"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per battle, in your Movement phase, instead of making a Normal move with this model’s unit, you can remove it from the battlefield and set it up again anywhere on the battlefield that is more than 9\" horizontally away from all enemy models."
+  },
+  {
+    "ability_id": "clankin-forward",
+    "name": "Clankin’ Forward",
+    "faction_id": "orks",
+    "unit_ids": [
+      "morkanaut"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model makes a Normal, Advance or Fall Back move, it can move over enemy models (excluding MONSTERS and VEHICLES) and terrain features that are 4\" or less in height as if they were not there."
+  },
+  {
+    "ability_id": "big-an-shooty",
+    "name": "Big an’ Shooty",
+    "faction_id": "orks",
+    "unit_ids": [
+      "morkanaut"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model makes a ranged attack, if the Waaagh! is active for your army, add 1 to the Hit roll."
+  },
+  {
+    "ability_id": "prophet-of-da-great-waaagh",
+    "name": "Prophet of Da Great Waaagh!",
+    "faction_id": "orks",
+    "unit_ids": [
+      "ghazghkull-thraka"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this unit is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Hit roll and add 1 to the Wound roll and if the Waaagh! is active for your army, a Critical Hit is scored on a successful unmodified Hit roll of 5+."
+  },
+  {
+    "ability_id": "ghazghkull-s-waaagh-banner-aura",
+    "name": "Ghazghkull’s Waaagh! Banner (Aura)",
+    "faction_id": "orks",
+    "unit_ids": [
+      "ghazghkull-thraka"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "While a friendly ORKS unit is within 12\" of Makari, if the Waaagh! is active for your army, melee weapons equipped by models in that unit have the [LETHAL HITS] ability."
+  },
+  {
+    "ability_id": "supreme-commander",
+    "name": "Supreme Commander",
+    "faction_id": "orks",
+    "unit_ids": [
+      "ghazghkull-thraka"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "If this unit is in your army, its Ghazghkull Thraka model must be your WARLORD."
+  },
+  {
+    "ability_id": "trophy-hunters",
+    "name": "Trophy Hunters",
+    "faction_id": "orks",
+    "unit_ids": [
+      "breaka-boyz"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this unit declares a charge, you can re-roll the Charge roll."
+  },
+  {
+    "ability_id": "bomb-squigs",
+    "name": "Bomb Squigs",
+    "faction_id": "orks",
+    "unit_ids": [
+      "breaka-boyz"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per battle, for each bomb squig this unit has, after this unit ends a Normal move, you can use one Bomb Squig. If you do, select one enemy unit within 12\" and visible to this unit and roll one D6: on a 3+, that enemy unit suffers D3 mortal wounds.\n\nDesigner’s Note: Place two Bomb Squig tokens next to the unit, removing one each time this unit uses this ability."
+  },
+  {
+    "ability_id": "attached-unit",
+    "name": "Attached Unit",
+    "faction_id": "orks",
+    "unit_ids": [
+      "breaka-boyz"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "If a CHARACTER unit from your army with the Leader ability can be attached to a BOYZ unit, it can be attached to this unit instead."
+  },
+  {
+    "ability_id": "waaagh-effigy-aura",
+    "name": "Waaagh! Effigy (Aura)",
+    "faction_id": "orks",
+    "unit_ids": [
+      "stompa"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "While a friendly ORKS unit is within 12\" of this model, each time you take a Battle‑shock test for that unit, add 1 to that test."
+  },
+  {
+    "ability_id": "stompin-forward",
+    "name": "Stompin’ Forward",
+    "faction_id": "orks",
+    "unit_ids": [
+      "stompa"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model makes a Normal, Advance or Fall Back move, it can move over models (excluding TITANIC models) and terrain features that are 4\" or less in height as if they were not there."
+  },
+  {
+    "ability_id": "tank-hunters",
+    "name": "Tank Hunters",
+    "faction_id": "orks",
+    "unit_ids": [
+      "tankbustas"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a model in this unit makes a ranged attack that targets a MONSTER or VEHICLE unit, add 1 to the Hit roll and add 1 to the Wound roll."
+  },
+  {
+    "ability_id": "pulsa-rokkit",
+    "name": "Pulsa Rokkit",
+    "faction_id": "orks",
+    "unit_ids": [
+      "tankbustas"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per battle, when the bearer’s unit is selected to shoot in your Shooting phase, the bearer can use its pulsa rokkit. If it does, until the end of the phase, improve the Strength and Armour Penetration characteristics of ranged weapons equipped by models in the bearer’s unit by 1."
+  },
+  {
+    "ability_id": "sneaky-gitz",
+    "name": "Sneaky Gitz",
+    "faction_id": "orks",
+    "unit_ids": [
+      "kommandos"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Enemy units cannot use the Fire Overwatch Stratagem to shoot at this unit."
+  },
+  {
+    "ability_id": "distraction-grot",
+    "name": "Distraction Grot",
+    "faction_id": "orks",
+    "unit_ids": [
+      "kommandos"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per battle, in your opponent’s Shooting phase, before making a saving throw for a model in this unit, it can deploy the distraction grot. If it does, until the end of the phase, models in this unit have a 5+ invulnerable save."
+  },
+  {
+    "ability_id": "patrol-squad",
+    "name": "Patrol Squad",
+    "faction_id": "orks",
+    "unit_ids": [
+      "kommandos"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of the Declare Battle Formations step this unit can be split into two units, each containing five models.\n(when splitting a unit in this way, make a note of which models form each of the two new units. If you are splitting a unit that is equipped with 1 bomb squig and/or 1 distraction grot, only one of the new units can use that ability during the battle – make a note of which of the new units this will be)."
+  },
+  {
+    "ability_id": "get-da-good-bitz",
+    "name": "Get Da Good Bitz",
+    "faction_id": "orks",
+    "unit_ids": [
+      "boyz"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the end of your Command phase, if this unit is within range of an objective marker you control, that objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
+  },
+  {
+    "ability_id": "bodyguard",
+    "name": "Bodyguard",
+    "faction_id": "orks",
+    "unit_ids": [
+      "boyz"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "If this unit has a Starting Strength of 20, you can attach up to two Leader units to it instead of one (but only if one of those is a WARBOSS unit). If you do, and this unit is destroyed, the Leader units attached to it become separate units with their original Starting Strengths."
+  },
+  {
+    "ability_id": "grot-riggers",
+    "name": "Grot Riggers",
+    "faction_id": "orks",
+    "unit_ids": [
+      "trukk"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of your Command phase, this model regains 1 lost wound."
+  },
+  {
+    "ability_id": "sawbonez",
+    "name": "Sawbonez",
+    "faction_id": "orks",
+    "unit_ids": [
+      "painboss"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the end of your Movement phase, select one friendly BEAST SNAGGA CHARACTER model within 3\" of this model. That model is healed and regains up to 3 lost wounds. Each model can only be healed once per turn."
+  },
+  {
+    "ability_id": "big-an-stompy",
+    "name": "Big an’ Stompy",
+    "faction_id": "orks",
+    "unit_ids": [
+      "gorkanaut"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model makes a melee attack, if the Waaagh! is active for your army, add 1 to the Hit roll."
+  },
+  {
+    "ability_id": "splat",
+    "name": "Splat!",
+    "faction_id": "orks",
+    "unit_ids": [
+      "mek-gunz"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a model in this unit makes a ranged attack that targets a unit that is at its Starting Strength (excluding MONSTERS and VEHICLES), re‑roll a Hit roll of 1."
+  },
+  {
+    "ability_id": "full-throttle",
+    "name": "Full Throttle",
+    "faction_id": "orks",
+    "unit_ids": [
+      "stormboyz"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "This unit is eligible to declare a charge in a turn in which it Advanced or Fell Back."
+  },
+  {
+    "ability_id": "gun-crazy-show-offs",
+    "name": "Gun-crazy Show-offs",
+    "faction_id": "orks",
+    "unit_ids": [
+      "flash-gitz"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a model in this unit targets the closest eligible target with its snazzgun, until the end of the phase, that weapon has an Attacks characteristic of 4."
+  },
+  {
+    "ability_id": "ammo-runt",
+    "name": "Ammo Runt",
+    "faction_id": "orks",
+    "unit_ids": [
+      "flash-gitz"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per battle, when this unit is selected to shoot, it can use this ability. If it does, until the end of the phase, ranged weapons equipped by models in this unit have the [LETHAL HITS] ability."
+  },
+  {
+    "ability_id": "boom-bomb",
+    "name": "Boom Bomb",
+    "faction_id": "orks",
+    "unit_ids": [
+      "blitza-bommer"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model ends a Normal move, you can select one enemy unit it moved over during that move and roll one D6: on a 4+, that unit suffers D6 mortal wounds."
+  },
+  {
+    "ability_id": "piston-driven-brutality",
+    "name": "Piston-driven Brutality",
+    "faction_id": "orks",
+    "unit_ids": [
+      "deff-dread"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model ends a Charge move, select one enemy unit within Engagement Range of it and roll one D6: on a 2-5, that enemy unit suffers D3 mortal wounds; on a 6, that enemy unit suffers D3+3 mortal wounds."
+  },
+  {
+    "ability_id": "unstable-oracle",
+    "name": "Unstable Oracle",
+    "faction_id": "orks",
+    "unit_ids": [
+      "wurrboy"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, add 2 to the Attacks characteristic of this model’s Eyez of Mork weapon for every 5 models in that unit (rounding down), but while that unit contains 10 or more models, that weapon has the [HAZARDOUS] ability."
+  },
+  {
+    "ability_id": "roar-of-mork-psychic",
+    "name": "Roar of Mork (Psychic)",
+    "faction_id": "orks",
+    "unit_ids": [
+      "wurrboy"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your opponent’s Command phase, you can select one enemy unit within 18\" of and visible to this PSYKER and roll one D6: on a 1, this PSYKER’s unit suffers D3 mortal wounds; on a 2+, until the start of your opponent’s next Command phase, that enemy unit is confrazzled. While a unit is confrazzled, each time a Battle‑shock or Leadership test is taken for it, subtract 2 from that test."
+  },
+  {
+    "ability_id": "beastboss",
+    "name": "Beastboss",
+    "faction_id": "orks",
+    "unit_ids": [
+      "beastboss"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Hit roll."
+  },
+  {
+    "ability_id": "ferocious-rage",
+    "name": "Ferocious Rage",
+    "faction_id": "orks",
+    "unit_ids": [
+      "beastboss"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model makes a Charge move, until the end of the turn, melee weapons it is equipped with have the [DEVASTATING WOUNDS] ability."
+  },
+  {
+    "ability_id": "dakkastorm",
+    "name": "Dakkastorm",
+    "faction_id": "orks",
+    "unit_ids": [
+      "dakkajet"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model makes a ranged attack, every successful Hit roll scores a Critical Hit."
+  },
+  {
+    "ability_id": "fix-dat-armour-up",
+    "name": "Fix Dat Armour Up",
+    "faction_id": "orks",
+    "unit_ids": [
+      "big-mek-in-mega-armour"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, in your Command phase, you can return 1 destroyed Bodyguard model to that unit."
+  },
+  {
+    "ability_id": "kustom-force-field",
+    "name": "Kustom Force Field",
+    "faction_id": "orks",
+    "unit_ids": [
+      "big-mek-in-mega-armour"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "While the bearer is leading a unit, models in that unit have a 4+ invulnerable save against ranged attacks."
+  },
+  {
+    "ability_id": "grot-oiler",
+    "name": "Grot Oiler",
+    "faction_id": "orks",
+    "unit_ids": [
+      "big-mek-in-mega-armour"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per battle, at the end of your Movement phase, one model in the bearer’s unit regains D3 lost wounds."
+  },
+  {
+    "ability_id": "buzzer-squigs",
+    "name": "Buzzer Squigs",
+    "faction_id": "orks",
+    "unit_ids": [
+      "rukkatrukk-squigbuggy"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Shooting phase, after this model has shot, select one enemy unit (excluding MONSTERS and VEHICLES) hit by one or more of those attacks made with squig‑launchas and roll one D6: on a 4+, until the end of your opponent’s next turn, that enemy unit is hindered. While a unit is hindered, subtract 2\" from its Move characteristic and subtract 2 from Advance and Charge rolls made for it."
+  },
+  {
+    "ability_id": "squig-mine",
+    "name": "Squig Mine",
+    "faction_id": "orks",
+    "unit_ids": [
+      "rukkatrukk-squigbuggy"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per battle, at the start of any phase, select one enemy unit within 3\" of this model and roll one D6: on a 4+, that enemy unit suffers D6 mortal wounds.\n\nDesigner’s Note: Place a Squig Mine token next to the model, removing it once this ability has been used."
+  },
+  {
+    "ability_id": "monster-hunters",
+    "name": "Monster Hunters",
+    "faction_id": "orks",
+    "unit_ids": [
+      "beast-snagga-boyz"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a model in this unit makes an attack that targets a MONSTER or VEHICLE unit, you can re-roll the Hit roll."
+  },
+  {
+    "ability_id": "speedboss",
+    "name": "Speedboss",
+    "faction_id": "orks",
+    "unit_ids": [
+      "deffkilla-wartrike"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Hit roll."
+  },
+  {
+    "ability_id": "fuel-mixa-grot",
+    "name": "Fuel-mixa Grot",
+    "faction_id": "orks",
+    "unit_ids": [
+      "deffkilla-wartrike"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model’s unit Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in that unit."
+  },
+  {
+    "ability_id": "know-wotz",
+    "name": "Know-wotz",
+    "faction_id": "orks",
+    "unit_ids": [
+      "mek"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is within 3\" of one or more friendly ORKS VEHICLE units, this model has the Lone Operative ability."
+  },
+  {
+    "ability_id": "mekaniak",
+    "name": "Mekaniak",
+    "faction_id": "orks",
+    "unit_ids": [
+      "mek"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the end of your Movement phase, you can select one friendly ORKS VEHICLE model within 3\" of this model. That VEHICLE model regains up to D3 lost wounds, and, until the start of your next Movement phase, each time that VEHICLE model makes an attack, add 1 to the Hit roll. Each model can only be selected for this ability once per turn."
+  },
+  {
+    "ability_id": "shokk-tunnel",
+    "name": "Shokk Tunnel",
+    "faction_id": "orks",
+    "unit_ids": [
+      "shokkjump-dragsta"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model is selected to Advance, you can remove it from the battlefield and set it up again anywhere on the battlefield that is more than 9\" horizontally away from all enemy models instead of making an Advance move (this model is still considered to have Advanced this turn)."
+  },
+  {
+    "ability_id": "one-last-kill",
+    "name": "One Last Kill",
+    "faction_id": "orks",
+    "unit_ids": [
+      "mozrog-skragbad"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, each time a model in that unit is destroyed by a melee attack, if it has not fought this phase, roll one D6: on a 4+, do not remove it from play. The destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play."
+  },
+  {
+    "ability_id": "da-bigger-dey-iz",
+    "name": "Da Bigger Dey Iz…",
+    "faction_id": "orks",
+    "unit_ids": [
+      "mozrog-skragbad"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model makes a melee attack that targets a MONSTER or VEHICLE unit, add 1 to the Damage characteristic of that attack. Each time this model makes a melee attack that targets a TITANIC unit, add 2 to the Damage characteristic of that attack instead."
+  },
+  {
+    "ability_id": "super-runts",
+    "name": "Super Runts",
+    "faction_id": "orks",
+    "unit_ids": [
+      "zodgrod-wortsnagga"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit:\n\n■ Models in that unit have the Scouts 9\" ability.\n■ Each time a model in that unit makes an attack, add 1 to the Hit roll and add 1 to the Wound roll.\n■ Each time an attack targets that unit, subtract 1 from the Wound roll."
+  },
+  {
+    "ability_id": "special-dose",
+    "name": "Special Dose",
+    "faction_id": "orks",
+    "unit_ids": [
+      "zodgrod-wortsnagga"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "While the Waaagh! is active for your army, add 6\" to the Move characteristic of models in this model’s unit."
+  },
+  {
+    "ability_id": "runtherd",
+    "name": "Runtherd",
+    "faction_id": "orks",
+    "unit_ids": [
+      "gretchin"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time an attack targets this unit, if it contains one or more Gretchin models, until that attack is resolved, Runtherd models in this unit have a Toughness characteristic of 2."
+  },
+  {
+    "ability_id": "thievin-scavengers",
+    "name": "Thievin’ Scavengers",
+    "faction_id": "orks",
+    "unit_ids": [
+      "gretchin"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of your Movement phase, roll one D6 for each objective marker you control that has one or more units from your army with this ability within range of it (excluding Battle-shocked units). If one or more of those rolls is a 4+, you gain 1CP."
+  },
+  {
+    "ability_id": "deranged-snotling-assault",
+    "name": "Deranged Snotling Assault",
+    "faction_id": "orks",
+    "unit_ids": [
+      "big-mek-with-shokk-attack-gun"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks; that unit must take a Battle-shock test."
+  },
+  {
+    "ability_id": "grot-assistant",
+    "name": "Grot Assistant",
+    "faction_id": "orks",
+    "unit_ids": [
+      "big-mek-with-shokk-attack-gun"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per battle, after rolling to determine how many attacks the bearer’s shokk attack gun makes, you can re-roll that dice."
+  },
+  {
+    "ability_id": "spirit-of-gork-psychic",
+    "name": "Spirit of Gork (Psychic)",
+    "faction_id": "orks",
+    "unit_ids": [
+      "kill-rig"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of the Fight phase, you can select one friendly ORKS unit within 12\" of this model and roll one D6: on a 1, this model suffers D3 mortal wounds; on a 2‑5, until the end of the phase, add 1 to the Strength characteristic of melee weapons equipped by models in that unit; on a 6, until the end of the phase, add 1 to the Strength characteristic of melee weapons equipped by models in that unit and those weapons have the [LETHAL HITS] ability."
+  },
+  {
+    "ability_id": "pyromaniaks",
+    "name": "Pyromaniaks",
+    "faction_id": "orks",
+    "unit_ids": [
+      "burna-boyz",
+      "skorchas"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a model in this unit makes a ranged attack with a burna that targets an enemy unit within 6\", re‑roll a Wound roll of 1. If the target of that attack is also within range of an objective marker, you can re‑roll the Wound roll instead."
+  },
+  {
+    "ability_id": "da-boss-ladz",
+    "name": "Da Boss’ Ladz",
+    "faction_id": "orks",
+    "unit_ids": [
+      "nobz"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "While a WARBOSS model is leading this unit, each time an attack targets this unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of this unit, subtract 1 from the Wound roll."
+  },
+  {
+    "ability_id": "thundering-stampede",
+    "name": "Thundering Stampede",
+    "faction_id": "orks",
+    "unit_ids": [
+      "beastboss-on-squigosaur"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, add 1 to Charge rolls made for that unit."
+  },
+  {
+    "ability_id": "single-minded-predator",
+    "name": "Single-minded Predator",
+    "faction_id": "orks",
+    "unit_ids": [
+      "beastboss-on-squigosaur"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "You can target this model’s unit with the Heroic Intervention Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this phase."
+  },
+  {
+    "ability_id": "krumpin-time",
+    "name": "Krumpin’ Time",
+    "faction_id": "orks",
+    "unit_ids": [
+      "meganobz"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "While the Waaagh! is active for your army, models in this unit have the Feel No Pain 5+ ability."
+  },
+  {
+    "ability_id": "billowing-fumes-aura",
+    "name": "Billowing Fumes (Aura)",
+    "faction_id": "orks",
+    "unit_ids": [
+      "boomdakka-snazzwagon"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "While an enemy unit (excluding MONSTERS and VEHICLES) is within 6\" of this model, each time a model in that unit makes an attack, subtract 1 from the Hit roll."
+  },
+  {
+    "ability_id": "gargantuan",
+    "name": "Gargantuan",
+    "faction_id": "orks",
+    "unit_ids": [
+      "gargantuan-squiggoth"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model makes a Normal, Advance or Fall Back move, it can move over models (excluding TITANIC models) and terrain features that are 4\" or less in height as if they were not there."
+  },
+  {
+    "ability_id": "walking-bastion",
+    "name": "Walking Bastion",
+    "faction_id": "orks",
+    "unit_ids": [
+      "gargantuan-squiggoth"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "This model does not suffer the penalty to its Hit rolls for making ranged attacks while enemy units are within Engagement Range of it."
+  },
+  {
+    "ability_id": "burna-bomb",
+    "name": "Burna Bomb",
+    "faction_id": "orks",
+    "unit_ids": [
+      "burna-bommer"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model ends a Normal move, you can select one enemy unit it moved over during that move. Until the end of the turn, models in that unit cannot have the Benefit of Cover. In addition, roll one D6 for each model in that unit: for each 6, that unit suffers 1 mortal wound."
+  },
+  {
+    "ability_id": "on-da-hunt",
+    "name": "On Da Hunt",
+    "faction_id": "orks",
+    "unit_ids": [
+      "hunta-rig"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "For each model embarked within this TRANSPORT, add 1 to the Attacks characteristic of this model’s butcha boyz weapon (to a maximum of +6)."
+  },
+  {
+    "ability_id": "da-biggest-and-da-best",
+    "name": "Da Biggest and da Best",
+    "faction_id": "orks",
+    "unit_ids": [
+      "warboss"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "While the Waaagh! is active for your army, add 4 to the Attacks characteristic of this model’s melee weapons."
+  },
+  {
+    "ability_id": "aerial-deployment",
+    "name": "Aerial Deployment",
+    "faction_id": "orks",
+    "unit_ids": [
+      "chinork-warkopta"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "If this model starts the game in Strategic Reserves, it can be set up in the Reinforcements step of your first, second or third Movement phase, regardless of any mission rules."
+  },
+  {
+    "ability_id": "big-bomms",
+    "name": "Big Bomms",
+    "faction_id": "orks",
+    "unit_ids": [
+      "chinork-warkopta"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per battle, after the bearer ends a Normal move, you can select one enemy unit it moved across during that move and roll six D6: for each 4+, that unit suffers 1 mortal wound."
+  },
+  {
+    "ability_id": "interceptor",
+    "name": "Interceptor",
+    "faction_id": "orks",
+    "unit_ids": [
+      "attack-fighta"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model makes a ranged attack that targets a unit that can Fly, add 1 to the Hit roll."
+  },
+  {
+    "ability_id": "small-bomms",
+    "name": "Small Bomms",
+    "faction_id": "orks",
+    "unit_ids": [
+      "attack-fighta"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time the bearer ends a Normal move, you can select one enemy unit it moved across during that move and roll three D6: for each 4+, that unit suffers 1 mortal wound."
+  },
+  {
+    "ability_id": "strafing-run",
+    "name": "Strafing Run",
+    "faction_id": "orks",
+    "unit_ids": [
+      "fighta-bommer"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model makes a ranged attack that targets a unit that cannot Fly, add 1 to the Hit roll."
+  },
+  {
+    "ability_id": "big-booms",
+    "name": "Big Booms",
+    "faction_id": "orks",
+    "unit_ids": [
+      "kannonwagon"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Shooting phase, just after selecting a target for this model’s supa-kannon, roll one D6 for the target unit and every other unit within 3\" of that unit: on a 5+, the unit being rolled for is struck by a concussive wave. After this model has finished making its attacks against that target unit this phase, each unit struck by a concussive wave this phase suffers D3 mortal wounds."
+  },
+  {
+    "ability_id": "da-bigger-dey-are-da-better-dey-drop",
+    "name": "Da Bigger Dey Are, da Better Dey Drop",
+    "faction_id": "orks",
+    "unit_ids": [
+      "lifta-wagon"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time an attack made with this model’s lifta-droppa destroys an enemy model that has the Deadly Demise ability, that model’s Deadly Demise ability inflicts mortal wounds on a D6 roll of 3+ instead of on a 6."
+  },
+  {
+    "ability_id": "da-biggest-booms",
+    "name": "Da Biggest Booms",
+    "faction_id": "orks",
+    "unit_ids": [
+      "kill-krusha"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Shooting phase, just after selecting a target for this model’s krusha kannon, the target unit and every other enemy Infantry unit within 3\" of that unit must take a Battle-shock test."
+  },
+  {
+    "ability_id": "rolling-fortress",
+    "name": "Rolling Fortress",
+    "faction_id": "orks",
+    "unit_ids": [
+      "deff-rolla-battle-fortress"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a ranged attack is allocated to an Orks model from your army, if that model is not fully visible to every model in the attacking unit because of this Deff Rolla Battle Fortress model, that model has the Benefit of Cover against that attack."
+  },
+  {
+    "ability_id": "has-yoo-been-a-good-little-grot-this-year",
+    "name": "Has Yoo Been a Good Little Grot This Year?",
+    "faction_id": "orks",
+    "unit_ids": [
+      "da-red-gobbo"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per battle, in your Shooting phase, you can target this model’s unit with the Grenade Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this phase."
+  },
+  {
+    "ability_id": "da-revolushun",
+    "name": "Da Revolushun!",
+    "faction_id": "orks",
+    "unit_ids": [
+      "da-red-gobbo"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll."
+  },
+  {
+    "ability_id": "big-gunz",
+    "name": "BIG GUNZ",
+    "faction_id": "orks",
+    "unit_ids": [
+      "big-gunz"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Designer’s Note: Place two Grot Crew tokens next to each Mek Gun model when this unit is first set up, removing one each time its Big Gun model loses a wound (a Big Gun model itself is considered to represent its final wound)."
+  },
+  {
+    "ability_id": "speed-freeks",
+    "name": "SPEED FREEKS",
+    "faction_id": "orks",
+    "unit_ids": [
+      "wartrakks",
+      "skorchas"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "If a model from your army with the Leader ability can be attached to a Warbikers unit, it can be attached to this unit instead."
+  },
+  {
+    "ability_id": "furious-barrage",
+    "name": "Furious Barrage",
+    "faction_id": "orks",
+    "unit_ids": [
+      "grot-bomm-launcha"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model makes a ranged attack that targets an enemy unit that contains five or more models, you can re-roll the Hit roll."
+  },
+  {
+    "ability_id": "outflank",
+    "name": "Outflank",
+    "faction_id": "orks",
+    "unit_ids": [
+      "warbuggies"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "When this unit arrives from Strategic Reserves, it can be set up within your opponent’s deployment zone (all other restrictions still apply)."
+  },
+  {
+    "ability_id": "ramshackle-cover",
+    "name": "Ramshackle Cover",
+    "faction_id": "orks",
+    "unit_ids": [
+      "biged-bossbunka"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a ranged attack is allocated to a model, if that model is not fully visible to every model in the attacking unit because of this FORTIFICATION, that model has the Benefit of Cover against that attack."
+  },
+  {
+    "ability_id": "shoutin-pole-aura",
+    "name": "Shoutin’ Pole (Aura)",
+    "faction_id": "orks",
+    "unit_ids": [
+      "biged-bossbunka"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "While a friendly ORKS unit is within 6\" of this FORTIFICATION, improve the Leadership characteristic of models in that unit by 1."
+  },
+  {
+    "ability_id": "fortification",
+    "name": "Fortification",
+    "faction_id": "orks",
+    "unit_ids": [
+      "biged-bossbunka"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "While an enemy unit is only within Engagement Range of one or more FORTIFICATIONS from your army:\n\n■ That unit can still be selected as the target of ranged attacks, but each time such an attack is made, unless it is made with a Pistol, subtract 1 from the Hit roll.\n■ Models in that unit do not need to take Desperate Escape tests due to Falling Back while Battle-shocked, except for those that will move over enemy models when doing so."
+  },
+  {
+    "ability_id": "rollin-deff-long-uncontrolled-bursts",
+    "name": "Long, Uncontrolled Bursts",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, ranged weapons equipped by models in your unit have the [IGNORES COVER] ability."
+  },
+  {
+    "ability_id": "rollin-deff-speshul-shells",
+    "name": "Speshul Shells",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in your unit makes a ranged attack that targets the closest eligible target within 18\", improve the Armour Penetration characteristic of ranged weapons equipped by models in your unit by 1."
+  },
+  {
+    "ability_id": "dakka-dakka-dakka",
+    "name": "Dakka! Dakka! Dakka!",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time you use this Stratagem, you can choose to push it. Until the end of the phase, each time a model in your unit makes an attack, re‑roll a Hit roll of 1. If you chose to push it, you can re‑roll the Hit roll instead and, until the end of the phase, ranged weapons equipped by models in your unit have the [HAZARDOUS] ability as well."
+  },
+  {
+    "ability_id": "rollin-deff-dead-shiny-shootas",
+    "name": "Dead Shiny Shootas",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "ORKS model only. Ranged weapons equipped by models in the bearer’s unit have the [RAPID FIRE 1] ability."
+  },
+  {
+    "ability_id": "rollin-deff-da-gobshot-thunderbuss",
+    "name": "Da Gobshot Thunderbuss",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "ORKS model only. Ranged weapons equipped by the bearer have the [DEVASTATING WOUNDS] and [HAZARDOUS] abilities."
+  },
+  {
+    "ability_id": "mount-up-ladz",
+    "name": "Mount Up, Ladz",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "If your ORKS INFANTRY unit is wholly within 6\" of that TRANSPORT, it can embark within it."
+  },
+  {
+    "ability_id": "armoured-duellists",
+    "name": "Armoured Duellists",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time your unit makes an attack that targets a MONSTER or VEHICLE unit, add 1 to the Hit roll and add 1 to the Wound roll."
+  },
+  {
+    "ability_id": "impervious",
+    "name": "Impervious",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time an attack targets your unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of your unit, subtract 1 from the Wound roll."
+  },
+  {
+    "ability_id": "mekanised-brutality",
+    "name": "Mekanised Brutality",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the turn, each time a unit disembarks from your unit after your unit makes a Normal move, that disembarked unit is still eligible to declare a charge this turn."
+  },
+  {
+    "ability_id": "run-em-down",
+    "name": "Run ’em Down",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "Select up to two other friendly ORKS VEHICLE or ORKS MONSTER units within 6\" of your unit. Until the end of the turn, your unit and each unit you selected are eligible to declare a charge in a turn in which they Advanced."
+  },
+  {
+    "ability_id": "yooz-in-trouble-now",
+    "name": "Yooz in Trouble Now",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "One ORKS INFANTRY unit embarked within your model can disembark and make a Surge move. To do so, roll one D6: models in that unit move a number of inches up to this result, but that unit must end that move as close as possible to the closest enemy unit (excluding AIRCRAFT). When doing so, those models can be moved within Engagement Range of that enemy unit."
+  },
+  {
+    "ability_id": "runnin-boots",
+    "name": "Runnin’ Boots",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "ORKS INFANTRY CHARACTER model only. Each time you make a Charge roll for the bearer’s unit, if that unit disembarked from a TRANSPORT this turn, add 1 to the result."
+  },
+  {
+    "ability_id": "blitzkaptin",
+    "name": "Blitzkaptin",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "ORKS CHARACTER model only. After both players have deployed their armies, if the bearer’s unit (or any TRANSPORT it is embarked within) is on the battlefield, select up to three ORKS VEHICLE units from your army and redeploy them. When doing so, you can set those units up in Strategic Reserves, regardless of how many units are already in Strategic Reserves."
+  },
+  {
+    "ability_id": "supercharged-squig-oil",
+    "name": "Supercharged Squig Oil",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "MEK model only. Each time the bearer uses its Mekaniak ability, until the end of the turn, you can re‑roll Charge rolls for the selected VEHICLE model’s unit."
+  },
+  {
+    "ability_id": "tuff-git",
+    "name": "Tuff Git",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/orks.json",
+      "edition": "10e"
+    },
+    "raw_text": "ORKS INFANTRY CHARACTER model only. At the end of a phase in which the bearer’s unit disembarked from a TRANSPORT, if that unit is Battle‑shocked, it is no longer Battle‑shocked."
+  }
+]

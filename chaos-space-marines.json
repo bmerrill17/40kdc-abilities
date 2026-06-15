@@ -1,0 +1,2828 @@
+[
+  {
+    "ability_id": "dark-blessing-aura",
+    "name": "Dark Blessing (Aura)",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "heretic-astartes-daemon-prince"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "While a friendly HERETIC ASTARTES INFANTRY unit is within 6\" of this model, each time a ranged attack is allocated to a model in that unit, that model has the Benefit of Cover against that attack."
+  },
+  {
+    "ability_id": "ascended-daemon",
+    "name": "Ascended Daemon",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "heretic-astartes-daemon-prince"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model shoot or fights, while resolving those attacks, you can re-roll one Hit roll and you can re-roll one Wound roll."
+  },
+  {
+    "ability_id": "lord-of-chaos",
+    "name": "Lord of Chaos",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "heretic-astartes-daemon-prince"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is within 3\" of one or more friendly HERETIC ASTARTES INFANTRY units, this model has the Lone Operative ability."
+  },
+  {
+    "ability_id": "daemonic-allegiance",
+    "name": "Daemonic Allegiance",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "heretic-astartes-daemon-prince"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "When you select this model to include in your army, you must select one of the keywords below. Until the end of the battle, this model has that keyword and the characteristic modifier stated for that keyword below.\n\n■ KHORNE: Add 2 to the Strength characteristic of this model’s hellforged weapons.\n■ TZEENTCH: Add 3 to the Attacks characteristic of this model’s infernal cannon.\n■ NURGLE: Add 1 to this models Toughness characteristic.\n■ SLAANESH: Add 2\" to this model’s Move characteristic."
+  },
+  {
+    "ability_id": "daemonic-destruction",
+    "name": "Daemonic Destruction",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "heretic-astartes-daemon-prince-with-wings"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model ends a Charge move, select one enemy unit within Engagement Range of it and roll one D6 for each of this model’s remaining wounds: for each 4+, that enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds)."
+  },
+  {
+    "ability_id": "flying-horror",
+    "name": "Flying Horror",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "heretic-astartes-daemon-prince-with-wings"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model ends a Normal or Advance move, select one enemy unit it moved over during that move. That unit must take a Battle-shock test."
+  },
+  {
+    "ability_id": "warptime-psychic",
+    "name": "Warptime (Psychic)",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "sorcerer-in-terminator-armour"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, you can re-roll Advance and Charge rolls made for that unit."
+  },
+  {
+    "ability_id": "death-hex-psychic",
+    "name": "Death Hex (Psychic)",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "sorcerer-in-terminator-armour"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of your Shooting phase, one PSYKER with this ability can use it. If it does, select one enemy unit within 12\" of and visible to that PSYKER and roll one D6: on a 1, that PSYKER’s unit suffers D3 mortal wounds; on a 2+, until the start of your next Movement phase, each time an attack targets that enemy unit, improve the Armour Penetration characteristic of that attack by 1."
+  },
+  {
+    "ability_id": "chaos-familiar",
+    "name": "Chaos Familiar",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "sorcerer-in-terminator-armour"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per battle, when an attack is allocated to the bearer, you can change the Damage characteristic to 0."
+  },
+  {
+    "ability_id": "visions-of-suffering-psychic",
+    "name": "Visions of Suffering (Psychic)",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "nemesis-claw"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a model in this unit makes an attack that targets an enemy unit that is below its Starting Strength, add 1 to the Hit roll. If that enemy unit is Below Half-strength, add 1 to the Wound roll as well."
+  },
+  {
+    "ability_id": "voice-eater",
+    "name": "Voice Eater",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "nemesis-claw"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Enemy units (excluding MONSTERS and VEHICLES) cannot be targeted with Stratagems while they are within Engagement Range of the bearer’s unit."
+  },
+  {
+    "ability_id": "attached-unit",
+    "name": "Attached Unit",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "nemesis-claw"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "If a CHARACTER unit from your army with the Leader ability (excluding EPIC HEROES) can be attached to a LEGIONARIES unit, it can be attached to this unit instead."
+  },
+  {
+    "ability_id": "prescience-psychic",
+    "name": "Prescience (Psychic)",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "sorcerer"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, each time an attack targets that unit, subtract 1 from the Hit roll."
+  },
+  {
+    "ability_id": "gift-of-chaos-psychic",
+    "name": "Gift of Chaos (Psychic)",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "sorcerer"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model is selected to shoot or fight, after resolving its attacks, select one enemy unit hit by one or more of those attacks that had the [PSYCHIC] ability. That unit must take a Leadership test: if that test is failed, that unit suffers D3 mortal wounds."
+  },
+  {
+    "ability_id": "faithful-flock",
+    "name": "Faithful Flock",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "dark-commune"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this unit is leading a unit and contains a CULT DEMAGOGUE model, models in that unit have a 5+ invulnerable save."
+  },
+  {
+    "ability_id": "dark-ritual",
+    "name": "Dark Ritual",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "dark-commune"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per battle, in your Command phase, if this unit contains a CULT DEMAGOGUE model, it can use this ability. If it does, until the end of the turn, this unit can declare a charge in a turn in which it Advanced and each time a model in this unit makes an attack, add 1 to the Hit roll and add 1 to the Wound roll."
+  },
+  {
+    "ability_id": "chaos-icon",
+    "name": "Chaos Icon",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "dark-commune"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time the bearer’s unit takes a Leadership test for the Dark Pacts ability, you can re-roll that test."
+  },
+  {
+    "ability_id": "daemonkin-psychic",
+    "name": "Daemonkin (Psychic)",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "master-of-possession"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, add 1 to Advance and Charge rolls made for that unit."
+  },
+  {
+    "ability_id": "sacrificial-dagger",
+    "name": "Sacrificial Dagger",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "master-of-possession"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per phase, when this model is selected to shoot or fight, it can use this ability. If it does, this model’s unit suffers 1 mortal wound and, until the end of the phase, each time this model makes a Psychic Attack, add 1 to the Hit roll and add 1 to the Wound roll."
+  },
+  {
+    "ability_id": "warp-rift-firepower",
+    "name": "Warp Rift Firepower",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "obliterators"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per battle, during the shooting phase, this unit can use this ability. If it does, until the end of the phase, ranged weapons models in this unit are equipped with have the [INDIRECT FIRE] ability."
+  },
+  {
+    "ability_id": "corrupt-machine-spirits",
+    "name": "Corrupt Machine Spirits",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "lord-discordant-on-helstalker"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of your Shooting phase, select one visible enemy VEHICLE unit within 12\" of this model and roll one D6: on a 2-3, that enemy unit suffers D3 mortal wounds; on a 4-5, that enemy unit suffers 3 mortal wounds; on a 6, that enemy unit suffers D3+3 mortal wounds."
+  },
+  {
+    "ability_id": "spirit-thief",
+    "name": "Spirit Thief",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "lord-discordant-on-helstalker"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "&x20;At the start of your Shooting phase, select one visible enemy VEHICLE unit. Until the end of the phase, each time a friendly HERETIC ASTARTES model makes an attack that targets that unit, re‐roll a Wound roll of 1."
+  },
+  {
+    "ability_id": "despoilers",
+    "name": "Despoilers",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "chaos-terminator-squad"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this unit makes a Dark Pact, until the end of the phase, each time a model in this unit makes an attack, you can re-roll the Hit roll."
+  },
+  {
+    "ability_id": "fiery-faith",
+    "name": "Fiery Faith",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "cultist-firebrand"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, you can re-roll Leadership tests taken for that unit."
+  },
+  {
+    "ability_id": "cursed-flames",
+    "name": "Cursed Flames",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "cultist-firebrand"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Shooting phase, after this model has shot, select one enemy INFANTRY unit hit by one or more of those attacks. That unit must take a Battle-shock test."
+  },
+  {
+    "ability_id": "assault-ramp",
+    "name": "Assault Ramp",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "chaos-land-raider"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a unit disembarks from this model after it has made a Normal move, that unit is still eligible to declare a charge this turn."
+  },
+  {
+    "ability_id": "unholy-bloodshed",
+    "name": "Unholy Bloodshed",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "possessed"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per battle, when this unit makes a Dark Pact, until the end of the phase, weapons equipped by models in this unit have the [DEVASTATING WOUNDS] ability."
+  },
+  {
+    "ability_id": "brutal-example",
+    "name": "Brutal Example",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "traitor-enforcer"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per turn, while this unit is leading a unit and contains a TRAITOR ENFORCER model, you can target that unit with the Fire Overwatch Stratagem for 0CP, and can do so even if you have already targeted a different unit from your army with that Stratagem this turn. Each time you use this ability, one Bodyguard model in that unit is destroyed."
+  },
+  {
+    "ability_id": "mutated-bodyguard",
+    "name": "Mutated Bodyguard",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "traitor-enforcer"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this unit contains a Traitor Ogryn model, CHARACTER models in this unit have the Feel No Pain 4+ ability."
+  },
+  {
+    "ability_id": "dark-zealotry",
+    "name": "Dark Zealotry",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "dark-apostle"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this unit is leading a unit and contains a DARK APOSTLE model, each time a model in that unit makes a melee attack, add 1 to the Wound roll."
+  },
+  {
+    "ability_id": "demagogue",
+    "name": "Demagogue",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "dark-apostle"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per battle, at the start of any phase, you can select one friendly HERETIC ASTARTES unit that is Battle-shocked and within 12\" of this unit’s DARK APOSTLE model. That unit is no longer Battle-shocked."
+  },
+  {
+    "ability_id": "malign-sacrifice",
+    "name": "Malign Sacrifice",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "dark-apostle"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of the Fight phase, if this unit contains one or more Dark Disciple models, you can select one of those models and one enemy unit within Engagement Range of this unit, then roll one D6: on a 2-5, that enemy unit suffers 1 mortal wound; on a 6, that enemy unit suffers D3 mortal wounds. That Dark Disciple model is then destroyed."
+  },
+  {
+    "ability_id": "mind-breaking-mutations-aura",
+    "name": "Mind-breaking Mutations (Aura)",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "chaos-spawn"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "While an enemy unit (excluding VEHICLE units) is within 3\" of this unit, subtract 1 from the Objective Control characteristic of models in that enemy unit."
+  },
+  {
+    "ability_id": "annihilator",
+    "name": "Annihilator",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "chaos-predator-annihilator"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a ranged attack made by this model is allocated to a MONSTER or VEHICLE model, you can re‐roll the Damage roll."
+  },
+  {
+    "ability_id": "soul-eater",
+    "name": "Soul Eater",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "venomcrawler"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the end of the Fight phase, if one or more attacks made by this model this phase destroyed one or more enemy units, until the end of the battle, add 1 to the Attacks characteristic of this model’s weapons."
+  },
+  {
+    "ability_id": "stabilisation-talons",
+    "name": "Stabilisation Talons",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "havocs"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a model in this unit makes an attack with a ranged weapon, you can ignore any or all modifiers to the Hit roll and any or all modifiers to the Ballistic Skill characteristic of that weapon."
+  },
+  {
+    "ability_id": "malevolent-locus-aura",
+    "name": "Malevolent Locus (Aura)",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "noctilith-crown"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "While a friendly HERETIC ASTARTES unit is within 9\" of this FORTIFICATION, improve that unit’s Leadership characteristic by 1."
+  },
+  {
+    "ability_id": "malign-cover",
+    "name": "Malign Cover",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "noctilith-crown"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a ranged attack is allocated to a model, if that model is not fully visible to every model in the attacking unit because of this FORTIFICATION, that model has the Benefit of Cover against that attack."
+  },
+  {
+    "ability_id": "fortification",
+    "name": "Fortification",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "noctilith-crown"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "While an enemy unit is only within Engagement Range of one or more FORTIFICATIONS from your army:\n\n■ That unit can still be selected as the target of ranged attacks, but each time such an attack is made, unless it is made with a Pistol, subtract 1 from the Hit roll.\n■ Models in that unit do not need to take Desperate Escape tests due to Falling Back while Battle-shocked, except for those that will move over enemy models when doing so."
+  },
+  {
+    "ability_id": "fearsome-aura",
+    "name": "Fearsome (Aura)",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "raptors",
+      "gellerpox-infected"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "While an enemy unit is within 6\" of this unit, each time that enemy unit takes a Battle-shock or Leadership test, subtract 1 from the result."
+  },
+  {
+    "ability_id": "terrifying-assault",
+    "name": "Terrifying Assault",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "raptors"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of the Fight phase, each enemy unit within Engagement Range of one or more units with this ability must take a Battle-shock test."
+  },
+  {
+    "ability_id": "daemonforge",
+    "name": "Daemonforge",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "defiler"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this unit makes a Dark Pact, until the end of the phase, each time this model makes an attack, re-roll a Wound roll of 1. In addition, once per battle, when this unit makes a Dark Pact, before making the resulting Leadership test, you can declare it will overcharge its daemonforge. If it does:\n\n■ If the resulting Leadership test is failed, this model suffers 3 mortal wounds instead of D3 mortal wounds.\n■ Until the end of the phase, each time this model makes an attack, you can re-roll the Wound roll"
+  },
+  {
+    "ability_id": "scuttling-walker",
+    "name": "Scuttling Walker",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "defiler"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this unit makes a Normal, Advance or Fall Back move, it can move through models (excluding TITANIC models) and terrain features. When doing so, it can move within Engagement Range of enemy models, but cannot end that move within Engagement Range of them, and any Desperate Escape test is automatically passed."
+  },
+  {
+    "ability_id": "destructor",
+    "name": "Destructor",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "chaos-predator-destructor"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a ranged attack made by this model targets an enemy INFANTRY unit, improve the Armour Penetration characteristic of that attack by 1."
+  },
+  {
+    "ability_id": "chosen-marauders",
+    "name": "Chosen Marauders",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "chosen"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "This unit is eligible to shoot and declare a charge in a turn in which it Advanced or Fell Back."
+  },
+  {
+    "ability_id": "twisted-defence-force",
+    "name": "Twisted Defence Force",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "traitor-guardsmen-squad"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this unit is within range of an objective marker, each time a ranged attack targets this unit, models in this unit have the Benefit of Cover against that attack."
+  },
+  {
+    "ability_id": "airborne-predator",
+    "name": "Airborne Predator",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "heldrake"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model makes an attack that targets a unit that can FLY, add 1 to the Hit roll."
+  },
+  {
+    "ability_id": "siege-shield",
+    "name": "Siege Shield",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "chaos-vindicator"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "When making ranged attacks with its demolisher cannon, this model can target enemy units within Engagement Range of it (provided no other friendly units are also within Engagement Range of that enemy unit). In addition, when making ranged attacks, this model does not suffer the penalty to its Hit rolls for being within Engagement Range of one or more enemy units."
+  },
+  {
+    "ability_id": "daemonic-ordnance",
+    "name": "Daemonic Ordnance",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "forgefiend"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model is selected to shoot, it can use this ability. If it does, until the end of the phase, its ranged weapons have the [DEVASTATING WOUNDS] and [HAZARDOUS] abilities."
+  },
+  {
+    "ability_id": "warpsmith",
+    "name": "Warpsmith",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "warpsmith"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is within 3\" of one or more friendly HERETIC ASTARTES VEHICLE units, this model has the Lone Operative ability."
+  },
+  {
+    "ability_id": "master-of-mechanisms",
+    "name": "Master of Mechanisms",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "warpsmith"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Command phase, select one friendly HERETIC ASTARTES VEHICLE model within 3\" of this model. That VEHICLE model regains up to D3 lost wounds and, until the start of your next Command phase, each time that VEHICLE makes an attack, add 1 to the Hit roll. Each model can only be selected for this ability once per Command phase."
+  },
+  {
+    "ability_id": "enrage-machine-spirits",
+    "name": "Enrage Machine Spirits",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "warpsmith"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the end of your Movement phase, select one enemy VEHICLE unit within 12\" of this model. That unit must take a Battle-shock test."
+  },
+  {
+    "ability_id": "formidably-resilient",
+    "name": "Formidably Resilient",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "chaos-lord-in-terminator-armour"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time an attack is allocated to this model, halve the Damage characteristic of that attack."
+  },
+  {
+    "ability_id": "trophy-takers",
+    "name": "Trophy Takers",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "red-corsairs-raiders"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "The first time this unit destroys an enemy unit, until the end of the battle, while this unit is not Battle-shocked, add 1 to the Objective Control characteristic of models in this unit."
+  },
+  {
+    "ability_id": "warp-sighted-butcher",
+    "name": "Warp-sighted Butcher",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "master-of-executions"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, each time a model in that unit makes a melee attack that targets a unit that is below its Starting Strength, you can re-roll the Hit roll. If that unit is Below Half-strength, you can re-roll the Wound roll as well."
+  },
+  {
+    "ability_id": "trophy-taker",
+    "name": "Trophy Taker",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "master-of-executions"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model destroys an enemy CHARACTER model, you gain 1CP."
+  },
+  {
+    "ability_id": "howling-horde",
+    "name": "Howling Horde",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "accursed-cultists"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time an enemy unit has shot, if one or more models from this unit were destroyed as a result of those attacks, this unit can make a Horde move. To do so, roll one D6: this unit can be moved a number of inches up to the result, but this unit must finish that move as close as possible to the closest enemy unit (excluding AIRCRAFT). When doing so, those models can be moved within Engagement Range of that enemy unit. A unit cannot make a Horde move while it is Battle-shocked."
+  },
+  {
+    "ability_id": "dark-ascension-aura",
+    "name": "Dark Ascension (Aura)",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "helbrute"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "While a friendly HERETIC ASTARTES unit is within 6\" of this model, each time that unit makes a Dark Pact, until the end of the phase, weapons equipped by models in that unit gain both abilities conferred by that pact (instead of only one)."
+  },
+  {
+    "ability_id": "devoted-to-destruction",
+    "name": "Devoted to Destruction",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "helbrute"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "If this model is equipped with two melee weapons in addition to its close combat weapon, add 2 to the Attacks characteristic of those two weapons."
+  },
+  {
+    "ability_id": "cruel-hunter",
+    "name": "Cruel Hunter",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "chaos-lord-with-jump-pack"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, each time that unit Piles In or Consolidates, each model in that unit can move up to 6\" instead of up to 3\"."
+  },
+  {
+    "ability_id": "for-the-dark-gods",
+    "name": "For the Dark Gods",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "cultist-mob"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the end of your Command phase, if this unit is within range of an objective marker you control, that objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
+  },
+  {
+    "ability_id": "chance-for-glory",
+    "name": "Chance for Glory",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "chaos-lord"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per battle, at the start of the Fight phase, this model can use this ability. If it does, until the end of the phase, improve the Strength, Attacks, Armour Penetration and Damage characteristics of melee weapons equipped by this model by 1."
+  },
+  {
+    "ability_id": "rapid-assault",
+    "name": "Rapid Assault",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "chaos-bikers"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a model in this unit makes a melee attack, if this unit made a Charge move this turn, improve the Strength characteristic of that attack by 1."
+  },
+  {
+    "ability_id": "warp-strike",
+    "name": "Warp Strike",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "warp-talons"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the end of the Fight phase, if this unit destroyed one or more enemy units this phase and is not within Engagement Range of one or more enemy units, you can remove this unit from the battlefield and place it into Strategic Reserves."
+  },
+  {
+    "ability_id": "bestial-raiders",
+    "name": "Bestial Raiders",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "fellgor-beastmen"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "If this unit starts the game in Strategic Reserves, it can be set up in the Reinforcements step of your first, second or third Movement phase, regardless of any mission rules. If this unit is in Strategic Reserves, for the purposes of setting up this unit on the battlefield, treat the current battle round number as being one higher than it actually is."
+  },
+  {
+    "ability_id": "siege-crawler",
+    "name": "Siege Crawler",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "maulerfiend"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "You can ignore any or all modifiers to this model’s Move characteristic and to Advance and Charge rolls made for it."
+  },
+  {
+    "ability_id": "self-repair",
+    "name": "Self Repair",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "chaos-rhino"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of your Command phase, this model regains 1 lost wound."
+  },
+  {
+    "ability_id": "veterans-of-the-long-war",
+    "name": "Veterans of the Long War",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "legionaries"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a model in this unit targets an enemy unit with a melee attack, re-roll a Wound roll of 1. If that enemy unit is within range of an objective marker, you can re-roll the Wound roll instead."
+  },
+  {
+    "ability_id": "brutal-raider",
+    "name": "Brutal Raider",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "red-corsairs-reave-captain"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model’s unit ends a Charge move, until the end of the turn, add 1 to the Strength characteristic of melee weapons equipped by this model and improve the Armour Penetration characteristics of those weapons by 1."
+  },
+  {
+    "ability_id": "raider-s-due",
+    "name": "Raider’s Due",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "red-corsairs-reave-captain"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this unit declares a Charge that targets one or more units that are within range of one or more objective markers, you can re-roll the Charge roll."
+  },
+  {
+    "ability_id": "choice-samples",
+    "name": "Choice Samples",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "masters-of-the-maelstrom"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this unit’s Garreon the Corpsemaster is on the battlefield, in your Command phase, select one of the following: you can return 1 destroyed model (excluding CHARACTER models) to this unit, or, if one or more HERETIC ASTARTES INFANTRY units from your army are below Starting Strength and within 3” of this unit, you gain 1CP."
+  },
+  {
+    "ability_id": "fleet-command",
+    "name": "Fleet Command",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "masters-of-the-maelstrom"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "After both players have deployed their armies, if this unit is on the battlefield (or any TRANSPORT it is embarked within is on the battlefield) select up to three HERETIC ASTARTES units from your army and redeploy them. When doing so, you can set those units up in Strategic Reserves, regardless of how many units are already in Strategic Reserves."
+  },
+  {
+    "ability_id": "plunder",
+    "name": "Plunder",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "masters-of-the-maelstrom"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per battle, after this unit ends a Normal move, you can select one visible enemy unit within 12\" of it and roll one D6: on a 2+, that enemy unit suffers D3+1 mortal wounds."
+  },
+  {
+    "ability_id": "masters-of-the-maelstrom",
+    "name": "Masters of the Maelstrom",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "masters-of-the-maelstrom"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of the Declare Battle Formations step, this unit can join one of the following units. This unit then counts as part of that unit for the rest of the battle, and that unit’s Starting Strength is increased accordingly. \n\n■ CHOSEN\n■ LEGIONARIES\n■ RED CORSAIRS RAIDERS\n\nThis unit cannot join an Attached unit, and only HURON BLACKHEART can join a unit this unit has joined."
+  },
+  {
+    "ability_id": "unholy-mechanisms-aura",
+    "name": "Unholy Mechanisms (Aura)",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "vashtorr-the-arkifane"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "While a friendly DAEMON VEHICLE unit is within 6\" of this model, add 2 to the Strength characteristic of weapons equipped by models in that unit."
+  },
+  {
+    "ability_id": "reorder-reality",
+    "name": "Reorder Reality",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "vashtorr-the-arkifane"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time an enemy unit within 18\" of this model targets this model, subtract 1 from the Hit roll and, until the end of the phase, that enemy unit’s ranged weapons have the [HAZARDOUS] ability."
+  },
+  {
+    "ability_id": "indentured-daemon-engines",
+    "name": "Indentured Daemon Engines",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "vashtorr-the-arkifane"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is within 3\" of one or more friendly DAEMON VEHICLE units, this model has the Lone Operative ability."
+  },
+  {
+    "ability_id": "lord-of-badab-aura",
+    "name": "Lord of Badab (Aura)",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "huron-blackheart"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "While a friendly HERETIC ASTARTES INFANTRY unit (excluding Battle-shocked units and DAMNED units) is within 6\" of this model, add 1 to the Objective Control characteristic of models in that unit."
+  },
+  {
+    "ability_id": "hamadrya-s-knowledge-psychic",
+    "name": "Hamadrya’s Knowledge (Psychic)",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "huron-blackheart"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per battle round, when an enemy unit ends a Normal, Advance or Fall Back move within 9\" of this model’s unit, if this model’s unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to D3+3\"."
+  },
+  {
+    "ability_id": "head-taker",
+    "name": "Head Taker",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "haarken-worldclaimer"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, each time this model’s unit ends a Charge move, select one enemy unit within Engagement Range of this model’s unit and roll one D6 for each model in this model’s unit that is within Engagement Range of that enemy unit: for each 4+, that enemy unit suffers 1 mortal wound."
+  },
+  {
+    "ability_id": "herald-of-the-apocalypse-aura",
+    "name": "Herald of the Apocalypse (Aura)",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "haarken-worldclaimer"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "While an enemy unit is within 6\" of this model, in the Battle-shock step of your opponent’s Command phase, if that enemy unit is below its Starting Strength, it must take a Battle-shock test. This ability cannot cause a unit to take two Battle-shock tests in the same phase."
+  },
+  {
+    "ability_id": "warmaster",
+    "name": "Warmaster",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "abaddon-the-despoiler"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Command phase, select one Warmaster ability. Until the start of your next Command phase, this model has that ability."
+  },
+  {
+    "ability_id": "dark-destiny",
+    "name": "Dark Destiny",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "abaddon-the-despoiler"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model’s unit makes a Dark Pact and does not fail the resulting Leadership test, if the result of that test was 7+, you gain 1CP."
+  },
+  {
+    "ability_id": "supreme-commander",
+    "name": "Supreme Commander",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "abaddon-the-despoiler"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "If this model is in your army, it must be your WARLORD."
+  },
+  {
+    "ability_id": "enhanced-warriors",
+    "name": "Enhanced Warriors",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "fabius-bile"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "If this unit is attached to a unit at the start of the battle, until the end of the battle, add 1 to the Strength characteristic of melee weapons equipped by Bodyguard models in that unit and add 1 to the Toughness characteristic of Bodyguard models in that unit."
+  },
+  {
+    "ability_id": "surgeon-acolyte",
+    "name": "Surgeon Acolyte",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "fabius-bile"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per turn, when an attack is allocated to a model in this unit, if this unit contains FABIUS BILE, you can change the Damage characteristic of that attack to 0."
+  },
+  {
+    "ability_id": "chirurgeon",
+    "name": "Chirurgeon",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "fabius-bile"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "The first time this unit’s FABIUS BILE model is destroyed, at the end of the phase, roll one D6: on a 2+, set it back up on the battlefield, as close as possible to where it was destroyed and not within Engagement Range of any enemy models, with its full wounds remaining. If that model was attached to a unit when it was destroyed, it must be set up attached to that unit."
+  },
+  {
+    "ability_id": "agent-of-discord-aura",
+    "name": "Agent of Discord (Aura)",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "cypher"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time your opponent targets a unit from their army with a Stratagem, if that unit is within 12\" of this model, increase the cost of that use of that Stratagem by 1CP (this is not cumulative with any other rules that would increase the CP cost of that Stratagem)."
+  },
+  {
+    "ability_id": "guns-blazing",
+    "name": "Guns Blazing",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "cypher"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per turn, in your opponent’s Shooting phase, when an enemy unit makes a ranged attack that targets a friendly HERETIC ASTARTES unit within 3\" of this model, after that enemy unit has shot, this model can shoot as if it were your Shooting phase, but it must target only that enemy unit when doing so, and can only do so if that enemy unit is an eligible target."
+  },
+  {
+    "ability_id": "plough-through-the-enemy",
+    "name": "Plough Through the Enemy",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "khorne-lord-of-skulls"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "In the Fight phase, after this model has finished making its attacks, if this model destroyed one or more enemy units this phase, each enemy unit within 6\" of this model must take a Battle-shock test."
+  },
+  {
+    "ability_id": "dreadclaw-assault",
+    "name": "Dreadclaw Assault",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "dreadclaw-drop-pod"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "This model must start the battle in Reserves, but neither it nor any units embarked within it are counted towards any limits placed on the maximum number of Reserves units you can start the battle with. This model can be set up in the Reinforcements step of your first, second or third Movement phase, regardless of any mission rules. Any units embarked within this model can disembark after it has been set up on the battlefield, and if they do they must be set up more than 9\" away from all enemy models."
+  },
+  {
+    "ability_id": "hovering-death",
+    "name": "Hovering Death",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "greater-blight-drone"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "This model is eligible to shoot and declare a charge in a turn in which it Fell Back."
+  },
+  {
+    "ability_id": "interceptor",
+    "name": "Interceptor",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "hell-blade"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model makes a ranged attack that targets a unit that can Fly, add 1 to the Hit roll."
+  },
+  {
+    "ability_id": "scuttling-gait",
+    "name": "Scuttling Gait",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "blood-slaughterer"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this unit Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in this unit."
+  },
+  {
+    "ability_id": "armoured-spearhead",
+    "name": "Armoured Spearhead",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "chaos-deimos-predator"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model makes an attack that targets an enemy unit, re-roll a Hit roll of 1 and, if that unit is within range of an objective marker you do not control, you can re-roll the Hit roll instead."
+  },
+  {
+    "ability_id": "infernal-regeneration",
+    "name": "Infernal Regeneration",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "decimator"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "The first time this model is destroyed, remove it from play without resolving its Deadly Demise ability. Then, at the end of the phase, roll one D6: on a 2+, set this model back up on the battlefield as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with D6 wounds remaining."
+  },
+  {
+    "ability_id": "bomb-rack",
+    "name": "Bomb Rack",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "hell-talon"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model ends a Normal move, you can select one enemy unit it moved across during that move and roll six D6: for each 3+, that unit suffers 1 mortal wound."
+  },
+  {
+    "ability_id": "kharybdis-assault",
+    "name": "Kharybdis Assault",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "kharybdis-assault-claw"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "This model must start the battle in Reserves, but neither it nor any units embarked within it are counted towards any limits placed on the maximum number of Reserves units you can start the battle with. This model can be set up in the Reinforcements step of your first, second or third Movement phase, regardless of any mission rules. Any units embarked within this model can disembark after it has been set up on the battlefield, and if they do they must be set up more than 9\" away from all enemy models."
+  },
+  {
+    "ability_id": "aerial-assault",
+    "name": "Aerial Assault",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "chaos-thunderhawk"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a unit with the Deep Strike ability disembarks from this model after it has made a Normal move, that unit is still eligible to declare a charge this turn."
+  },
+  {
+    "ability_id": "thunderhawk-cluster-bombs",
+    "name": "Thunderhawk Cluster Bombs",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "chaos-thunderhawk"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time the bearer ends a Normal move, you can select one enemy unit it moved over during that move and roll six D6: for each 3+, that unit suffers 1 mortal wound."
+  },
+  {
+    "ability_id": "super-heavy-walker",
+    "name": "Super-heavy Walker",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "kytan-ravager"
+    ],
+    "ability_type": "core",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a model with this ability makes a Normal, Advance or Fall Back move, it can move over models (excluding Titanic models) and terrain features that are 4\" or less in height as if they were not there."
+  },
+  {
+    "ability_id": "bloodlust",
+    "name": "Bloodlust",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "kytan-ravager"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model makes a Charge move, until the end of the turn, its melee weapons have the [SUSTAINED HITS 1] ability. In addition, once per battle, this model is eligible to declare a charge in a turn in which it Advanced."
+  },
+  {
+    "ability_id": "runes-of-the-blood-god",
+    "name": "Runes of the Blood God",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "greater-brass-scorpion"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "This model has the Feel No Pain 4+ ability against mortal wounds and Psychic Attacks."
+  },
+  {
+    "ability_id": "death-frenzy",
+    "name": "Death Frenzy",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "mutilators"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a model in this unit is destroyed by a melee attack, if that model has not fought this phase, roll one D6. On a 4+, do not remove it from play; that destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play."
+  },
+  {
+    "ability_id": "cult-of-destruction",
+    "name": "CULT OF DESTRUCTION",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "mutilators"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "For the purposes of embarking within Transports, each Mutilator model counts as one Obliterator model."
+  },
+  {
+    "ability_id": "voltagheist-field",
+    "name": "Voltagheist Field",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "negavolt-cultists"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this unit ends a Charge move, select one enemy unit within Engagement Range of it and roll one D6 for each model in this unit: for each 4+, that enemy unit suffers 1 mortal wound."
+  },
+  {
+    "ability_id": "servants-of-the-abyss",
+    "name": "SERVANTS OF THE ABYSS",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "negavolt-cultists"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "If a unit from your army with the Leader ability can be attached to a Cultist Mob, it can be attached to this unit instead."
+  },
+  {
+    "ability_id": "wall-of-muscle",
+    "name": "Wall of Muscle",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "renegade-plague-ogryns"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time an attack is allocated to a model in this unit, subtract 1 from the Damage characteristic of that attack."
+  },
+  {
+    "ability_id": "ogryns",
+    "name": "OGRYNS",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "renegade-plague-ogryns"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "For the purposes of embarking within Transports, each Renegade Plague Ogryn model counts as one Terminator model."
+  },
+  {
+    "ability_id": "mischief-makers-aura",
+    "name": "Mischief Makers (Aura)",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "mutoid-vermin"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "While an enemy unit (excluding Monsters and Vehicles) is within 6\" of this unit, each time a model in that unit makes a melee attack, subtract 1 from the Hit roll."
+  },
+  {
+    "ability_id": "psychic-barrier-psychic",
+    "name": "Psychic Barrier (Psychic)",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "rogue-psyker"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of your opponent’s Shooting phase, you can roll one D6: on a 1, this Psyker’s unit suffers D3 mortal wounds; on a 2+, until the end of the phase, models in this Psyker’s unit have a 4+ invulnerable save."
+  },
+  {
+    "ability_id": "cursed-wardings-psychic",
+    "name": "Cursed Wardings (Psychic)",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "rogue-psyker"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, models in that unit have the Feel No Pain 4+ ability against Psychic Attacks."
+  },
+  {
+    "ability_id": "unholy-power",
+    "name": "Unholy Power",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "sorcerer-on-bike"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model's unit makes a Dark Pact, until the end of the phase, each time this model makes a Psychic Attack, add 1 to the Wound roll."
+  },
+  {
+    "ability_id": "altered-reality-psychic",
+    "name": "Altered Reality (Psychic)",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "sorcerer-on-disc-of-tzeentch"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per battle round, after a Hit roll, a Wound roll or a saving throw is made for this model, you can change the result of that roll to a 6."
+  },
+  {
+    "ability_id": "flames-of-change-psychic",
+    "name": "Flames of Change (Psychic)",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "sorcerer-on-disc-of-tzeentch"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, ranged weapons equipped by models in that unit have the [IGNORES COVER] ability."
+  },
+  {
+    "ability_id": "feculent-despair-aura-psychic",
+    "name": "Feculent Despair (Aura, Psychic)",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "sorcerer-on-palanquin-of-nurgle"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "While an enemy unit is within 6\" of this model, each time that unit takes a Battle-shock test, subtract 1 from that test."
+  },
+  {
+    "ability_id": "gift-of-poxes-psychic",
+    "name": "Gift of Poxes (Psychic)",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "sorcerer-on-palanquin-of-nurgle"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability."
+  },
+  {
+    "ability_id": "infernal-speed",
+    "name": "Infernal Speed",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "sorcerer-on-steed-of-slaanesh"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, change the Move characteristic of models in that unit to 14\"."
+  },
+  {
+    "ability_id": "dark-favour-psychic",
+    "name": "Dark Favour (Psychic)",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "sorcerer-on-steed-of-slaanesh"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, models in that unit have a 4+ invulnerable save."
+  },
+  {
+    "ability_id": "revolting-regeneration",
+    "name": "Revolting Regeneration",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "chaos-lord-on-palanquin-of-nurgle"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of your Command phase, this model regains up to D3 lost wounds."
+  },
+  {
+    "ability_id": "cut-off-their-escape",
+    "name": "Cut Off Their Escape",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "chaos-lord-on-steed-of-slaanesh"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time an enemy unit (excluding Monsters and Vehicles) within Engagement Range of this model’s unit is selected to Fall Back, models in that enemy unit must take Desperate Escape tests as if their unit was Battle-shocked. When doing so, if that enemy unit is also Battle-shocked by other means, subtract 1 from each of those Desperate Escape tests."
+  },
+  {
+    "ability_id": "bloody-stampede",
+    "name": "Bloody Stampede",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "chaos-lord-on-juggernaut"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model’s unit ends a Charge move, select one enemy unit within Engagement Range of this model and roll one D6: on a 2-3, that enemy unit suffers 1 mortal wound; on a 4-5, that enemy unit suffers D3 mortal wounds; on a 6, that enemy unit suffers D3+3 mortal wounds."
+  },
+  {
+    "ability_id": "lord-of-fate",
+    "name": "Lord of Fate",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "chaos-lord-on-disc-of-tzeentch"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability against mortal wounds."
+  },
+  {
+    "ability_id": "swift-assault",
+    "name": "Swift Assault",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "chaos-lord-on-bike"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, ranged weapons equipped by models in that unit have the [ASSAULT] ability."
+  },
+  {
+    "ability_id": "enforcer",
+    "name": "Enforcer",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "renegade-enforcer"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "This model's unit is eligible to declare a charge in a turn in which it Fell Back."
+  },
+  {
+    "ability_id": "ogryn-combat-stimms",
+    "name": "Ogryn Combat Stimms",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "renegade-ogryn-brutes"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a model in this unit is destroyed by a melee attack, if that model has not fought this phase, roll one D6. On a 4+, do not remove it from play; that destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play."
+  },
+  {
+    "ability_id": "covering-fire",
+    "name": "Covering Fire",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "renegade-heavy-weapons-squad"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time you target this unit with the Fire Overwatch Stratagem, while resolving that Stratagem, hits are scored on unmodified Hit rolls of 5+."
+  },
+  {
+    "ability_id": "heavy-weapons-team",
+    "name": "HEAVY WEAPONS TEAM",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "renegade-heavy-weapons-squad"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "For the purposes of embarking within Transports, each Renegade Heavy Weapons Team model counts as two models."
+  },
+  {
+    "ability_id": "beastmaster",
+    "name": "Beastmaster",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [
+      "renegade-ogryn-beast-handler"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this unit contains an Ogryn Pack Master model, you can re-roll Charge rolls made for this unit, and each time a Chaos Mauler Hound model in this unit makes an attack, re-roll a Hit roll of 1."
+  },
+  {
+    "ability_id": "touched-by-the-warp",
+    "name": "Touched by the Warp",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "HERETIC ASTARTES model only (excluding KHORNE models). The bearer gains the PSYKER keyword"
+  },
+  {
+    "ability_id": "undying-hatred-devotees",
+    "name": "Undying Hatred",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6: on a 4+, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play."
+  },
+  {
+    "ability_id": "prey-on-the-weak-raiders",
+    "name": "Prey on the Weak",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack that targets a unit that is Battle‑shocked and/or Below Half‑strength, you can re‑roll the Hit roll."
+  },
+  {
+    "ability_id": "infernal-fulgurite",
+    "name": "Infernal Fulgurite",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "HERETIC ASTARTES model only (excluding DAMNED models). Once per battle, you can target the bearer’s unit with the Rapid Ingress Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this phase."
+  },
+  {
+    "ability_id": "eye-of-the-warp",
+    "name": "Eye of the Warp",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "HERETIC ASTARTES model with the Deep Strike ability only. Each time the bearer’s unit is set up on the battlefield, until the end of the turn, you can re-roll Charge rolls made for that unit."
+  },
+  {
+    "ability_id": "akshurs-binding-runes",
+    "name": "Akshur's Binding Runes",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "HERETIC ASTARTES model with the Deep Strike ability only. The bearer’s unit can be set up using the Deep Strike ability in the Reinforcements step of your first, second or third Movement phase, regardless of any mission rules."
+  },
+  {
+    "ability_id": "tzagulla",
+    "name": "Tzagulla",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "HERETIC ASTARTES model with the Deep Strike ability only. Improve the Attacks, Strength and Armour Penetration characteristics of the bearer’s weapons by 1. In addition, each time the bearer’s unit is set up on the battlefield from Reserves, until the end of the turn, improve the Damage characteristic of the bearer’s weapons by 1."
+  },
+  {
+    "ability_id": "empyric-dislocation",
+    "name": "Empyric Dislocation",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+  },
+  {
+    "ability_id": "warp-tainted",
+    "name": "Warp-Tainted",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
+  },
+  {
+    "ability_id": "siegebreaker-strike",
+    "name": "Siegebreaker Strike",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, ranged weapons equipped by models in your units have the [IGNORES COVER] ability."
+  },
+  {
+    "ability_id": "armour-of-corruption",
+    "name": "Armour of Corruption",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the turn, each time an attack is allocated to a model in your unit, subtract 1 from the Damage characteristic of that attack."
+  },
+  {
+    "ability_id": "warp-flicker",
+    "name": "Warp Flicker",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced."
+  },
+  {
+    "ability_id": "portal-of-spite",
+    "name": "Portal of Spite",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time your unit declares a charge, if the closest eligible enemy unit is selected as one of the targets of that charge, add 2 to the Charge roll."
+  },
+  {
+    "ability_id": "wyredjinn",
+    "name": "Wyredjinn",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "HERETIC ASTARTES model only (excluding DAMNED models). At the start of your Command phase, if the bearer is on the battlefield, roll one D6, adding 1 to the result if the bearer is within range of an objective marker you control: on a 4+, you gain 1CP."
+  },
+  {
+    "ability_id": "cybinfernal-font",
+    "name": "Cybinfernal Font",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "HERETIC ASTARTES model only (excluding DAMNED models). Models in the bearer’s unit have the SOUL FORGE keyword."
+  },
+  {
+    "ability_id": "mark-of-the-soul-forges",
+    "name": "Mark of the Soul Forges",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "HERETIC ASTARTES model only (excluding DAMNED models). Each time the bearer makes an attack, an unmodified Hit roll of 5+ scores a Critical Hit."
+  },
+  {
+    "ability_id": "crown-of-worms",
+    "name": "Crown of Worms",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "&x20;WARPSMITH model only. Add 3” to the range of the bearer’s Warpsmith, Master of Mechanisms and Enrage Machine Spirits abilities"
+  },
+  {
+    "ability_id": "touch-of-the-arkifane",
+    "name": "Touch of the Arkifane",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, if your unit is selected to make a Dark Pact, you can select both abilities for that unit’s weapons to gain."
+  },
+  {
+    "ability_id": "balefire-boon",
+    "name": "Balefire Boon",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, improve the Armour Penetration characteristic of that attack by 1."
+  },
+  {
+    "ability_id": "biomechanoid-regeneration",
+    "name": "Biomechanoid Regeneration",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "One model in your unit regains up to D3 lost wounds. If your unit has the SOUL FORGE keyword, one model in your unit regains up to 3 lost wounds instead."
+  },
+  {
+    "ability_id": "forge-fire-surge",
+    "name": "Forge-Fire Surge",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the turn, your unit is eligible to shoot in a turn in which it Advanced. If your unit has the SOUL FORGE keyword, until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced instead."
+  },
+  {
+    "ability_id": "unholy-fortitude",
+    "name": "Unholy Fortitude",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, add 1 to the Toughness characteristic of models in your unit."
+  }
+]
