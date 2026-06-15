@@ -1,0 +1,2586 @@
+[
+  {
+    "ability_id": "titanic-advance",
+    "name": "Titanic Advance",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "revenant-titan"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model makes a Normal, Advance or Fall Back move, it can move over models (excluding TITANIC models) and terrain features that are 4\" or less in height as if they were not there."
+  },
+  {
+    "ability_id": "towering-wraith-construct",
+    "name": "Towering Wraith Construct",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "revenant-titan"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time you target this model with a Stratagem, you must spend twice that Stratagem’s stated CP cost to do so."
+  },
+  {
+    "ability_id": "revenant-jet-pack",
+    "name": "Revenant Jet Pack",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "revenant-titan"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 8\" to the Move characteristic of this model."
+  },
+  {
+    "ability_id": "support-weapon",
+    "name": "Support Weapon",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "shadow-weaver-platform"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time an attack targets this model’s unit, if that unit contains one or more other models, until that attack is resolved, this model has a Toughness characteristic of 3."
+  },
+  {
+    "ability_id": "monofilament-snare",
+    "name": "Monofilament Snare",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "shadow-weaver-platform"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks made with its shadow weaver. Until the start of your next turn, that enemy unit is snared. While a unit is snared, each time that unit makes a Normal, Advance or Fall Back move, roll one D6 for each model in that unit: for each 1, that unit suffers 1 mortal wound."
+  },
+  {
+    "ability_id": "support-artillery",
+    "name": "Support Artillery",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "shadow-weaver-platform"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of the Declare Battle Formations step, this model can join one GUARDIAN DEFENDERS unit from your army (a unit cannot have more than one SUPPORT WEAPON model joined to it). This model then counts as part of that GUARDIANS unit for the rest of the battle, and that unit’s Starting Strength is increased accordingly.\n\nThis model, and any unit it is joined to, cannot embark within a TRANSPORT."
+  },
+  {
+    "ability_id": "mandiblasters",
+    "name": "Mandiblasters",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "striking-scorpions"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a model in this unit makes a melee attack, if it made a Charge move this turn, an unmodified Hit roll of 5+ scores a Critical Hit."
+  },
+  {
+    "ability_id": "aspect-shrine-token",
+    "name": "Aspect Shrine Token",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "striking-scorpions",
+      "fire-dragons",
+      "swooping-hawks",
+      "warp-spiders",
+      "dark-reapers",
+      "dire-avengers",
+      "howling-banshees"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per battle for each Aspect Shrine token this unit has, you can change the result of one Hit roll or one Wound roll made for a model in this unit (excluding CHARACTER models) to an unmodified 6."
+  },
+  {
+    "ability_id": "diviner-of-futures",
+    "name": "Diviner of Futures",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "eldrad-ulthran"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of your Command phase, if this model is on the battlefield, you gain 1CP."
+  },
+  {
+    "ability_id": "doom-psychic",
+    "name": "Doom (Psychic)",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "eldrad-ulthran"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the end of your Movement phase, select one enemy unit within 18\" of and visible to this model. Until the start of your next Command phase, each time a friendly AELDARI model makes an attack that targets that enemy unit, add 1 to the Wound roll."
+  },
+  {
+    "ability_id": "psychic-guidance",
+    "name": "Psychic Guidance",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "wraithlord"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is within 12\"of one or more friendly AELDARI PSYKER models, improve the Ballistic Skill and Weapon Skill characteristics of weapons equipped by this model by 1 and it has a Leadership characteristic of 6+."
+  },
+  {
+    "ability_id": "fated-hero",
+    "name": "Fated Hero",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "wraithlord"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of the battle, select one of the following keywords: INFANTRY; MONSTER; MOUNTED; VEHICLE. Each time this model makes an attack that targets a unit with the selected keyword, re‐roll a Hit roll of 1 and re‐roll a Wound roll of 1."
+  },
+  {
+    "ability_id": "wave-serpent-shield",
+    "name": "Wave Serpent Shield",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "wave-serpent"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a ranged attack targets this model, if the Strength characteristic of that attack is greater than the Toughness characteristic of this model, subtract 1 from the Wound roll."
+  },
+  {
+    "ability_id": "word-of-the-phoenix-psychic",
+    "name": "Word of the Phoenix (Psychic)",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "yvraine"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, in your Command phase, roll one D6: on a 2+, D3+1 destroyed Bodyguard models (excluding SUPPORT WEAPON models) are returned to that unit with their full wounds remaining."
+  },
+  {
+    "ability_id": "herald-of-ynnead",
+    "name": "Herald of Ynnead",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "yvraine"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Herald of Ynnead: At the start of the Fight phase, select one enemy unit within Engagement Range of this model. Until the end of the phase, each time a friendly AELDARI model makes an attack that targets that unit, you can re‐roll a Wound roll of 1."
+  },
+  {
+    "ability_id": "servant-of-the-whispering-god",
+    "name": "Servant of The Whispering God",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "yvraine"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "If your army includes YVRAINE, it cannot include any EPIC HERO units (excluding YNNARI units). If your army includes any EPIC HERO units (excluding YNNARI units), it cannot include YVRAINE."
+  },
+  {
+    "ability_id": "piratical-raiders",
+    "name": "Piratical Raiders",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "corsair-voidscarred"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of the battle, select one unit from your opponent’s army. Weapons equipped by models in this unit have the [LETHAL HITS] and [PRECISION] abilities while targeting that unit."
+  },
+  {
+    "ability_id": "mistshield",
+    "name": "Mistshield",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "corsair-voidscarred"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "The bearer has a 4+ invulnerable save."
+  },
+  {
+    "ability_id": "faolchu",
+    "name": "Faolchú",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "corsair-voidscarred"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Ranged weapons equipped by models in the bearer’s unit have the [IGNORES COVER] ability."
+  },
+  {
+    "ability_id": "channeller-stones",
+    "name": "Channeller Stones",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "corsair-voidscarred"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per turn, the first time a saving throw is failed for the bearer’s unit, change the Damage characteristic of that attack to 0."
+  },
+  {
+    "ability_id": "crystal-matrix",
+    "name": "Crystal Matrix",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "fire-prism"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model is selected to shoot, you can re‐roll one Hit roll and you can re‐roll one Wound roll when resolving those attacks."
+  },
+  {
+    "ability_id": "superlative-strategist",
+    "name": "Superlative Strategist",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "autarch"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, you can re‐roll Advance rolls made for that unit, and you can re‐roll any rolls made for that unit while it is performing an Agile Manoeuvre."
+  },
+  {
+    "ability_id": "path-of-command",
+    "name": "Path of Command",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "autarch"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per battle round, one model from your army with this ability can use it when its unit is targeted with a Stratagem. If it does, reduce the CP cost of that usage of that Stratagem by 1CP."
+  },
+  {
+    "ability_id": "aspect-training",
+    "name": "Aspect Training",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "autarch"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "■ While this model is leading a HOWLING BANSHEES unit, it has the Fights First ability.\n■ While this model is leading a STRIKING SCORPIONS unit, it has the Infiltrators, Scouts 7\" and Stealth abilities."
+  },
+  {
+    "ability_id": "tormentors",
+    "name": "Tormentors",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "ynnari-incubi"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of the Fight phase, each enemy unit within Engagement Range of one or more units with this ability must take a Battle-shock test."
+  },
+  {
+    "ability_id": "assured-destruction",
+    "name": "Assured Destruction",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "fire-dragons"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Shooting phase, each time a model in this unit makes a ranged attack that targets a MONSTER or VEHICLE unit, you can re‐roll the Hit roll, you can re‐roll the Wound roll and you can re‐roll the Damage roll."
+  },
+  {
+    "ability_id": "tactical-acumen",
+    "name": "Tactical Acumen",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "asurmen"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, in your Shooting phase, after that unit has shot, it can make a Normal move of up to 6\". If it does, until the end of the turn, that unit is not eligible to declare a charge."
+  },
+  {
+    "ability_id": "hand-of-asuryan",
+    "name": "Hand of Asuryan",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "asurmen"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per battle, when this model is selected to shoot, it can use this ability. If it does, until the end of the phase, its Bloody Twins weapon has a Damage characteristic of 3 and the [ANTI‐INFANTRY 5+] and [DEVASTATING WOUNDS] abilities."
+  },
+  {
+    "ability_id": "stormblades",
+    "name": "Stormblades",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "storm-guardians"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the end of your Command phase, if this unit is within range of an objective marker you control, that objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
+  },
+  {
+    "ability_id": "crewed-platform",
+    "name": "Crewed Platform",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "storm-guardians"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "When the last Storm Guardian model in this unit is destroyed, any remaining Serpent’s Scale Platform models in this unit are also destroyed."
+  },
+  {
+    "ability_id": "serpent-shield",
+    "name": "Serpent shield",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "storm-guardians"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Models in the bearer’s unit have a 5+ invulnerable save."
+  },
+  {
+    "ability_id": "structural-collapse",
+    "name": "Structural Collapse",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "d-cannon-platform"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model makes an attack with its D‐cannon, re‐roll a Damage roll of 1. If that attack targets a TITANIC unit, you can re‐roll the Damage roll instead."
+  },
+  {
+    "ability_id": "runes-of-battle-psychic",
+    "name": "Runes of Battle (Psychic)",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "warlock-skyrunners"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Weapons equipped by models in this unit have the [IGNORES COVER] ability."
+  },
+  {
+    "ability_id": "psychic-communion-psychic",
+    "name": "Psychic Communion (Psychic)",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "warlock-skyrunners"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this unit is selected to shoot, for each WARLOCK model in this unit, until the end of the phase, add 1 to the Attacks and Strength characteristics of that model’s Destructor weapon for each other friendly AELDARI PSYKER model within 6\" of that model (to a maximum of +2)."
+  },
+  {
+    "ability_id": "empyric-ambush",
+    "name": "Empyric Ambush",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "lhykhis"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, that unit is eligible to declare a charge in a turn in which it used its Flickerjump ability."
+  },
+  {
+    "ability_id": "whispering-web",
+    "name": "Whispering Web",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "lhykhis"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. Until the end of the turn, each time a friendly AELDARI model makes an attack that targets that unit, an unmodified Hit roll of 5+ scores a Critical Hit."
+  },
+  {
+    "ability_id": "death-is-not-enough",
+    "name": "Death is Not Enough",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "death-jester"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Shooting phase, after this model has shot, select one enemy unit (excluding MONSTERS and VEHICLES) hit by one or more of those attacks. That enemy unit must take a Battle‐shock test. If one or more of those attacks destroyed a model in that enemy unit, subtract 1 from that test."
+  },
+  {
+    "ability_id": "cruel-amusement",
+    "name": "Cruel Amusement",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "death-jester"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Shooting phase, each time this model is selected to shoot, select one of the abilities below. Until the end of the phase, this model’s shrieker cannon has that ability.\n■ [IGNORES COVER]\n■ [PRECISION]\n■ [SUSTAINED HITS 3]"
+  },
+  {
+    "ability_id": "flip-belt",
+    "name": "Flip Belt",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "death-jester"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time the bearer’s unit makes a Normal, Advance, Fall Back or Charge move, ignore any vertical distance when determining the total distance the bearer can be moved during that move."
+  },
+  {
+    "ability_id": "travelling-players",
+    "name": "Travelling Players",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "death-jester"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Unless otherwise stated, you cannot include more than one of this model in your army."
+  },
+  {
+    "ability_id": "piratical-hero",
+    "name": "Piratical Hero",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "prince-yriel"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, each time a model in that unit makes an attack, that attack has the [SUSTAINED HITS 1] ability and add 1 to the Hit roll."
+  },
+  {
+    "ability_id": "prince-of-corsairs",
+    "name": "Prince of Corsairs",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "prince-yriel"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "After both players have deployed their armies, if this unit is on the battlefield (or any TRANSPORT it is embarked within is on the battlefield), select up to three AELDARI units from your army and redeploy them. When doing so, you can set those units up in Strategic Reserves if you wish, regardless of how many units are already in Strategic Reserves."
+  },
+  {
+    "ability_id": "inevitable-death",
+    "name": "Inevitable Death",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "the-yncarne"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once in each of your opponent’s turns, if this model is on the battlefield when another friendly AELDARI unit is destroyed, just after removing the last model in that unit, you can remove this model from the battlefield and set it up as close as possible to where that destroyed model was destroyed and not within Engagement Range of one or more enemy units."
+  },
+  {
+    "ability_id": "ethereal-form",
+    "name": "Ethereal Form",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "the-yncarne"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model destroys an enemy unit, it regains up to D3 lost wounds."
+  },
+  {
+    "ability_id": "avatar-of-the-whispering-god",
+    "name": "Avatar of The Whispering God",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "the-yncarne"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "If your army includes THE YNCARNE, it cannot include any EPIC HERO units (excluding YNNARI units). If your army includes any EPIC HERO units (excluding YNNARI units), it cannot include THE YNCARNE."
+  },
+  {
+    "ability_id": "branching-fates-psychic",
+    "name": "Branching Fates (Psychic)",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "farseer-skyrunner"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, once per phase, you can change the result of one Hit roll, one Wound roll or one Damage roll made for a model in that unit to an unmodified 6."
+  },
+  {
+    "ability_id": "misfortune-psychic",
+    "name": "Misfortune (Psychic)",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "farseer-skyrunner"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the end of your Movement phase, select one enemy unit within 18\" of and visible to this model. Until the start of your next Command phase, each time a model in that unit makes an attack, subtract 1 from the Wound roll. Each unit can only be selected for this ability once per turn."
+  },
+  {
+    "ability_id": "blitz",
+    "name": "Blitz",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "solitaire"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per battle, in your Movement phase, before this model makes a Normal move, it can use this ability. If it does, until the end of the turn, add 2D6\" to this model’s Move characteristic and add 3 to the Attacks characteristic of this model’s Solitaire weapons."
+  },
+  {
+    "ability_id": "blur-of-movement",
+    "name": "Blur of Movement",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "solitaire"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "This model is eligible to declare a charge in a turn in which it Advanced."
+  },
+  {
+    "ability_id": "path-of-damnation",
+    "name": "Path of Damnation",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "solitaire"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "This model cannot be your WARLORD."
+  },
+  {
+    "ability_id": "harvester-of-souls",
+    "name": "Harvester of Souls",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "maugan-ra"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, in your Shooting phase, after selecting targets for that unit’s attacks, if every attack targets the same unit, roll one D6 for the target unit and one D6 for every other enemy unit within 3\" of the target unit. On a 5+, the unit being rolled for is struck by explosive debris; after resolving all of that unit’s attacks against the target unit, each unit struck by explosive debris suffers D3 mortal wounds."
+  },
+  {
+    "ability_id": "face-of-death",
+    "name": "Face of Death",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "maugan-ra"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. That enemy unit must take a Battle‐shock test, subtracting 1 from the result."
+  },
+  {
+    "ability_id": "raid-and-run",
+    "name": "Raid and Run",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "corsair-skyreavers"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the end of the Fight phase, if this unit was eligible to fight this phase, if this unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to D3+3\". Otherwise, if this unit was eligible to fight this phase, this unit can make a Fall Back move of up to D3+3”."
+  },
+  {
+    "ability_id": "fleet-of-foot",
+    "name": "Fleet of Foot",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "guardian-defenders"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "This unit can perform the Fade Back Agile Manoeuvre without spending a Battle Focus token to do so. It can do so even if other units have done so in the same phase, and doing so does not prevent other units from performing the same Agile Manoeuvre in the same phase."
+  },
+  {
+    "ability_id": "flawless-poise",
+    "name": "Flawless Poise",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "phantom-titan"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "This model is eligible to shoot and declare a charge in a turn in which it Fell Back."
+  },
+  {
+    "ability_id": "molten-form",
+    "name": "Molten Form",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "avatar-of-khaine"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time an attack is allocated to this model, halve the Damage characteristic of that attack."
+  },
+  {
+    "ability_id": "the-bloody-handed-aura",
+    "name": "The Bloody-Handed (Aura)",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "avatar-of-khaine"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "While a friendly AELDARI unit is within 6\" of this model, add 1 to Advance and Charge rolls made for that unit."
+  },
+  {
+    "ability_id": "crystalline-targeting",
+    "name": "Crystalline Targeting",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "war-walkers"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Shooting phase, after this unit has shot, select one enemy unit hit by one or more of those attacks. Until the end of the phase, each time a friendly AELDARI unit makes an attack that targets that enemy unit, improve the Armour Penetration characteristic of that attack by 1. Each unit can only be selected for this ability once per turn."
+  },
+  {
+    "ability_id": "aethersense-psychic",
+    "name": "Aethersense (Psychic)",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "kharseth"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Enemy units that are set up on the battlefield from Reserves cannot be set up within 12\" of this model."
+  },
+  {
+    "ability_id": "fury-of-the-void-psychic",
+    "name": "Fury of the Void (Psychic)",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "kharseth"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Shooting phase, after this model’s unit has shot, select one enemy unit hit by one or more attacks made with this model’s Dread of the Deep Void. Until the end of the turn, that unit is riven. Each time an AELDARI model from your army makes an attack that targets a riven unit, add 1 to the Strength characteristic of that attack."
+  },
+  {
+    "ability_id": "mindshock-pod-aura-psychic",
+    "name": "Mindshock Pod (Aura, Psychic)",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "hemlock-wraithfighter"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "While an enemy unit is within 9\" of this model, subtract 1 from Battle-shock and Leadership tests taken for that unit."
+  },
+  {
+    "ability_id": "titanic-strides",
+    "name": "Titanic Strides",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "wraithknight"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model makes a Normal, Advance or Fall Back move, it can move through models (excluding TITANIC models) and sections of terrain features that are 4\" or less in height. When doing so:\n\n■ It can move within Engagement Range of enemy models, but cannot end that move within Engagement Range of them.\n■ It can also move through sections of terrain features that are more than 4\" in height, but if it does, after it has moved, roll one D6: on a 1, this model is Battle‐shocked."
+  },
+  {
+    "ability_id": "point-blank-devastation",
+    "name": "Point‐blank Devastation",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "wraithknight"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model’s heavy wraithcannon or suncannon targets a unit within half range, you can re‐roll the dice to determine the number of attacks made."
+  },
+  {
+    "ability_id": "scattershield",
+    "name": "Scattershield",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "wraithknight"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "The bearer has a 4+ invulnerable save and each time an attack is allocated to the bearer, subtract 1 from the Damage characteristic of that attack."
+  },
+  {
+    "ability_id": "eviscerating-fly-by",
+    "name": "Eviscerating Fly-by",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "ynnari-reavers"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this unit ends a Normal move, you can select one enemy unit (excluding MONSTER and VEHICLE units) that it moved over during that move. If you do, roll one D6 for each model in this unit: for each 4+, that enemy unit suffers 1 mortal wound."
+  },
+  {
+    "ability_id": "grav-talon",
+    "name": "Grav-talon",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "ynnari-reavers"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "The bearer’s melee weapons have the [LANCE] ability."
+  },
+  {
+    "ability_id": "cluster-caltrops",
+    "name": "Cluster caltrops",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "ynnari-reavers"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time you roll to inflict wounds using this unit’s Eviscerating Fly-by ability, you can re-roll one D6 for each model in this unit equipped with cluster caltrops."
+  },
+  {
+    "ability_id": "grenade-pack-flyover",
+    "name": "Grenade Pack Flyover",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "swooping-hawks"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per turn, in your Movement phase, when this unit is set up on the battlefield or ends a Normal, Advance or Fall Back move, it can use this ability. If it does, select one enemy unit within 8\" of and visible to this unit and roll one D6 for each SWOOPING HAWKS model in this unit: for each 4+, that enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds). Each time this unit uses this ability, until the end of the turn, you cannot target this unit with the Grenade Stratagem."
+  },
+  {
+    "ability_id": "war-construct",
+    "name": "War Construct",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "wraithguard"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "This unit is eligible to shoot in a turn in which it Fell Back."
+  },
+  {
+    "ability_id": "burning-lance",
+    "name": "Burning Lance",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "fuegan"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, add 6\" to the Range characteristic of Melta weapons equipped by models in that unit."
+  },
+  {
+    "ability_id": "unquenchable-resolve",
+    "name": "Unquenchable Resolve",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "fuegan"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "The first time this model is destroyed, at the end of the phase, roll one D6: on a 2+, set this model back up on the battlefield as close as possible to where it was destroyed and not within Engagement Range of one or more enemy units, with its full wounds remaining."
+  },
+  {
+    "ability_id": "storm-of-blades",
+    "name": "Storm of Blades",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "ynnari-succubus"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, melee weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability."
+  },
+  {
+    "ability_id": "empowered-by-death",
+    "name": "Empowered by Death",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "ynnari-succubus"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of the Fight phase, if this model’s unit is below its Starting Strength, until the end of the phase, models in that unit have the Fights First ability."
+  },
+  {
+    "ability_id": "extreme-mobility",
+    "name": "Extreme Mobility",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "shining-spears"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this unit makes a Normal, Advance, Fall Back or Charge move, ignore any vertical distance when determining the total distance models in this unit can be moved during that move."
+  },
+  {
+    "ability_id": "shimmershield",
+    "name": "Shimmershield",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "shining-spears"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "The bearer has a 4+ invulnerable save."
+  },
+  {
+    "ability_id": "way-of-the-blade",
+    "name": "Way of the Blade",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "the-visarch"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, models in that unit have the Fights First ability."
+  },
+  {
+    "ability_id": "yvraine-s-champion",
+    "name": "Yvraine’s Champion",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "the-visarch"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, other CHARACTER models attached to that unit have the Feel No Pain 4+ ability."
+  },
+  {
+    "ability_id": "reavers-of-the-void",
+    "name": "Reavers of the Void",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "corsair-voidreavers"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a model in this unit makes an attack, re‐roll a Hit roll of 1. If the target of that attack is within range of an objective marker, you can re‐roll the Hit roll instead."
+  },
+  {
+    "ability_id": "sonic-destruction",
+    "name": "Sonic Destruction",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "vibro-cannon-platform"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Shooting phase, each time this model makes an attack with its vibro cannon that targets an enemy unit, improve the Strength, Armour Penetration and Damage characteristics of that attack by 1 for each other friendly VIBRO CANNON PLATFORM model that made one or more attacks with its vibro cannon that also targeted that enemy unit this phase."
+  },
+  {
+    "ability_id": "fog-of-dreams-psychic",
+    "name": "Fog of Dreams (Psychic)",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "shadowseer"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, that unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
+  },
+  {
+    "ability_id": "treacherous-illusion-psychic",
+    "name": "Treacherous Illusion (Psychic)",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "shadowseer"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Melee weapons equipped by enemy models have the [HAZARDOUS] ability while targeting this model’s unit."
+  },
+  {
+    "ability_id": "whirling-death",
+    "name": "Whirling Death",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "jain-zar"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, each time that unit Advances, do not make an Advance roll. Instead, until the end of the phase, add 6\" to the Move characteristic of models in that unit and each time a model in that unit makes an Advance move, ignore any vertical distance when determining the total distance that model can be moved during that move."
+  },
+  {
+    "ability_id": "storm-of-silence",
+    "name": "Storm of Silence",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "jain-zar"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model makes an attack that targets a CHARACTER unit, you can re‐roll the Wound roll."
+  },
+  {
+    "ability_id": "flickerjump",
+    "name": "Flickerjump",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "warp-spiders"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Movement phase, each time this unit is selected to make a Normal move, it can use this ability. If it does, until the end of the turn, this unit is not eligible to declare a charge and models in it have a Move characteristic of 24\". Each time this unit uses this ability, at the end of the phase, roll one D6 for each model in this unit: for each 1, this unit suffers 1 mortal wound."
+  },
+  {
+    "ability_id": "inescapable-accuracy",
+    "name": "Inescapable Accuracy",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "dark-reapers"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a model in this unit makes a ranged attack, you can ignore any or all modifiers to that attack’s Ballistic Skill characteristic and to the Hit roll."
+  },
+  {
+    "ability_id": "sadistic-raiders",
+    "name": "Sadistic Raiders",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "ynnari-kabalite-warriors"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the end of your Command phase, if you control an objective marker that this unit (or a TRANSPORT it is embarked within) is within range of, that objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
+  },
+  {
+    "ability_id": "phantasm-grenade-launcher",
+    "name": "Phantasm grenade launcher",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "ynnari-kabalite-warriors"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "The bearer’s unit has the GRENADES keyword."
+  },
+  {
+    "ability_id": "polychromatic-camouflage",
+    "name": "Polychromatic Camouflage",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "voidweaver"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "This unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
+  },
+  {
+    "ability_id": "target-acquisition",
+    "name": "Target Acquisition",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "shroud-runners"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Shooting phase, after this unit has shot, select one enemy unit hit by one or more of those attacks made with a long rifle. Until the end of the phase, that enemy unit cannot have the Benefit of Cover."
+  },
+  {
+    "ability_id": "runes-of-fortune-psychic",
+    "name": "Runes of Fortune (Psychic)",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "warlock"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time an enemy unit declares a charge, if one or more units with this ability are selected as a target of that charge, subtract 2 from the Charge roll."
+  },
+  {
+    "ability_id": "titanic-agility",
+    "name": "Titanic Agility",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "wraithknight-with-ghostglaive"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model makes a Normal, Advance or Fall Back move, it can move through models and terrain features. When doing so, it can move within Engagement Range of enemy models, but cannot end that move within Engagement Range of them."
+  },
+  {
+    "ability_id": "no-escape",
+    "name": "No Escape",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "ynnari-wyches"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time an enemy unit (excluding MONSTERS and VEHICLES) within Engagement Range of one or more units from your army with this ability is selected to Fall Back, models in that enemy unit must take Desperate Escape tests as if their unit was Battle-shocked. When doing so, if that enemy unit is also Battle-shocked by other means, subtract 1 from each of those Desperate Escape tests."
+  },
+  {
+    "ability_id": "protect-psychic",
+    "name": "Protect (Psychic)",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "warlock-conclave"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "While a FARSEER model is leading this unit, each time an attack targets this unit, subtract 1 from the Wound roll."
+  },
+  {
+    "ability_id": "guide-psychic",
+    "name": "Guide (Psychic)",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "farseer"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the end of your Movement phase, select one enemy unit within 18\" of and visible to this model. Until the start of your next Command phase, each time a friendly AELDARI model makes an attack that targets that enemy unit, add 1 to the Hit roll. Each unit can only be selected for this ability once per turn."
+  },
+  {
+    "ability_id": "monofilament-web",
+    "name": "Monofilament Web",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "night-spinner"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Shooting phase, after this model has shot, if one or more of those attacks made with its doomweaver scored a hit against an enemy unit, until the start of your next turn, that enemy unit is pinned. While a unit is pinned, subtract 2 from that unit’s Move characteristic and subtract 2 from Charge rolls made for it."
+  },
+  {
+    "ability_id": "indomitable-strength-of-will",
+    "name": "Indomitable Strength of Will",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "autarch-wayleaper"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, each time you spend a Battle Focus token to enable that unit to perform an Agile Manoeuvre, roll one D6: on a 3+, you gain 1 Battle Focus token."
+  },
+  {
+    "ability_id": "bladestorm",
+    "name": "Bladestorm",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "dire-avengers"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Ranged weapons equipped by models in this unit have the [SUSTAINED HITS 1] ability while targeting an enemy unit within half range."
+  },
+  {
+    "ability_id": "acrobatic",
+    "name": "Acrobatic",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "howling-banshees"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "This unit is eligible to declare a charge in a turn in which it Advanced or Fell Back."
+  },
+  {
+    "ability_id": "fire-support",
+    "name": "Fire Support",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "falcon"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. Until the end of the turn, each time a friendly model that disembarked from this TRANSPORT this turn makes an attack that targets that enemy unit, you can re-roll the Wound roll."
+  },
+  {
+    "ability_id": "swift-demise",
+    "name": "Swift Demise",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "windriders"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a model in this unit makes a ranged attack, re‐roll a Hit roll of 1. If the target of that attack is the closest eligible target, you can re‐roll the Hit roll instead."
+  },
+  {
+    "ability_id": "choreographer-of-war",
+    "name": "Choreographer of War",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "troupe-master"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, each time a model in that unit makes a Pile‐in or Consolidation move, it can move up to 6\" instead of up to 3\". In addition, it does not need to end that move closer to the closest enemy model, provided it ends it as close as possible to the closest enemy unit."
+  },
+  {
+    "ability_id": "cegorach-s-favour",
+    "name": "Cegorach’s Favour",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "troupe-master"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model makes a melee attack, you can re‐roll a Hit roll of 1 and add 1 to the Wound roll."
+  },
+  {
+    "ability_id": "path-of-the-outcast",
+    "name": "Path of the Outcast",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "rangers"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 9\" of this unit, it can make a Normal move of up to D6\"."
+  },
+  {
+    "ability_id": "skyhunter",
+    "name": "Skyhunter",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "crimson-hunter"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model makes a ranged attack that targets a unit that can FLY, add 1 to the Hit roll and add 1 to the Wound roll."
+  },
+  {
+    "ability_id": "aethersails",
+    "name": "Aethersails",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "ynnari-raider"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of this model."
+  },
+  {
+    "ability_id": "hallucinogen-grenades",
+    "name": "Hallucinogen Grenades",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "starfangs"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of your opponent’s Shooting phase, this unit can use this ability. If it does, select one AELDARI INFANTRY unit from your army visible to and within 36” of this unit: until the end of the phase, that unit has the Stealth ability."
+  },
+  {
+    "ability_id": "acrobatic-grace",
+    "name": "Acrobatic Grace",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "skyweavers"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time an attack targets this unit, subtract 1 from the Hit roll."
+  },
+  {
+    "ability_id": "overlord",
+    "name": "Overlord",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "ynnari-archon"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, each time a model in that unit makes an attack, re‐roll a Wound roll of 1. While that unit is below its Starting Strength, each time a model in that unit makes an attack, you can re‐roll the Wound roll instead."
+  },
+  {
+    "ability_id": "reborn-mastermind",
+    "name": "Reborn Mastermind",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "ynnari-archon"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per battle round, one model from your army with this ability can use it when its unit is targeted with a Stratagem. If it does, reduce the CP cost of that usage of that Stratagem by 1CP."
+  },
+  {
+    "ability_id": "shadow-field",
+    "name": "Shadow Field",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "ynnari-archon"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "You cannot re‐roll invulnerable saving throws made for the bearer. The first time an invulnerable saving throw made for the bearer is failed, until the end of the battle, the bearer has no invulnerable save."
+  },
+  {
+    "ability_id": "cloudstrider",
+    "name": "Cloudstrider",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "baharroth"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, at the end of your opponent’s turn, if that unit is not within Engagement Range of one or more enemy units, you can remove it from the battlefield and place it into Strategic Reserves. In addition, while this model is leading a unit, when that unit is set up on the battlefield using the Deep Strike ability, in your movement phase, it can use this ability. If it does, that unit can be set up anywhere on the battlefield that is more than 6\" horizontally away from all enemy models, but until the end of the turn, it is not eligible to declare a charge."
+  },
+  {
+    "ability_id": "cry-of-the-wind",
+    "name": "Cry of the Wind",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "baharroth"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model is set up on the battlefield, until the end of the turn, each time this model makes a ranged attack, a successful unmodified Hit roll scores a Critical Hit."
+  },
+  {
+    "ability_id": "malevolent-souls",
+    "name": "Malevolent Souls",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "wraithblades"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a model in this unit is destroyed by a melee attack, if that model has not fought this phase, roll one D6. On a 3+, do not remove it from play; that destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play."
+  },
+  {
+    "ability_id": "forceshield",
+    "name": "Forceshield",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "wraithblades"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "The bearer has a 4+ invulnerable save."
+  },
+  {
+    "ability_id": "dance-of-death",
+    "name": "Dance of Death",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "troupe"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of the Fight phase, select one of the following abilities for this unit to gain until the end of the phase:\n\n■ Hero’s Prowess: Each time a model in this unit makes an attack, re‐roll a Hit roll of 1.\n■ Villain’s Doom: Each time a model in this unit makes an attack, add 1 to the Wound roll.\n■ Trickster’s Grace: Each time an attack targets this unit, subtract 1 from the Hit roll."
+  },
+  {
+    "ability_id": "lithe-embarkation",
+    "name": "Lithe Embarkation",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "ynnari-venom"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the end of the Fight phase, if there are no models currently embarked within this TRANSPORT, you can select one friendly YNNARI INFANTRY unit that only includes models from the units listed in this unit’s Transport section, that has 6 or fewer models and that is wholly within 6\" of this TRANSPORT. Unless that unit is within Engagement Range of one or more enemy units, it can embark within this TRANSPORT."
+  },
+  {
+    "ability_id": "harassment-fire",
+    "name": "Harassment Fire",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "vyper"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Shooting phase, after this unit has shot, select one enemy unit hit by one or more of those attacks. Until the start of your next turn, that enemy unit is suppressed. While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll."
+  },
+  {
+    "ability_id": "spiritseer",
+    "name": "Spiritseer",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "spiritseer"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is within 3\" of one or more friendly WRAITH CONSTRUCT units, this model has the Lone Operative ability."
+  },
+  {
+    "ability_id": "spirit-mark",
+    "name": "Spirit Mark",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "spiritseer"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per turn, in your Movement phase, when this model starts or ends a move, select one friendly WRAITH CONSTRUCT unit within 6\" of this model (excluding TITANIC units) and one enemy unit visible to this model. Until the start of your next Movement phase, weapons equipped by models in that friendly unit have the [SUSTAINED HITS 1] ability while targeting that enemy unit."
+  },
+  {
+    "ability_id": "tears-of-isha-psychic",
+    "name": "Tears of Isha (Psychic)",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "spiritseer"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Command phase, select one friendly WRAITH CONSTRUCT unit within 6\" of this model. If one or more models in that unit are destroyed, you can return one destroyed model to that unit. Otherwise, one model in that unit regains up to D3 lost wounds. Each unit can only be selected for this ability once per turn."
+  },
+  {
+    "ability_id": "rapid-embarkation",
+    "name": "Rapid Embarkation",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "starweaver"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the end of the Fight phase, if there are no models currently embarked within this TRANSPORT, you can select one friendly HARLEQUINS INFANTRY unit that has 6 or fewer models that is wholly within 6\" of this TRANSPORT. Unless that unit is within Engagement Range of one or more enemy units, it can embark within this TRANSPORT."
+  },
+  {
+    "ability_id": "skyfire",
+    "name": "Skyfire",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "firestorm"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time you target this model with the Fire Overwatch Stratagem just after an enemy unit that can Fly starts or ends a Normal, Advance or Fall Back move, when resolving that Stratagem, in addition to shooting that enemy unit, you can select up to 3 other enemy units within 24\" of this model that can Fly; this model can also shoot at each of those units with its Firestorm scatter laser (provided each one is an eligible target), but when doing so, an unmodified Hit roll of 6 is required to score a hit."
+  },
+  {
+    "ability_id": "strafing-run",
+    "name": "Strafing Run",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "phoenix"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model makes a ranged attack that targets a unit that cannot Fly, add 1 to the Hit roll."
+  },
+  {
+    "ability_id": "titan-hunter",
+    "name": "Titan Hunter",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "vampire-hunter"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a ranged attack made by this model is allocated to a Monster or Vehicle model, re-roll a Damage roll of 1."
+  },
+  {
+    "ability_id": "into-the-foe",
+    "name": "Into the Foe",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "vampire-raider"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "If a unit disembarks from this Transport before it moves, until the end of the turn, that unit is eligible to charge in a turn in which it Advanced."
+  },
+  {
+    "ability_id": "cloudbreakers",
+    "name": "Cloudbreakers",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "wasp-assault-walker"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of this model."
+  },
+  {
+    "ability_id": "skyleap",
+    "name": "Skyleap",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "corsair-skyreaver-band"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the end of your opponent’s turn, if this unit is not within Engagement Range of one or more enemy units, you can remove this unit from the battlefield and place it into Strategic Reserves."
+  },
+  {
+    "ability_id": "the-path-least-travelled",
+    "name": "The Path Least Travelled",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "amallyn-shadowguide"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "If your army includes this model, after both players have deployed their armies and determined who has the first turn, you can select one Rangers or Shroud Runners unit from your army and redeploy that unit. When doing so, that unit can be placed into Strategic Reserves, regardless of how many units are already in Strategic Reserves."
+  },
+  {
+    "ability_id": "psytronome-shaper",
+    "name": "Psytronome Shaper",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "bonesinger"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Command phase, you can select one friendly Wraith Construct or Aeldari Vehicle model within 3\" of this model. That Wraith Construct or Aeldari Vehicle model regains up to D3 lost wounds."
+  },
+  {
+    "ability_id": "way-of-the-shaper-psychic",
+    "name": "Way of the Shaper (Psychic)",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "bonesinger"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, Wraith Construct models in that unit have the Feel No Pain 6+ ability."
+  },
+  {
+    "ability_id": "bonesinger",
+    "name": "Bonesinger",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "bonesinger"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is within 3\" of one or more friendly Wraith Construct or Aeldari Vehicle units, unless it is leading a unit, this model has the Lone Operative ability."
+  },
+  {
+    "ability_id": "reckless-abandon",
+    "name": "Reckless Abandon",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "corsair-cloud-dancer-band"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "You can target this unit with the Heroic Intervention Stratagem for 0CP, and can do so even if you have already used that Stratagem on a different unit this phase."
+  },
+  {
+    "ability_id": "reaver-band",
+    "name": "Reaver Band",
+    "faction_id": "aeldari",
+    "unit_ids": [
+      "corsair-reaver-band"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 9\" of this unit, if this unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to D6\"."
+  },
+  {
+    "ability_id": "fateful-performance-exit-the-stage",
+    "name": "Exit the Stage",
+    "faction_id": "aeldari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Remove your unit from the battlefield and place it into Strategic Reserves."
+  },
+  {
+    "ability_id": "fateful-performance-heroes-fall",
+    "name": "Heroes’ Fall",
+    "faction_id": "aeldari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6. On a 4+, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play."
+  },
+  {
+    "ability_id": "fateful-performance-mistweave",
+    "name": "Mistweave",
+    "faction_id": "aeldari",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "SHADOWSEER model only. While the bearer is leading a unit, models in that unit have the Infiltrators ability."
+  }
+]

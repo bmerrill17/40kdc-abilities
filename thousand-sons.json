@@ -659,5 +659,822 @@
       "phases": []
     },
     "raw_text": "While this model has 1-6 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+  },
+  {
+    "ability_id": "devoted-to-destruction",
+    "name": "Devoted to Destruction",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "helbrute"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "If this model is equipped with two melee weapons in addition to its close combat weapon, add 2 to the Attacks characteristic of those two weapons."
+  },
+  {
+    "ability_id": "terrifying-assault",
+    "name": "Terrifying Assault",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "helbrute"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Shooting phase and the Fight phase, after this model has shot or fought, select one enemy unit hit by one or more of those attacks. That unit must take a Battle‑shock test, subtracting 1 from that test if it is within 9\" of one or more THOUSAND SONS PSYKER units from your army."
+  },
+  {
+    "ability_id": "mutating-vortex-aura",
+    "name": "Mutating Vortex (Aura)",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "mutalith-vortex-beast"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the end of your Movement phase, roll one D6 for each enemy unit within 6\" of this model: on a 2-3, that unit suffers 1 mortal wound; on a 4-5, that unit suffers D3 mortal wounds; on a 6, that unit suffers D6 mortal wounds. Each enemy unit within range of this ability must then take a Battle-shock test."
+  },
+  {
+    "ability_id": "immaterial-flare-aura",
+    "name": "Immaterial Flare (Aura)",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "mutalith-vortex-beast"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "While a friendly THOUSAND SONS PSYKER model is within 6\" of this model, each time that model Channels the Warp, add 1 to the Psychic test result. This is not cumulative with any other modifiers to the Psychic test result."
+  },
+  {
+    "ability_id": "assault-ramp",
+    "name": "Assault Ramp",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "chaos-land-raider"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a unit disembarks from this TRANSPORT after it has made a Normal move, that unit is still eligible to declare a charge this turn."
+  },
+  {
+    "ability_id": "bestial-prophet",
+    "name": "Bestial Prophet",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "tzaangor-shaman"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll."
+  },
+  {
+    "ability_id": "sacrificial-blessing",
+    "name": "Sacrificial Blessing",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "tzaangor-shaman"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, in your Shooting phase and the Fight phase, each time that unit is selected to shoot or fight, this model can use this ability. If it does, select one Bodyguard model in that unit; that Bodyguard model is destroyed and, until the end of the phase, add D3 to the Attacks and Strength characteristics of Psychic weapons equipped by this model."
+  },
+  {
+    "ability_id": "regenerating-monstrosities",
+    "name": "Regenerating Monstrosities",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "chaos-spawn"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of each player’s Command phase, one model in this unit regains up to 3 lost wounds."
+  },
+  {
+    "ability_id": "empyric-guidance-psychic",
+    "name": "Empyric Guidance (Psychic)",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "sorcerer"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, weapons equipped by models in that unit have the [LETHAL HITS] ability."
+  },
+  {
+    "ability_id": "twisted-sorceries-psychic",
+    "name": "Twisted Sorceries (Psychic)",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "sorcerer"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per battle, in your Shooting phase or the Fight phase, this model can use this ability. If it does, until the end of the phase, improve the Strength and Attacks characteristics of Psychic weapons equipped by this model by 3."
+  },
+  {
+    "ability_id": "siege-shield",
+    "name": "Siege Shield",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "chaos-vindicator"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "When making ranged attacks with its demolisher cannon, this model can target enemy units within Engagement Range of it (provided no other friendly units are also within Engagement Range of that enemy unit). In addition, when making ranged attacks, this model does not suffer the penalty to its Hit rolls for being within Engagement Range of one or more enemy units."
+  },
+  {
+    "ability_id": "sorcerous-support",
+    "name": "Sorcerous Support",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "chaos-rhino"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. Until the end of the phase, each time a friendly model that disembarked from this TRANSPORT this turn makes a Psychic Attack that targets that enemy unit, add 1 to the Hit roll and add 1 to the Wound roll."
+  },
+  {
+    "ability_id": "scryer-of-fates-psychic",
+    "name": "Scryer of Fates (Psychic)",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "ahriman"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "If your army includes this model, after both players have deployed their armies, you can select up to three THOUSAND SONS units from your army and redeploy them. When doing so, you can set those units up in Strategic Reserves if you wish, regardless of how many units are already in Strategic Reserves."
+  },
+  {
+    "ability_id": "arch-sorcerer-of-tzeentch-psychic",
+    "name": "Arch-Sorcerer of Tzeentch (Psychic)",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "ahriman"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model attempts a Ritual, add 1 to the Psychic test result."
+  },
+  {
+    "ability_id": "bringers-of-change",
+    "name": "Bringers of Change",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "rubric-marines"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a model in this unit makes a ranged attack, re‑roll a Wound roll of 1. If that attack targets a unit within range of an objective marker you do not control, you can re‑roll the Wound roll instead."
+  },
+  {
+    "ability_id": "icon-of-flame",
+    "name": "Icon of Flame",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "rubric-marines"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Ranged weapons equipped by models in the bearer’s unit (excluding CHARACTERS) have the [IGNORES COVER] ability."
+  },
+  {
+    "ability_id": "malefic-maelstrom-psychic",
+    "name": "Malefic Maelstrom (Psychic)",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "infernal-master"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability."
+  },
+  {
+    "ability_id": "glimpse-of-eternity-psychic",
+    "name": "Glimpse of Eternity (Psychic)",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "infernal-master"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per turn, you can change the result of one Hit roll, one Wound roll or one saving throw made for this model to an unmodified 6."
+  },
+  {
+    "ability_id": "prophesied-doom",
+    "name": "Prophesied Doom",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "tzaangor-enlightened"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this unit ends a Charge move, select one enemy unit within Engagement Range of it, then roll one D6 for each model in this unit that is within Engagement Range of that enemy unit: for each 4+, that enemy unit suffers 1 mortal wound."
+  },
+  {
+    "ability_id": "malign-trickery",
+    "name": "Malign Trickery",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "tzaangor-enlightened-with-fatecaster-greatbows"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 9\" of this unit, if this unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to D6\"."
+  },
+  {
+    "ability_id": "rites-of-coalescence",
+    "name": "Rites of Coalescence",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "scarab-occult-terminators"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this unit contains one or more PSYKER models, each time an attack targets this unit, subtract 1 from the Wound roll."
+  },
+  {
+    "ability_id": "unearthly-power",
+    "name": "Unearthly Power",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "magnus-the-red"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of the battle round, select one of the abilities in the Crimson King section. Until the start of the next battle round, this model has that ability."
+  },
+  {
+    "ability_id": "lord-of-the-planet-of-the-sorcerers-psychic",
+    "name": "Lord of the Planet of the Sorcerers (Psychic)",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "magnus-the-red"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "This model can attempt up to two Rituals per turn instead of one, and each time this model attempts a Ritual, add 2 to the Psychic test result."
+  },
+  {
+    "ability_id": "supreme-commander",
+    "name": "Supreme Commander",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "magnus-the-red"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "If this model is in your army, it must be your WARLORD."
+  },
+  {
+    "ability_id": "ensorcelled-destruction",
+    "name": "Ensorcelled Destruction",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "chaos-predator-destructor"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model makes a ranged attack that targets a unit (excluding MONSTERS and VEHICLES) that was hit by one or more Psychic Attacks made by a THOUSAND SONS PSYKER model from your army this phase (including the Doombolt Ritual), improve the Strength and Armour Penetration characteristics of that attack by 1."
+  },
+  {
+    "ability_id": "hunter-of-souls",
+    "name": "Hunter of Souls",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "daemon-prince-of-tzeentch-with-wings"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model makes an attack that targets a CHARACTER unit, re‑roll a Hit roll of 1 and re‑roll a Wound roll of 1 (if that attack targets a PSYKER CHARACTER unit, you can re‑roll the Hit roll and you can re‑roll the Wound roll instead). Each time this model destroys a CHARACTER unit, this model regains up to D3 lost wounds (if that CHARACTER unit was a PSYKER unit, this model regains up to 3 lost wounds instead)."
+  },
+  {
+    "ability_id": "aetherstride-psychic",
+    "name": "Aetherstride (Psychic)",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "daemon-prince-of-tzeentch-with-wings"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Movement phase, when this model is set up on the battlefield using the Deep Strike ability, it can perform an aetherstride. If it does:\n■ It can be set up anywhere on the battlefield that is more than 6\" horizontally away from all enemy units.\n■ Until the end of the turn, its Dark Blessing has the [SUSTAINED HITS D3] ability.\n■ Until the end of the turn, it is not eligible to declare a charge."
+  },
+  {
+    "ability_id": "ambushing-hunters",
+    "name": "Ambushing Hunters",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "tzaangors"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the end of your opponent’s turn, if this unit is more than 6\" horizontally away from all enemy units, you can remove this unit from the battlefield and place it into Strategic Reserves."
+  },
+  {
+    "ability_id": "brayhorn",
+    "name": "Brayhorn",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "tzaangors"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "You can re-roll Advance and Charge rolls made for the bearer’s unit."
+  },
+  {
+    "ability_id": "herd-banner",
+    "name": "Herd banner",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "tzaangors"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "While the bearer’s unit is within range of one or more objective markers you control, improve the Leadership characteristic of models in the bearer’s unit by 1."
+  },
+  {
+    "ability_id": "prophetic-sentinels",
+    "name": "Prophetic Sentinels",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "sekhetar-robots"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per battle round, you can target this unit with the Fire Overwatch or Heroic Intervention Stratagem for 0CP."
+  },
+  {
+    "ability_id": "illusions-of-tzeentch-psychic",
+    "name": "Illusions of Tzeentch (Psychic)",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "exalted-sorcerer-on-disc-of-tzeentch"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, that unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
+  },
+  {
+    "ability_id": "binding-tendrils-psychic",
+    "name": "Binding Tendrils (Psychic)",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "exalted-sorcerer-on-disc-of-tzeentch"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Shooting phase, after this model has shot, select one enemy INFANTRY unit hit by one or more of those attacks made with Arcane Fire. Until the start of your next turn, that unit is ensnared. While a unit is ensnared, subtract 2\" from its Move characteristic and subtract 2 from Charge rolls made for it."
+  },
+  {
+    "ability_id": "snarling-protector",
+    "name": "Snarling Protector",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "maulerfiend"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "You can target this model with the Heroic Intervention Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this phase. In addition, each time this model declares a charge that targets an enemy unit within Engagement Range of one or more THOUSAND SONS PSYKER units from your army, you can re‑roll the Charge roll."
+  },
+  {
+    "ability_id": "arcane-shield-psychic",
+    "name": "Arcane Shield (Psychic)",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "exalted-sorcerer"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, models in that unit have a 4+ invulnerable save."
+  },
+  {
+    "ability_id": "rebind-rubricae-psychic",
+    "name": "Rebind Rubricae (Psychic)",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "exalted-sorcerer"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Command phase, if this model is leading a unit, you can roll one D6: on a 1, that unit suffers D3 mortal wounds; on a 2-5, you can return 1 destroyed Bodyguard model to that unit; on a 6, you can return up to 2 destroyed Bodyguard models to that unit."
+  },
+  {
+    "ability_id": "marked-by-fate-psychic",
+    "name": "Marked by Fate (Psychic)",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "sorcerer-in-terminator-armour"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of your Shooting phase, select one enemy unit that is visible to this PSYKER model. Until the end of the phase, each time a model in this unit makes an attack that targets that enemy unit, add 1 to the Hit roll."
+  },
+  {
+    "ability_id": "ensorcelled-annihilation",
+    "name": "Ensorcelled Annihilation",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "chaos-predator-annihilator"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model makes a ranged attack that targets a MONSTER or VEHICLE unit that was hit by one or more Psychic Attacks made by a THOUSAND SONS PSYKER model from your army this phase (including the Doombolt Ritual), you can re‑roll the Hit roll and you can re‑roll the Damage roll."
+  },
+  {
+    "ability_id": "blazing-salvoes",
+    "name": "Blazing Salvoes",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "forgefiend"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Shooting phase, after this model has shot, select one enemy unit that was hit by one or more of those attacks. Until the start of your next turn, that enemy unit is suppressed. While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll."
+  },
+  {
+    "ability_id": "flame-wreathed",
+    "name": "Flame-wreathed",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "heldrake"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model ends a Normal move, you can select one enemy unit it moved over during that move. Until the end of the turn, models in that unit cannot have the Benefit of Cover."
+  },
+  {
+    "ability_id": "servile-pawns",
+    "name": "Servile Pawns",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "daemon-prince-of-tzeentch"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is within 3\" of one or more friendly THOUSAND SONS INFANTRY units, this model has the Lone Operative ability."
+  },
+  {
+    "ability_id": "spirit-snare",
+    "name": "Spirit Snare",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "daemon-prince-of-tzeentch"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a friendly THOUSAND SONS PSYKER model with the Cabal of Sorcerers ability is destroyed while within 9\" of one or more models with this ability, select one of those models with this ability: until the end of the battle, each time the selected model attempts a Ritual, add 1 to the Psychic test result (to a maximum of +2)."
+  },
+  {
+    "ability_id": "glamour-of-tzeentch-aura-psychic",
+    "name": "Glamour of Tzeentch (Aura, Psychic)",
+    "faction_id": "thousand-sons",
+    "unit_ids": [
+      "daemon-prince-of-tzeentch"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/thousandsons.json",
+      "edition": "10e"
+    },
+    "raw_text": "While a friendly THOUSAND SONS INFANTRY unit is within 6\" of this model, models in that unit have the Stealth ability."
   }
 ]

@@ -1,0 +1,553 @@
+[
+  {
+    "ability_id": "assault-ramp",
+    "name": "Assault Ramp",
+    "faction_id": "emperors-children",
+    "unit_ids": [
+      "chaos-land-raider"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/emperors_children.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a unit disembarks from this model after it has made a Normal move, that unit is still eligible to declare a charge this turn."
+  },
+  {
+    "ability_id": "lethal-obsession",
+    "name": "Lethal Obsession",
+    "faction_id": "emperors-children",
+    "unit_ids": [
+      "chaos-terminators"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/emperors_children.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Shooting phase, each time this unit is selected to shoot, if it makes one or more ranged attacks and all of those attacks target the same enemy unit, until the end of the turn, each time this unit declares a charge, if that enemy unit is a target of that charge, you can re-roll the Charge roll."
+  },
+  {
+    "ability_id": "warped-interference-psychic",
+    "name": "Warped Interference (Psychic)",
+    "faction_id": "emperors-children",
+    "unit_ids": [
+      "sorcerer"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/emperors_children.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, each time a ranged attack targets that unit, models in it have the Benefit of Cover against that attack."
+  },
+  {
+    "ability_id": "wracking-agonies-psychic",
+    "name": "Wracking Agonies (Psychic)",
+    "faction_id": "emperors-children",
+    "unit_ids": [
+      "sorcerer"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/emperors_children.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Shooting phase, after this model has shot, select one INFANTRY unit hit by one or more of those attacks made with its Agonising Energies. Until the start of your next turn, that unit is wracked with agonies. While a unit is wracked with agonies, subtract 2\" from its Move characteristic and subtract 2 from Charge rolls made for it."
+  },
+  {
+    "ability_id": "perfectionists",
+    "name": "Perfectionists",
+    "faction_id": "emperors-children",
+    "unit_ids": [
+      "lord-exultant"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/emperors_children.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, weapons equipped by models in that unit have the [LETHAL HITS] ability."
+  },
+  {
+    "ability_id": "euphoric-strikes",
+    "name": "Euphoric Strikes",
+    "faction_id": "emperors-children",
+    "unit_ids": [
+      "lord-exultant"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/emperors_children.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per battle, at the start of the Fight phase, this model can use this ability. If it does, until the end of the phase, add 3 to the Attacks characteristic of melee weapons equipped by this model and improve the Armour Penetration characteristic of those weapons by 1."
+  },
+  {
+    "ability_id": "lord-of-the-host",
+    "name": "Lord of the Host",
+    "faction_id": "emperors-children",
+    "unit_ids": [
+      "lord-exultant"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/emperors_children.json",
+      "edition": "10e"
+    },
+    "raw_text": "If this model is attached to an EMPEROR’S CHILDREN BATTLELINE unit during the Declare Battle Formations step, this model has the Infiltrators and Scouts 6\" abilities."
+  },
+  {
+    "ability_id": "obsessive-annunciation",
+    "name": "Obsessive Annunciation",
+    "faction_id": "emperors-children",
+    "unit_ids": [
+      "lord-kakophonist"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/emperors_children.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is leading a unit, ranged weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability."
+  },
+  {
+    "ability_id": "doom-siren",
+    "name": "Doom Siren",
+    "faction_id": "emperors-children",
+    "unit_ids": [
+      "lord-kakophonist"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/emperors_children.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Shooting phase, after this model’s unit has shot, select one enemy INFANTRY unit hit by one or more of those attacks and roll three D6: for each 4+, that enemy unit suffers 1 mortal wound. If an enemy unit suffers one or more mortal wounds as a result of this ability, it must take a Battle-shock test."
+  },
+  {
+    "ability_id": "scuttling-horrors",
+    "name": "Scuttling Horrors",
+    "faction_id": "emperors-children",
+    "unit_ids": [
+      "chaos-spawn"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/emperors_children.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 9\" of this unit, this unit can make a Normal move of up to 6\"."
+  },
+  {
+    "ability_id": "lord-of-excess",
+    "name": "Lord of Excess",
+    "faction_id": "emperors-children",
+    "unit_ids": [
+      "daemon-prince-of-slaanesh"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/emperors_children.json",
+      "edition": "10e"
+    },
+    "raw_text": "While this model is within 3\" of one or more friendly SLAANESH INFANTRY units, this model has the Lone Operative ability."
+  },
+  {
+    "ability_id": "excessive-vigour-aura",
+    "name": "Excessive Vigour (Aura)",
+    "faction_id": "emperors-children",
+    "unit_ids": [
+      "daemon-prince-of-slaanesh"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/emperors_children.json",
+      "edition": "10e"
+    },
+    "raw_text": "While a friendly SLAANESH unit is within 6\" of this model, if that unit made a Charge move this turn, improve the Armour Penetration characteristic of melee weapons equipped by models in that unit by 1."
+  },
+  {
+    "ability_id": "ecstatic-death",
+    "name": "Ecstatic Death",
+    "faction_id": "emperors-children",
+    "unit_ids": [
+      "daemon-prince-of-slaanesh"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/emperors_children.json",
+      "edition": "10e"
+    },
+    "raw_text": "If this model is destroyed by a melee attack, if it has not fought this phase, roll one D6: on a 2+, do not remove it from play. This model can fight after the attacking unit has finished making its attacks, and is then removed from play."
+  },
+  {
+    "ability_id": "terrifying-crescendo",
+    "name": "Terrifying Crescendo",
+    "faction_id": "emperors-children",
+    "unit_ids": [
+      "noise-marines"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/emperors_children.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Shooting phase, after this unit has shot, select one enemy unit hit by one or more of those attacks. Until the start of your next Shooting phase, each time a Battle-shock or Leadership test is taken for that enemy unit, subtract 1 from that test."
+  },
+  {
+    "ability_id": "objective-defiled",
+    "name": "Objective Defiled",
+    "faction_id": "emperors-children",
+    "unit_ids": [
+      "tormentors"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/emperors_children.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the end of your Command phase, if this unit is within range of an objective marker you control, that objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
+  },
+  {
+    "ability_id": "icon-of-excess",
+    "name": "Icon of Excess",
+    "faction_id": "emperors-children",
+    "unit_ids": [
+      "tormentors"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/emperors_children.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the end of your Shooting phase or the Fight phase, if the bearer’s unit destroyed one or more enemy units that phase, the bearer’s unit takes a Leadership test. If that test is passed, you gain 1CP."
+  },
+  {
+    "ability_id": "assault-vehicle",
+    "name": "Assault Vehicle",
+    "faction_id": "emperors-children",
+    "unit_ids": [
+      "chaos-rhino"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/emperors_children.json",
+      "edition": "10e"
+    },
+    "raw_text": "Units can disembark from this TRANSPORT after it has Advanced. Units that do so count as having made a Normal move, and cannot declare a charge that turn."
+  },
+  {
+    "ability_id": "daemonic-destruction",
+    "name": "Daemonic Destruction",
+    "faction_id": "emperors-children",
+    "unit_ids": [
+      "daemon-prince-of-slaanesh-with-wings"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/emperors_children.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model ends a Charge move, select one enemy unit within Engagement Range of it and roll one D6 for each of this model’s remaining wounds: for each 4+, that enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds)."
+  },
+  {
+    "ability_id": "stimulated-by-pain",
+    "name": "Stimulated by Pain",
+    "faction_id": "emperors-children",
+    "unit_ids": [
+      "daemon-prince-of-slaanesh-with-wings"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/emperors_children.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time an attack is allocated to this model, subtract 1 from the Damage characteristic of that attack."
+  },
+  {
+    "ability_id": "daemonic-poisons",
+    "name": "Daemonic Poisons",
+    "faction_id": "emperors-children",
+    "unit_ids": [
+      "fulgrim"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/emperors_children.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Shooting phase and the Fight phase, after this model has finished making its attacks, select one enemy unit hit by one or more of those attacks. Until the end of the battle, that enemy unit is poisoned. At the start of each player’s Command phase, roll one D6 for each poisoned enemy unit on the battlefield: on a 4+, that enemy unit suffers D3 mortal wounds."
+  },
+  {
+    "ability_id": "daemon-primarch-of-slaanesh",
+    "name": "Daemon Primarch of Slaanesh",
+    "faction_id": "emperors-children",
+    "unit_ids": [
+      "fulgrim"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/emperors_children.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of your opponent’s Command phase, select one of the abilities in the Daemon Primarch of Slaanesh section (see below). Until the start of your opponent’s next Command phase, this model has that ability."
+  },
+  {
+    "ability_id": "serpentine",
+    "name": "Serpentine",
+    "faction_id": "emperors-children",
+    "unit_ids": [
+      "fulgrim"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/emperors_children.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model makes a Normal, Advance or Fall Back move, it can move over sections of terrain features that are 4\" or less in height."
+  },
+  {
+    "ability_id": "supreme-commander",
+    "name": "Supreme Commander",
+    "faction_id": "emperors-children",
+    "unit_ids": [
+      "fulgrim"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/emperors_children.json",
+      "edition": "10e"
+    },
+    "raw_text": "If this model is in your army, it must be your WARLORD."
+  },
+  {
+    "ability_id": "a-challenge-worthy-of-skill",
+    "name": "A Challenge Worthy of Skill",
+    "faction_id": "emperors-children",
+    "unit_ids": [
+      "lucius-the-eternal"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/emperors_children.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model makes an attack that targets a CHARACTER, MONSTER or WALKER unit, you can re-roll the Hit roll and you can re-roll the Wound roll."
+  },
+  {
+    "ability_id": "duellist-s-hubris",
+    "name": "Duellist’s Hubris",
+    "faction_id": "emperors-children",
+    "unit_ids": [
+      "lucius-the-eternal"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/emperors_children.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of the Fight phase, if this model is not leading a unit, until the end of the phase, it has the Fights First ability."
+  },
+  {
+    "ability_id": "airborne-predator",
+    "name": "Airborne Predator",
+    "faction_id": "emperors-children",
+    "unit_ids": [
+      "heldrake"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/emperors_children.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model ends a Normal move, you can select one enemy unit that it moved over during that move and roll two D6, adding 1 to each result if that enemy unit can FLY: for each 4+, that enemy unit suffers D3 mortal wounds."
+  },
+  {
+    "ability_id": "excessive-assault",
+    "name": "Excessive Assault",
+    "faction_id": "emperors-children",
+    "unit_ids": [
+      "infractors"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/emperors_children.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a model in this unit targets an enemy unit with a melee attack, re-roll a Wound roll of 1. If that enemy unit is within range of an objective marker, you can re-roll the Wound roll instead."
+  },
+  {
+    "ability_id": "glutton-for-punishment",
+    "name": "Glutton for Punishment",
+    "faction_id": "emperors-children",
+    "unit_ids": [
+      "maulerfiend"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/emperors_children.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model makes an attack, if it is below its Starting Strength, add 1 to the Hit roll. If this model is also Below Half-strength, add 1 to the Wound roll as well."
+  },
+  {
+    "ability_id": "daemonic-patrons",
+    "name": "Daemonic Patrons",
+    "faction_id": "emperors-children",
+    "unit_ids": [
+      "flawless-blades"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/emperors_children.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this unit is selected to fight, it can call upon daemonic patrons. If it does, until the end of the phase, each time a model in this unit makes an attack, an unmodified Wound roll of 3+ scores a Critical Wound. At the end of the Fight phase, if this unit called upon daemonic patrons this phase and no enemy models were destroyed by attacks made by models in this unit this phase, one model in this unit is destroyed."
+  }
+]

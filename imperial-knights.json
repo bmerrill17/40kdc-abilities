@@ -1010,5 +1010,552 @@
       "phases": []
     },
     "raw_text": "Deadly Demise D3"
+  },
+  {
+    "ability_id": "defender-s-duty-bondsman",
+    "name": "Defender’s Duty (Bondsman)",
+    "faction_id": "imperial-knights",
+    "unit_ids": [
+      "knight-defender"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "While a model is affected by this ability, each time an attack is allocated to that model, subtract 1 from the Damage characteristic of that attack."
+  },
+  {
+    "ability_id": "selfless-protector",
+    "name": "Selfless Protector",
+    "faction_id": "imperial-knights",
+    "unit_ids": [
+      "knight-defender"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a ranged attack is allocated to an IMPERIAL KNIGHTS model from your army, if that model is not fully visible to every model in the attacking unit because of this Knight Defender model, that model has the Benefit of Cover and a 4+ invulnerable save against that attack."
+  },
+  {
+    "ability_id": "acheron-s-duty-bondsman",
+    "name": "Acheron’s Duty (Bondsman)",
+    "faction_id": "imperial-knights",
+    "unit_ids": [
+      "cerastus-knight-acheron"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "While a model is affected by this ability, at the start of the Fight phase, each enemy unit within Engagement Range of one or more units with this ability must take a Battle-shock test, subtracting 1 from the result when they do."
+  },
+  {
+    "ability_id": "castigator-s-duty-bondsman",
+    "name": "Castigator’s Duty (Bondsman)",
+    "faction_id": "imperial-knights",
+    "unit_ids": [
+      "cerastus-knight-castigator"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "While a model is affected by this ability, its ranged weapons have the [SUSTAINED HITS 1] ability and the Armour Penetration characteristic of its ranged weapons is improved by 1."
+  },
+  {
+    "ability_id": "paladin-s-duty-bondsman",
+    "name": "Paladin’s Duty (Bondsman)",
+    "faction_id": "imperial-knights",
+    "unit_ids": [
+      "knight-paladin"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "While a model is affected by this ability, weapons equipped by that model have the [LETHAL HITS] ability, and melee weapons equipped by that model have the [LANCE] ability."
+  },
+  {
+    "ability_id": "seasoned-noble",
+    "name": "Seasoned Noble",
+    "faction_id": "imperial-knights",
+    "unit_ids": [
+      "knight-paladin"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model makes a ranged attack that targets the closest eligible target, improve the Armour Penetration characteristic of that attack by 1."
+  },
+  {
+    "ability_id": "errant-s-duty-bondsman",
+    "name": "Errant’s Duty (Bondsman)",
+    "faction_id": "imperial-knights",
+    "unit_ids": [
+      "knight-errant"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "While a model is affected by this ability, you can re‑roll Advance rolls made for that model and ranged weapons equipped by that model have the [ASSAULT] ability."
+  },
+  {
+    "ability_id": "aggressive-assault",
+    "name": "Aggressive Assault",
+    "faction_id": "imperial-knights",
+    "unit_ids": [
+      "knight-errant"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model makes a ranged attack that targets the closest eligible target, add 1 to the Hit roll."
+  },
+  {
+    "ability_id": "crusader-s-duty-bondsman",
+    "name": "Crusader’s Duty (Bondsman)",
+    "faction_id": "imperial-knights",
+    "unit_ids": [
+      "knight-crusader"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "While a model is affected by this ability, each time that model makes a ranged attack, add 1 to the Hit roll."
+  },
+  {
+    "ability_id": "punishing-salvoes",
+    "name": "Punishing Salvoes",
+    "faction_id": "imperial-knights",
+    "unit_ids": [
+      "knight-crusader"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Movement phase, if this model Remains Stationary, until the end of the turn, ranged weapons equipped by this model have the [SUSTAINED HITS 1] ability."
+  },
+  {
+    "ability_id": "warden-s-duty-bondsman",
+    "name": "Warden’s Duty (Bondsman)",
+    "faction_id": "imperial-knights",
+    "unit_ids": [
+      "knight-warden"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "While a model is affected by this ability, weapons equipped by that model have the [SUSTAINED HITS 1] ability, and ranged weapons equipped by that model have the [IGNORES COVER] ability."
+  },
+  {
+    "ability_id": "thin-their-ranks",
+    "name": "Thin Their Ranks",
+    "faction_id": "imperial-knights",
+    "unit_ids": [
+      "knight-warden"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model makes a ranged attack that targets an enemy unit (excluding MONSTERS and VEHICLES), that attack has the [DEVASTATING WOUNDS] ability."
+  },
+  {
+    "ability_id": "mentor-bondsman",
+    "name": "Mentor (Bondsman)",
+    "faction_id": "imperial-knights",
+    "unit_ids": [
+      "knight-preceptor"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a model affected by this ability makes an attack that targets this model’s quarry, you can re‑roll the Wound roll."
+  },
+  {
+    "ability_id": "exemplar-of-the-code",
+    "name": "Exemplar of the Code",
+    "faction_id": "imperial-knights",
+    "unit_ids": [
+      "knight-preceptor"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of the battle, select one unit from your opponent’s army to be this model’s quarry. Each time this model makes an attack that targets its quarry, you can re-roll the Wound roll. Each time this model’s quarry is destroyed, you can select a new unit from your opponent’s army to be its quarry."
+  },
+  {
+    "ability_id": "lancer-s-duty-bondsman",
+    "name": "Lancer’s Duty (Bondsman)",
+    "faction_id": "imperial-knights",
+    "unit_ids": [
+      "cerastus-knight-lancer"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "While a model is affected by this ability, it is eligible to declare a charge in a turn in which it Advanced."
+  },
+  {
+    "ability_id": "gallant-s-duty-bondsman",
+    "name": "Gallant’s Duty (Bondsman)",
+    "faction_id": "imperial-knights",
+    "unit_ids": [
+      "knight-gallant"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "While a model is affected by this ability, you can re‑roll Charge rolls made for that model and each time that model makes a melee attack, you can re‑roll the Hit roll."
+  },
+  {
+    "ability_id": "martial-pride",
+    "name": "Martial Pride",
+    "faction_id": "imperial-knights",
+    "unit_ids": [
+      "knight-gallant"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this unit Consolidates, models in it can move an additional 3\" provided your unit can end that move within Engagement Range of one or more enemy units."
+  },
+  {
+    "ability_id": "impetuous-glory",
+    "name": "Impetuous Glory",
+    "faction_id": "imperial-knights",
+    "unit_ids": [
+      "armiger-warglaive"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time this model makes a Charge move, until the end of the turn, add 1 to the Attacks characteristic of this model’s reaper chain‑cleaver – strike profile, and add 2 to the Attacks characteristic of this model’s reaper chain‑cleaver – sweep profile."
+  },
+  {
+    "ability_id": "ion-aegis-aura",
+    "name": "Ion Aegis (Aura)",
+    "faction_id": "imperial-knights",
+    "unit_ids": [
+      "knight-valiant"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "While a friendly ARMIGER model is within 6\" of this model, each time a ranged attack targets that model, it has the Benefit of Cover against that attack."
+  },
+  {
+    "ability_id": "thundershock",
+    "name": "Thundershock",
+    "faction_id": "imperial-knights",
+    "unit_ids": [
+      "knight-valiant"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Shooting phase, each time you select a target for this model’s thundercoil harpoon, roll one D6 for the target unit and one D6 for each other enemy unit within 6\" of the target unit. On a 4+, the unit being rolled for is struck by arcing energies; after resolving all of this model’s attacks against the target unit, each unit struck by arcing energies suffers D3 mortal wounds."
+  },
+  {
+    "ability_id": "using-sir-hekhtur",
+    "name": "Using Sir Hekhtur",
+    "faction_id": "imperial-knights",
+    "unit_ids": [
+      "sir-hekhtur"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "If your Canis Rex model is destroyed, this model is treated as a model disembarking from a destroyed TRANSPORT and must perform an Emergency Disembarkation. Sir Hekhtur cannot be selected as the target of any of your Stratagems other than Core Stratagems. Your Canis Rex unit is not considered to be destroyed until Sir Hekhtur is also destroyed."
+  },
+  {
+    "ability_id": "legendary-freeblade",
+    "name": "Legendary Freeblade",
+    "faction_id": "imperial-knights",
+    "unit_ids": [
+      "canis-rex"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per turn, you can target this model with a Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem in the same phase."
+  },
+  {
+    "ability_id": "chainbreaker",
+    "name": "Chainbreaker",
+    "faction_id": "imperial-knights",
+    "unit_ids": [
+      "canis-rex"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per battle, at the start of any phase, you can select one friendly IMPERIUM unit that is Battle‑shocked and within 12\" of this model. That unit is no longer Battle‑shocked."
+  },
+  {
+    "ability_id": "titan-hunter",
+    "name": "Titan Hunter",
+    "faction_id": "imperial-knights",
+    "unit_ids": [
+      "knight-castellan"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a ranged attack made by this model is allocated to a MONSTER or VEHICLE model, you can re‑roll the Damage roll."
+  },
+  {
+    "ability_id": "suppression-protocols",
+    "name": "Suppression Protocols",
+    "faction_id": "imperial-knights",
+    "unit_ids": [
+      "armiger-helverin"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Shooting phase, after this model has shot, select one enemy unit (excluding MONSTERS and VEHICLES) hit by one or more of those attacks made with an Armiger autocannon. Until the start of your next turn, that enemy unit is suppressed. While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll."
+  },
+  {
+    "ability_id": "magaera-s-duty-bondsman",
+    "name": "Magaera’s Duty (Bondsman)",
+    "faction_id": "imperial-knights",
+    "unit_ids": [
+      "questoris-knight-magaera"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "While a model is affected by this ability, each time that model makes a ranged attack that targets the closest eligible target, improve the Strength and Armour Penetration characteristics of that attack by 1."
+  },
+  {
+    "ability_id": "styrix-s-duty-bondsman",
+    "name": "Styrix’s Duty (Bondsman)",
+    "faction_id": "imperial-knights",
+    "unit_ids": [
+      "questoris-knight-styrix"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "While a model is affected by this ability, each time that model is selected to shoot or fight, after it has resolved all of its attacks, select one enemy unit hit by one or more of those attacks - that unit must take a Battle-shock test, subtracting one from the test when doing so."
+  },
+  {
+    "ability_id": "point-blank-barrage-freeblade",
+    "name": "Point-blank Barrage",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, when making ranged attacks with Blast weapons, models in your unit can target enemy units within Engagement Range of your unit (provided no other friendly units are also within Engagement Range of that enemy unit). In addition, until the end of the phase, your unit does not suffer the penalty to its Hit rolls for being within Engagement Range of one or more enemy units, but each time a model in your unit makes an attack with a Blast weapon that targets a unit within Engagement Range of your unit, on an unmodified Hit roll of 1, your unit suffers 1 mortal wound after all of its attacks have been resolved."
+  },
+  {
+    "ability_id": "full-tilt-freeblade",
+    "name": "Full Tilt",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, add 2\" to the Move characteristic of your models and add 2 to Advance rolls made for those model’s units."
   }
 ]
