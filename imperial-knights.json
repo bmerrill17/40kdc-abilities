@@ -1557,5 +1557,770 @@
       "edition": "10e"
     },
     "raw_text": "Until the end of the phase, add 2\" to the Move characteristic of your models and add 2 to Advance rolls made for those model’s units."
+  },
+  {
+    "ability_id": "omnissian-champion",
+    "name": "Omnissian Champion",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "IMPERIAL KNIGHTS model only. Add 4 to the bearer’s Wounds characteristic."
+  },
+  {
+    "ability_id": "knight-of-the-opus-machina",
+    "name": "Knight of the Opus Machina",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "IMPERIAL KNIGHTS model only. Each time the bearer makes a ranged attack, if the bearer is within 6\" of one or more friendly ADEPTUS MECHANICUS units, re‑roll a Hit roll of 1."
+  },
+  {
+    "ability_id": "vocifer-magnificat-aura",
+    "name": "Vocifer Magnificat (Aura)",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "IMPERIAL KNIGHTS model only. While an enemy unit is within 6\" of the bearer, worsen the Leadership characteristic of models in that unit by 1. While a friendly ADEPTUS MECHANICUS unit is within 6\" of the bearer, improve the Leadership characteristic of models in that ADEPTUS MECHANICUS unit by 1."
+  },
+  {
+    "ability_id": "bearer-of-the-iron-chalice",
+    "name": "Bearer of the Iron Chalice",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "IMPERIAL KNIGHTS model only. At the end of your Movement phase, select one other IMPERIAL KNIGHTS model from your army that is within 12\" of and visible to the bearer. That selected model regains up to D3 lost wounds, or up to 3 lost wounds if your army is Honoured."
+  },
+  {
+    "ability_id": "bearer-of-the-evanescent-ion",
+    "name": "Bearer of the Evanescent Ion",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "IMPERIAL KNIGHTS model only. At the end of your Movement phase, select one other IMPERIAL KNIGHTS model from your army that is within 12\" of and visible to the bearer. Until the start of your next Movement phase, that selected model has the Stealth ability."
+  },
+  {
+    "ability_id": "bearer-of-the-judicants-helm",
+    "name": "Bearer of the Judicant’s Helm",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "IMPERIAL KNIGHTS model only. At the start of your Shooting phase, select one other IMPERIAL KNIGHTS model from your army that is within 12\" of and visible to the bearer. Until the end of the phase, ranged weapons equipped by that selected model have the [IGNORES COVER] ability."
+  },
+  {
+    "ability_id": "bearer-of-the-lancers-sigil",
+    "name": "Bearer of the Lancer’s Sigil",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "IMPERIAL KNIGHTS model only. At the start of your Charge phase, select one other IMPERIAL KNIGHTS model from your army that is within 12” of and visible to the bearer. Until the end of the phase, you can re‑roll Charge rolls made for that selected model."
+  },
+  {
+    "ability_id": "acquisitor-at-arms",
+    "name": "Acquisitor-at-Arms",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "IMPERIAL KNIGHTS model only. While the bearer is on your defensive line and there are no enemy units on your defensive line, add the bearer’s Objective Control characteristic to that of each model affected by the bearer’s Bondsman ability."
+  },
+  {
+    "ability_id": "purgations-hand",
+    "name": "Purgation’s Hand",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "IMPERIAL KNIGHTS model only. Each time the bearer makes a melee attack, if the bearer is on your defensive line, re‑roll a Hit roll of 1 and re-roll a Wound roll of 1."
+  },
+  {
+    "ability_id": "augury-halo",
+    "name": "Augury Halo",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "IMPERIAL KNIGHTS model only. Each time the bearer makes a ranged attack, while the bearer is on your defensive line, weapons equipped by the bearer have the [IGNORES COVER] ability."
+  },
+  {
+    "ability_id": "vengeful-tread",
+    "name": "Vengeful Tread",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "IMPERIAL KNIGHTS model only. Once per turn, you can target the bearer with the Tank Shock Stratagem for 0CP."
+  },
+  {
+    "ability_id": "herald-of-triumph",
+    "name": "Herald of Triumph",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "IMPERIAL KNIGHTS model only. When the bearer ends a Charge move, it can use this Enhancement. If it does, this Enhancement is expended, then each enemy unit within Engagement Range of the bearer must take a Battle‑shock test, subtracting 1 from the result."
+  },
+  {
+    "ability_id": "wyrmslayer-divination",
+    "name": "Wyrmslayer Divination",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "IMPERIAL KNIGHTS model only. In your Shooting phase, when the bearer is selected to shoot, it can use this Enhancement. If it does, this Enhancement is expended, then until the end of the phase, each time it makes an attack that targets a unit that can FLY, you can re‑roll the Hit roll."
+  },
+  {
+    "ability_id": "pennant-of-silvered-fury",
+    "name": "Pennant of Silvered Fury",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "IMPERIAL KNIGHTS model only. When the bearer is selected to fight, it can use this Enhancement. If it does, this Enhancement is expended, then until the end of the phase, melee weapons equipped by the bearer have the [SUSTAINED HITS 2] ability."
+  },
+  {
+    "ability_id": "crushing-condemnation",
+    "name": "Crushing Condemnation",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "IMPERIAL KNIGHTS model only. When the bearer is selected to fight, after resolving its attacks, if one or more enemy units were destroyed by those attacks, the bearer can use this Enhancement. If it does, this Enhancement is expended, then select one enemy unit that is not within Engagement Range of any units from your army and is within 12\" of and visible to the bearer. Roll six D6: for each 4+, that enemy unit suffers 1 mortal wound."
+  },
+  {
+    "ability_id": "mentors-pride",
+    "name": "Mentor’s Pride",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "IMPERIAL KNIGHTS model only. While two or more ARMIGER models are under the effects of the bearer’s Bondsman ability, each time each of those ARMIGER models makes an attack, you can re‑roll a Hit roll of 1."
+  },
+  {
+    "ability_id": "fables-of-nightmare",
+    "name": "Fables of Nightmare",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "IMPERIAL KNIGHTS model only. While two or more ARMIGER models are under the effects of the bearer’s Bondsman ability, melee weapons equipped by those ARMIGER models have the [PRECISION] ability."
+  },
+  {
+    "ability_id": "tales-of-heroism",
+    "name": "Tales of Heroism",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "IMPERIAL KNIGHTS model only. While two or more ARMIGER models are under the effects of the bearer’s Bondsman ability, each time one of those ARMIGER models makes a melee attack, you can ignore any or all modifiers to the Hit roll and/or the Wound roll."
+  },
+  {
+    "ability_id": "martial-tuition",
+    "name": "Martial Tuition",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "IMPERIAL KNIGHTS model only. While two or more ARMIGER models are under the effects of the bearer’s Bondsman ability, once per turn, you can target one of those ARMIGER models with the Counter‑offensive Stratagem for 0CP."
+  },
+  {
+    "ability_id": "thunderstomp",
+    "name": "THUNDERSTOMP",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, the Attacks characteristic of any armoured Feet melee weapons equipped by your model is 8, the Attacks characteristic of any titanic Feet melee weapons equipped by your model is 12, and improve the Armour Penetration characteristic of those weapons by 1."
+  },
+  {
+    "ability_id": "drive-them-out",
+    "name": "DRIVE THEM OUT!",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit on your defensive line, an unmodified Hit roll of 5+ scores a Critical Hit."
+  },
+  {
+    "ability_id": "steadfast-superiority",
+    "name": "STEADFAST SUPERIORITY",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, you can re‑roll the Hit roll."
+  },
+  {
+    "ability_id": "marshal-the-defence",
+    "name": "MARSHAL THE DEFENCE",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, add 3\" to the Move characteristic of models in your units."
+  },
+  {
+    "ability_id": "titanic-bombardment",
+    "name": "TITANIC BOMBARDMENT",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, ranged weapons equipped by models in your unit have the [SUSTAINED HITS 2] ability."
+  },
+  {
+    "ability_id": "virtue-of-courage",
+    "name": "VIRTUE OF COURAGE",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "Select one enemy unit. Until the end of the phase, each time one of your ARMIGER models makes an attack that targets that enemy unit, add 1 to the Hit roll."
+  },
+  {
+    "ability_id": "exemplars-wisdom",
+    "name": "EXEMPLAR’S WISDOM",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "Select one enemy unit hit by one or more of those attacks. Until the end of the phase, each time one of your ARMIGER models makes an attack that targets that enemy unit, improve the Armour Penetration characteristic of that attack by 1."
+  },
+  {
+    "ability_id": "bonded-imperative",
+    "name": "BONDED IMPERATIVE",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "When selecting targets for that use of that Bondsman ability, you can select one friendly ADEPTUS MECHANICUS unit within 12\" of your unit in addition, or instead of selecting one ARMIGER model. Until the start of your next Command phase, every model in that ADEPTUS MECHANICUS unit is affected by that Bondsman ability."
+  },
+  {
+    "ability_id": "fortress-of-intimidation",
+    "name": "FORTRESS OF INTIMIDATION",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time an enemy unit selects your unit as a target of a charge, that unit must take a Battle‑shock test, subtracting 1 from the result."
+  },
+  {
+    "ability_id": "let-duty-be-your-shield",
+    "name": "LET DUTY BE YOUR SHIELD",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+  },
+  {
+    "ability_id": "courageous-stand",
+    "name": "COURAGEOUS STAND",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, models in your unit have the Feel No Pain 6+ ability."
+  },
+  {
+    "ability_id": "titanic-duel",
+    "name": "TITANIC DUEL",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time your model makes an attack that targets a MONSTER, TITANIC or WALKER unit, add 1 to the Hit roll and add 1 to the Wound roll."
+  },
+  {
+    "ability_id": "moment-of-glory",
+    "name": "MOMENT OF GLORY",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time your unit Consolidates, models in it can move an additional 3\" provided your unit can end that move within Engagement Range of one or more enemy units."
+  },
+  {
+    "ability_id": "heros-tread",
+    "name": "HERO’S TREAD",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "Your Level of Control over that objective marker is 5 (unless it would otherwise be higher), until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
+  },
+  {
+    "ability_id": "driven-by-the-past",
+    "name": "DRIVEN BY THE PAST",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the turn, your unit is eligible to declare a charge in a turn in which it Advanced."
+  },
+  {
+    "ability_id": "unstoppable-warrior",
+    "name": "UNSTOPPABLE WARRIOR",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
+  },
+  {
+    "ability_id": "run-them-through",
+    "name": "RUN THEM THROUGH!",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, melee weapons equipped by your models have the [LANCE] ability."
+  },
+  {
+    "ability_id": "vow-of-retribution",
+    "name": "VOW OF RETRIBUTION",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, ranged weapons equipped by your models have the [LETHAL HITS] ability."
+  },
+  {
+    "ability_id": "tactical-foil",
+    "name": "TACTICAL FOIL",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "Your model can make a Normal move of up to D6\"."
+  },
+  {
+    "ability_id": "machine-focus",
+    "name": "MACHINE FOCUS",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the start of your next turn, your unit can ignore any or all modifiers to the following: the Weapon Skill or Ballistic Skill characteristics of weapons equipped by its models; any Hit roll or Wound roll made for it."
+  },
+  {
+    "ability_id": "aggression-begets-aggression",
+    "name": "AGGRESSION BEGETS AGGRESSION",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, ranged weapons equipped by models in your units have the [ASSAULT] ability."
+  },
+  {
+    "ability_id": "thronegheist-fury",
+    "name": "THRONEGHEIST FURY",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "Select one ranged weapon equipped by a model in your unit. That model can shoot at that enemy unit (and only if it is an eligible target). When doing so, that model can only make attacks with that weapon and each time it makes a ranged attack, an unmodified Hit roll of 6 is required to score a hit, irrespective of the attacking weapon’s Ballistic Skill or any modifiers."
+  },
+  {
+    "ability_id": "lancebreaker",
+    "name": "LANCEBREAKER",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time an attack targets your unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of your unit, subtract 1 from the Wound roll."
+  },
+  {
+    "ability_id": "mantle-of-the-mentor",
+    "name": "MANTLE OF THE MENTOR",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, your ARMIGER models are eligible to shoot in a turn in which they Fell Back."
+  },
+  {
+    "ability_id": "squires-of-the-hunt",
+    "name": "SQUIRES OF THE HUNT",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "For each of your ARMIGER models that is within 9\" of one or more battlefield edges and not within Engagement Range of one or more enemy units, remove that ARMIGER model from the battlefield and place it into Strategic Reserves."
+  },
+  {
+    "ability_id": "rotate-ion-shields",
+    "name": "ROTATE ION SHIELDS",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/imperialknights.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, models in your unit have a 4+ invulnerable save."
   }
 ]

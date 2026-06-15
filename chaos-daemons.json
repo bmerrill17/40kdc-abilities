@@ -2147,5 +2147,1025 @@
       "edition": "10e"
     },
     "raw_text": "While a friendly Khorne Legiones Daemonica unit is within 6\" of this model, you can re-roll Battle-shock tests taken for that unit."
+  },
+  {
+    "ability_id": "argath-the-king-of-blades",
+    "name": "A’rgath, The King of Blades",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "KHORNE LEGIONES DAEMONICA model only. Add 1 to the Attacks and Strength characteristics of the bearer’s melee weapons. While the bearer is within your army’s Shadow of Chaos, add 2 to the Attacks and Strength characteristics of the bearer’s melee weapons instead."
+  },
+  {
+    "ability_id": "the-everstave",
+    "name": "The Everstave",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "TZEENTCH LEGIONES DAEMONICA model only. Add 1 to the Strength characteristic of the bearer’s ranged weapons and increase the Range characteristic of such weapons by 3\". While the bearer is within your army’s Shadow of Chaos, add 2 to the Strength characteristic of the bearer’s ranged weapons and increase the Range characteristic of such weapons by 6\" instead."
+  },
+  {
+    "ability_id": "the-endless-gift",
+    "name": "The Endless Gift",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "NURGLE LEGIONES DAEMONICA model only. The bearer has the Feel No Pain 5+ ability."
+  },
+  {
+    "ability_id": "soulstealer",
+    "name": "Soulstealer",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "SLAANESH LEGIONES DAEMONICA model only. Each time the bearer destroys an enemy model with a melee attack, roll one D6, adding 1 to the result if the bearer is within your army’s Shadow of Chaos. On a 4+, the bearer regains 1 lost wound."
+  },
+  {
+    "ability_id": "slaughterthirst-aura",
+    "name": "Slaughterthirst (Aura)",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "LEGIONES DAEMONICA KHORNE model only. While a friendly LEGIONES DAEMONICA KHORNE unit (excluding MONSTERS) is within 6\" of the bearer, weapons equipped by models in that unit have the [LANCE] ability."
+  },
+  {
+    "ability_id": "furys-cage",
+    "name": "Fury’s Cage",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "LEGIONES DAEMONICA KHORNE MONSTER model only. Each time the bearer is selected to fight, it can use this Enhancement. If it does, the bearer suffers D3+1 mortal wounds, and until the end of the phase, each time it makes an attack, you can re‑roll the Hit roll and you can re‑roll the Wound roll."
+  },
+  {
+    "ability_id": "brazenmaw",
+    "name": "Brazenmaw",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "LEGIONES DAEMONICA KHORNE model only. Add 2 to Charge rolls made for the bearer’s unit."
+  },
+  {
+    "ability_id": "gateway-unto-damnation",
+    "name": "Gateway Unto Damnation",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "LEGIONES DAEMONICA KHORNE MONSTER model only. The bearer’s Deadly Demise ability inflicts mortal wounds on a D6 roll of 2+ instead of on a 6. In addition, if the bearer has destroyed one or more enemy units this battle, the bearer has the Deadly Demise D3+3 ability, instead of any other Deadly Demise ability on its datasheet."
+  },
+  {
+    "ability_id": "inescapable-eye",
+    "name": "Inescapable Eye",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "LEGIONES DAEMONICA TZEENTCH model only. In your Command phase, if the bearer is on the battlefield, if your opponent has one or more Flux tokens, you gain one additional Flux token.&x20;"
+  },
+  {
+    "ability_id": "infernal-puppeteer",
+    "name": "Infernal Puppeteer",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "LEGIONES DAEMONICA TZEENTCH MONSTER model only. In your Shooting phase, the bearer can use this Enhancement. If it does, until the end of the phase, you can select one other friendly visible LEGIONES DAEMONICA TZEENTCH unit within 9\" of the bearer. If you do, when selecting targets for ranged weapons equipped by the bearer, you can measure range and determine visibility from one model of your choice in the selected unit instead.\n\nDesigner’s Note: When determining if a unit with the Lone Operative ability can be selected as the target, the range is determined from the model of your choice in the selected unit."
+  },
+  {
+    "ability_id": "neverblade",
+    "name": "Neverblade",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "LEGIONES DAEMONICA TZEENTCH MONSTER model only. Improve the Strength characteristic of melee weapons equipped by the bearer by 2, improve the Attacks and Armour Penetration characteristics of melee weapons equipped by the bearer by 1, and each time the bearer makes a melee attack, add 1 to the Hit roll."
+  },
+  {
+    "ability_id": "improbable-shield-aura",
+    "name": "Improbable Shield (Aura)",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "LEGIONES DAEMONICA TZEENTCH model only. While a friendly LEGIONES DAEMONICA TZEENTCH unit is within 6\" of the bearer, models in that unit have the Feel No Pain 4+ ability against Psychic Attacks and mortal wounds."
+  },
+  {
+    "ability_id": "cankerblight-aura",
+    "name": "Cankerblight (Aura)",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "LEGIONES DAEMONICA NURGLE model only. Each time an enemy unit (excluding MONSTERS and VEHICLES) that is within 6\" of the bearer fails a Battle‑shock test, the bearer can use this Enhancement. If it does, one model in that unit is destroyed (chosen by its controlling player). Each time the bearer uses this Enhancement, no mortal wounds are inflicted by your army’s Daemonic Terror rule."
+  },
+  {
+    "ability_id": "maggot-maws",
+    "name": "Maggot Maws",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "LEGIONES DAEMONICA NURGLE model only. In your Shooting phase, select one enemy unit within 6\" of the bearer; that enemy unit must take a Battle‑shock test. Then roll one D6: on a 3+, that enemy unit suffers D3 mortal wounds. Each time the bearer uses this Enhancement, no mortal wounds are inflicted by your army’s Daemonic Terror rule."
+  },
+  {
+    "ability_id": "droning-shroud-aura",
+    "name": "Droning Shroud (Aura)",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "LEGIONES DAEMONICA NURGLE MONSTER model only. While a friendly LEGIONES DAEMONICA NURGLE unit is within 6\" of the bearer, that unit can only be targeted by a ranged attack if the attacking model is within 18\"."
+  },
+  {
+    "ability_id": "font-of-spores-aura",
+    "name": "Font of Spores (Aura)",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "LEGIONES DAEMONICA NURGLE MONSTER model only. While a friendly LEGIONES DAEMONICA NURGLE unit is within 6\" of the bearer, improve the Armour Penetration characteristic of weapons equipped by models in that unit by 1."
+  },
+  {
+    "ability_id": "false-majesty-aura",
+    "name": "False Majesty (Aura)",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "LEGIONES DAEMONICA SLAANESH model only. While a friendly LEGIONES DAEMONICA SLAANESH unit (excluding MONSTERS) is within 6\" of the bearer, each time a model in that unit makes a melee attack, add 1 to the Wound roll."
+  },
+  {
+    "ability_id": "dreaming-crown-aura",
+    "name": "Dreaming Crown (Aura)",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "LEGIONES DAEMONICA SLAANESH model only. While a friendly LEGIONES DAEMONICA SLAANESH unit (excluding MONSTERS) is within 6\" of the bearer, each time a model in that unit makes a melee attack, add 1 to the Hit roll."
+  },
+  {
+    "ability_id": "avatar-of-perfection",
+    "name": "Avatar of Perfection",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "LEGIONES DAEMONICA SLAANESH MONSTER model only. At the start of each phase, if there are no other friendly units within 6\" of the bearer, you can: re‑roll Advance rolls made for the bearer; re‑roll Charge rolls made for the bearer; ignore any or all modifiers to its Move characteristic and to any Advance and/or Charge rolls made for the bearer."
+  },
+  {
+    "ability_id": "soul-glutton",
+    "name": "Soul Glutton",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "LEGIONES DAEMONICA SLAANESH MONSTER model only. At the end of the Fight phase, if one or more enemy models were destroyed this phase as a result of one or more of the bearer’s attacks, it can use this Enhancement. If it does, it regains up to D3 lost wounds."
+  },
+  {
+    "ability_id": "leaping-shadows",
+    "name": "Leaping Shadows",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "SHADOW LEGION model only. Models in the bearer’s unit have the Scouts 9” ability."
+  },
+  {
+    "ability_id": "mantle-of-gloom-aura",
+    "name": "Mantle of Gloom (Aura)",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "SHADOW LEGION model only. While an enemy unit is within Engagement Range of the bearer’s unit, subtract 1 from the Objective Control characteristic of models in that enemy unit."
+  },
+  {
+    "ability_id": "fade-to-darkness",
+    "name": "Fade to Darkness",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "SHADOW LEGION model only. At the end of the Fight phase, if the bearer’s unit destroyed one or more enemy units this phase and is not within Engagement Range of one or more enemy units, you can remove the bearer’s unit from the battlefield and place it into Strategic Reserves."
+  },
+  {
+    "ability_id": "malice-made-manifest",
+    "name": "Malice Made Manifest",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "SHADOW LEGION model only. At the start of the Fight phase, select one enemy unit within Engagement Range of the bearer’s unit and roll one D6: on a 2‐5, that enemy unit suffers D3 mortal wounds; on a 6, that enemy unit suffers 3 mortal wounds."
+  },
+  {
+    "ability_id": "sheathed-in-brass",
+    "name": "SHEATHED IN BRASS",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, models in your unit have a Save characteristic of 3+."
+  },
+  {
+    "ability_id": "draught-of-terror",
+    "name": "DRAUGHT OF TERROR",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, improve the Armour Penetration characteristic of weapons equipped by models in that unit by 1. In addition, until the end of the phase, each time such a weapon targets a unit that is Battle-shocked, you can re-roll the Wound roll."
+  },
+  {
+    "ability_id": "the-realm-of-chaos",
+    "name": "THE REALM OF CHAOS",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Remove the targeted units from the battlefield and place them into Strategic Reserves. They will arrive back on the battlefield in the Reinforcements step of your next Movement phase using the Deep Strike ability."
+  },
+  {
+    "ability_id": "daemonic-invulnerability",
+    "name": "DAEMONIC INVULNERABILITY",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time an invulnerable saving throw is made for a model in your unit, re-roll a saving throw of 1."
+  },
+  {
+    "ability_id": "seeping-virulence",
+    "name": "SEEPING VIRULENCE",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in that unit makes an attack, an unmodified Hit roll of 5+ scores a Critical Hit."
+  },
+  {
+    "ability_id": "fever-visions",
+    "name": "FEVER VISIONS",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, add 1 to the Hit roll. After your unit has finished making its attacks, select one enemy unit hit by one or more of those attacks; that enemy unit must take a Battle‑shock test."
+  },
+  {
+    "ability_id": "murkshadows",
+    "name": "MURKSHADOWS",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time your unit makes a Normal move, add 5\" to the Move characteristic of models in your unit."
+  },
+  {
+    "ability_id": "death-denied",
+    "name": "DEATH DENIED",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "One model in your unit regains up to 3 lost wounds. In addition, If your unit has the TZEENTCH keyword, return up to one destroyed model (excluding CHARACTER models) to your unit with its full wounds remaining."
+  },
+  {
+    "ability_id": "encroaching-darkness",
+    "name": "ENCROACHING DARKNESS",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, weapons equipped by models in your selected units have the [IGNORES COVER] ability."
+  },
+  {
+    "ability_id": "pyrogenesis",
+    "name": "PYROGENESIS",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, add 2 to the Strength characteristic of weapons equipped by models in your unit, or spend one Flux token and add 3 to the Strength characteristic of those weapons and improve the Armour Penetration characteristic of those weapons by 1 instead."
+  },
+  {
+    "ability_id": "cavalcade-of-blades",
+    "name": "CAVALCADE OF BLADES",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Select one enemy unit within Engagement Range of your unit, then roll one D6 for each model in your unit that is within Engagement Range of that enemy unit, or roll six D6 instead if your unit is a MONSTER unit: for each 4+, that enemy unit suffers 1 mortal wound."
+  },
+  {
+    "ability_id": "overwhelming-excess",
+    "name": "OVERWHELMING EXCESS",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
+  },
+  {
+    "ability_id": "shade-path",
+    "name": "SHADE PATH",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, subtract 2 from Charge rolls made for that enemy unit. In addition, if your unit has the NURGLE keyword, that enemy unit must take a Battle-shock test."
+  },
+  {
+    "ability_id": "archagonists",
+    "name": "ARCHAGONISTS",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in one of those units makes an attack, add 1 to the Wound roll."
+  },
+  {
+    "ability_id": "blood-begets-skulls",
+    "name": "BLOOD BEGETS SKULLS",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, your unit is eligible to declare a charge in a turn in which it Advanced."
+  },
+  {
+    "ability_id": "wrath-undeniable",
+    "name": "WRATH UNDENIABLE",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in your unit is destroyed by a melee attack, if that model has not fought this phase, roll one D6: on a 4+, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play."
+  },
+  {
+    "ability_id": "gore-hungry-onslaught",
+    "name": "GORE-HUNGRY ONSLAUGHT",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in your unit makes a move, it can move through terrain features."
+  },
+  {
+    "ability_id": "skulls-beget-blood",
+    "name": "SKULLS BEGET BLOOD",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Select one enemy unit that is not within Engagement Range of one or more units from your army and is within 8\" of and visible to your unit. Roll six D6: for each 4+, that enemy unit suffers 1 mortal wound."
+  },
+  {
+    "ability_id": "corrupt-realspace",
+    "name": "CORRUPT REALSPACE",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "That objective marker is said to be Corrupted and remains under your control, even if you have no models within range of it, until your opponent controls it at the start or end of any turn. In addition, while an objective marker is Corrupted and under your control, the area of the battlefield within 6\" of that objective marker is considered to be within your army’s Shadow of Chaos."
+  },
+  {
+    "ability_id": "warp-surge",
+    "name": "WARP SURGE",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, your unit is eligible to declare a charge in a turn in which it Advanced."
+  },
+  {
+    "ability_id": "denizens-of-the-warp",
+    "name": "DENIZENS OF THE WARP",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Your unit can be set up anywhere on the battlefield that is more than 6\" horizontally away from all enemy models."
+  },
+  {
+    "ability_id": "rot-and-renewal",
+    "name": "ROT AND RENEWAL",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in your unit makes a move, it can move through terrain features."
+  },
+  {
+    "ability_id": "plague-of-woes",
+    "name": "PLAGUE OF WOES",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, after an enemy unit takes a Battle‑shock test as a result of the Melancholic Miasma Detachment rule, select one other enemy unit within 9\" of your unit; that enemy unit must take a Battle‑shock test."
+  },
+  {
+    "ability_id": "spiteful-demise",
+    "name": "SPITEFUL DEMISE",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Roll one D6 for each enemy unit that is within Engagement Range of the last model in your unit, adding 2 to the result if your unit has the SLAANESH keyword: on a 4-5, that enemy unit suffers D3 mortal wounds; on a 6+, that enemy unit suffers 3 mortal wounds."
+  },
+  {
+    "ability_id": "channelled-wrath",
+    "name": "CHANNELLED WRATH",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, melee weapons equipped by models in your unit have the [LANCE] ability. If your unit has the KHORNE keyword, until the end of the phase, improve the Armour Penetration characteristic of those weapons by 1 as well."
+  },
+  {
+    "ability_id": "binding-shadow",
+    "name": "BINDING SHADOW",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Remove those selected units from the battlefield and place them into Strategic Reserves."
+  },
+  {
+    "ability_id": "impossible-eclipse",
+    "name": "IMPOSSIBLE ECLIPSE",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Select No Man’s Land or your opponent’s deployment zone, or spend one Flux token and select both. Until the end of the phase, the selected areas of the battlefield are within your army’s Shadow of Chaos."
+  },
+  {
+    "ability_id": "flickering-reality",
+    "name": "FLICKERING REALITY",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Roll one D6, then you can spend one Flux token to re‑roll the result: until the end of the phase, each time an attack targets your unit, on an unmodified Hit roll (after any re‑roll) of that result, the attack sequence ends, even if the original Hit roll would have been a Critical Hit.\n\nExample: If you roll a 2 and choose to spend one Flux token to re-roll the result, and the re-roll is a 6, then until the end of the phase, each time an attack targets your unit, on an unmodified Hit roll of 6 the attack sequence ends, that attack fails to hit and no Critical Hit effects (e.g. Lethal Hits) are resolved."
+  },
+  {
+    "ability_id": "fateborne-nightmares",
+    "name": "FATEBORNE NIGHTMARES",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in your unit makes a move, it can move through terrain features."
+  },
+  {
+    "ability_id": "ficklefire",
+    "name": "FICKLEFIRE",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, enemy units are not considered to be within Engagement Range of your unit for the purposes of selecting targets for, and resolving attacks with, ranged weapons. Until the end of the phase, each time an enemy model is destroyed while its unit is within Engagement Range of your unit, roll one D6: on a 5+, your unit suffers 1 mortal wound after the attacking unit has finished making its attacks."
+  },
+  {
+    "ability_id": "delirium-unmade",
+    "name": "DELIRIUM UNMADE",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Remove your units from the battlefield and place them into Strategic Reserves."
+  },
+  {
+    "ability_id": "thieves-of-pain",
+    "name": "THIEVES OF PAIN",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Select one other friendly LEGIONES DAEMONICA SLAANESH unit that is within 9\" of and visible to your unit. Until the end of the phase, while the selected unit is on the battlefield, each time a model in your unit would lose a wound, inflict 1 mortal wound on the selected unit instead."
+  },
+  {
+    "ability_id": "sensory-excruciation",
+    "name": "SENSORY EXCRUCIATION",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each unit on the battlefield that is within your army’s Shadow of Chaos must take a Battle‑shock test, subtracting 1 from that test if they are Below Half‑strength.\n\nDesigner’s Note: This Stratagem forces all friendly and enemy units alike within your army’s Shadow of Chaos to take a Battle‑shock test. This can allow a Chaos Daemons player to heal units from their army through the Daemonic Terror army rule, at the risk of causing some of their own units to become Battle‑shocked."
+  },
+  {
+    "ability_id": "phantasmal-longing",
+    "name": "PHANTASMAL LONGING",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in your unit makes a move, it can move through terrain features."
+  },
+  {
+    "ability_id": "fools-flight",
+    "name": "FOOL’S FLIGHT",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Your unit now declares a charge that targets only that enemy unit, and you resolve that charge. Note that even if that charge is successful, your unit does not receive any Charge bonus this turn."
+  },
+  {
+    "ability_id": "foetid-resurgence",
+    "name": "FOETID RESURGENCE",
+    "faction_id": "chaos-daemons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaosdaemons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Return up to 1 destroyed model to your unit, or up to D3 destroyed models instead if your unit is a BATTLELINE unit, with their full wounds remaining. If it is a MONSTER unit, one model in your unit regains up to D3+1 lost wounds instead."
   }
 ]

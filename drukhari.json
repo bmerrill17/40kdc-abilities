@@ -1247,5 +1247,1025 @@
       "edition": "10e"
     },
     "raw_text": "ARCHON model only. While the bearer is leading a unit, improve the Leadership and Objective Control characteristics of models in that unit by 1."
+  },
+  {
+    "ability_id": "phantasmal-smoke",
+    "name": "Phantasmal Smoke",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "DRUKHARI model only. While the bearer’s unit is wholly within 6\" of a friendly DRUKHARI TRANSPORT:\n\n■ Models in the bearer’s unit have the Stealth ability.\n■ Each time a ranged attack targets the bearer’s unit, models in that unit have the Benefit of Cover against that attack."
+  },
+  {
+    "ability_id": "dark-vitality",
+    "name": "Dark Vitality",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "DRUKHARI model only. The bearer’s unit is always Empowered – you do not need to spend any Pain tokens to activate that unit’s Pain abilities."
+  },
+  {
+    "ability_id": "sadistic-fulcrum",
+    "name": "Sadistic Fulcrum",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "DRUKHARI model only. Each time you spend 1 Pain token to Empower the bearer’s unit in the Shooting phase, select one friendly DRUKHARI TRANSPORT within 6\" of the bearer’s unit; until the end of the phase, each time that TRANSPORT makes an attack, you can re‑roll the Hit roll."
+  },
+  {
+    "ability_id": "labyrinthine-cunning",
+    "name": "Labyrinthine Cunning",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "ARCHON model only. At the start of your Command phase, if the bearer is on the battlefield, you can do one of the following:\n\n■ Spend 1 Pain token and gain 1CP.\n■ Roll one D6: on a 4+, you gain 1CP."
+  },
+  {
+    "ability_id": "spiteful-raider",
+    "name": "Spiteful Raider",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "DRUKHARI model only. Each time the bearer’s unit destroys an enemy unit in the Fight phase, if that enemy unit was within range of one or more objective markers when the bearer’s unit was selected to fight, you gain 1 additional Pain token."
+  },
+  {
+    "ability_id": "eye-of-spite",
+    "name": "Eye of Spite",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "SUCCUBUS model only. Improve the Attacks and Armour Penetration characteristics of the bearer’s melee weapons by 1. Each time the bearer’s unit is selected to fight, you can spend 1 Pain token; if you do, until the end of the phase, improve the Attacks and Armour Penetration characteristics of the bearer’s melee weapons by 2 instead."
+  },
+  {
+    "ability_id": "nightmare-shroud",
+    "name": "Nightmare Shroud",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "DRUKHARI model only. Each time the bearer’s unit disembarks from a TRANSPORT, until the end of the turn, enemy units cannot use the Fire Overwatch Stratagem to shoot at the bearer’s unit."
+  },
+  {
+    "ability_id": "crucible-of-malediction",
+    "name": "Crucible of Malediction",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "HAEMONCULUS model only. Once per battle, in your Shooting phase, the bearer can use this Enhancement. If it does, you can spend 1 Pain token. Then, each enemy unit within 12\" of the bearer must take a Battle‑shock test, subtracting 1 from that test if you spent 1 Pain token. Each time a PSYKER unit fails that test, it suffers 3 mortal wounds."
+  },
+  {
+    "ability_id": "archraider",
+    "name": "Archraider",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "HARLEQUINS or DRUKHARI model only. In the Declare Battle Formations step, if the bearer starts the battle embarked within a DEDICATED TRANSPORT, that DEDICATED TRANSPORT has the Scouts 9\" ability."
+  },
+  {
+    "ability_id": "webway-walker",
+    "name": "Webway Walker",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "HARLEQUINS or DRUKHARI model only. Models in the bearer’s unit have the Deep Strike ability. Each time the bearer’s unit is set up on the battlefield using the Deep Strike ability, if that unit is currently losing the wager, until the end of the turn, you can re‑roll Charge rolls made for that unit."
+  },
+  {
+    "ability_id": "reapers-cowl",
+    "name": "Reaper’s Cowl",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "HARLEQUINS model only. Models in the bearer’s unit have the Stealth and Infiltrators abilities."
+  },
+  {
+    "ability_id": "conductor-of-torment",
+    "name": "Conductor of Torment",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "DRUKHARI model only. In your Command phase, you can do one of the following:\n\n■ If your DRUKHARI units are currently losing the wager, you can gain 1 Pain token. If you do, DRUKHARI units from your army are now winning the wager.\n■ If your DRUKHARI units are currently winning the wager, you can discard 1 Pain token. If you do, HARLEQUINS units from your army are now winning the wager."
+  },
+  {
+    "ability_id": "pharmacophex",
+    "name": "Pharmacophex",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "SUCCUBUS model only. At the start of your Command phase, after selecting which Combat Drugs will be active for your army, roll one D6 and consult the Combat Drugs list (see Detachment Rule). The result rolled applies to the bearer’s unit until the start of your next Command phase in addition to any other Combat Drugs that are active for your army. If you randomly select one that is already active for your army, it has no additional effect."
+  },
+  {
+    "ability_id": "chronoshard",
+    "name": "Chronoshard",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "SUCCUBUS model only. Once per battle, at the start of the Fight phase, the bearer can use this Enhancement. If it does, until the end of the phase, models in the bearer’s unit have the Fights First ability."
+  },
+  {
+    "ability_id": "periapt-of-torments",
+    "name": "Periapt of Torments",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "SUCCUBUS model only. Enemy units cannot use the Fire Overwatch Stratagem to shoot at the bearer’s unit."
+  },
+  {
+    "ability_id": "morghennas-curse",
+    "name": "Morghenna’s Curse",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "SUCCUBUS model only. Improve the Armour Penetration and Damage characteristics of the bearer’s melee weapons by 1."
+  },
+  {
+    "ability_id": "master-regenesist",
+    "name": "Master Regenesist",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "HAEMONCULUS model only. Each time the bearer uses its Fleshcraft ability, you can return up to D3+3 destroyed Bodyguard models to the bearer’s unit instead of D3+1."
+  },
+  {
+    "ability_id": "master-nemesine",
+    "name": "Master Nemesine",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "HAEMONCULUS model only. The bearer’s weapons have the [ANTI‑BEAST 2+] and [ANTI‑MONSTER 4+] abilities."
+  },
+  {
+    "ability_id": "master-artisan",
+    "name": "Master Artisan",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "HAEMONCULUS model only. Add 1 to the bearer’s Wounds characteristic and add 1 to the Toughness characteristic of models in the bearer’s unit."
+  },
+  {
+    "ability_id": "master-repugnomancer-aura",
+    "name": "Master Repugnomancer (Aura)",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "HAEMONCULUS model only. Add 3\" to the range of the bearer’s Fear Incarnate ability, and each time a friendly DRUKHARI unit within 9\" of the bearer fails a Battle‑shock test or is destroyed, roll one D6: on a 4+, you gain 1 Pain token."
+  },
+  {
+    "ability_id": "leechbite-plate",
+    "name": "Leechbite Plate",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "ARCHON model only. The bearer has a Save characteristic of 3+. At the start of either player’s Command phase, you can spend 1 Pain token: if you do, the bearer regains all of its lost wounds."
+  },
+  {
+    "ability_id": "webway-awl",
+    "name": "Webway Awl",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "ARCHON model only. Models in the bearer’s unit have the Deep Strike ability, and you can target the bearer’s unit with the Rapid Ingress Stratagem for 0CP."
+  },
+  {
+    "ability_id": "informant-network",
+    "name": "Informant Network",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "ARCHON model only. At the start of the Declare Battle Formations step, select up to three KABALITE WARRIORS and/or HAND OF THE ARCHON units from your army; those units gain the Infiltrators ability."
+  },
+  {
+    "ability_id": "towering-arrogance",
+    "name": "Towering Arrogance",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "ARCHON model only. While the bearer is leading a unit, improve the Leadership and Objective Control characteristics of models in that unit by 1."
+  },
+  {
+    "ability_id": "deadly-debut",
+    "name": "DEADLY DEBUT",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, melee weapons equipped by models in your unit have the [LETHAL HITS] ability. If your unit is a WYCHES unit, until the end of the phase, improve the Armour Penetration characteristic of melee weapons equipped by models in your unit by 1 as well."
+  },
+  {
+    "ability_id": "acrobatic-display",
+    "name": "ACROBATIC DISPLAY",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, models in your unit have a 5+ invulnerable save."
+  },
+  {
+    "ability_id": "taken-alive",
+    "name": "TAKEN ALIVE",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, add 1 to the Hit roll. If your Contract unit is destroyed as a result of those attacks, every unit in your opponent’s army must take a Battle‑shock test. You cannot gain more than 3 Pain tokens as a result of failed Battle‑shock tests caused by this Stratagem."
+  },
+  {
+    "ability_id": "making-a-point",
+    "name": "MAKING A POINT",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, improve the Ballistic Skill and Armour Penetration characteristics of ranged weapons equipped by models in your unit by 1."
+  },
+  {
+    "ability_id": "skyborne-annihilation",
+    "name": "SKYBORNE ANNIHILATION",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, ranged weapons equipped by models in your unit have the [SUSTAINED HITS 1] ability, or the [SUSTAINED HITS 2] ability if your unit is a KABALITE WARRIORS or HAND OF THE ARCHON unit."
+  },
+  {
+    "ability_id": "malicious-frenzy",
+    "name": "MALICIOUS FRENZY",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Select [LETHAL HITS] or [SUSTAINED HITS 1]. Until the end of the phase, weapons equipped by models in your unit have the selected ability."
+  },
+  {
+    "ability_id": "murderers-circus",
+    "name": "MURDERER’S CIRCUS",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
+  },
+  {
+    "ability_id": "fighting-shadows",
+    "name": "FIGHTING SHADOWS",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
+  },
+  {
+    "ability_id": "instinctive-spite",
+    "name": "INSTINCTIVE SPITE",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "You can spend 1 Pain token. Until the end of the phase, each time a model in each of those units makes an attack that targets an enemy unit that is Below Half‑strength, add 1 to the Hit roll. If you spent 1 Pain token, add 1 to the Wound roll as well."
+  },
+  {
+    "ability_id": "eager-for-the-kill",
+    "name": "EAGER FOR THE KILL",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time one of those units Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in that unit (this is not cumulative with the REAVERS’ Matchless Swiftness ability)."
+  },
+  {
+    "ability_id": "connoisseurs-of-pain",
+    "name": "CONNOISSEURS OF PAIN",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Spend 1 Pain token. Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1. At the end of the phase, if your unit is still on the battlefield and it is a HAEMONCULUS COVENS unit, you gain 1 Pain token."
+  },
+  {
+    "ability_id": "a-challenge-met",
+    "name": "A CHALLENGE MET",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Select one enemy unit within 9\" of your unit that was set up on the battlefield this phase or that ended a Normal or Advance move this phase. Your unit now declares a charge that targets only that enemy unit, and you resolve that charge."
+  },
+  {
+    "ability_id": "insensible-to-pain",
+    "name": "INSENSIBLE TO PAIN",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time an attack is allocated to a model in your unit, subtract 1 from the Damage characteristic of that attack."
+  },
+  {
+    "ability_id": "tailored-toxins",
+    "name": "TAILORED TOXINS",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack that targets your Contract unit, an unmodified Hit roll of 5+ scores a Critical Hit."
+  },
+  {
+    "ability_id": "enemies-without-number",
+    "name": "ENEMIES WITHOUT NUMBER",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Select one new Contract from those listed in the Murderous Agenda Detachment rule (this can be one you have already completed), then select one unit from your opponent’s army that is on the battlefield and matches the ‘Contract’ description in that Contract. Until that Contract is completed, that unit is your Contract unit and the Murderous Agenda Detachment rule applies as normal."
+  },
+  {
+    "ability_id": "postmortality",
+    "name": "POSTMORTALITY",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Spend 1‑3 Pain tokens. At the end of the phase, set the destroyed model back up on the battlefield, as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with a number of wounds remaining equal to the number of Pain tokens you just spent."
+  },
+  {
+    "ability_id": "symphony-of-suffering",
+    "name": "SYMPHONY OF SUFFERING",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each enemy unit within 9\" of and visible to your unit must take a Battle‑shock test, subtracting 1 from that test if your unit is a HAEMONCULUS COVENS unit."
+  },
+  {
+    "ability_id": "poisoners-art",
+    "name": "POISONER’S ART",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Select one enemy unit (excluding VEHICLES) hit by one or more of your unit’s attacks this phase. Until the end of the battle, that enemy unit is poisoned. At the start of each Command phase, roll one D6 for each poisoned unit on the battlefield: on a 4+, that unit suffers D3 mortal wounds."
+  },
+  {
+    "ability_id": "feigned-weakness",
+    "name": "FEIGNED WEAKNESS",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the turn, your unit is eligible to shoot and declare a charge in turn in which it Fell Back."
+  },
+  {
+    "ability_id": "preternatural-agility",
+    "name": "PRETERNATURAL AGILITY",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time your unit makes a Normal, Advance or Charge move, you can ignore any or all modifiers to its Move characteristic and to Advance and Charge rolls made for it and, until the end of the turn, each time a model in your unit makes such a move, it can move horizontally through models (when doing so, such a model can move within Engagement Range of such models but cannot end a Normal or Advance move within Engagement Range of them)."
+  },
+  {
+    "ability_id": "double-cross",
+    "name": "DOUBLE-CROSS",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time you would allocate an attack to a model in your KABAL or BLADES FOR HIRE unit, if your DRUKHARI unit is within Engagement Range of the attacking model, no saving throw is made for that attack; instead, your DRUKHARI unit suffers a number of mortal wounds equal to the Damage characteristic of that attack."
+  },
+  {
+    "ability_id": "deadly-deceivers",
+    "name": "DEADLY DECEIVERS",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, your unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
+  },
+  {
+    "ability_id": "vicious-blades",
+    "name": "VICIOUS BLADES",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "After your TRANSPORT has fought, select one enemy unit that was the target of one or more of those attacks and roll one D6 for each model embarked within your TRANSPORT, adding 1 to the result if that embarked model is a WRACKS model: for each 5+, that enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds)."
+  },
+  {
+    "ability_id": "wraithlike-retreat",
+    "name": "WRAITHLIKE RETREAT",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Your unit can make a Normal or Fall Back move, but unless it is a WYCHES unit, it must end that move wholly within 3\" horizontally and 5\" vertically of a friendly DRUKHARI TRANSPORT and must embark within that TRANSPORT at the end of that move (otherwise, it cannot make that move)."
+  },
+  {
+    "ability_id": "pounce-on-the-prey",
+    "name": "POUNCE ON THE PREY",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the turn, your unit is eligible to declare a charge."
+  },
+  {
+    "ability_id": "swooping-mockery",
+    "name": "SWOOPING MOCKERY",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Your TRANSPORT can make a Normal move of up to 6\"."
+  },
+  {
+    "ability_id": "shorten-the-odds",
+    "name": "SHORTEN THE ODDS",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced."
+  },
+  {
+    "ability_id": "scintillating-tempo",
+    "name": "SCINTILLATING TEMPO",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the turn, enemy units cannot use the Fire Overwatch Stratagem to shoot at your unit."
+  },
+  {
+    "ability_id": "fateful-role",
+    "name": "FATEFUL ROLE",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, adding 1 to the result if that unit is losing the wager: on a 4+, do not remove it from play. That destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play."
+  },
+  {
+    "ability_id": "dark-harvest",
+    "name": "DARK HARVEST",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, melee weapons equipped by models in each of those units have the [LETHAL HITS] ability."
+  },
+  {
+    "ability_id": "enfolding-nightmare",
+    "name": "ENFOLDING NIGHTMARE",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Roll one D6: your unit can be moved a number of inches up to the result, but it must end that move as close as possible to the closest enemy unit (excluding AIRCRAFT). When doing so, those models can be moved within Engagement Range of that enemy unit."
+  },
+  {
+    "ability_id": "berserk-fugue",
+    "name": "BERSERK FUGUE",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, do not remove it from play. The destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play."
+  },
+  {
+    "ability_id": "dance-macabre",
+    "name": "DANCE MACABRE",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Your unit can make a Normal move of up to D6\". If your unit is currently losing the wager, it can make a Normal move of up to 6\" instead."
+  },
+  {
+    "ability_id": "raid-and-fade",
+    "name": "RAID AND FADE",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each of those units can make a Normal move of up to 6\"."
+  },
+  {
+    "ability_id": "distillers-of-fear",
+    "name": "DISTILLERS OF FEAR",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit that is Battle‑shocked, that attack has the [DEVASTATING WOUNDS] ability."
+  },
+  {
+    "ability_id": "night-shield",
+    "name": "NIGHT SHIELD",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/drukhari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, models in your unit have a 4+ invulnerable save."
   }
 ]

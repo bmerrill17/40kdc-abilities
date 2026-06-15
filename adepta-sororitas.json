@@ -2077,5 +2077,600 @@
       "edition": "10e"
     },
     "raw_text": "While this unit is leading a unit and contains an Agathe Dolan model, each time that unit destroys an enemy unit, you gain 1 Miracle dice. When that Agathae Dolan model is destroyed, you gain D3 Miracle dice."
+  },
+  {
+    "ability_id": "saintly-example",
+    "name": "Saintly Example",
+    "faction_id": "adepta-sororitas",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptasororitas.json",
+      "edition": "10e"
+    },
+    "raw_text": "ADEPTA SORORITAS model only. When the bearer is destroyed, you gain an additional D3 Miracle dice."
+  },
+  {
+    "ability_id": "through-suffering-strength",
+    "name": "Through Suffering, Strength",
+    "faction_id": "adepta-sororitas",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptasororitas.json",
+      "edition": "10e"
+    },
+    "raw_text": "ADEPTA SORORITAS model only. Add 1 to the Attacks, Strength and Damage characteristics of the bearer’s melee weapons. If the bearer has lost one or more wounds, add 2 to the Attacks, Strength and Damage characteristics of the bearer’s melee weapons instead."
+  },
+  {
+    "ability_id": "chaplet-of-sacrifice",
+    "name": "Chaplet of Sacrifice",
+    "faction_id": "adepta-sororitas",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptasororitas.json",
+      "edition": "10e"
+    },
+    "raw_text": "ADEPTA SORORITAS model only. At the end of your Command phase, if the bearer is on the battlefield, you can re-roll 1 Miracle dice from your Miracle dice pool and return it to your Miracle dice pool showing the new result you rolled. When doing so, if the bearer’s unit is below its Starting Strength, you can re-roll up to 3 Miracle dice in this way instead."
+  },
+  {
+    "ability_id": "mantle-of-ophelia",
+    "name": "Mantle of Ophelia",
+    "faction_id": "adepta-sororitas",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptasororitas.json",
+      "edition": "10e"
+    },
+    "raw_text": "CANONESS or PALATINE model only. Each time an attack is allocated to the bearer, change the Damage characteristic of that attack to 1."
+  },
+  {
+    "ability_id": "psalm-of-righteous-judgement",
+    "name": "Psalm of Righteous Judgement",
+    "faction_id": "adepta-sororitas",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptasororitas.json",
+      "edition": "10e"
+    },
+    "raw_text": "ADEPTA SORORITAS model only. While the bearer is on the battlefield, each time an enemy unit is destroyed by a PENITENT unit from your army, you can discard 1 Miracle dice then gain 1 Miracle dice showing a value of 6."
+  },
+  {
+    "ability_id": "verse-of-holy-piety",
+    "name": "Verse of Holy Piety",
+    "faction_id": "adepta-sororitas",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptasororitas.json",
+      "edition": "10e"
+    },
+    "raw_text": "PENITENT model only. Once per battle, at the start of the battle round, select one Vow of Atonement (see the Desperate for Redemption detachment rule). Until the start of the next battle round, that Vow of Atonement is active for the bearer’s unit in addition to any that is active for your army, even if you have already selected that Vow of Atonement this battle."
+  },
+  {
+    "ability_id": "refrain-of-enduring-faith",
+    "name": "Refrain of Enduring Faith",
+    "faction_id": "adepta-sororitas",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptasororitas.json",
+      "edition": "10e"
+    },
+    "raw_text": "PENITENT model only. While the bearer is leading a unit, models in that unit have a 5+ invulnerable save."
+  },
+  {
+    "ability_id": "catechism-of-divine-penitence",
+    "name": "Catechism of Divine Penitence",
+    "faction_id": "adepta-sororitas",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptasororitas.json",
+      "edition": "10e"
+    },
+    "raw_text": "CANONESS, PALATINE or MINISTORUM PRIEST model only. The bearer gains the PENITENT keyword and, during the Declare Battle Formations step, can be attached to a REPENTIA SQUAD unit."
+  },
+  {
+    "ability_id": "righteous-rage",
+    "name": "Righteous Rage",
+    "faction_id": "adepta-sororitas",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptasororitas.json",
+      "edition": "10e"
+    },
+    "raw_text": "ADEPTA SORORITAS model only. Each time the bearer is selected to fight, you can first discard up to 3 Miracle dice. For each Miracle dice just discarded, until the end of the phase, add 1 to the Attacks and Strength characteristics of the bearer’s melee weapons."
+  },
+  {
+    "ability_id": "manual-of-saint-griselda",
+    "name": "Manual of Saint Griselda",
+    "faction_id": "adepta-sororitas",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptasororitas.json",
+      "edition": "10e"
+    },
+    "raw_text": "ADEPTA SORORITAS model only. At the start of your Command phase, you can discard up to 2 Miracle dice. Then, add 1 Miracle dice to your Miracle Dice pool showing a value equal to the sum of the two Miracle dice you just discarded (to a maximum of 6)."
+  },
+  {
+    "ability_id": "fire-and-fury",
+    "name": "Fire and Fury",
+    "faction_id": "adepta-sororitas",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptasororitas.json",
+      "edition": "10e"
+    },
+    "raw_text": "ADEPTA SORORITAS model only. While the bearer is leading a unit, add 1 to the Attacks characteristic of Torrent weapons equipped by models in that unit, and all other ranged weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability."
+  },
+  {
+    "ability_id": "iron-surplice-of-saint-istalela",
+    "name": "Iron Surplice of Saint Istalela",
+    "faction_id": "adepta-sororitas",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptasororitas.json",
+      "edition": "10e"
+    },
+    "raw_text": "CANONESS or PALATINE model only. The bearer has a Save characteristic of 2+ and the Feel No Pain 5+ ability."
+  },
+  {
+    "ability_id": "litanies-of-faith",
+    "name": "Litanies of Faith",
+    "faction_id": "adepta-sororitas",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptasororitas.json",
+      "edition": "10e"
+    },
+    "raw_text": "CANONESS or PALATINE model only. At the start of your Command phase, if the bearer is on the battlefield, take a Leadership test for the bearer. If that test is passed, you gain 1 Miracle dice."
+  },
+  {
+    "ability_id": "blade-of-saint-ellynor",
+    "name": "Blade of Saint Ellynor",
+    "faction_id": "adepta-sororitas",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptasororitas.json",
+      "edition": "10e"
+    },
+    "raw_text": "ADEPTA SORORITAS model only. Improve the Strength and Armour Penetration characteristics of the bearer’s melee weapons by 1, and those weapons have the [PRECISION] ability. In addition, each time the bearer fights, if one or more enemy models are destroyed by those attacks, you gain 1 Miracle dice."
+  },
+  {
+    "ability_id": "divine-aspect",
+    "name": "Divine Aspect",
+    "faction_id": "adepta-sororitas",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptasororitas.json",
+      "edition": "10e"
+    },
+    "raw_text": "ADEPTA SORORITAS model only. In your Movement phase, you can select one enemy unit within 12\" of the bearer; that unit must take a Battle-shock test. If that test is failed, you gain 1 Miracle dice."
+  },
+  {
+    "ability_id": "triptych-of-the-macharian-crusade",
+    "name": "Triptych of the Macharian Crusade",
+    "faction_id": "adepta-sororitas",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptasororitas.json",
+      "edition": "10e"
+    },
+    "raw_text": "ADEPTA SORORITAS model only. Each time the bearer uses an Act of Faith to substitute a saving throw, that saving throw is successful, irrespective of the value of the Miracle dice used."
+  },
+  {
+    "ability_id": "passion-of-the-penitent",
+    "name": "PASSION OF THE PENITENT",
+    "faction_id": "adepta-sororitas",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptasororitas.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a PENITENT model in your unit makes a melee attack, a successful unmodified Hit roll of 5+ scores a Critical Hit."
+  },
+  {
+    "ability_id": "lash-of-guilt",
+    "name": "LASH OF GUILT",
+    "faction_id": "adepta-sororitas",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptasororitas.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the turn, your unit is eligible to declare a charge in a turn in which it Advanced. If your unit has the PENITENT ENGINES keyword, do not make an Advance roll for it; instead, until the end of the phase, add 6\" to the Move characteristic of models in your unit."
+  },
+  {
+    "ability_id": "purity-of-suffering",
+    "name": "PURITY OF SUFFERING",
+    "faction_id": "adepta-sororitas",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptasororitas.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, PENITENT models in your unit have the Feel No Pain 4+ ability."
+  },
+  {
+    "ability_id": "righteous-vengeance",
+    "name": "RIGHTEOUS VENGEANCE",
+    "faction_id": "adepta-sororitas",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptasororitas.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in your unit makes a melee attack, you can re-roll the Hit roll and, if your unit is Below Half-strength, you can re-roll the Wound roll as well."
+  },
+  {
+    "ability_id": "righteous-blows",
+    "name": "RIGHTEOUS BLOWS",
+    "faction_id": "adepta-sororitas",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptasororitas.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, melee weapons equipped by models in your unit have the [LETHAL HITS] ability. If one or more enemy models are destroyed as the result of attacks made by those weapons this phase, select one of those destroyed models; that destroyed model’s unit must take a Battle-shock test."
+  },
+  {
+    "ability_id": "shield-of-faith",
+    "name": "SHIELD OF FAITH",
+    "faction_id": "adepta-sororitas",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptasororitas.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, models in your unit have the Feel No Pain 5+ ability against mortal wounds. If you targeted an ADEPTA SORORITAS JUMP PACK unit from your army with this Stratagem, then until the end of the phase, while a friendly ADEPTA SORORITAS unit is within 3\" of your unit, models in that unit have the Feel No Pain 5+ ability against mortal wounds."
+  },
+  {
+    "ability_id": "light-of-the-emperor",
+    "name": "LIGHT OF THE EMPEROR",
+    "faction_id": "adepta-sororitas",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptasororitas.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the turn, your unit is blessed. While a unit is blessed, it can ignore any or all modifiers to the following: the profile characteristics of its models; the Weapon Skill or Ballistic Skill characteristics of weapons equipped by its models; any roll or test made for it (excluding modifiers to saving throws). If your unit has the JUMP PACK keyword, until the end of the turn, while a friendly ADEPTA SORORITAS unit is within 3\" of your unit, that friendly unit is also blessed."
+  },
+  {
+    "ability_id": "faith-and-fury",
+    "name": "FAITH AND FURY",
+    "faction_id": "adepta-sororitas",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptasororitas.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, melee weapons equipped by models in your unit have the [LANCE] ability. If one or more enemy models are destroyed as the result of your unit’s attacks this phase, you gain 1 Miracle dice."
+  },
+  {
+    "ability_id": "divine-guidance",
+    "name": "DIVINE GUIDANCE",
+    "faction_id": "adepta-sororitas",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptasororitas.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, improve the Armour Penetration characteristic of that attack by 1. If one or more enemy models are destroyed as the result of any of those attacks, you gain 1 Miracle dice."
+  },
+  {
+    "ability_id": "cleansing-flames",
+    "name": "CLEANSING FLAMES",
+    "faction_id": "adepta-sororitas",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptasororitas.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, Torrent weapons equipped by models in your unit have the [DEVASTATING WOUNDS] ability."
+  },
+  {
+    "ability_id": "blazing-ire",
+    "name": "BLAZING IRE",
+    "faction_id": "adepta-sororitas",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptasororitas.json",
+      "edition": "10e"
+    },
+    "raw_text": "One unit embarked within your TRANSPORT can disembark as if it were your Movement phase, and can then shoot as if it were your Shooting phase, but must target only that enemy unit when doing so, and can only do so if that enemy unit is an eligible target."
+  },
+  {
+    "ability_id": "final-redemption",
+    "name": "FINAL REDEMPTION",
+    "faction_id": "adepta-sororitas",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptasororitas.json",
+      "edition": "10e"
+    },
+    "raw_text": "That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
+  },
+  {
+    "ability_id": "boundless-zeal",
+    "name": "BOUNDLESS ZEAL",
+    "faction_id": "adepta-sororitas",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptasororitas.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the turn, your unit is eligible to shoot or declare a charge in a turn in which it Fell Back. If your unit has the PENITENT keyword, it is eligible to shoot and declare a charge in a turn in which it Fell Back instead."
+  },
+  {
+    "ability_id": "sanctified-immolation",
+    "name": "SANCTIFIED IMMOLATION",
+    "faction_id": "adepta-sororitas",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptasororitas.json",
+      "edition": "10e"
+    },
+    "raw_text": "Do not roll one D6 to determine whether mortal wounds are inflicted by your model’s Deadly Demise ability. Instead, mortal wounds are automatically inflicted."
+  },
+  {
+    "ability_id": "praise-the-fallen",
+    "name": "PRAISE THE FALLEN",
+    "faction_id": "adepta-sororitas",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptasororitas.json",
+      "edition": "10e"
+    },
+    "raw_text": "Your unit can shoot as if it were your Shooting phase, but it must target only that enemy unit when doing so, and can only do so if that enemy unit is an eligible target."
+  },
+  {
+    "ability_id": "carry-forth-the-faithful",
+    "name": "CARRY FORTH THE FAITHFUL",
+    "faction_id": "adepta-sororitas",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptasororitas.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the turn, you can re-roll Advance rolls made for your TRANSPORT, and units can disembark from your TRANSPORT even though it Advanced. Units that do so count as having made a Normal move, and cannot declare a charge this turn."
+  },
+  {
+    "ability_id": "blinding-radiance",
+    "name": "BLINDING RADIANCE",
+    "faction_id": "adepta-sororitas",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptasororitas.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll. If you targeted an ADEPTA SORORITAS JUMP PACK unit from your army with this Stratagem, then until the end of the phase, while a friendly ADEPTA SORORITAS unit is within 3\" of your unit, each time an attack targets that unit, subtract 1 from the Hit roll."
+  },
+  {
+    "ability_id": "angelic-descent",
+    "name": "ANGELIC DESCENT",
+    "faction_id": "adepta-sororitas",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptasororitas.json",
+      "edition": "10e"
+    },
+    "raw_text": "Remove your unit from the battlefield and place to into Strategic Reserves."
+  },
+  {
+    "ability_id": "spirit-of-the-martyr",
+    "name": "SPIRIT OF THE MARTYR",
+    "faction_id": "adepta-sororitas",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptasororitas.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, do not remove it from play. The destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play."
   }
 ]

@@ -948,5 +948,1025 @@
       "edition": "10e"
     },
     "raw_text": "Friendly Genestealer Cult Infantry models can be set up or end any type of move on top of the floor sections of this Fortification."
+  },
+  {
+    "ability_id": "prowling-agitant",
+    "name": "Prowling Agitant",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "GENESTEALER CULTS model only. Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 9\" of the bearer’s unit, if the bearer’s unit is not within Engagement Range of any enemy units, it can make a Normal move of up to D6\"."
+  },
+  {
+    "ability_id": "a-chink-in-their-armour",
+    "name": "A Chink In Their Armour",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "GENESTEALER CULTS model only. Each time the bearer is set up on the battlefield as Reinforcements, until the end of your next Fight phase, ranged weapons equipped by models in the bearer’s unit have the [LETHAL HITS] ability."
+  },
+  {
+    "ability_id": "our-time-is-nigh",
+    "name": "Our Time is Nigh",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "GENESTEALER CULTS model only. Once per battle, when the bearer’s unit declares a charge, the bearer can use this Enhancement. If it does, until the end of the phase, add 2 to Charge rolls made for the bearer’s unit."
+  },
+  {
+    "ability_id": "assassination-edict",
+    "name": "Assassination Edict",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "GENESTEALER CULTS model only. Each time a model in the bearer’s unit makes an attack that targets a CHARACTER unit, add 1 to the Hit roll."
+  },
+  {
+    "ability_id": "gene-sires-reliquant",
+    "name": "Gene-sire’s Reliquant",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "MAGUS, PRIMUS or ACOLYTE ICONWARD model only. You can re‐roll Battle‐shock tests taken for the bearer’s unit."
+  },
+  {
+    "ability_id": "denunciator-of-tyrants",
+    "name": "Denunciator of Tyrants",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "MAGUS, PRIMUS or ACOLYTE ICONWARD model only. Each time a model in the bearer’s unit makes an attack that targets a CHARACTER unit, add 1 to the Hit roll and add 1 to the Wound roll."
+  },
+  {
+    "ability_id": "deeds-that-speak-to-the-masses",
+    "name": "Deeds that Speak to the Masses",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "MAGUS, PRIMUS or ACOLYTE ICONWARD model only. You start the battle with 2 additional Resurgence points."
+  },
+  {
+    "ability_id": "incendiary-inspiration",
+    "name": "Incendiary Inspiration",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "MAGUS, PRIMUS or ACOLYTE ICONWARD model only. The bearer’s unit is eligible to declare a charge in a turn in which it Advanced."
+  },
+  {
+    "ability_id": "predatory-instincts",
+    "name": "Predatory Instincts",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "ABOMINANT, BIOPHAGUS or PATRIARCH model only. Models in the bearer’s unit have the Infiltrators ability and, once per battle round, you can target the bearer’s unit with the Heroic Intervention Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this phase."
+  },
+  {
+    "ability_id": "biomorph-adaptation",
+    "name": "Biomorph Adaptation",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "ABOMINANT or PATRIARCH model only. Improve the Armour Penetration and Damage characteristics of melee weapons equipped by the bearer by 1."
+  },
+  {
+    "ability_id": "mutagenic-regeneration",
+    "name": "Mutagenic Regeneration",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "ABOMINANT, BIOPHAGUS or PATRIARCH model only. In each Command phase, one model in the bearer’s unit regains 1 lost wound."
+  },
+  {
+    "ability_id": "alien-majesty",
+    "name": "Alien Majesty",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "ABOMINANT, BIOPHAGUS or PATRIARCH model only. While an enemy unit is within Engagement Range of the bearer’s unit, subtract 1 from the Objective Control characteristic of models in that enemy unit (to a minimum of 1)."
+  },
+  {
+    "ability_id": "serpentine-tactics",
+    "name": "Serpentine Tactics",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "GENESTEALER CULTS MOUNTED model only. The bearer’s unit is eligible to shoot in a turn in which it Fell Back."
+  },
+  {
+    "ability_id": "cartographic-data-leech",
+    "name": "Cartographic Data-leech",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "GENESTEALER CULTS model only. While the bearer is embarked within a TRANSPORT, each time that TRANSPORT is selected to shoot, until the end of the phase, improve the Ballistic Skill characteristic of ranged weapons equipped by that TRANSPORT as a result of the Firing Deck ability by 1."
+  },
+  {
+    "ability_id": "starfall-shells",
+    "name": "Starfall Shells",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "GENESTEALER CULTS MOUNTED model only. In your Shooting phase, after the bearer has shot, select one enemy unit hit by one or more of those attacks made with a cult sniper rifle. Until the start of your next Shooting phase, each time a model in that enemy unit makes an attack, subtract 1 from the Hit roll."
+  },
+  {
+    "ability_id": "assault-commando",
+    "name": "Assault Commando",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "GENESTEALER CULTS model only. Each time a model in the bearer’s unit makes a ranged attack, if it disembarked from a TRANSPORT this turn, you can re‐roll the Hit roll."
+  },
+  {
+    "ability_id": "martial-espionage",
+    "name": "Martial Espionage",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "GENESTEALER CULTS INFANTRY model only. Once per turn, when a friendly ASTRA MILITARUM INFANTRY or ASTRA MILITARUM MOUNTED unit within 9\" of the bearer is selected to shoot, the bearer can use this Enhancement. If it does, until the end of the phase, improve the Armour Penetration characteristic of ranged weapons equipped by models in that unit by 1."
+  },
+  {
+    "ability_id": "adaptive-reprisal",
+    "name": "Adaptive Reprisal",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "GENESTEALER CULTS INFANTRY model only. Once per turn, you can target a friendly GENESTEALER CULTS unit within 9\" of the bearer with the Heroic Intervention Stratagem for 0CP."
+  },
+  {
+    "ability_id": "the-hero-returned",
+    "name": "The Hero Returned",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "GENESTEALER CULTS INFANTRY model only. Improve the Leadership and Objective Control characteristics of models in the bearer’s unit by 1."
+  },
+  {
+    "ability_id": "fire-point-commander",
+    "name": "Fire-point Commander",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "GENESTEALER CULTS INFANTRY model only. Each time you target the bearer’s unit with the Fire Overwatch Stratagem, while resolving that Stratagem, hits are scored on unmodified Hit rolls of 5+."
+  },
+  {
+    "ability_id": "synaptic-auger",
+    "name": "Synaptic Auger",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "TYRANIDS model only. Each time the bearer would regain one or more lost wounds from the Psionic Parasitism Detachment rule, it regains up to twice that number of lost wounds instead."
+  },
+  {
+    "ability_id": "enraptured-damnation",
+    "name": "Enraptured Damnation",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "GENESTEALER CULTS model only. Enemy units cannot use the Fire Overwatch Stratagem to shoot at the bearer’s unit."
+  },
+  {
+    "ability_id": "vanguard-tyrant",
+    "name": "Vanguard Tyrant",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "WINGED HIVE TYRANT model only. Improve the Strength and Armour Penetration characteristics of melee weapons equipped by the bearer by 1."
+  },
+  {
+    "ability_id": "inhuman-integration",
+    "name": "Inhuman Integration",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "GENESTEALER CULTS model only. Weapons equipped by models in the bearer’s unit have the [SUSTAINED HITS 1] ability while targeting an enemy unit within 6\" of one or more friendly TYRANIDS units."
+  },
+  {
+    "ability_id": "symbiotic-destruction",
+    "name": "SYMBIOTIC DESTRUCTION",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "Select one enemy unit that is visible to both of those selected units and within range of at least one ranged weapon from each of those units. Until the end of the phase, models in those units can only make attacks that target that enemy unit (and only if it is an eligible target). When doing so, each time such a model makes an attack, re-roll a Wound roll of 1."
+  },
+  {
+    "ability_id": "gene-twisted-muscle",
+    "name": "GENE-TWISTED MUSCLE",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack that targets a MONSTER or VEHICLE, add 1 to the Wound roll."
+  },
+  {
+    "ability_id": "hyper-metabolic-vigour",
+    "name": "HYPER-METABOLIC VIGOUR",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in your unit makes a Pile-in or Consolidation move, it can move up to 6\" instead of up to 3\". In addition, it does not need to end that move closer to the closest enemy model, provided it ends it as close as possible to the closest enemy unit."
+  },
+  {
+    "ability_id": "stimulated-bio-surge",
+    "name": "STIMULATED BIO-SURGE",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time your unit declares a charge, if the closest eligible enemy unit is selected as one of the targets of that charge, add 1 to the Charge roll for each selected target of that charge (including the closest eligible enemy unit), to a maximum of +3."
+  },
+  {
+    "ability_id": "devoted-crew",
+    "name": "DEVOTED CREW",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Damage characteristic of that attack."
+  },
+  {
+    "ability_id": "close-range-shoot-out",
+    "name": "CLOSE-RANGE SHOOT-OUT",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, ranged weapons equipped by models in your unit have the [LETHAL HITS] ability while targeting an enemy unit within 18\"."
+  },
+  {
+    "ability_id": "deft-manoeuvring",
+    "name": "DEFT MANOEUVRING",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, models in your unit have a 4+ invulnerable save."
+  },
+  {
+    "ability_id": "hyperferocity",
+    "name": "HYPERFEROCITY",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit, re‑roll a Wound roll of 1. If one or more friendly TYRANIDS units are within 6\" of that enemy unit, you can re‑roll the Wound roll instead."
+  },
+  {
+    "ability_id": "avenge-the-star-children",
+    "name": "AVENGE THE STAR CHILDREN",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the battle, each time a GENESTEALER CULTS model from your army makes an attack that targets that enemy unit, add 1 to the Hit roll and add 1 to the Wound roll."
+  },
+  {
+    "ability_id": "divine-imperative",
+    "name": "DIVINE IMPERATIVE",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "Select one enemy unit within Engagement Range of one or more TYRANIDS units from your army. Until the end of the phase, each time your GENESTEALER CULTS unit declares a charge, if that enemy unit is one of the targets of that charge, add 1 to Charge rolls made for your unit and you can re‑roll the Charge roll."
+  },
+  {
+    "ability_id": "frenzied-devotion",
+    "name": "FRENZIED DEVOTION",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, improve the Attacks and Weapon Skill characteristics of melee weapons equipped by models (excluding CHARACTERS) in your unit by 1 and those weapons have the [HAZARDOUS] ability."
+  },
+  {
+    "ability_id": "coordinated-trap",
+    "name": "COORDINATED TRAP",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "Select one enemy unit (if this Stratagem is used in the Fight phase, that enemy unit must be within Engagement Range of both of your units). Until the end of the phase, each time a model in either of your units makes an attack, it can only target that enemy unit (and only if it is an eligible target for that attack), and when resolving that attack, add 1 to the Wound roll."
+  },
+  {
+    "ability_id": "primed-and-readied",
+    "name": "PRIMED AND READIED",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, a Critical Hit is scored on an unmodified Hit roll of 5+, instead of only a 6."
+  },
+  {
+    "ability_id": "saintly-paroxysm",
+    "name": "SAINTLY PAROXYSM",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "Roll one D6: on a 2+, that enemy unit suffers D3 mortal wounds. If that CHARACTER model is an ABOMINANT or PATRIARCH, that enemy unit suffers 2D3 mortal wounds instead."
+  },
+  {
+    "ability_id": "vengeance-for-the-martyr",
+    "name": "VENGEANCE FOR THE MARTYR!",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the battle, each time a friendly ACOLYTE HYBRIDS, HYBRID METAMORPHS or NEOPHYTE HYBRIDS model makes an attack that targets that enemy unit, re-roll a Hit roll of 1. If the destroyed model was a MAGUS, PRIMUS or ACOLYTE ICONWARD, you can re-roll the Hit roll instead."
+  },
+  {
+    "ability_id": "in-the-shadow-of-iron",
+    "name": "IN THE SHADOW OF IRON",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "Select one of those Cult Ambush markers. You can set up that Cult Ambush marker anywhere on the battlefield that is more than 9\" horizontally away from all enemy units and wholly within 6\" of your unit."
+  },
+  {
+    "ability_id": "regimental-reinforcements",
+    "name": "REGIMENTAL REINFORCEMENTS",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "Roll one D6: on a 3+, place one Cult Ambush marker anywhere on the battlefield that is more than 9\" horizontally away from all enemy units (if this is not possible, no marker is placed) and add a new unit to your army identical to your destroyed unit, in Cult Ambush, at its Starting Strength, with all of its wounds remaining and any [ONE SHOT] weapons those models are equipped with considered as not having been shot."
+  },
+  {
+    "ability_id": "suppress-and-overwhelm",
+    "name": "SUPPRESS AND OVERWHELM",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "Select one enemy unit hit by one or more of those attacks. Until the end of the turn, that enemy unit cannot be targeted with the Fire Overwatch Stratagem and each time a GENESTEALER CULTS unit from your army selects that enemy unit as a target of a charge, you can re-roll the Charge roll."
+  },
+  {
+    "ability_id": "a-dark-network",
+    "name": "A DARK NETWORK",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "Your unit can make a Normal move of up to 6\"."
+  },
+  {
+    "ability_id": "evasive-vanguard",
+    "name": "EVASIVE VANGUARD",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "You can set up that Cult Ambush marker anywhere on the battlefield that is more than 9\" horizontally away from all enemy units."
+  },
+  {
+    "ability_id": "bio-horror-revelation",
+    "name": "BIO-HORROR REVELATION",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time an enemy unit within 9\" of your unit is selected to shoot, it must take a Leadership test, subtracting 1 from the result. If that test is failed, until the end of the phase, each time a model in that enemy unit makes an attack that targets your unit, subtract 1 from the Hit roll."
+  },
+  {
+    "ability_id": "along-shadowed-trails",
+    "name": "ALONG SHADOWED TRAILS",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "You can set up that Cult Ambush marker anywhere on the battlefield that is more than 9\" horizontally away from all enemy units."
+  },
+  {
+    "ability_id": "rapid-feint",
+    "name": "RAPID FEINT",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "Your unit can make a Normal move of up to 6\"."
+  },
+  {
+    "ability_id": "encircling-the-prey",
+    "name": "ENCIRCLING THE PREY",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "Remove your unit from the battlefield and place it into Strategic Reserves."
+  },
+  {
+    "ability_id": "psi-surge",
+    "name": "PSI SURGE",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the start of your next Command phase, increase the range of your unit’s Catalyst ability by 3."
+  },
+  {
+    "ability_id": "darting-attacks",
+    "name": "DARTING ATTACKS",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
+  },
+  {
+    "ability_id": "resistance-tunnels",
+    "name": "RESISTANCE TUNNELS",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "Remove your unit from the battlefield and place it into Strategic Reserves."
+  },
+  {
+    "ability_id": "tireless-fervour",
+    "name": "TIRELESS FERVOUR",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, your unit is eligible to declare a charge in a turn in which it Advanced or Fell Back. When doing so, if it targets an enemy unit within Engagement Range of one or more friendly CHARACTER units, you can re-roll the Charge roll."
+  },
+  {
+    "ability_id": "transcendent-celerity",
+    "name": "TRANSCENDENT CELERITY",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, ranged weapons equipped by models in your unit have the [ASSAULT] ability."
+  },
+  {
+    "ability_id": "the-path-of-anguish",
+    "name": "THE PATH OF ANGUISH",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "Your unit can make a move of up to D6\", but it unit must end that move as close as possible to the closest enemy unit (excluding AIRCRAFT). When doing so, models in your unit can be moved within Engagement Range of that enemy unit."
+  },
+  {
+    "ability_id": "tunnel-crawlers",
+    "name": "TUNNEL CRAWLERS",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "Your unit can be set up anywhere on the battlefield that is more than 6\" horizontally away from all enemy units."
+  },
+  {
+    "ability_id": "lying-in-wait",
+    "name": "LYING IN WAIT",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, when setting your unit up using a Cult Ambush marker, set your unit up anywhere on the battlefield wholly within 6\" of that Cult Ambush marker and not within Engagement Range of one or more enemy units."
+  },
+  {
+    "ability_id": "return-to-the-shadows",
+    "name": "RETURN TO THE SHADOWS",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "Remove your unit from the battlefield and place it into Strategic Reserves."
+  },
+  {
+    "ability_id": "a-deadly-snare",
+    "name": "A DEADLY SNARE",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "Roll one D6: on a 2-4, that enemy unit suffers D3 mortal wounds; on a 5+, that enemy unit suffers 3 mortal wounds."
+  },
+  {
+    "ability_id": "acceptable-losses",
+    "name": "ACCEPTABLE LOSSES",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "Select one enemy unit within Engagement Range of one or more GENESTEALER CULTS units from your army. Until the end of the phase, your unit can make ranged attacks that target that enemy unit. If it does, after it has resolved those attacks, roll one D6 for each of those GENESTEALER CULTS units: on a 5+, the unit being rolled for suffers D3+1 mortal wounds."
+  },
+  {
+    "ability_id": "the-downtrodden-rise",
+    "name": "THE DOWNTRODDEN RISE",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/gsc.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, you can set up your unit on the battlefield without using a Cult Ambush marker. When doing so, set up your unit anywhere on the battlefield that is more than 6\" horizontally away from all enemy units."
   }
 ]
