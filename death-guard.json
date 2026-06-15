@@ -1,0 +1,666 @@
+[
+  {
+    "ability_id": "warped-and-rusted-animus",
+    "name": "Warped and Rusted Animus",
+    "faction_id": "death-guard",
+    "detachment_id": "contagion-engines",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_death_guard.pdf, Contagion Engines",
+      "phases": []
+    },
+    "raw_text": "Friendly FOETID BLOATDRONE/FOETID BLOATDRONE WITH HEAVY BLIGHT LAUNCHER/HELBRUTE/MYPHITIC BLIGHTHAULER units have CONTAGION ENGINE.\n\nFriendly CONTAGION ENGINE units' ranged attacks have [ASSAULT].\n\nThis detachment has the ENGINES tag and cannot be taken with another ENGINES detachment."
+  },
+  {
+    "ability_id": "parasitic-woe-reaper",
+    "name": "Parasitic Woe-Reaper",
+    "faction_id": "death-guard",
+    "detachment_id": "contagion-engines",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_death_guard.pdf, Contagion Engines",
+      "phases": [
+        "Fight"
+      ]
+    },
+    "raw_text": "CONTAGION ENGINE unit only. When this unit has fought, one model in this unit heals D3 wounds."
+  },
+  {
+    "ability_id": "lancet-of-the-worldsore",
+    "name": "Lancet of the Worldsore",
+    "faction_id": "death-guard",
+    "detachment_id": "contagion-engines",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_death_guard.pdf, Contagion Engines",
+      "phases": []
+    },
+    "raw_text": "Friendly HELBRUTE/MYPHITIC BLIGHTHAULER unit only. This unit has MOBILE."
+  },
+  {
+    "ability_id": "fresh-vectors",
+    "name": "Fresh Vectors",
+    "faction_id": "death-guard",
+    "detachment_id": "contagion-engines",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_death_guard.pdf, Contagion Engines",
+      "phases": [
+        "Shooting",
+        "Fight"
+      ]
+    },
+    "raw_text": "WHEN: Your Shooting phase or the Fight phase, when a friendly CONTAGION ENGINE unit is selected to attack.\nTARGET: That CONTAGION ENGINE unit.\nEFFECT: Your unit's attacks can reroll wound rolls of 1."
+  },
+  {
+    "ability_id": "bloodrust-deluge",
+    "name": "Bloodrust Deluge",
+    "faction_id": "death-guard",
+    "detachment_id": "contagion-engines",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_death_guard.pdf, Contagion Engines",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "WHEN: Your Shooting phase, when a friendly CONTAGION ENGINE unit is selected to shoot.\nTARGET: That CONTAGION ENGINE unit.\nEFFECT: Select one visible enemy unit. That enemy unit is Afflicted until your unit has attacked."
+  },
+  {
+    "ability_id": "soulrot-flux",
+    "name": "Soulrot Flux",
+    "faction_id": "death-guard",
+    "detachment_id": "contagion-engines",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_death_guard.pdf, Contagion Engines",
+      "phases": [
+        "Movement"
+      ]
+    },
+    "raw_text": "WHEN: Your opponent's Movement phase, when an enemy unit is selected to make a fallback move, if that enemy unit is engaged with a friendly CONTAGION ENGINE unit.\nTARGET: That CONTAGION ENGINE unit.\nEFFECT: When an enemy unit engaged with your unit is selected to make a fallback move, roll one D6:\n On a 1, that enemy unit suffers 1 mortal wound.\n On a 2-5, that enemy unit suffers D3 mortal wounds.\n On a 6, that enemy unit suffers 3 mortal wounds."
+  },
+  {
+    "ability_id": "verminous-haze",
+    "name": "Verminous Haze",
+    "faction_id": "death-guard",
+    "detachment_id": "flyblown-host",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_death_guard.pdf, Flyblown Host",
+      "phases": []
+    },
+    "raw_text": "In the Declare Battle Formations step, you can select up to two friendly PLAGUE MARINES units. Those units have Infiltrators.\n\nThis detachment has the FLYBLOWN tag and cannot be taken with another FLYBLOWN detachment."
+  },
+  {
+    "ability_id": "insectile-murmuration",
+    "name": "Insectile Murmuration",
+    "faction_id": "death-guard",
+    "detachment_id": "flyblown-host",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_death_guard.pdf, Flyblown Host",
+      "phases": []
+    },
+    "raw_text": "PLAGUE MARINES unit only. When this unit's attacks target a unit within Contagion Range of a friendly unit, those attacks can reroll wound rolls of 1."
+  },
+  {
+    "ability_id": "plagueveil",
+    "name": "Plagueveil",
+    "faction_id": "death-guard",
+    "detachment_id": "flyblown-host",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_death_guard.pdf, Flyblown Host",
+      "phases": []
+    },
+    "raw_text": "PLAGUE MARINES unit only. This unit has -3\" detection range."
+  },
+  {
+    "ability_id": "nauseating-paroxysms",
+    "name": "Nauseating Paroxysms",
+    "faction_id": "death-guard",
+    "detachment_id": "flyblown-host",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_death_guard.pdf, Flyblown Host",
+      "phases": [
+        "Fight"
+      ]
+    },
+    "raw_text": "WHEN: Start of the Fight phase\nTARGET: One friendly engaged PLAGUE MARINES unit.\nEFFECT: Select one enemy unit engaged with your unit. That enemy unit makes a battleshock roll, with -1 to that battleshock roll."
+  },
+  {
+    "ability_id": "droning-horror",
+    "name": "Droning Horror",
+    "faction_id": "death-guard",
+    "detachment_id": "flyblown-host",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_death_guard.pdf, Flyblown Host",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "WHEN: Your Shooting phase, when a friendly PLAGUE MARINES unit is selected to shoot.\nTARGET: That PLAGUE MARINES unit.\nEFFECT: Your unit's ranged attacks:\n Can reroll hit rolls of 1.\n That target a unit within half range, can reroll wound rolls of 1."
+  },
+  {
+    "ability_id": "eye-of-the-swarm",
+    "name": "Eye of the Swarm",
+    "faction_id": "death-guard",
+    "detachment_id": "flyblown-host",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_death_guard.pdf, Flyblown Host",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "WHEN: Your Shooting phase, when a friendly PLAGUE MARINES unit is selected to shoot.\nTARGET: That PLAGUE MARINES unit.\nEFFECT: Your unit's ranged attacks have [CLOSEQUARTERS]."
+  },
+  {
+    "ability_id": "hypervirulent-strains",
+    "name": "Hypervirulent Strains",
+    "faction_id": "death-guard",
+    "detachment_id": "paragons-of-putrescence",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_death_guard.pdf, Paragons of Putrescence",
+      "phases": []
+    },
+    "raw_text": "Friendly DEATH GUARD CHARACTER units have +3\" to their Contagion Range (to a maximum of 12\")."
+  },
+  {
+    "ability_id": "rejuvenating-swarm",
+    "name": "Rejuvenating Swarm",
+    "faction_id": "death-guard",
+    "detachment_id": "paragons-of-putrescence",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_death_guard.pdf, Paragons of Putrescence",
+      "phases": []
+    },
+    "raw_text": "DEATH GUARD INFANTRY model only (excluding TERMINATOR models). Attacks that target this unit with a S greater than this unit's T have -1 to wound rolls."
+  },
+  {
+    "ability_id": "host-of-the-hybridised-pox",
+    "name": "Host of the Hybridised Pox",
+    "faction_id": "death-guard",
+    "detachment_id": "paragons-of-putrescence",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_death_guard.pdf, Paragons of Putrescence",
+      "phases": [
+        "Command"
+      ]
+    },
+    "raw_text": "DEATH GUARD INFANTRY model only. (Once per battle, per army) In your Command phase, you can use this ability. If you do, select one of the Plagues listed in Nurgle's Gift (see Codex: Death Guard). Enemy units within Contagion Range of this unit also have the effect of that Plague in addition to your army's chosen Plague until the end of the battle."
+  },
+  {
+    "ability_id": "territorial-infection",
+    "name": "Territorial Infection",
+    "faction_id": "death-guard",
+    "detachment_id": "paragons-of-putrescence",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_death_guard.pdf, Paragons of Putrescence",
+      "phases": [
+        "Command"
+      ]
+    },
+    "raw_text": "WHEN: Start of the Command phase.\nTARGET: One friendly DEATH GUARD CHARACTER unit.\nEFFECT: Your unit has +1 OC until the end of the turn."
+  },
+  {
+    "ability_id": "aggravus-spasms",
+    "name": "Aggravus Spasms",
+    "faction_id": "death-guard",
+    "detachment_id": "paragons-of-putrescence",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_death_guard.pdf, Paragons of Putrescence",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "WHEN: Start of your Shooting Phase.\nTARGET: One friendly DEATH GUARD CHARACTER unit.\nEFFECT: Select one visible enemy unit within Contagion Range of your unit. That enemy unit has +6\" detection range."
+  },
+  {
+    "ability_id": "simultaneous-contamination",
+    "name": "Simultaneous Contamination",
+    "faction_id": "death-guard",
+    "detachment_id": "paragons-of-putrescence",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_death_guard.pdf, Paragons of Putrescence",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "WHEN: Your Shooting phase, when a friendly DEATH GUARD CHARACTER unit starts an action.\nTARGET: That DEATH GUARD CHARACTER unit.\nEFFECT: That action does not prevent your unit from being eligible to shoot."
+  },
+  {
+    "ability_id": "nurgles-gift-aura",
+    "name": "Nurgle's Gift (Aura)",
+    "faction_id": "death-guard",
+    "detachment_id": null,
+    "unit_ids": [],
+    "ability_type": "faction",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_death_guard.pdf, Datasheets",
+      "phases": []
+    },
+    "raw_text": "FACTION: Nurgle's Gift (Aura)"
+  },
+  {
+    "ability_id": "deadly-demise-d6",
+    "name": "Deadly Demise D6",
+    "faction_id": "death-guard",
+    "detachment_id": null,
+    "unit_ids": [
+      "mortarion",
+      "defiler"
+    ],
+    "ability_type": "core",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_death_guard.pdf, Defiler",
+      "phases": []
+    },
+    "raw_text": "CORE: Deadly Demise D6"
+  },
+  {
+    "ability_id": "scuttling-walker",
+    "name": "Scuttling Walker",
+    "faction_id": "death-guard",
+    "detachment_id": null,
+    "unit_ids": [
+      "defiler"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_death_guard.pdf, Defiler",
+      "phases": [
+        "Movement"
+      ]
+    },
+    "raw_text": "Each time this unit makes a Normal, Advance or Fall Back move, it can move through models (excluding Titanic models) and terrain features. When doing so, it can move within Engagement Range of enemy models, but cannot end that move within Engagement Range of them, and any Desperate Escape test is automatically passed."
+  },
+  {
+    "ability_id": "barrage-of-filth",
+    "name": "Barrage of Filth",
+    "faction_id": "death-guard",
+    "detachment_id": null,
+    "unit_ids": [
+      "defiler"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_death_guard.pdf, Defiler",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. Until the end of the phase, that unit cannot have the Benefit of Cover."
+  },
+  {
+    "ability_id": "damaged-1-6-wounds-remaining",
+    "name": "Damaged: 1-6 Wounds Remaining",
+    "faction_id": "death-guard",
+    "detachment_id": null,
+    "unit_ids": [
+      "defiler"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_death_guard.pdf, Defiler",
+      "phases": []
+    },
+    "raw_text": "While this model has 1-6 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+  },
+  {
+    "ability_id": "infectious-bloodshed",
+    "name": "Infectious Bloodshed",
+    "faction_id": "death-guard",
+    "detachment_id": null,
+    "unit_ids": [
+      "death-guard-possessed"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_death_guard.pdf, Legends Datasheets - Death Guard Possessed",
+      "phases": [
+        "Charge"
+      ]
+    },
+    "raw_text": "Each time this unit makes a Charge move, until the end of the turn, weapons equipped by models in this unit have the [SUSTAINED HITS 1] ability."
+  },
+  {
+    "ability_id": "diseased-icon",
+    "name": "Diseased Icon",
+    "faction_id": "death-guard",
+    "detachment_id": null,
+    "unit_ids": [
+      "death-guard-possessed"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_death_guard.pdf, Legends Datasheets - Death Guard Possessed",
+      "phases": []
+    },
+    "raw_text": "Melee weapons in the bearer's unit have the [LETHAL HITS] ability."
+  },
+  {
+    "ability_id": "possessed",
+    "name": "POSSESSED",
+    "faction_id": "death-guard",
+    "detachment_id": null,
+    "unit_ids": [
+      "death-guard-possessed"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_death_guard.pdf, Legends Datasheets - Death Guard Possessed",
+      "phases": []
+    },
+    "raw_text": "For the purposes of embarking within Transports, each Death Guard Possessed model counts as one Terminator model."
+  },
+  {
+    "ability_id": "leader",
+    "name": "Leader",
+    "faction_id": "death-guard",
+    "detachment_id": null,
+    "unit_ids": [
+      "lord-of-poxes",
+      "death-guard-chaos-lord",
+      "death-guard-chaos-lord-in-terminator-armour",
+      "death-guard-sorcerer-in-terminator-armour"
+    ],
+    "ability_type": "core",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_death_guard.pdf, Legends Datasheets",
+      "phases": []
+    },
+    "raw_text": "CORE: Leader"
+  },
+  {
+    "ability_id": "deep-strike",
+    "name": "Deep Strike",
+    "faction_id": "death-guard",
+    "detachment_id": null,
+    "unit_ids": [
+      "lord-of-contagion",
+      "death-guard-chaos-lord-in-terminator-armour",
+      "death-guard-sorcerer-in-terminator-armour"
+    ],
+    "ability_type": "core",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_death_guard.pdf, Legends Datasheets",
+      "phases": []
+    },
+    "raw_text": "CORE: Deep Strike"
+  },
+  {
+    "ability_id": "chaos-lord",
+    "name": "Chaos Lord",
+    "faction_id": "death-guard",
+    "detachment_id": null,
+    "unit_ids": [
+      "death-guard-chaos-lord",
+      "death-guard-chaos-lord-in-terminator-armour"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_death_guard.pdf, Legends Datasheets - Death Guard Chaos Lord",
+      "phases": []
+    },
+    "raw_text": "While this model is leading a unit, each time a model in that unit makes an attack, re-roll a Hit roll of 1."
+  },
+  {
+    "ability_id": "desiccation-conduit-aura",
+    "name": "Desiccation Conduit (Aura)",
+    "faction_id": "death-guard",
+    "detachment_id": null,
+    "unit_ids": [
+      "death-guard-chaos-lord",
+      "death-guard-chaos-lord-in-terminator-armour"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_death_guard.pdf, Legends Datasheets - Death Guard Chaos Lord",
+      "phases": []
+    },
+    "raw_text": "While an enemy unit is within Contagion Range of this model, at the end of the turn, roll one D6: on a 4+, that enemy unit suffers D3 mortal wounds."
+  },
+  {
+    "ability_id": "scouts-6",
+    "name": "Scouts 6\"",
+    "faction_id": "death-guard",
+    "detachment_id": null,
+    "unit_ids": [
+      "chaos-spawn",
+      "death-guard-cultists"
+    ],
+    "ability_type": "core",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_death_guard.pdf, Legends Datasheets - Death Guard Cultists",
+      "phases": []
+    },
+    "raw_text": "CORE: Scouts 6\""
+  },
+  {
+    "ability_id": "putrescent-vitality-psychic",
+    "name": "Putrescent Vitality (Psychic)",
+    "faction_id": "death-guard",
+    "detachment_id": null,
+    "unit_ids": [
+      "death-guard-sorcerer-in-terminator-armour"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_death_guard.pdf, Legends Datasheets - Death Guard Sorcerer in Terminator Armour",
+      "phases": [
+        "Fight"
+      ]
+    },
+    "raw_text": "At the start of the Fight phase, you can roll one D6: on a 1, this Psyker's unit suffers D3 mortal wounds; on a 2+, until the end of the phase, each time an attack is allocated to a model in this Psyker's unit, subtract 1 from the Damage characteristic of that attack."
+  },
+  {
+    "ability_id": "pestilent-familiar-psychic",
+    "name": "Pestilent Familiar (Psychic)",
+    "faction_id": "death-guard",
+    "detachment_id": null,
+    "unit_ids": [
+      "death-guard-sorcerer-in-terminator-armour"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_death_guard.pdf, Legends Datasheets - Death Guard Sorcerer in Terminator Armour",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "Once per battle, after selecting targets for a Psychic weapon equipped by this model, until the end of the phase, improve the Strength and Damage characteristics of that weapon by 2."
+  }
+]

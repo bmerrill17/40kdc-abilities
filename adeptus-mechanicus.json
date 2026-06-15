@@ -1,0 +1,1438 @@
+[
+  {
+    "ability_id": "noospheric-recon",
+    "name": "Noospheric Recon",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "cohort-acquisitus",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "Forceloaded with enhanced divinatory augurs, farranging Skitarii are the unblinking eyes of their masters and cast their sensors in overlapping noospheric nets to root out the enemies of the Machine God.\n\nFriendly PTERAXII/INFILTRATORS/RANGERS/SERBERYS RAIDERS/SERBERYS SULPHURHOUNDS units have RECON AUGURY.\n\nFriendly RECON AUGURY units have the following ability:\n  Enhanced Augurs: In your Shooting phase, this unit can select one visible enemy unit within 12\". That enemy unit is analysed:\n   While a unit is analysed, that unit has +3\" detection range."
+  },
+  {
+    "ability_id": "explorator-dispensation",
+    "name": "Explorator Dispensation",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "cohort-acquisitus",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": []
+    },
+    "raw_text": "Mantled in a susurrus of shrouding code and implanted sensor baffles, this commander has been granted a holy commission to extend their forge world's influence at the forefront of the Quest for Knowledge.\n\nSKITARII MARSHAL model only. This unit has Infiltrators."
+  },
+  {
+    "ability_id": "stealth-screened-cybercanids-upgrade",
+    "name": "Stealth-screened Cybercanids Upgrade",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "cohort-acquisitus",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": []
+    },
+    "raw_text": "These veteran raiders have been bestowed with rarefied cybernetic mounts that incorporate stealthscreen projectors, silenced servos, and photoadaptive hides, rendering them all but invisible until they near their prey.\n\nSERBERYS RAIDERS unit only. This unit has Lone Operative 15\"."
+  },
+  {
+    "ability_id": "defect-scrutiny",
+    "name": "Defect Scrutiny",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "cohort-acquisitus",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "WHEN: Your Shooting phase, when a friendly ADEPTUS MECHANICUS unit is selected to shoot.\nTARGET: That ADEPTUS MECHANICUS unit.\nEFFECT: Select one visible enemy unit within 12\" of a friendly RECON AUGURY unit. Your unit's ranged attacks that target that enemy unit have [IGNORES COVER]."
+  },
+  {
+    "ability_id": "repolarised-augurs",
+    "name": "Repolarised Augurs",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "cohort-acquisitus",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Movement"
+      ]
+    },
+    "raw_text": "WHEN: Start of your opponent's Movement phase.\nTARGET: One friendly unengaged RECON AUGURY unit.\nEFFECT: Your unit has -3\" detection range until the end of the turn."
+  },
+  {
+    "ability_id": "clandestine-reposition",
+    "name": "Clandestine Reposition",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "cohort-acquisitus",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Fight"
+      ]
+    },
+    "raw_text": "WHEN: End of your opponent's Fight phase.\nTARGET: One friendly unengaged INFILTRATORS/PTERAXII unit.\nEFFECT: Place your unit in strategic reserves."
+  },
+  {
+    "ability_id": "war-form-mantles",
+    "name": "War-form Mantles",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "lords-of-the-forge",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "When battle looms, many Tech-Priests don their war forms, replacing more delicate mechanical appendages with steel-shod bionics that incorporate auto-repair subroutines. Some also outfit themselves with narrow-band screed casters. These project streams of incomprehensible code that overwhelm the cogitator cores of enemy vehicles and baffle augury.\n\nFriendly TECH-PRIEST models have:\n 4+ InSv.\n Feel No Pain 5+.\n\nFriendly TECH-PRIEST models have the following ability:\n  Baffling Data Screed: In your Shooting phase, when this unit is selected to shoot, if this unit is not battle-shocked, you can use this ability. If you do, roll one D6:\n   On a 2+, select one enemy VEHICLE unit within 12\" of this unit. That enemy unit makes a battle-shock roll, with -1 to that battle-shock roll. A unit cannot be selected for this ability more than once per turn.\n   Or: On 2+, those ranged attacks do not prevent this unit from being hidden."
+  },
+  {
+    "ability_id": "vinghs-wafers-of-dynamism",
+    "name": "Vingh's Wafers of Dynamism",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "lords-of-the-forge",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": []
+    },
+    "raw_text": "The inimitable holy programming within these doctrina wafers elicits a bullish agility in a Datasmith's cybernetic wards. So commanded, such robots have scaled rusting piles of shifting scree, bulldozed their way through heretek defences and smashed breaches in space hulk passages.\n\nCYBERNETICA DATASMITH model only. At the start of the first battle round, if this unit is an attached unit, this unit has MOBILE until the end of the battle."
+  },
+  {
+    "ability_id": "tl-4-9",
+    "name": "TL-4•9",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "lords-of-the-forge",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": []
+    },
+    "raw_text": "This modest-seeming casket is named for the almost indecipherable sigils on its ancient casing. The prevailing theocratic dogma is that this artefact is a weapon, for when its iris shutter is opened, a night-black beam of incredible power is released.\n\nTECH-PRIEST model only. This model has the following weapon:\n\nTL-4•9 [DEVASTATING WOUNDS, HAZARDOUS]\nRANGE: 24\"  A: 3  BS: 2+  S: 11  AP: -2  D: D3+2\n\nUNIQUE: DATA-PSALM"
+  },
+  {
+    "ability_id": "scriptural-prognosis",
+    "name": "Scriptural Prognosis",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "lords-of-the-forge",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Shooting",
+        "Fight"
+      ]
+    },
+    "raw_text": "WHEN: In your opponent's Shooting phase or the Fight phase, when an enemy unit targets a friendly TECH-PRIEST unit that is within range of an objective.\nTARGET: That TECH-PRIEST unit.\nEFFECT: Attacks that target your unit have -1 AP until that enemy unit has attacked."
+  },
+  {
+    "ability_id": "overloaded-safeguards",
+    "name": "Overloaded Safeguards",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "lords-of-the-forge",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Movement"
+      ]
+    },
+    "raw_text": "WHEN: Your Movement phase, when a friendly TECH-PRIEST unit is selected to make a fall-back move.\nTARGET: That TECH-PRIEST unit.\nEFFECT: That move does not prevent your unit from being eligible to shoot/declare a charge."
+  },
+  {
+    "ability_id": "holy-avarice",
+    "name": "Holy Avarice",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "lords-of-the-forge",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "WHEN: Your Shooting phase, when a friendly TECH-PRIEST unit starts an action.\nTARGET: That TECH-PRIEST unit.\nEFFECT: That action does not prevent your unit from being eligible to shoot."
+  },
+  {
+    "ability_id": "cyber-static-canticles",
+    "name": "Cyber-static Canticles",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "luminen-auto-choir",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Shooting",
+        "Fight"
+      ]
+    },
+    "raw_text": "With voices or binharic emissions raised in holy verse, the disciples of the Motive Force roar their worship. Thunderheads of potentiality roil above them, and rival sects vie to prove the supremacy of their visionary dogma with coruscating intensity.\n\nFriendly CORPUSCARII units' ranged attacks have [LETHAL HITS].\nWhen a friendly FULGURITE unit has fought, that unit heals D3 wounds.\n\nThis detachment has the DATA-PSALM tag and cannot be taken with another DATA-PSALM detachment."
+  },
+  {
+    "ability_id": "voltagheist-reliquary",
+    "name": "Voltagheist Reliquary",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "luminen-auto-choir",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": []
+    },
+    "raw_text": "The wild voltagheists said to inhabit this holy casket are more aggressive and intrusive than those that guard the Electro-Priests, and surge in interfering pulses that scramble the foe's sensors.\n\nTECH-PRIEST model only. Enemy units cannot target this unit with snap shooting attacks."
+  },
+  {
+    "ability_id": "electromiasmic-brazier",
+    "name": "Electromiasmic Brazier",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "luminen-auto-choir",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": []
+    },
+    "raw_text": "This ornate brazier emits incense-laced particulate chaff that swirls in glittering veils. The silvered mist is alive with sacred energies that foul attempts to pinpoint the Omnissiah's faithful.\n\nTECHPRIEST model only. This unit has Stealth."
+  },
+  {
+    "ability_id": "echoes-of-the-conduit-wars",
+    "name": "Echoes of the Conduit Wars",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "luminen-auto-choir",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Shooting",
+        "Fight"
+      ]
+    },
+    "raw_text": "WHEN: Your Shooting phase or the Fight phase, when a friendly ELECTRO-PRIESTS unit is selected to attack.\nTARGET: That ELECTRO-PRIESTS unit.\nEFFECT: Your unit's attacks that target a unit within range of an objective can:\n Re-roll hit rolls of 1.\n Re-roll wound rolls of 1."
+  },
+  {
+    "ability_id": "chant-of-electrotraction",
+    "name": "Chant of Electrotraction",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "luminen-auto-choir",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Movement"
+      ]
+    },
+    "raw_text": "WHEN: Your Movement phase, when a friendly ELECTRO-PRIESTS BATTLECLADE unit is selected to make an advance move.\nTARGET: That ELECTRO-PRIESTS unit.\nEFFECT: That move does not prevent your unit from being eligible to declare a charge."
+  },
+  {
+    "ability_id": "momentum-feedback",
+    "name": "Momentum Feedback",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "luminen-auto-choir",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "WHEN: Your opponent's Shooting phase, when an enemy unit that targeted a friendly unengaged ELECTRO-PRIESTS unit has shot.\nTARGET: That ELECTRO-PRIESTS unit.\nEFFECT: Your unit can make a surge move of up to D6\"."
+  },
+  {
+    "ability_id": "murderous-imperative",
+    "name": "Murderous Imperative",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "eradication-cohort",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Shooting",
+        "Fight"
+      ]
+    },
+    "raw_text": "The Skitarii fighting in a focused clade all but vibrate with the inloaded need to kill. This manifests not as wild rage, however, but rather as a coldly efficient drive to acquire the next target, bring it down with pinpoint fire or neatly placed thrusts, then find a new victim and repeat in an infinite loop.\n\nEach time a model in a Skitarii unit from your army makes an attack:\n If the Protector Imperative is active for that unit, reroll a Hit roll of 1.\n If the Conqueror Imperative is active for that unit, reroll a Wound roll of 1."
+  },
+  {
+    "ability_id": "omnicogitator",
+    "name": "Omnicogitator",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "eradication-cohort",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": []
+    },
+    "raw_text": "This unique tacticalcogitation augmetic provides its bearer with a wealth of situationappropriate responses in even the most intense battle.\n\nSkitarii Marshal model only. The Conqueror Imperative and Protector Imperative are both active for the bearer's unit."
+  },
+  {
+    "ability_id": "martial-signatum-amplificator",
+    "name": "Martial Signatum Amplificator",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "eradication-cohort",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": []
+    },
+    "raw_text": "This strange device taps into the datatethers that carry Skitarii command imperatives and disseminates them to other, less soldierly servants of the Omnissiah.\n\nTechPriest model only. Models in the bearer's unit have the Skitarii keyword."
+  },
+  {
+    "ability_id": "belicosa-class-capacitor-vanes",
+    "name": "Belicosa-class Capacitor Vanes",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "eradication-cohort",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": []
+    },
+    "raw_text": "These slender conductor vanes channel esoteric energies into nearby weapon systems, rendering their machine spirits rapacious and bellicose.\n\nAdeptus Mechanicus model only. Add 6\" to the Range characteristic of ranged weapons equipped by models in the bearer's unit, and add 1 to the Strength characteristic of those weapons."
+  },
+  {
+    "ability_id": "omnissiahs-fury",
+    "name": "Omnissiah's Fury",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "eradication-cohort",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": []
+    },
+    "raw_text": "A Skitarii Marshal implanted with this thoracic augmetic feels the Machine God's molten fury flowing through their veins and out into the weapons they wield in battle.\n\nSkitarii Marshal model only. Add 2 to the Attacks characteristic of melee weapons equipped by the bearer, and improve the Armour Penetration and Damage characteristics of those weapons by 1."
+  },
+  {
+    "ability_id": "servo-driven-charge",
+    "name": "Servo-driven Charge",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "eradication-cohort",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Fight"
+      ]
+    },
+    "raw_text": "WHEN: Fight phase.\nTARGET: One Adeptus Mechanicus unit from your army that has not been selected to fight this phase.\nEFFECT: Until the end of the phase, melee weapons equipped by models in your unit have the [LANCE] ability."
+  },
+  {
+    "ability_id": "threat-cogitation-targeters",
+    "name": "Threat-cogitation Targeters",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "eradication-cohort",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "WHEN: Your Shooting phase.\nTARGET: One Skitarii Vehicle unit from your army that has not been selected to shoot this phase.\nEFFECT: Until the end of the phase, each time a ranged attack made by a model in your unit is allocated to a Monster or Vehicle model, you can reroll the Damage roll."
+  },
+  {
+    "ability_id": "unrelenting-aggression",
+    "name": "Unrelenting Aggression",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "eradication-cohort",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Movement"
+      ]
+    },
+    "raw_text": "WHEN: Your Movement phase, just after an Adeptus Mechanicus unit from your army Falls Back.\nTARGET: That Adeptus Mechanicus unit.\nEFFECT: Until the end of the turn, your unit is eligible to shoot in a turn in which it Fell Back. If your unit has the Skitarii keyword, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back instead."
+  },
+  {
+    "ability_id": "precision-onslaught",
+    "name": "Precision Onslaught",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "eradication-cohort",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Charge"
+      ]
+    },
+    "raw_text": "WHEN: Your Charge phase, just after a Sicarian unit from your army declares a charge.\nTARGET: That Sicarian unit.\nEFFECT: Until the end of the phase, when your unit ends a Charge move, select one enemy unit within Engagement Range of it, then roll one D6 for each model in your unit that is within Engagement Range of that enemy unit: for each 4+, that enemy unit suffers 1 mortal wound."
+  },
+  {
+    "ability_id": "unshackled-wrath",
+    "name": "Unshackled Wrath",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "eradication-cohort",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "WHEN: Your Shooting phase.\nTARGET: One Skitarii unit from your army that has not been selected to shoot this phase.\nEFFECT: Select the [SUSTAINED HITS 1] or [LETHAL HITS] ability. Until the end of the phase, ranged weapons equipped by models in your unit have the selected ability. You can instead select the [SUSTAINED HITS 1], [LETHAL HITS] and [HAZARDOUS] abilities to apply to those weapons until the end of the phase."
+  },
+  {
+    "ability_id": "analytic-reprisals",
+    "name": "Analytic Reprisals",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "eradication-cohort",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "WHEN: Your opponent's Shooting phase, just after an enemy unit has shot.\nTARGET: One Skitarii Infantry unit from your army that lost one or more models as a result of the attacking unit's attacks.\nEFFECT: Your unit can shoot as if it were your Shooting phase, but must target only that enemy unit when doing so, and can only do so if that enemy unit is an eligible target."
+  },
+  {
+    "ability_id": "noospheric-transference",
+    "name": "Noospheric Transference",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "haloscreed-battle-clade",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Command"
+      ]
+    },
+    "raw_text": "TechPriests can override the will of their thralls and project martial data inloads into the minds of their warriors, blessing the soldiery with endless streams of precisely tailored binharic code.\n\nIn your Command phase, select one or more Adeptus Mechanicus units from your army (including units that are embarked within Transports). The maximum number of units you can select depends on the battle size, as follows:\n\nINCURSION: 1 UNIT\nSTRIKE FORCE: 2 UNITS\nONSLAUGHT: 3 UNITS\n\nUntil the start of your next Command phase, those units gain the Halo Override keyword. Then, select one of the Override abilities below. Until the start of your next Command phase, units from your army with the Halo Override keyword have the selected Override ability:\n\nElectromotive Energisation\nAdd 2\" to the Move characteristic of models in this unit.\n\nMicroactuator Bracing\nAdd 1 to the Toughness characteristic of models in this unit.\n\nPredation Protocols\nThis unit is eligible to declare a charge in a turn in which it Advanced.\n\nMuted Servomotors\nModels in this unit have the Stealth ability."
+  },
+  {
+    "ability_id": "transoracular-dyad-wafers",
+    "name": "Transoracular Dyad Wafers",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "haloscreed-battle-clade",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": []
+    },
+    "raw_text": "Inloaded with advanced combat protocols, tactical hymnals and holy autoscripture, these doctrina wafers grant greater autonomy and destructive might to the constructs of the Legio Cybernetica.\n\nCybernetica Datasmith model only. When the bearer is attached to a Kastelan Robots unit, until the end of the battle, models in that unit gain the Halo Override keyword. That unit cannot be selected when selecting units as part of the Noospheric Transference Detachment rule."
+  },
+  {
+    "ability_id": "cognitive-reinforcement",
+    "name": "Cognitive Reinforcement",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "haloscreed-battle-clade",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": []
+    },
+    "raw_text": "From afar, the guiding hand of the Omnissian priesthood allows this warrior to process streams of sensory input and encoded imperatives simultaneously.\n\nAdeptus Mechanicus model only (excluding Cybernetica Datasmith models). The Conqueror Imperative and Protector Imperative are both active for the bearer's unit."
+  },
+  {
+    "ability_id": "sanctified-ordnance",
+    "name": "Sanctified Ordnance",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "haloscreed-battle-clade",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": []
+    },
+    "raw_text": "The ammunition borne to battle by this disciple of the Machine God and those at their command has been subjected to ritual anointings and autosermonic blessings, lending it far greater stability.\n\nAdeptus Mechanicus model only. Add 6\" to the Range characteristic of ranged weapons equipped by models in the bearer's unit and, each time a Hazardous test is taken for that unit, you can reroll the result."
+  },
+  {
+    "ability_id": "inloaded-lethality",
+    "name": "Inloaded Lethality",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "haloscreed-battle-clade",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": []
+    },
+    "raw_text": "The ancient noospheric receptors implanted into this field commander enable them to receive constant streams of binharic kill code and static prayer chants, lending them greater strength and martial prowess.\n\nTechPriest Dominus or TechPriest Manipulus model only. Add 3 to the Attacks characteristic of the bearer's melee weapons and add 1 to the Damage characteristic of the bearer's melee weapons."
+  },
+  {
+    "ability_id": "eradication-protocols",
+    "name": "Eradication Protocols",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "haloscreed-battle-clade",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Shooting",
+        "Fight"
+      ]
+    },
+    "raw_text": "WHEN: Your Shooting phase or the Fight phase.\nTARGET: One Adeptus Mechanicus unit from your army that has not been selected to shoot or fight this phase.\nEFFECT: Until the end of the phase, each time a model in your unit makes an attack, reroll a Wound roll of 1, and, if it is a Halo Override unit, reroll a Hit roll of 1."
+  },
+  {
+    "ability_id": "targeting-override",
+    "name": "Targeting Override",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "haloscreed-battle-clade",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Shooting",
+        "Fight"
+      ]
+    },
+    "raw_text": "WHEN: Your Shooting phase or the Fight phase.\nTARGET: One Adeptus Mechanicus unit from your army that has not been selected to shoot or fight this phase.\nEFFECT: Until the end of the phase, each time a model in your unit makes an attack, an unmodified Hit roll of 5+ scores a Critical Hit."
+  },
+  {
+    "ability_id": "neural-overload",
+    "name": "Neural Overload",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "haloscreed-battle-clade",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Movement"
+      ]
+    },
+    "raw_text": "WHEN: Your Movement phase.\nTARGET: One Adeptus Mechanicus unit from your army.\nEFFECT: If your unit is a Halo Override unit, it suffers D3 mortal wounds. Select one Override ability. Until the start of your next Command phase, that ability is active for your unit.\n\nDesigner's Note: This means that if the targeted unit already has the Halo Override keyword, it can be affected by multiple Override abilities at the same time, but suffers mortal wounds to do so. Alternatively, if your unit does not have the Halo Override keyword, it instead has the chosen Override ability until the start of your next Command phase, but does not benefit from any other Override abilities that are active."
+  },
+  {
+    "ability_id": "aggressive-impulse",
+    "name": "Aggressive Impulse",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "haloscreed-battle-clade",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Movement"
+      ]
+    },
+    "raw_text": "WHEN: Your Movement phase.\nTARGET: One Skorpius Dunerider model from your army that has not been selected to move this phase.\nEFFECT: Until the end of the turn, each time an Adeptus Mechanicus unit disembarks from that model after it has made a Normal move, that unit is still eligible to declare a charge this turn."
+  },
+  {
+    "ability_id": "guided-retreat",
+    "name": "Guided Retreat",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "haloscreed-battle-clade",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Movement"
+      ]
+    },
+    "raw_text": "WHEN: Your Movement phase, just after an Adeptus Mechanicus unit from your army Falls back.\nTARGET: That Adeptus Mechanicus unit.\nEFFECT: Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back, and, if it is a Halo Override unit, you can reroll Desperate Escape tests taken for it."
+  },
+  {
+    "ability_id": "analytical-divination",
+    "name": "Analytical Divination",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "haloscreed-battle-clade",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Movement"
+      ]
+    },
+    "raw_text": "WHEN: Your opponent's Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.\nTARGET: One Adeptus Mechanicus Infantry unit (excluding Kataphron units) from your army that is within 8\" of that enemy unit and not within Engagement Range of one or more enemy units.\nEFFECT: Your unit can make a Normal move of up to D6\", or up to 6\" instead if it is a Halo Override unit."
+  },
+  {
+    "ability_id": "rod-of-the-war-forge",
+    "name": "Rod of the War Forge",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": null,
+    "unit_ids": [
+      "thulia-ghuld"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Command"
+      ]
+    },
+    "raw_text": "In your Command phase, select one of the abilities in the Icon of War section (see next page). Until the start of your next Command phase, this model has that ability."
+  },
+  {
+    "ability_id": "mechanicus-bodyguard",
+    "name": "Mechanicus Bodyguard",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": null,
+    "unit_ids": [
+      "belisarius-cawl",
+      "thulia-ghuld"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": []
+    },
+    "raw_text": "While this model is within 3\" of one or more other friendly Adeptus Mechanicus units, this model has the Lone Operative ability."
+  },
+  {
+    "ability_id": "cybernetic-augmentation",
+    "name": "Cybernetic Augmentation",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": null,
+    "unit_ids": [
+      "thulia-ghuld"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": []
+    },
+    "raw_text": "This model can move through terrain features, but cannot end a move within a wall, a floor, etc. This model can be set up or end a move on any floor level of Ruins, but if that level is not the ground floor, it can only do so if its base does not overhang the floor at that level."
+  },
+  {
+    "ability_id": "secutor-of-olympus",
+    "name": "Secutor of Olympus",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": null,
+    "unit_ids": [
+      "thulia-ghuld"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "At the start of your Shooting phase, select one enemy Vehicle unit within 12\" of this model and roll one D6: on a 2+, that enemy unit suffers D3+1 mortal wounds."
+  },
+  {
+    "ability_id": "fanatical-devotion",
+    "name": "Fanatical Devotion",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": null,
+    "unit_ids": [
+      "thulia-ghuld"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Command"
+      ]
+    },
+    "raw_text": "You can select one friendly Skitarii or Thulia Ghuld unit within 6\" of this model; until the start of your next Command phase, that unit is eligible to shoot and declare a charge in a turn in which it Advanced."
+  },
+  {
+    "ability_id": "adaptive-tactics",
+    "name": "Adaptive Tactics",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": null,
+    "unit_ids": [
+      "thulia-ghuld"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Command"
+      ]
+    },
+    "raw_text": "You can select one friendly Skitarii or Thulia Ghuld unit within 6\" of this model; until the start of your next Command phase, that unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
+  },
+  {
+    "ability_id": "the-fires-of-mars",
+    "name": "The Fires of Mars",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": null,
+    "unit_ids": [
+      "thulia-ghuld"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Command"
+      ]
+    },
+    "raw_text": "You can select one friendly Skitarii or Thulia Ghuld unit within 6\" of this model; until the start of your next Command phase, the Conqueror Imperative and Protector Imperative are both active for that unit."
+  },
+  {
+    "ability_id": "broad-spectrum-targeting-augurs",
+    "name": "Broad-spectrum Targeting Augurs",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": null,
+    "unit_ids": [
+      "hastarii-exterminators"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "Each time a model in this unit makes an attack with an eradication caster that targets a unit (excluding Monster and Vehicle units), that attack has the [SUSTAINED HITS 1] ability."
+  },
+  {
+    "ability_id": "monocular-targeting-helms",
+    "name": "Monocular Targeting Helms",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": null,
+    "unit_ids": [
+      "hastarii-fusiliers"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "Each time a model in this unit makes an attack with a neutron fusil against a Monster or Vehicle unit, that attack has the [IGNORES COVER] ability."
+  },
+  {
+    "ability_id": "network-override",
+    "name": "Network Override",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": null,
+    "unit_ids": [
+      "servitor-battleclade"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": []
+    },
+    "raw_text": "While this unit contains one or more Tech-Priest models, this unit is:\n Eligible to perform an Action in a turn in which it Advanced.\n Eligible to shoot in a turn in which it started an Action."
+  },
+  {
+    "ability_id": "mindlock",
+    "name": "Mindlock",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": null,
+    "unit_ids": [
+      "x-101"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": []
+    },
+    "raw_text": "While a Tech-Priest model is leading this model's unit, improve the Ballistic Skill and Weapon Skill characteristics of this model's weapons by 1."
+  },
+  {
+    "ability_id": "bound-creation",
+    "name": "Bound Creation",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": null,
+    "unit_ids": [
+      "x-101"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": []
+    },
+    "raw_text": "While a Tech-Priest model is leading this model's unit, that Tech-Priest model has the Feel No Pain 5+ ability."
+  },
+  {
+    "ability_id": "servitor-bodyguard",
+    "name": "SERVITOR BODYGUARD",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": null,
+    "unit_ids": [
+      "x-101"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": []
+    },
+    "raw_text": "At the start of the Declare Battle Formations step, this model can join one other unit from your army that is being led by a Tech-Priest Infantry model. If it does, until the end of the battle, this model counts as being part of that Bodyguard unit, and that Bodyguard unit's Starting Strength is increased accordingly."
+  },
+  {
+    "ability_id": "titan-guard",
+    "name": "Titan Guard",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": null,
+    "unit_ids": [
+      "secutarii-hoplites"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Fight"
+      ]
+    },
+    "raw_text": "You can target this unit with the Heroic Intervention Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this phase. When doing so, if there are one or more friendly Adeptus Titanicus units on the battlefield, you can re-roll the subsequent charge roll."
+  },
+  {
+    "ability_id": "enhanced-data-tether",
+    "name": "Enhanced data-tether",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": null,
+    "unit_ids": [
+      "skitarii-vanguard",
+      "secutarii-hoplites",
+      "secutarii-peltasts"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": []
+    },
+    "raw_text": "Each time you select the bearer's unit as the target of a Stratagem, roll one D6: on a 5+, you gain 1CP"
+  },
+  {
+    "ability_id": "omnispex",
+    "name": "Omnispex",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": null,
+    "unit_ids": [
+      "skitarii-vanguard",
+      "secutarii-hoplites",
+      "secutarii-peltasts"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "Ranged weapons equipped by models in the bearer's unit have the [IGNORES COVER] ability."
+  },
+  {
+    "ability_id": "blind-barrage",
+    "name": "Blind Barrage",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": null,
+    "unit_ids": [
+      "secutarii-peltasts"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "In your Shooting phase, after this unit has shot, select one enemy Infantry unit hit by one or more of those attacks. Until the start of your next turn, while this unit is on the battlefield, that enemy unit is blinded. While a unit is blinded, each time a model in that unit makes an attack, subtract 1 from the Hit roll."
+  },
+  {
+    "ability_id": "termite-assault",
+    "name": "Termite Assault",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": null,
+    "unit_ids": [
+      "terrax-pattern-termite"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Movement"
+      ]
+    },
+    "raw_text": "This model must start the battle in Reserves, but neither it nor any units embarked within it are counted towards any limits placed on the maximum number of Reserves units you can start the battle with. This model can be set up in the Reinforcements step of your first, second or third Movement phase, regardless of any mission rules. Any units embarked within this model can disembark after it has been set up on the battlefield, and if they do they must be set up more than 9\" away from all enemy models."
+  },
+  {
+    "ability_id": "doctrina-imperatives",
+    "name": "Doctrina Imperatives",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": null,
+    "unit_ids": [],
+    "ability_type": "faction",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Shooting",
+        "Fight"
+      ]
+    },
+    "raw_text": "Protector Imperative:\n Ranged weapons equipped by models in this unit have the [HEAVY] ability.\n Improve the Ballistic Skill characteristic of ranged weapons equipped by models in this unit by 1.\n Each time a melee attack targets this unit, if this unit has the BATTLELINE keyword and/or it is within 6\" of one or more friendly ADEPTUS MECHANICUS BATTLELINE units, subtract 1 from the Hit roll.\n\nConqueror Imperative:\n Ranged weapons equipped by models in this unit have the [ASSAULT] ability.\n Improve the Weapon Skill characteristic of melee weapons equipped by models in this unit by 1.\n Each time a model in this unit makes an attack, if this unit has the BATTLELINE keyword and/or it is within 6\" of one or more friendly ADEPTUS MECHANICUS BATTLELINE units, improve the Armour Penetration characteristic of that attack by 1."
+  },
+  {
+    "ability_id": "scuttling-walker",
+    "name": "Scuttling Walker",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": null,
+    "unit_ids": [
+      "onager-dunecrawler"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Movement"
+      ]
+    },
+    "raw_text": "Each time this model makes a Normal, Advance or Fall Back move, it can move through friendly MONSTER and VEHICLE models and sections of terrain features that are 4\" or less in height."
+  },
+  {
+    "ability_id": "bomb-rack",
+    "name": "Bomb Rack",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": null,
+    "unit_ids": [
+      "archaeopter-fusilave"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Fight"
+      ]
+    },
+    "raw_text": "At the end of your opponent's Fight phase, select one visible enemy unit (excluding Lone Operative units) within 24\" of this unit, and roll six D6 for that unit: for each 4+, that unit suffers 1 mortal wound."
+  },
+  {
+    "ability_id": "aerial-deployment",
+    "name": "Aerial Deployment",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": null,
+    "unit_ids": [
+      "archaeopter-transvector"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Movement"
+      ]
+    },
+    "raw_text": "In your first Movement phase, this unit can make an ingress move."
+  },
+  {
+    "ability_id": "canticles-of-the-omnissiah",
+    "name": "Canticles of the Omnissiah",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": null,
+    "unit_ids": [
+      "belisarius-cawl"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Command"
+      ]
+    },
+    "raw_text": "At the start of your Command phase, select one of the abilities in the Canticles of the Omnissiah section. Until the start of your next Command phase, this model has that ability."
+  },
+  {
+    "ability_id": "invocation-of-machine-vengeance",
+    "name": "Invocation of Machine Vengeance",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": null,
+    "unit_ids": [
+      "belisarius-cawl"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Command"
+      ]
+    },
+    "raw_text": "At the start of your Command phase, select one unit from your opponent's army. Until the start of your next Command phase, that enemy unit is your Machine Vengeance target. Each time a model in a friendly ADEPTUS MECHANICUS unit makes an attack that targets your Machine Vengeance target, you can re-roll the Hit roll."
+  },
+  {
+    "ability_id": "mantra-of-discipline",
+    "name": "Mantra of Discipline",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": null,
+    "unit_ids": [
+      "belisarius-cawl"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": []
+    },
+    "raw_text": "This model has the BATTLELINE keyword and has the following ability: Binharic Courage (Aura): While a friendly ADEPTUS MECHANICUS unit is within 6\" of this model, add 1 to the Objective Control characteristic of models in that unit and each time you take a Battle-shock or Leadership test for that unit, add 1 to that test."
+  },
+  {
+    "ability_id": "shroudpsalm-aura",
+    "name": "Shroudpsalm (Aura)",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": null,
+    "unit_ids": [
+      "belisarius-cawl"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": []
+    },
+    "raw_text": "While a friendly ADEPTUS MECHANICUS unit is within 6\" of this model, that unit has the Stealth ability."
+  },
+  {
+    "ability_id": "tactica-obliqua",
+    "name": "Tactica Obliqua",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": null,
+    "unit_ids": [
+      "serberys-raiders"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Movement"
+      ]
+    },
+    "raw_text": "In your opponent's Movement phase, if an enemy unit ends a move within 8\" of this unit, if this unit is not within Engagement Range of one or more enemy units, it can do one of the following:\n Make a Normal move of up to D6\"\n Make a Normal move of up to 6\" provided every model in this unit ends that move wholly within 6\" of one or more friendly ADEPTUS MECHANICUS BATTLELINE units."
+  },
+  {
+    "ability_id": "servo-skull-uplink",
+    "name": "Servo-skull Uplink",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": null,
+    "unit_ids": [
+      "skitarii-marshal"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": []
+    },
+    "raw_text": "Once per battle, at the start of any phase, you can select one friendly SKITARII unit that is Battle-shocked and within 6\" of this model. That unit is no longer Battle-shocked."
+  },
+  {
+    "ability_id": "firing-deck-2",
+    "name": "Firing Deck 2",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": null,
+    "unit_ids": [
+      "skorpius-dunerider"
+    ],
+    "ability_type": "core",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": [
+        "Shooting"
+      ]
+    },
+    "raw_text": "Firing Deck 2"
+  },
+  {
+    "ability_id": "cyber-psalm-programming",
+    "name": "Cyber-psalm Programming",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "cohort-cybernetica",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": []
+    },
+    "raw_text": "Add 2\" to the Move characteristic of models in LEGIO CYBERNETICA units from your army. In addition, unless that unit is Battleshocked, add 1 to the Objective Control characteristic of models in that unit."
+  },
+  {
+    "ability_id": "veiled-hunter",
+    "name": "Veiled Hunter",
+    "faction_id": "adeptus-mechanicus",
+    "detachment_id": "skitarii-hunter-cohort",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "phases": []
+    },
+    "raw_text": "SKITARII MARSHAL model only. After both players have deployed their armies, you can select up to three SKITARII INFANTRY units from your army and redeploy all of those units. When doing so, any of those units can be placed into Strategic Reserves, regardless of how many units are already in Strategic Reserves."
+  }
+]
