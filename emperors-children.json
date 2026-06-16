@@ -1269,7 +1269,7 @@
       "ref": "eng_10-06_warhammer40000_faction_pack_emperor_s_children-fffbpc3gn0-mesp5k6khu.pdf",
       "edition": "11e"
     },
-    "when": "Your opponent's Shooting phase or the 1CP Fight phase.",
+    "when": "Your opponent's Shooting phase or the Fight phase.",
     "target": "One Emperor's Children unit from your army.",
     "effect": "Until the end of the phase, each time an attack targets your unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of your unit, subtract 1 from the Wound roll."
   },
@@ -1670,7 +1670,7 @@
       "ref": "eng_10-06_warhammer40000_faction_pack_emperor_s_children-fffbpc3gn0-mesp5k6khu.pdf",
       "edition": "11e"
     },
-    "when": "Your Movement phase or your Charge phase. 1CP",
+    "when": "Your Movement phase or your Charge phase.",
     "target": "One Emperor's Children Daemon unit from your army that has not been selected to move or charge this phase.",
     "effect": "Until the end of the phase, each time your unit makes a Normal, Advance or Charge move, it can move horizontally through terrain features."
   },
@@ -1862,7 +1862,7 @@
     },
     "when": "Your Shooting phase or the Fight phase, when a friendly EMPEROR'S CHILDREN TERMINATOR unit is selected to attack.",
     "target": "That EMPEROR'S CHILDREN TERMINATOR unit",
-    "effect": "Your unit's attacks have +2 S. 1CP"
+    "effect": "Your unit's attacks have +2 S."
   },
   {
     "ability_id": "warp-plunge-elegant-brutes",
@@ -1881,7 +1881,7 @@
     },
     "when": "End of your opponent's Fight phase.",
     "target": "One friendly unengaged EMPEROR'S CHILDREN TERMINATOR unit.",
-    "effect": "Place your unit in strategic reserves. 1CP UNIQUE: HOST"
+    "effect": "Place your unit in strategic reserves. UNIQUE: HOST"
   },
   {
     "ability_id": "possessive-mania-frenzied-host",
@@ -1919,7 +1919,7 @@
     },
     "when": "Start of your Shooting phase.",
     "target": "One friendly EMPEROR'S CHILDREN BATTLELINE unit.",
-    "effect": "Select one visible enemy unit within 12\" of your unit. That enemy unit has +6\" detection range. 1CP"
+    "effect": "Select one visible enemy unit within 12\" of your unit. That enemy unit has +6\" detection range."
   },
   {
     "ability_id": "absolute-sensory-overload-frenzied-host",
@@ -1938,7 +1938,7 @@
     },
     "when": "Your Shooting phase, when a friendly EMPEROR'S CHILDREN BATTLELINE unit is selected to shoot.",
     "target": "That EMPEROR'S CHILDREN BATTLELINE unit.",
-    "effect": "Those ranged attacks do not prevent your unit from being hidden. 1CP"
+    "effect": "Those ranged attacks do not prevent your unit from being hidden."
   },
   {
     "ability_id": "honour-is-for-fools-spectacle-of-slaughter",
@@ -1957,7 +1957,7 @@
     },
     "when": "Fight phase, when a friendly FLAWLESS BLADES unit is selected to fight.",
     "target": "That FLAWLESS BLADES unit.",
-    "effect": "Your unit's melee attacks have [PRECISION]. 1CP"
+    "effect": "Your unit's melee attacks have [PRECISION]."
   },
   {
     "ability_id": "single-minded-strike-spectacle-of-slaughter",
@@ -1976,7 +1976,7 @@
     },
     "when": "Your Charge phase, when a friendly FLAWLESS BLADES unit starts a charge move.",
     "target": "That FLAWLESS BLADES unit.",
-    "effect": "Your unit can move through models (excluding MONSTER/VEHICLE models). 1CP"
+    "effect": "Your unit can move through models (excluding MONSTER/VEHICLE models)."
   },
   {
     "ability_id": "intoxicated-by-triumph-spectacle-of-slaughter",

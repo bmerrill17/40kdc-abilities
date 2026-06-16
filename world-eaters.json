@@ -1766,7 +1766,7 @@
     },
     "when": "Fight phase, when a friendly WORLD EATERS CHARACTER unit (excluding EPIC HERO units) is selected to fight.",
     "target": "That WORLD EATERS CHARACTER unit.",
-    "effect": "Your unit's CHARACTER models' melee attacks have: +1 A. +2 S. 1CP"
+    "effect": "Your unit's CHARACTER models' melee attacks have: +1 A. +2 S."
   },
   {
     "ability_id": "punish-the-craven-vessels-of-wrath",
@@ -1804,7 +1804,7 @@
     },
     "when": "Your Shooting phase or the Fight phase, when a friendly DAEMON VEHICLE unit is selected to attack.",
     "target": "That DAEMON VEHICLE unit.",
-    "effect": "Your unit's attacks can ignore modifiers to: BS. WS. Hit rolls and wound rolls. 1CP"
+    "effect": "Your unit's attacks can ignore modifiers to: BS. WS. Hit rolls and wound rolls."
   },
   {
     "ability_id": "trail-of-destruction-brazen-engines",
@@ -1842,7 +1842,7 @@
     },
     "when": "Your opponent's Shooting phase, when an enemy unit that targeted a friendly unengaged DAEMON VEHICLE unit (excluding TITANIC units) has shot.",
     "target": "That DAEMON VEHICLE unit.",
-    "effect": "Your unit can make a surge move of up to D6\". 1CP"
+    "effect": "Your unit can make a surge move of up to D6\"."
   },
   {
     "ability_id": "focused-ferocity-butchers-of-khorne",
@@ -1880,7 +1880,7 @@
     },
     "when": "Fight phase, when a friendly TERMINATOR SQUAD unit is selected to fight.",
     "target": "That TERMINATOR SQUAD unit.",
-    "effect": "Your unit's attacks that target a MONSTER/VEHICLE unit have +1 to wound rolls. 1CP"
+    "effect": "Your unit's attacks that target a MONSTER/VEHICLE unit have +1 to wound rolls."
   },
   {
     "ability_id": "wrath-beyond-reason-butchers-of-khorne",

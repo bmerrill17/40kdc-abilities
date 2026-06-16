@@ -1214,7 +1214,7 @@
     },
     "when": "Your opponent's Shooting phase, when an enemy unit targets a friendly WYCH CULT unit.",
     "target": "That WYCH CULT unit.",
-    "effect": "Your unit has 5+ InSv. 1CP UNIQUE: KABAL"
+    "effect": "Your unit has 5+ InSv. UNIQUE: KABAL"
   },
   {
     "ability_id": "periapt-of-torments-exhibition-of-slaughter",
@@ -1789,7 +1789,7 @@
     },
     "when": "Fight phase, just after an enemy unit has selected its targets.",
     "target": "One Drukhari or Harlequins unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
-    "effect": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll. 1CP"
+    "effect": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
   },
   {
     "ability_id": "fighting-shadows-realspace-raiders",
@@ -2171,7 +2171,7 @@
     },
     "when": "Your Movement phase, just after a Drukhari or Harlequins unit from your army has Advanced.",
     "target": "That unit.",
-    "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced. 1CP"
+    "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced."
   },
   {
     "ability_id": "scintillating-tempo-reapers-wager",
@@ -2190,7 +2190,7 @@
     },
     "when": "Your Movement phase or your Charge phase, just after a Drukhari or Harlequins unit from your army is selected to make a Normal, Advance or Fall Back move, is set up on the battlefield, or declares a charge.",
     "target": "That unit.",
-    "effect": "Until the end of the turn, enemy units cannot use the Fire Overwatch Stratagem to shoot at your unit. 2CP"
+    "effect": "Until the end of the turn, enemy units cannot use the Fire Overwatch Stratagem to shoot at your unit."
   },
   {
     "ability_id": "fateful-role-reapers-wager",
@@ -2362,7 +2362,7 @@
     },
     "when": "Fight phase, when a friendly WYCH CULT unit is selected to fight.",
     "target": "That WYCH CULT unit.",
-    "effect": "Your unit's melee attacks have [LETHAL HITS]. 1CP"
+    "effect": "Your unit's melee attacks have [LETHAL HITS]."
   },
   {
     "ability_id": "sculpting-the-stage-exhibition-of-slaughter",
@@ -2400,7 +2400,7 @@
     },
     "when": "Your Shooting phase or the Fight phase, when a friendly BLADES FOR HIRE/KABAL unit targets a CHARACTER unit.",
     "target": "That BLADES FOR HIRE/KABAL unit.",
-    "effect": "Your unit's attacks that target a CHARACTER unit can: Reroll hit rolls of 1. Reroll wound rolls of 1. 1CP"
+    "effect": "Your unit's attacks that target a CHARACTER unit can: Reroll hit rolls of 1. Reroll wound rolls of 1."
   },
   {
     "ability_id": "shadows-reach-kabalite-agonysts",
@@ -2438,7 +2438,7 @@
     },
     "when": "Your Shooting phase, when a friendly KABALITE WARRIORS unit is selected to shoot.",
     "target": "That KABALITE WARRIORS unit.",
-    "effect": "Your unit's ranged attacks have [IGNORES COVER]. 1CP UNIQUE: COVENS"
+    "effect": "Your unit's ranged attacks have [IGNORES COVER]. UNIQUE: COVENS"
   },
   {
     "ability_id": "salting-the-wound-tools-of-torment",
@@ -2457,7 +2457,7 @@
     },
     "when": "Fight phase, when a friendly CRONOS/TALOS unit is selected to fight.",
     "target": "That CRONOS/TALOS unit.",
-    "effect": "Your unit's attacks that target a battleshocked unit have [DEVASTATING WOUNDS]. 1CP"
+    "effect": "Your unit's attacks that target a battleshocked unit have [DEVASTATING WOUNDS]."
   },
   {
     "ability_id": "dividends-of-agony-tools-of-torment",

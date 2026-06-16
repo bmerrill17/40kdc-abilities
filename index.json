@@ -645,7 +645,7 @@
     "faction": "adepta-sororitas",
     "when": "Start of the Command phase.",
     "target": "One friendly ADEPTA SORORITAS INFANTRY FLY unit or one friendly EXORCIST unit.",
-    "effect": "Select one friendly battleshocked ADEPTA SORORITAS unit within 6\" of your unit. That unit is no longer battleshocked. 1CP"
+    "effect": "Select one friendly battleshocked ADEPTA SORORITAS unit within 6\" of your unit. That unit is no longer battleshocked."
   },
   "the-blood-of-martyrs": {
     "faction": "adepta-sororitas",
@@ -2454,7 +2454,7 @@
     "faction": "adeptus-astartes",
     "when": "Your Shooting phase, when a friendly SPEEDER unit is selected to shoot.",
     "target": "That SPEEDER unit.",
-    "effect": "Select one enemy unit within 24\" of your unit. That enemy unit has +6\" detection range until your unit has shot. 1CP"
+    "effect": "Select one enemy unit within 24\" of your unit. That enemy unit has +6\" detection range until your unit has shot."
   },
   "reactive-evasion-fulguris-task-force": {
     "faction": "adeptus-astartes",
@@ -2466,19 +2466,19 @@
     "faction": "adeptus-astartes",
     "when": "End of your opponent's Fight phase.",
     "target": "One friendly unengaged SPEEDER unit.",
-    "effect": "Place your unit in strategic reserves. 1CP"
+    "effect": "Place your unit in strategic reserves."
   },
   "adaptive-operations-subversion-assets": {
     "faction": "adeptus-astartes",
     "when": "Your Shooting phase, when a friendly PHOBOS/SCOUT SQUAD unit starts an action.",
     "target": "That PHOBOS/SCOUT SQUAD unit.",
-    "effect": "That action does not prevent your unit from being eligible to shoot. 1CP"
+    "effect": "That action does not prevent your unit from being eligible to shoot."
   },
   "cloaked-position-subversion-assets": {
     "faction": "adeptus-astartes",
     "when": "Start of your opponent's Movement phase.",
     "target": "One friendly unengaged PHOBOS/SCOUT SQUAD unit.",
-    "effect": "Your unit has -3\" detection range until the end of the turn. 1CP"
+    "effect": "Your unit has -3\" detection range until the end of the turn."
   },
   "bellicose-weapon-spirits-fulguris-task-force": {
     "faction": "adeptus-astartes",
@@ -3196,7 +3196,7 @@
     "faction": "adeptus-custodes",
     "when": "Your Shooting phase, when a friendly TELEMON HEAVY DREADNOUGHT unit is selected to shoot.",
     "target": "That TELEMON HEAVY DREADNOUGHT unit.",
-    "effect": "Your unit's: Arachnus Storm Cannon weapons have [RAPID FIRE 6]. Iliastus Accelerator Culverin weapons have [RAPID FIRE 2]. 1CP"
+    "effect": "Your unit's: Arachnus Storm Cannon weapons have [RAPID FIRE 6]. Iliastus Accelerator Culverin weapons have [RAPID FIRE 2]."
   },
   "interred-expertise-might-of-the-moritoi": {
     "faction": "adeptus-custodes",
@@ -4560,7 +4560,7 @@
     "faction": "aeldari",
     "when": "End of your opponent's Fight phase.",
     "target": "One friendly unengaged HARLEQUINS unit.",
-    "effect": "Place your unit in strategic reserves. 1CP"
+    "effect": "Place your unit in strategic reserves."
   },
   "heroes-fall-fateful-performance": {
     "faction": "aeldari",
@@ -4853,13 +4853,13 @@
     "faction": "aeldari",
     "when": "The Fight phase.",
     "target": "One Aeldari unit from your army that has not been selected to fight this phase.",
-    "effect": "Until the end of the phase, each time a model in your unit makes an attack, reroll a Wound roll of 1. If your unit has the Anhrathe keyword, then until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit within range of an objective marker, you can reroll the Wound roll instead. 1CP"
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack, reroll a Wound roll of 1. If your unit has the Anhrathe keyword, then until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit within range of an objective marker, you can reroll the Wound roll instead."
   },
   "no-prey-too-big-eldritch-raiders": {
     "faction": "aeldari",
     "when": "Your Shooting phase.",
     "target": "One Anhrathe, Rangers or Shroud Runners unit from your army that has not been selected to shoot this phase.",
-    "effect": "Until the end of the phase, each time a model in your unit makes an attack, if the Strength characteristic of that attack is less than the highest Toughness characteristic of models in the target unit, add 1 to the Wound roll. 1CP"
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack, if the Strength characteristic of that attack is less than the highest Toughness characteristic of models in the target unit, add 1 to the Wound roll."
   },
   "fate-inescapable-seer-council": {
     "faction": "aeldari",
@@ -4901,7 +4901,7 @@
     "faction": "aeldari",
     "when": "Fight phase, just after an enemy unit has selected its targets.",
     "target": "One Aeldari Infantry unit from your army (excluding Wraith Construct units) that was selected as the target of one or more of the attacking unit's attacks.",
-    "effect": "Until the end of the phase, models in your unit have the Feel No Pain 5+ ability. 1CP"
+    "effect": "Until the end of the phase, models in your unit have the Feel No Pain 5+ ability."
   },
   "ishas-fury-seer-council": {
     "faction": "aeldari",
@@ -4975,7 +4975,7 @@
     "faction": "aeldari",
     "when": "Your Charge phase.",
     "target": "One Harlequins unit from your army.",
-    "effect": "Until the end of the phase, your unit is eligible to declare a charge in a turn in which it Advanced. 1CP"
+    "effect": "Until the end of the phase, your unit is eligible to declare a charge in a turn in which it Advanced."
   },
   "weavers-coils-serpents-brood": {
     "faction": "aeldari",
@@ -4987,7 +4987,7 @@
     "faction": "aeldari",
     "when": "Your opponent's Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.",
     "target": "One Harlequins Infantry unit from your army that is within 8\" of that enemy unit.",
-    "effect": "Your unit can make a Normal move of up to 6\". 1CP"
+    "effect": "Your unit can make a Normal move of up to 6\"."
   },
   "skyward-lunge-serpents-brood": {
     "faction": "aeldari",
@@ -5047,7 +5047,7 @@
     "faction": "aeldari",
     "when": "Any phase, when a friendly AELDARI VEHICLE unit suffers a mortal wound.",
     "target": "That AELDARI VEHICLE unit.",
-    "effect": "Your unit has Feel No Pain 5+ against mortal wounds. 1CP"
+    "effect": "Your unit has Feel No Pain 5+ against mortal wounds."
   },
   "swift-deployment-armoured-warhost": {
     "faction": "aeldari",
@@ -5065,25 +5065,25 @@
     "faction": "aeldari",
     "when": "Your Movement phase, just after an Aeldari unit from your army Falls Back.",
     "target": "That Aeldari unit.",
-    "effect": "Until the end of the turn, your unit is eligible to declare a charge in a turn in which it Fell Back. If it is an Anhrathe unit, also select one enemy unit your unit was within Engagement Range of at the start of the phase, and roll six D6: for each 4+, that enemy unit suffers 1 mortal wound. 1CP"
+    "effect": "Until the end of the turn, your unit is eligible to declare a charge in a turn in which it Fell Back. If it is an Anhrathe unit, also select one enemy unit your unit was within Engagement Range of at the start of the phase, and roll six D6: for each 4+, that enemy unit suffers 1 mortal wound."
   },
   "outcast-ambush-corsair-coterie": {
     "faction": "aeldari",
     "when": "Your Shooting phase.",
     "target": "One Rangers or Shroud Runners unit from your army that has not been selected to shoot this phase.",
-    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the [IGNORES COVER] and [RAPID FIRE 1] abilities, and until the end of the phase, improve the Armour Penetration characteristic of those weapons by 1. 1CP"
+    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the [IGNORES COVER] and [RAPID FIRE 1] abilities, and until the end of the phase, improve the Armour Penetration characteristic of those weapons by 1."
   },
   "into-the-breach-corsair-coterie": {
     "faction": "aeldari",
     "when": "Your Shooting phase, just after an Anhrathe unit from your army destroyed one or more enemy units.",
     "target": "That Anhrathe unit.",
-    "effect": "After your unit has resolved all of its shooting attacks, it can make a Normal move of up to D6+1\". 1CP"
+    "effect": "After your unit has resolved all of its shooting attacks, it can make a Normal move of up to D6+1\"."
   },
   "cloak-and-shadow-corsair-coterie": {
     "faction": "aeldari",
     "when": "Your opponent's Shooting phase, just after an enemy unit has selected its targets.",
     "target": "One Aeldari Infantry unit from your army that is within range of an objective marker that you control and that was selected as the target of one or more of the attacking unit's attacks.",
-    "effect": "Until the end of the phase, models in your unit have the Stealth ability and your unit can only be selected as the target of a ranged attack if the attacking model is within 18\". 1CP"
+    "effect": "Until the end of the phase, models in your unit have the Stealth ability and your unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
   },
   "vengeful-sorrow-corsair-coterie": {
     "faction": "aeldari",
@@ -5095,13 +5095,13 @@
     "faction": "aeldari",
     "when": "Command phase.",
     "target": "One Anhrathe unit from your army that is within Engagement Range of one or more enemy units.",
-    "effect": "Until the start of the next Command phase, add 1 to the Objective Control characteristic of models in your unit. 1CP"
+    "effect": "Until the start of the next Command phase, add 1 to the Objective Control characteristic of models in your unit."
   },
   "ruthless-killers-eldritch-raiders": {
     "faction": "aeldari",
     "when": "Your Shooting phase or the Fight phase.",
     "target": "One Corsair Voidscarred unit from your army that has not been selected to shoot or Fight this phase.",
-    "effect": "Until the end of the phase, each time a model in your unit makes an attack, add 1 to the Damage characteristic of that attack. 1CP"
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack, add 1 to the Damage characteristic of that attack."
   },
   "withdraw-and-reinforce-eldritch-raiders": {
     "faction": "aeldari",
@@ -5181,7 +5181,7 @@
     "faction": "aeldari",
     "when": "Your Shooting phase, when a friendly AELDARI VEHICLE unit is selected to shoot.",
     "target": "That AELDARI VEHICLE unit.",
-    "effect": "Your unit's attacks can reroll: One hit roll. One wound roll. One damage roll. 1CP"
+    "effect": "Your unit's attacks can reroll: One hit roll. One wound roll. One damage roll."
   },
   "deceptive-feint-fateful-performance": {
     "faction": "aeldari",
@@ -5193,7 +5193,7 @@
     "faction": "aeldari",
     "when": "Your Shooting phase, when a friendly RANGERS/SHROUD RUNNERS unit has shot.",
     "target": "That RANGERS/SHROUD RUNNERS unit.",
-    "effect": "Select one enemy unit hit by those ranged attacks. That enemy unit makes a battleshock roll, with 1 to that battleshock roll if a model in that enemy unit was destroyed by those attacks. 1CP"
+    "effect": "Select one enemy unit hit by those ranged attacks. That enemy unit makes a battleshock roll, with 1 to that battleshock roll if a model in that enemy unit was destroyed by those attacks."
   },
   "casting-back-the-veil-path-of-the-outcast": {
     "faction": "aeldari",
@@ -5217,7 +5217,7 @@
     "faction": "aeldari",
     "when": "End of your Movement phase.",
     "target": "One friendly TROUPE unit.",
-    "effect": "Select one objective your unit is controlling. That objective is secured. 1CP"
+    "effect": "Select one objective your unit is controlling. That objective is secured."
   },
   "phantasmal-mirage-twilight-flickers": {
     "faction": "aeldari",
@@ -7201,7 +7201,7 @@
     "faction": "black-templars",
     "when": "Your Charge phase, when a friendly SWORD BRETHREN SQUAD unit ends a charge move.",
     "target": "That SWORD BRETHREN SQUAD unit.",
-    "effect": "Select one enemy unit engaged with your unit. Roll one D6 for each model in your unit engaged with that enemy unit: For each 4+, that enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds). 1CP"
+    "effect": "Select one enemy unit engaged with your unit. Roll one D6 for each model in your unit engaged with that enemy unit: For each 4+, that enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds)."
   },
   "unsparing-execution-marshals-household": {
     "faction": "black-templars",
@@ -7213,13 +7213,13 @@
     "faction": "black-templars",
     "when": "Any phase, when a friendly CHAPLAIN unit suffers a mortal wound.",
     "target": "That CHAPLAIN unit.",
-    "effect": "Your unit has Feel No Pain 4+ against mortal wounds. 1CP"
+    "effect": "Your unit has Feel No Pain 4+ against mortal wounds."
   },
   "rite-of-perfervid-wrath-wrathful-procession": {
     "faction": "black-templars",
     "when": "Fight phase, when a friendly CHAPLAIN unit is selected to fight.",
     "target": "That CHAPLAIN unit.",
-    "effect": "Your unit's melee attacks have +1 S. 1CP"
+    "effect": "Your unit's melee attacks have +1 S."
   },
   "fervent-exemplars-marshals-household": {
     "faction": "black-templars",
@@ -7400,7 +7400,7 @@
     "faction": "blood-angels",
     "when": "Your opponent's Shooting phase, just after an enemy unit has selected its targets.",
     "target": "One Adeptus Astartes Character unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
-    "effect": "Until the end of the phase, your unit can only be selected as the target of a ranged attack if the attacking model is within 18\". 1CP"
+    "effect": "Until the end of the phase, your unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
   },
   "unto-the-burning-skies-angelic-inheritors": {
     "faction": "blood-angels",
@@ -7412,7 +7412,7 @@
     "faction": "blood-angels",
     "when": "Your Command phase.",
     "target": "One Adeptus Astartes Infantry unit from your army.",
-    "effect": "Select one nonCharacter model in your unit. Until the start of your next Command phase, your model has the Character keyword. Designer's Note: While in effect, your model's unit is therefore a Character unit, meaning it can interact with the Legacy of the Angel Detachment rule, in addition to other rules that interact with Character units. 1CP"
+    "effect": "Select one nonCharacter model in your unit. Until the start of your next Command phase, your model has the Character keyword. Designer's Note: While in effect, your model's unit is therefore a Character unit, meaning it can interact with the Legacy of the Angel Detachment rule, in addition to other rules that interact with Character units."
   },
   "a-grim-warning-rage-cursed-onslaught": {
     "faction": "blood-angels",
@@ -7424,7 +7424,7 @@
     "faction": "blood-angels",
     "when": "Fight phase.",
     "target": "One Adeptus Astartes unit from your army that made a Charge move this turn.",
-    "effect": "Select either the Strength or Armour Penetration characteristic of melee weapons equipped by models in your unit. Until the end of the phase, add 1 to the selected characteristic. You can instead choose for your unit to give in to the Red Thirst; if it does, it becomes Battleshocked (but the effects of this Stratagem still apply to it), and until the end of the phase, add 1 to the Strength and Armour Penetration characteristics of melee weapons equipped by models in your unit. 2CP"
+    "effect": "Select either the Strength or Armour Penetration characteristic of melee weapons equipped by models in your unit. Until the end of the phase, add 1 to the selected characteristic. You can instead choose for your unit to give in to the Red Thirst; if it does, it becomes Battleshocked (but the effects of this Stratagem still apply to it), and until the end of the phase, add 1 to the Strength and Armour Penetration characteristics of melee weapons equipped by models in your unit."
   },
   "deathless-duty-rage-cursed-onslaught": {
     "faction": "blood-angels",
@@ -7436,7 +7436,7 @@
     "faction": "blood-angels",
     "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
     "target": "One Death Company unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
-    "effect": "Until the end of the phase, models in your unit have the Feel No Pain 5+ ability. 1CP"
+    "effect": "Until the end of the phase, models in your unit have the Feel No Pain 5+ ability."
   },
   "red-wrath-rage-cursed-onslaught": {
     "faction": "blood-angels",
@@ -7478,19 +7478,19 @@
     "faction": "blood-angels",
     "when": "Your Shooting phase or the Fight phase, when a friendly ADEPTUS ASTARTES CHARACTER unit is selected to attack.",
     "target": "That ADEPTUS ASTARTES CHARACTER unit.",
-    "effect": "Your unit's attacks have: [LETHAL HITS]. OR: [SUSTAINED HITS 1]. 1CP"
+    "effect": "Your unit's attacks have: [LETHAL HITS]. OR: [SUSTAINED HITS 1]."
   },
   "aura-of-the-angels-grace-legacy-of-grace": {
     "faction": "blood-angels",
     "when": "Your opponent's Shooting phase, when an enemy unit targets a friendly ADEPTUS ASTARTES CHARACTER unit.",
     "target": "That CHARACTER unit.",
-    "effect": "Your unit has 5+ InSv. 1CP"
+    "effect": "Your unit has 5+ InSv."
   },
   "judgement-of-the-golden-host-encarmine-speartip": {
     "faction": "blood-angels",
     "when": "Your Charge phase, when a friendly SANGUINARY GUARD unit from your army ends a charge move.",
     "target": "That SANGUINARY GUARD unit.",
-    "effect": "Select one enemy unit engaged with your unit. Roll one D6 for each model in your unit engaged with that enemy unit: For each 3+, that enemy unit suffers 1 mortal wound. 1CP"
+    "effect": "Select one enemy unit engaged with your unit. Roll one D6 for each model in your unit engaged with that enemy unit: For each 3+, that enemy unit suffers 1 mortal wound."
   },
   "inexorable-valour-encarmine-speartip": {
     "faction": "blood-angels",
@@ -8080,7 +8080,7 @@
   },
   "draught-of-terror-daemonic-incursion": {
     "faction": "chaos-daemons",
-    "when": "Your Shooting phase or the 1CP Fight phase.",
+    "when": "Your Shooting phase or the Fight phase.",
     "target": "One Legiones Daemonica unit from your army that has not been selected to shoot or fight this phase.",
     "effect": "Until the end of the phase, improve the Armour Penetration characteristic of weapons equipped by models in that unit by 1. In addition, until the end of the phase, each time such a weapon targets a unit that is Battle-shocked, you can re-roll the Wound roll."
   },
@@ -8105,7 +8105,7 @@
   },
   "fever-visions-plague-legion": {
     "faction": "chaos-daemons",
-    "when": "Your Shooting phase or the Fight phase. 1CP",
+    "when": "Your Shooting phase or the Fight phase.",
     "target": "One Legiones Daemonica Nurgle unit from your army that has not been selected to shoot or fight this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes an attack, add 1 to the Hit roll. After your unit has finished making its attacks, select one enemy unit hit by one or more of those attacks; that enemy unit must take a Battleshock test."
   },
@@ -8113,7 +8113,7 @@
     "faction": "chaos-daemons",
     "when": "Your Movement phase.",
     "target": "One Legiones Daemonica Nurgle Infantry unit from your army.",
-    "effect": "Until the end of the phase, each time your unit makes a Normal move, add 5\" to the Move characteristic of models in your unit. 1CP"
+    "effect": "Until the end of the phase, each time your unit makes a Normal move, add 5\" to the Move characteristic of models in your unit."
   },
   "death-denied-shadow-legion": {
     "faction": "chaos-daemons",
@@ -8155,13 +8155,13 @@
     "faction": "chaos-daemons",
     "when": "Fight phase.",
     "target": "One Legiones Daemonica Slaanesh Monster unit or up to two Legiones Daemonica Slaanesh units (excluding Monsters) from your army that have not been selected to fight this phase.",
-    "effect": "Until the end of the phase, each time a model in one of those units makes an attack, add 1 to the Wound roll. 1CP"
+    "effect": "Until the end of the phase, each time a model in one of those units makes an attack, add 1 to the Wound roll."
   },
   "blood-begets-skulls-blood-legion": {
     "faction": "chaos-daemons",
     "when": "Your Charge phase.",
     "target": "One Legiones Daemonica Khorne unit from your army that has not been selected to charge this phase.",
-    "effect": "Until the end of the phase, your unit is eligible to declare a charge in a turn in which it Advanced. 2CP"
+    "effect": "Until the end of the phase, your unit is eligible to declare a charge in a turn in which it Advanced."
   },
   "wrath-undeniable-blood-legion": {
     "faction": "chaos-daemons",
@@ -8179,7 +8179,7 @@
     "faction": "chaos-daemons",
     "when": "Your Shooting phase.",
     "target": "One Legiones Daemonica Khorne Infantry or Legiones Daemonica Khorne Mounted unit from your army (excluding units that Fell Back this turn) that is not within Engagement Range of one or more enemy units.",
-    "effect": "Select one enemy unit that is not within Engagement Range of one or more units from your army and is within 8\" of and visible to your unit. Roll six D6: for each 4+, that enemy unit suffers 1 mortal wound. 1CP"
+    "effect": "Select one enemy unit that is not within Engagement Range of one or more units from your army and is within 8\" of and visible to your unit. Roll six D6: for each 4+, that enemy unit suffers 1 mortal wound."
   },
   "corrupt-realspace-daemonic-incursion": {
     "faction": "chaos-daemons",
@@ -8203,7 +8203,7 @@
     "faction": "chaos-daemons",
     "when": "Your Movement phase or your Charge phase.",
     "target": "One Legiones Daemonica Nurgle unit from your army.",
-    "effect": "Until the end of the phase, each time a model in your unit makes a move, it can move through terrain features. 1CP"
+    "effect": "Until the end of the phase, each time a model in your unit makes a move, it can move through terrain features."
   },
   "plague-of-woes-plague-legion": {
     "faction": "chaos-daemons",
@@ -8233,25 +8233,25 @@
     "faction": "chaos-daemons",
     "when": "Any phase.",
     "target": "One Legiones Daemonica Tzeentch Monster unit from your army that is on the battlefield.",
-    "effect": "Select No Man's Land or your opponent's deployment zone, or spend one Flux token and select both. Until the end of the phase, the selected areas of the battlefield are within your army's Shadow of Chaos. 1CP"
+    "effect": "Select No Man's Land or your opponent's deployment zone, or spend one Flux token and select both. Until the end of the phase, the selected areas of the battlefield are within your army's Shadow of Chaos."
   },
   "flickering-reality-scintillating-legion": {
     "faction": "chaos-daemons",
     "when": "Fight phase, just after an enemy unit has selected its targets.",
     "target": "One Legiones Daemonica Tzeentch unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
-    "effect": "Roll one D6, then you can spend one Flux token to reroll the result: until the end of the phase, each time an attack targets your unit, on an unmodified Hit roll (after any reroll) of that result, the attack sequence ends, even if the original Hit roll would have been a Critical Hit. Example: If you roll a 2 and choose to spend one Flux token to reroll the result, and the reroll is a 6, then until the end of the phase, each time an attack targets your unit, on an unmodified Hit roll of 6 the attack sequence ends, that attack fails to hit and no Critical Hit effects (e.g. Lethal Hits) are resolved. 1CP"
+    "effect": "Roll one D6, then you can spend one Flux token to reroll the result: until the end of the phase, each time an attack targets your unit, on an unmodified Hit roll (after any reroll) of that result, the attack sequence ends, even if the original Hit roll would have been a Critical Hit. Example: If you roll a 2 and choose to spend one Flux token to reroll the result, and the reroll is a 6, then until the end of the phase, each time an attack targets your unit, on an unmodified Hit roll of 6 the attack sequence ends, that attack fails to hit and no Critical Hit effects (e.g. Lethal Hits) are resolved."
   },
   "fateborne-nightmares-scintillating-legion": {
     "faction": "chaos-daemons",
     "when": "Your Movement phase or your Charge phase.",
     "target": "One Legiones Daemonica Tzeentch unit from your army.",
-    "effect": "Until the end of the phase, each time a model in your unit makes a move, it can move through terrain features. 1CP"
+    "effect": "Until the end of the phase, each time a model in your unit makes a move, it can move through terrain features."
   },
   "ficklefire-scintillating-legion": {
     "faction": "chaos-daemons",
     "when": "Your Shooting phase.",
     "target": "One Legiones Daemonica Tzeentch unit from your army that is within Engagement Range of one or more enemy units.",
-    "effect": "Until the end of the phase, enemy units are not considered to be within Engagement Range of your unit for the purposes of selecting targets for, and resolving attacks with, ranged weapons. Until the end of the phase, each time an enemy model is destroyed while its unit is within Engagement Range of your unit, roll one D6: on a 5+, your unit suffers 1 mortal wound after the attacking unit has finished making its attacks. 1CP"
+    "effect": "Until the end of the phase, enemy units are not considered to be within Engagement Range of your unit for the purposes of selecting targets for, and resolving attacks with, ranged weapons. Until the end of the phase, each time an enemy model is destroyed while its unit is within Engagement Range of your unit, roll one D6: on a 5+, your unit suffers 1 mortal wound after the attacking unit has finished making its attacks."
   },
   "delirium-unmade-scintillating-legion": {
     "faction": "chaos-daemons",
@@ -8269,61 +8269,61 @@
     "faction": "chaos-daemons",
     "when": "Your Command phase.",
     "target": "One Legiones Daemonica Slaanesh Monster unit from your army that is on the battlefield.",
-    "effect": "Each unit on the battlefield that is within your army's Shadow of Chaos must take a Battleshock test, subtracting 1 from that test if they are Below Halfstrength. Designer's Note: This Stratagem forces all friendly and enemy units alike within your army's Shadow of Chaos to take a Battleshock test. This can allow a Chaos Daemons player to heal units from their army through the Daemonic Terror army rule, at the risk of causing some of their own units to become Battleshocked. 1CP"
+    "effect": "Each unit on the battlefield that is within your army's Shadow of Chaos must take a Battleshock test, subtracting 1 from that test if they are Below Halfstrength. Designer's Note: This Stratagem forces all friendly and enemy units alike within your army's Shadow of Chaos to take a Battleshock test. This can allow a Chaos Daemons player to heal units from their army through the Daemonic Terror army rule, at the risk of causing some of their own units to become Battleshocked."
   },
   "phantasmal-longing-legion-of-excess": {
     "faction": "chaos-daemons",
     "when": "Your Movement phase or your Charge phase.",
     "target": "One Legiones Daemonica Slaanesh unit from your army.",
-    "effect": "Until the end of the phase, each time a model in your unit makes a move, it can move through terrain features. 1CP"
+    "effect": "Until the end of the phase, each time a model in your unit makes a move, it can move through terrain features."
   },
   "fools-flight-blood-legion": {
     "faction": "chaos-daemons",
     "when": "Your opponent's Movement phase, when an enemy unit ends a fallback move.",
     "target": "One friendly unengaged Legiones Daemonica Khorne unit that is within 6\" of that enemy unit.",
-    "effect": "Declare a charge with your unit. When selecting charge targets, you can only select enemy units that made a fallback move this phase and are within the maximum distance. 1CP"
+    "effect": "Declare a charge with your unit. When selecting charge targets, you can only select enemy units that made a fallback move this phase and are within the maximum distance."
   },
   "foetid-resurgence-plague-legion": {
     "faction": "chaos-daemons",
     "when": "Your Command phase.",
     "target": "One Legiones Daemonica Nurgle unit from your army that is on the battlefield.",
-    "effect": "Return up to 1 destroyed model to your unit, or up to D3 destroyed models instead if your unit is a Battleline unit, with their full wounds remaining. If it is a Monster unit, one model in your unit regains up to D3+1 lost wounds instead. 1CP"
+    "effect": "Return up to 1 destroyed model to your unit, or up to D3 destroyed models instead if your unit is a Battleline unit, with their full wounds remaining. If it is a Monster unit, one model in your unit regains up to D3+1 lost wounds instead."
   },
   "from-beyond-the-veil-cavalcade-of-chaos": {
     "faction": "chaos-daemons",
     "when": "End of the Movement phase, from the start of the battle.",
     "target": "One friendly LEGIONES DAEMONICA MOUNTED unit in strategic reserves.",
-    "effect": "Your unit can make an ingress move. 1CP"
+    "effect": "Your unit can make an ingress move."
   },
   "warp-riders-cavalcade-of-chaos": {
     "faction": "chaos-daemons",
     "when": "Your Movement phase, when a friendly LEGIONES DAEMONICA MOUNTED unit is selected to move.",
     "target": "That LEGIONES DAEMONICA MOUNTED unit.",
-    "effect": "Your unit has MOBILE. 1CP"
+    "effect": "Your unit has MOBILE."
   },
   "inescapable-manifestations-cavalcade-of-chaos": {
     "faction": "chaos-daemons",
     "when": "Your opponent's Movement phase, when a unit is selected to make a fallback move, if that unit is engaged with a friendly LEGIONES DAEMONICA MOUNTED unit.",
     "target": "That LEGIONES DAEMONICA MOUNTED unit.",
-    "effect": "When an enemy unit engaged with your unit is selected to make a fallback move, that enemy unit must use the desperate escape mode. If that enemy unit is battleshocked, -1 from those hazard rolls. 1CP"
+    "effect": "When an enemy unit engaged with your unit is selected to make a fallback move, that enemy unit must use the desperate escape mode. If that enemy unit is battleshocked, -1 from those hazard rolls."
   },
   "carnival-of-excess-lords-of-the-warp": {
     "faction": "chaos-daemons",
     "when": "Fight phase, when an enemy unit has fought.",
     "target": "One friendly LEGIONES DAEMONICA CHARACTER SLAANESH unit (excluding MONSTER units) that has not been selected to fight this phase.",
-    "effect": "Your unit has Fights First and must be the next unit you select to fight. 1CP"
+    "effect": "Your unit has Fights First and must be the next unit you select to fight."
   },
   "call-to-murder-lords-of-the-warp": {
     "faction": "chaos-daemons",
     "when": "Fight phase, when a friendly LEGIONES DAEMONICA KHORNE CHARACTER unit (excluding MONSTER units) that made a charge move this turn is selected to fight.",
     "target": "That LEGIONES DAEMONICA CHARACTER KHORNE unit.",
-    "effect": "Your unit's melee attacks have +1 A. 1CP"
+    "effect": "Your unit's melee attacks have +1 A."
   },
   "bilious-blessing-lords-of-the-warp": {
     "faction": "chaos-daemons",
     "when": "Start of your Shooting phase.",
     "target": "One friendly LEGIONES DAEMONICA CHARACTER NURGLE unit (excluding MONSTER units).",
-    "effect": "Select one visible enemy unit within 8\" of your unit and roll seven D6: For each 4+, that enemy unit suffers 1 mortal wound. 1CP"
+    "effect": "Select one visible enemy unit within 8\" of your unit and roll seven D6: For each 4+, that enemy unit suffers 1 mortal wound."
   },
   "skirling-magicks-lords-of-the-warp": {
     "faction": "chaos-daemons",
@@ -8335,19 +8335,19 @@
     "faction": "chaos-daemons",
     "when": "Your Command phase.",
     "target": "One friendly LEGIONES DAEMONICA BATTLELINE unit (excluding PINK HORRORS units).",
-    "effect": "Your unit heals 3 wounds. 1CP"
+    "effect": "Your unit heals 3 wounds."
   },
   "soulseeing-warptide": {
     "faction": "chaos-daemons",
     "when": "Start of your Shooting phase.",
     "target": "One friendly LEGIONES DAEMONICA BATTLELINE unit.",
-    "effect": "Select one visible enemy unit within 12\" of your unit. That enemy unit has +6\" detection range. 1CP"
+    "effect": "Select one visible enemy unit within 12\" of your unit. That enemy unit has +6\" detection range."
   },
   "incorporeal-entities-warptide": {
     "faction": "chaos-daemons",
     "when": "Your opponent's Shooting phase, when an enemy unit targets a friendly LEGIONES DAEMONICA BATTLELINE unit.",
     "target": "That LEGIONES DAEMONICA BATTLELINE unit.",
-    "effect": "Ranged attacks that target your unit with a S greater than your unit's T have 1 to wound rolls. 1CP"
+    "effect": "Ranged attacks that target your unit with a S greater than your unit's T have 1 to wound rolls."
   },
   "apocalyptic-steeds-cavalcade-of-chaos": {
     "faction": "chaos-daemons",
@@ -8547,7 +8547,7 @@
     "faction": "chaos-knights",
     "when": "Any phase, just after a mortal wound is allocated to a Chaos Knights unit from your army.",
     "target": "That Chaos Knights unit.",
-    "effect": "Until the end of the phase, models in your unit have the Feel No Pain 5+ ability against mortal wounds. 1CP"
+    "effect": "Until the end of the phase, models in your unit have the Feel No Pain 5+ ability against mortal wounds."
   },
   "merciless-fusillade-helhunt-lance": {
     "faction": "chaos-knights",
@@ -8557,7 +8557,7 @@
   },
   "beasthide-manifestation-helhunt-lance": {
     "faction": "chaos-knights",
-    "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected 1CP its targets.",
+    "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
     "target": "One Chaos Knights unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
     "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
   },
@@ -8571,7 +8571,7 @@
     "faction": "chaos-knights",
     "when": "Your Movement phase, just after a Chaos Knights unit from your army Falls Back.",
     "target": "That Chaos Knights unit.",
-    "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back. 1CP"
+    "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
   },
   "goaded-beast-helhunt-lance": {
     "faction": "chaos-knights",
@@ -8802,7 +8802,7 @@
     "faction": "chaos-knights",
     "when": "Any phase, when a friendly KNIGHT TYRANT unit suffers a mortal wound.",
     "target": "That KNIGHT TYRANT unit.",
-    "effect": "Your unit has Feel No Pain 5+ against mortal wounds. 1CP"
+    "effect": "Your unit has Feel No Pain 5+ against mortal wounds."
   },
   "pitiless-focus-bastions-of-tyranny": {
     "faction": "chaos-knights",
@@ -8814,25 +8814,25 @@
     "faction": "chaos-knights",
     "when": "Your Shooting phase, when a friendly KNIGHT TYRANT unit has shot.",
     "target": "That KNIGHT TYRANT unit.",
-    "effect": "Select one enemy unit hit by those attacks. That enemy unit is suppressed until the start of your next Command phase: While a unit is suppressed, that unit's attacks have -1 to hit rolls. 1CP UNIQUE: WAR DOGS"
+    "effect": "Select one enemy unit hit by those attacks. That enemy unit is suppressed until the start of your next Command phase: While a unit is suppressed, that unit's attacks have -1 to hit rolls. UNIQUE: WAR DOGS"
   },
   "insensate-bloodthirst-hunting-warpack": {
     "faction": "chaos-knights",
     "when": "Fight phase, when an enemy unit targets a friendly WAR DOG unit.",
     "target": "That WAR DOG unit.",
-    "effect": "Your unit has Feel No Pain 5+. 1CP"
+    "effect": "Your unit has Feel No Pain 5+."
   },
   "leash-of-the-masters-hunting-warpack": {
     "faction": "chaos-knights",
     "when": "Your Shooting phase, when a friendly WAR DOG unit has shot.",
     "target": "That WAR DOG unit.",
-    "effect": "Those attacks do not prevent your unit from being eligible to start an action. 1CP"
+    "effect": "Those attacks do not prevent your unit from being eligible to start an action."
   },
   "stalking-focus-hunting-warpack": {
     "faction": "chaos-knights",
     "when": "Your opponent's Shooting phase, when an enemy unit targets a friendly WAR DOG unit within range of an objective.",
     "target": "That WAR DOG unit.",
-    "effect": "Ranged attacks that target your unit have 1 AP until that enemy unit has attacked. 1CP"
+    "effect": "Ranged attacks that target your unit have 1 AP until that enemy unit has attacked."
   },
   "dark-sacrifice-iconoclast-fiefdom": {
     "faction": "chaos-knights",
@@ -8844,7 +8844,7 @@
     "faction": "chaos-knights",
     "when": "Start of your Shooting phase.",
     "target": "One friendly DAMNED unit.",
-    "effect": "Select one visible enemy unit within 12\" of your unit. That enemy unit is hunted: While a unit is hunted, that unit has +6\" detection range. 1CP"
+    "effect": "Select one visible enemy unit within 12\" of your unit. That enemy unit is hunted: While a unit is hunted, that unit has +6\" detection range."
   },
   "pterrorshade-rookery-bastions-of-tyranny": {
     "faction": "chaos-knights",
@@ -9313,7 +9313,7 @@
     "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
     "target": "One Heretic Astartes unit from your army (excluding Damned units) that was selected as the target of one or more of the attacking unit's attacks.",
     "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1.",
-    "restrictions": "You cannot target the same unit with the Empyric Dislocation and Armour of Corruption Stratagems in the same phase. 2CP"
+    "restrictions": "You cannot target the same unit with the Empyric Dislocation and Armour of Corruption Stratagems in the same phase."
   },
   "warp-tainted-warpstrike-champions": {
     "faction": "chaos-space-marines",
@@ -9325,20 +9325,20 @@
     "faction": "chaos-space-marines",
     "when": "Your Shooting phase.",
     "target": "Up to two Heretic Astartes units from your army that were set up using the Deep Strike ability this turn and have not been selected to shoot this phase.",
-    "effect": "Until the end of the phase, ranged weapons equipped by models in your units have the [IGNORES COVER] ability. 1CP"
+    "effect": "Until the end of the phase, ranged weapons equipped by models in your units have the [IGNORES COVER] ability."
   },
   "armour-of-corruption-warpstrike-champions": {
     "faction": "chaos-space-marines",
     "when": "Fight phase, just after an enemy unit has selected its targets.",
     "target": "One Heretic Astartes Terminator, Obliterators or Mutilators unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
     "effect": "Until the end of the turn, each time an attack is allocated to a model in your unit, subtract 1 from the Damage characteristic of that attack.",
-    "restrictions": "You cannot target the same unit with the Armour of Corruption and Empyric Dislocation Stratagems in the same phase. 1CP"
+    "restrictions": "You cannot target the same unit with the Armour of Corruption and Empyric Dislocation Stratagems in the same phase."
   },
   "warp-flicker-warpstrike-champions": {
     "faction": "chaos-space-marines",
     "when": "Your Movement phase.",
     "target": "One Heretic Astartes Terminator, Obliterators or Mutilators unit from your army.",
-    "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced. 1CP"
+    "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced."
   },
   "portal-of-spite-warpstrike-champions": {
     "faction": "chaos-space-marines",
@@ -9366,7 +9366,7 @@
     "faction": "chaos-space-marines",
     "when": "Any phase.",
     "target": "One Heretic Astartes unit from your army (excluding Damned units) that has not been selected to shoot or fight this phase.",
-    "effect": "Until the end of the phase, if your unit is selected to make a Dark Pact, you can select both abilities for that unit's weapons to gain. 1CP"
+    "effect": "Until the end of the phase, if your unit is selected to make a Dark Pact, you can select both abilities for that unit's weapons to gain."
   },
   "balefire-boon-cult-of-the-arkifane": {
     "faction": "chaos-space-marines",
@@ -9378,7 +9378,7 @@
     "faction": "chaos-space-marines",
     "when": "Your Command phase.",
     "target": "One Heretic Astartes unit from your army (excluding Damned units).",
-    "effect": "One model in your unit regains up to D3 lost wounds. If your unit has the Soul Forge keyword, one model in your unit regains up to 3 lost wounds instead. 1CP"
+    "effect": "One model in your unit regains up to D3 lost wounds. If your unit has the Soul Forge keyword, one model in your unit regains up to 3 lost wounds instead."
   },
   "forge-fire-surge-cult-of-the-arkifane": {
     "faction": "chaos-space-marines",
@@ -9588,13 +9588,13 @@
     "faction": "chaos-space-marines",
     "when": "Your Command phase.",
     "target": "One Damned unit from your army.",
-    "effect": "Select one of the following effects: � Improve the Ballistic Skill characteristic of ranged weapons equipped by models in this unit by 1. � Improve the Attacks characteristic of Rapid Fire weapons equipped by models in this unit by 1. � Improve the Save characteristic of models in this unit by 1. Until the start of your next turn, your unit has the benefit of that effect. 1CP"
+    "effect": "Select one of the following effects: � Improve the Ballistic Skill characteristic of ranged weapons equipped by models in this unit by 1. � Improve the Attacks characteristic of Rapid Fire weapons equipped by models in this unit by 1. � Improve the Save characteristic of models in this unit by 1. Until the start of your next turn, your unit has the benefit of that effect."
   },
   "seize-the-prize-hurons-marauders": {
     "faction": "chaos-space-marines",
     "when": "Your Movement phase, just after a Heretic Astartes unit (excluding Monsters and Vehicles) from your army has been selected to Advance.",
     "target": "That Heretic Astartes unit.",
-    "effect": "Do not make an Advance roll for your unit. Instead, until the end of the phase add 6\" to the Move characteristic of models in your unit. 1CP"
+    "effect": "Do not make an Advance roll for your unit. Instead, until the end of the phase add 6\" to the Move characteristic of models in your unit."
   },
   "reavers-flurry-hurons-marauders": {
     "faction": "chaos-space-marines",
@@ -9658,15 +9658,15 @@
   },
   "vengeful-destruction-renegade-warband": {
     "faction": "chaos-space-marines",
-    "when": "Your Shooting phase or the Fight phase. 1CP",
+    "when": "Your Shooting phase or the Fight phase.",
     "target": "One Heretic Astartes Infantry (excluding Damned units) or Heretic Astartes Mounted unit from your army that has not been selected to shoot or fight this phase.",
-    "effect": "Until the end of the phase, each time your unit makes an attack that targets your Vendetta target, add 1 to the Wound roll. 1CP"
+    "effect": "Until the end of the phase, each time your unit makes an attack that targets your Vendetta target, add 1 to the Wound roll."
   },
   "corrupted-munitions-renegade-warband": {
     "faction": "chaos-space-marines",
     "when": "Your Shooting phase",
     "target": "One Heretic Astartes unit in your army that has just been selected to shoot.",
-    "effect": "Until the end of the phase, each time a model in this unit makes a ranged attack, improve the Armour Penetration of that attack by 1. 1CP"
+    "effect": "Until the end of the phase, each time a model in this unit makes a ranged attack, improve the Armour Penetration of that attack by 1."
   },
   "depthless-cruelty-dread-talons": {
     "faction": "chaos-space-marines",
@@ -9713,12 +9713,12 @@
   "talons-sunk-deep-nightmare-hunt": {
     "faction": "chaos-space-marines",
     "when": "Your Shooting phase or the Fight phase.",
-    "target": "One Heretic Astartes Infantry unit from 1CP your army that has not been selected to shoot or fight this phase.",
+    "target": "One Heretic Astartes Infantry unit from your army that has not been selected to shoot or fight this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets a unit that is Battleshocked and/or Below Halfstrength, improve the Armour Penetration characteristic of that attack by 1."
   },
   "prey-on-the-weak-nightmare-hunt": {
     "faction": "chaos-space-marines",
-    "when": "Your Shooting phase or the Fight phase. 1CP",
+    "when": "Your Shooting phase or the Fight phase.",
     "target": "One Heretic Astartes Infantry unit from your army that has not been selected to shoot or fight this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets a unit that is Battleshocked and/or Below Halfstrength, you can reroll the Hit roll."
   },
@@ -9786,13 +9786,13 @@
     "faction": "chaos-space-marines",
     "when": "Your Movement phase.",
     "target": "One Heretic Astartes unit (excluding Monsters and Vehicles) from your army.",
-    "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced. 1CP"
+    "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced."
   },
   "to-the-favoured-the-spoils-hurons-marauders": {
     "faction": "chaos-space-marines",
     "when": "Your opponent's Shooting phase, just after an enemy unit has shot.",
     "target": "One Heretic Astartes unit from your army that lost one or more wounds as a result of those attacks.",
-    "effect": "Your unit can make a surge move of up to D6\". 1CP"
+    "effect": "Your unit can make a surge move of up to D6\"."
   },
   "encircling-surge-hurons-marauders": {
     "faction": "chaos-space-marines",
@@ -9870,7 +9870,7 @@
     "faction": "chaos-space-marines",
     "when": "Fight phase, just after an enemy unit has selected its targets.",
     "target": "One Heretic Astartes unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
-    "effect": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6: on a 4+, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play. 1CP"
+    "effect": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6: on a 4+, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play."
   },
   "renegade-claim-renegade-warband": {
     "faction": "chaos-space-marines",
@@ -9984,7 +9984,7 @@
     "faction": "chaos-space-marines",
     "when": "Your Command phase.",
     "target": "One Heretic Astartes Infantry unit (excluding Damned units) from your army.",
-    "effect": "One destroyed model (excluding Character models) is returned to your unit. If your unit is a Battleline unit, D3 destroyed models (excluding Character models) are returned to your unit instead. 1CP"
+    "effect": "One destroyed model (excluding Character models) is returned to your unit. If your unit is a Battleline unit, D3 destroyed models (excluding Character models) are returned to your unit instead."
   },
   "autostimulants-creations-of-bile": {
     "faction": "chaos-space-marines",
@@ -9996,13 +9996,13 @@
     "faction": "chaos-space-marines",
     "when": "Fight phase.",
     "target": "One Heretic Astartes Infantry unit from your army that has not been selected to fight this phase.",
-    "effect": "Until the end of the phase, each time a model in your unit makes a melee attack that targets a Character unit, you can reroll the Wound roll. After your unit has fought, if one or more enemy Character models were destroyed as a result of those attacks, select one enemy unit within 6\" of your unit. That enemy unit must take a Battleshock test. If the enemy Warlord was destroyed as a result of those attacks, each enemy unit within 6\" of your unit must take a Battleshock test instead. 2CP"
+    "effect": "Until the end of the phase, each time a model in your unit makes a melee attack that targets a Character unit, you can reroll the Wound roll. After your unit has fought, if one or more enemy Character models were destroyed as a result of those attacks, select one enemy unit within 6\" of your unit. That enemy unit must take a Battleshock test. If the enemy Warlord was destroyed as a result of those attacks, each enemy unit within 6\" of your unit must take a Battleshock test instead."
   },
   "delayed-mutations-creations-of-bile": {
     "faction": "chaos-space-marines",
     "when": "Your Command phase.",
     "target": "One Heretic Astartes Infantry unit (excluding Damned units) from your army.",
-    "effect": "Your unit suffers D3 mortal wounds. Then select one augmentation (see Experimental Augmentations). Until the start of your next Command phase, models in your unit have the selected augmentation in addition to any other augmentations they have. 1CP"
+    "effect": "Your unit suffers D3 mortal wounds. Then select one augmentation (see Experimental Augmentations). Until the start of your next Command phase, models in your unit have the selected augmentation in addition to any other augmentations they have."
   },
   "warpcharged-engines-renegade-raiders": {
     "faction": "chaos-space-marines",
@@ -10032,13 +10032,13 @@
     "faction": "chaos-space-marines",
     "when": "Your Shooting phase, when a friendly HERETIC ASTARTES PSYKER unit is selected to shoot.",
     "target": "That HERETIC ASTARTES PSYKER unit.",
-    "effect": "Your unit's ranged attacks have [IGNORES COVER]. 1CP"
+    "effect": "Your unit's ranged attacks have [IGNORES COVER]."
   },
   "ruinations-bounty-devotees-of-destruction": {
     "faction": "chaos-space-marines",
     "when": "Your Shooting phase, when a friendly HAVOCS/OBLITERATORS unit is selected to shoot.",
     "target": "That HAVOCS/OBLITERATORS unit.",
-    "effect": "When your unit uses the Dark Pacts ability, your unit's ranged attacks have: [LETHAL HITS]. [SUSTAINED HITS 1]. 1CP"
+    "effect": "When your unit uses the Dark Pacts ability, your unit's ranged attacks have: [LETHAL HITS]. [SUSTAINED HITS 1]."
   },
   "snare-of-fire-devotees-of-destruction": {
     "faction": "chaos-space-marines",
@@ -10062,7 +10062,7 @@
     "faction": "chaos-space-marines",
     "when": "Your Movement phase, when a friendly WARP TALONS unit ends a move.",
     "target": "That WARP TALONS unit.",
-    "effect": "Select one visible enemy unit (excluding MONSTER/VEHICLE units) within 9\" of your unit. That enemy unit makes a battle-shock roll, with -1 to that battle-shock roll. 1CP"
+    "effect": "Select one visible enemy unit (excluding MONSTER/VEHICLE units) within 9\" of your unit. That enemy unit makes a battle-shock roll, with -1 to that battle-shock roll."
   },
   "conduit-of-chaos-cabal-of-chaos": {
     "faction": "chaos-space-marines",
@@ -10486,7 +10486,7 @@
   },
   "armour-of-contempt-inner-circle-task-force": {
     "faction": "dark-angels",
-    "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected 1CP its targets.",
+    "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
     "target": "One Adeptus Astartes unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
     "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
   },
@@ -10550,13 +10550,13 @@
     "faction": "dark-angels",
     "when": "Your Movement phase or your Charge phase.",
     "target": "One Ravenwing unit from your army.",
-    "effect": "Until the end of the phase, each time a model in your unit makes a Normal, Advance or Charge move, it can move horizontally through terrain features. 1CP"
+    "effect": "Until the end of the phase, each time a model in your unit makes a Normal, Advance or Charge move, it can move horizontally through terrain features."
   },
   "illuminating-fire-lions-blade-task-force": {
     "faction": "dark-angels",
     "when": "Your Shooting phase, just after a Ravenwing unit from your army has selected its targets.",
     "target": "That Ravenwing unit.",
-    "effect": "Select one enemy unit within 12\" of your unit that was selected as the target of one or more of the attacking unit's attacks. Until the end of the phase, each time a friendly Deathwing unit makes an attack that targets that enemy unit, add 1 to the Wound roll. 2CP"
+    "effect": "Select one enemy unit within 12\" of your unit that was selected as the target of one or more of the attacking unit's attacks. Until the end of the phase, each time a friendly Deathwing unit makes an attack that targets that enemy unit, add 1 to the Wound roll."
   },
   "inescapable-wrath-lions-blade-task-force": {
     "faction": "dark-angels",
@@ -10570,7 +10570,7 @@
     "when": "Fight phase, just after an enemy unit has selected its targets.",
     "target": "One Adeptus Astartes unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
     "effect": "If that enemy unit is within Engagement Range of one or more Ravenwing units from your army, until the end of the phase, each time a model in that enemy unit makes an attack, subtract 1 from the Hit roll. If that enemy unit is within Engagement Range of one or more Deathwing units from your army, until the end of the phase, each time a model in that enemy unit makes an attack, if the Strength characteristic of that attack is greater than the Toughness characteristic of the target, subtract 1 from the Wound roll.",
-    "restrictions": "A unit cannot be targeted by this and the Armour of Contempt Stratagem in the same phase. 1CP"
+    "restrictions": "A unit cannot be targeted by this and the Armour of Contempt Stratagem in the same phase."
   },
   "inescapable-justice-wrath-of-the-rock": {
     "faction": "dark-angels",
@@ -10582,7 +10582,7 @@
     "faction": "dark-angels",
     "when": "Your Movement phase.",
     "target": "One Adeptus Astartes unit from your army.",
-    "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced. If your unit has the Ravenwing keyword, it is also eligible to shoot and declare a charge in a turn in which it Fell Back. 1CP"
+    "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced. If your unit has the Ravenwing keyword, it is also eligible to shoot and declare a charge in a turn in which it Fell Back."
   },
   "lions-will-wrath-of-the-rock": {
     "faction": "dark-angels",
@@ -10594,7 +10594,7 @@
     "faction": "dark-angels",
     "when": "Your Shooting phase.",
     "target": "One Adeptus Astartes Infantry or Adeptus Astartes Mounted unit from your army that has not been selected to shoot this phase.",
-    "effect": "Until the end of the phase, add 2 to the Strength characteristic of ranged weapons equipped by models in your unit. 1CP"
+    "effect": "Until the end of the phase, add 2 to the Strength characteristic of ranged weapons equipped by models in your unit."
   },
   "leonine-aggression-wrath-of-the-rock": {
     "faction": "dark-angels",
@@ -10637,25 +10637,25 @@
     "faction": "dark-angels",
     "when": "Your Shooting phase, when a friendly HELLBLASTER SQUAD unit has shot.",
     "target": "That HELLBLASTER SQUAD unit.",
-    "effect": "Select one enemy unit hit by your unit's plasma ranged attacks. That enemy unit is seared until the start of your next turn: While a unit is seared, that unit has 2\" M. 1CP"
+    "effect": "Select one enemy unit hit by your unit's plasma ranged attacks. That enemy unit is seared until the start of your next turn: While a unit is seared, that unit has 2\" M."
   },
   "no-sacrifice-too-great-dark-age-arsenal": {
     "faction": "dark-angels",
     "when": "Your Shooting phase, when a friendly ADEPTUS ASTARTES unit is selected to shoot.",
     "target": "That ADEPTUS ASTARTES unit.",
-    "effect": "Your unit's [HAZARDOUS] plasma ranged attacks have +1 S. 1CP"
+    "effect": "Your unit's [HAZARDOUS] plasma ranged attacks have +1 S."
   },
   "revelation-of-guilt-dark-age-arsenal": {
     "faction": "dark-angels",
     "when": "Your Shooting phase, when a friendly ADEPTUS ASTARTES unit is selected to shoot.",
     "target": "That ADEPTUS ASTARTES unit.",
-    "effect": "Your unit's plasma ranged attacks have +1 to hit rolls. 1CP"
+    "effect": "Your unit's plasma ranged attacks have +1 to hit rolls."
   },
   "skyborne-surveillance-darkflight-pursuit": {
     "faction": "dark-angels",
     "when": "Your Shooting phase, when a friendly RAVENWING FLY unit has shot.",
     "target": "That RAVENWING FLY unit.",
-    "effect": "Visible enemy units within 6\" of your unit have +3\" detection range. 1CP"
+    "effect": "Visible enemy units within 6\" of your unit have +3\" detection range."
   },
   "wings-of-shadow-darkflight-pursuit": {
     "faction": "dark-angels",
@@ -10667,13 +10667,13 @@
     "faction": "dark-angels",
     "when": "Your opponent's Shooting phase, when an enemy unit that targeted a friendly unengaged RAVENWING FLY unit has shot.",
     "target": "That RAVENWING FLY unit.",
-    "effect": "Your unit can make a normal move of up to D3+3\". 1CP"
+    "effect": "Your unit can make a normal move of up to D3+3\"."
   },
   "exacting-punishment-interrogation-conclave": {
     "faction": "dark-angels",
     "when": "Your Shooting phase or the Fight phase, when a friendly CHAPLAIN unit is selected to attack.",
     "target": "That CHAPLAIN unit.",
-    "effect": "Your unit's attacks have [PRECISION]. 1CP"
+    "effect": "Your unit's attacks have [PRECISION]."
   },
   "terrifying-zeal-interrogation-conclave": {
     "faction": "dark-angels",
@@ -11379,7 +11379,7 @@
     "faction": "deathwatch",
     "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
     "target": "One Adeptus Astartes unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
-    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1. 1CP"
+    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
   },
   "adaptive-tactics-black-spear-task-force": {
     "faction": "deathwatch",
@@ -11398,7 +11398,7 @@
     "when": "Your Shooting phase.",
     "target": "One Kill Team unit from your army that has not been selected to shoot this phase.",
     "effect": "Until the end of the phase, ranged weapons (excluding Devastating Wounds weapons) equipped by models in your unit have the [ANTI-INFANTRY 2+] and [ANTI-MONSTER 5+] abilities.",
-    "restrictions": "You cannot select any units that have already been targeted with either the Kraken Rounds or Dragonfire Rounds Stratagems this phase. 1CP"
+    "restrictions": "You cannot select any units that have already been targeted with either the Kraken Rounds or Dragonfire Rounds Stratagems this phase."
   },
   "kraken-rounds-black-spear-task-force": {
     "faction": "deathwatch",
@@ -11626,7 +11626,7 @@
     "faction": "drukhari",
     "when": "Your opponent's Shooting phase, when an enemy unit targets a friendly WYCH CULT unit.",
     "target": "That WYCH CULT unit.",
-    "effect": "Your unit has 5+ InSv. 1CP UNIQUE: KABAL"
+    "effect": "Your unit has 5+ InSv. UNIQUE: KABAL"
   },
   "periapt-of-torments-exhibition-of-slaughter": {
     "faction": "drukhari",
@@ -11772,7 +11772,7 @@
     "faction": "drukhari",
     "when": "Fight phase, just after an enemy unit has selected its targets.",
     "target": "One Drukhari or Harlequins unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
-    "effect": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll. 1CP"
+    "effect": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
   },
   "fighting-shadows-realspace-raiders": {
     "faction": "drukhari",
@@ -11894,13 +11894,13 @@
     "faction": "drukhari",
     "when": "Your Movement phase, just after a Drukhari or Harlequins unit from your army has Advanced.",
     "target": "That unit.",
-    "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced. 1CP"
+    "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced."
   },
   "scintillating-tempo-reapers-wager": {
     "faction": "drukhari",
     "when": "Your Movement phase or your Charge phase, just after a Drukhari or Harlequins unit from your army is selected to make a Normal, Advance or Fall Back move, is set up on the battlefield, or declares a charge.",
     "target": "That unit.",
-    "effect": "Until the end of the turn, enemy units cannot use the Fire Overwatch Stratagem to shoot at your unit. 2CP"
+    "effect": "Until the end of the turn, enemy units cannot use the Fire Overwatch Stratagem to shoot at your unit."
   },
   "fateful-role-reapers-wager": {
     "faction": "drukhari",
@@ -11955,7 +11955,7 @@
     "faction": "drukhari",
     "when": "Fight phase, when a friendly WYCH CULT unit is selected to fight.",
     "target": "That WYCH CULT unit.",
-    "effect": "Your unit's melee attacks have [LETHAL HITS]. 1CP"
+    "effect": "Your unit's melee attacks have [LETHAL HITS]."
   },
   "sculpting-the-stage-exhibition-of-slaughter": {
     "faction": "drukhari",
@@ -11967,7 +11967,7 @@
     "faction": "drukhari",
     "when": "Your Shooting phase or the Fight phase, when a friendly BLADES FOR HIRE/KABAL unit targets a CHARACTER unit.",
     "target": "That BLADES FOR HIRE/KABAL unit.",
-    "effect": "Your unit's attacks that target a CHARACTER unit can: Reroll hit rolls of 1. Reroll wound rolls of 1. 1CP"
+    "effect": "Your unit's attacks that target a CHARACTER unit can: Reroll hit rolls of 1. Reroll wound rolls of 1."
   },
   "shadows-reach-kabalite-agonysts": {
     "faction": "drukhari",
@@ -11979,13 +11979,13 @@
     "faction": "drukhari",
     "when": "Your Shooting phase, when a friendly KABALITE WARRIORS unit is selected to shoot.",
     "target": "That KABALITE WARRIORS unit.",
-    "effect": "Your unit's ranged attacks have [IGNORES COVER]. 1CP UNIQUE: COVENS"
+    "effect": "Your unit's ranged attacks have [IGNORES COVER]. UNIQUE: COVENS"
   },
   "salting-the-wound-tools-of-torment": {
     "faction": "drukhari",
     "when": "Fight phase, when a friendly CRONOS/TALOS unit is selected to fight.",
     "target": "That CRONOS/TALOS unit.",
-    "effect": "Your unit's attacks that target a battleshocked unit have [DEVASTATING WOUNDS]. 1CP"
+    "effect": "Your unit's attacks that target a battleshocked unit have [DEVASTATING WOUNDS]."
   },
   "dividends-of-agony-tools-of-torment": {
     "faction": "drukhari",
@@ -12321,7 +12321,7 @@
   },
   "contemptuous-disregard-court-of-the-phoenician": {
     "faction": "emperors-children",
-    "when": "Your opponent's Shooting phase or the 1CP Fight phase.",
+    "when": "Your opponent's Shooting phase or the Fight phase.",
     "target": "One Emperor's Children unit from your army.",
     "effect": "Until the end of the phase, each time an attack targets your unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of your unit, subtract 1 from the Wound roll."
   },
@@ -12449,7 +12449,7 @@
   },
   "sinuous-breach-court-of-the-phoenician": {
     "faction": "emperors-children",
-    "when": "Your Movement phase or your Charge phase. 1CP",
+    "when": "Your Movement phase or your Charge phase.",
     "target": "One Emperor's Children Daemon unit from your army that has not been selected to move or charge this phase.",
     "effect": "Until the end of the phase, each time your unit makes a Normal, Advance or Charge move, it can move horizontally through terrain features."
   },
@@ -12511,13 +12511,13 @@
     "faction": "emperors-children",
     "when": "Your Shooting phase or the Fight phase, when a friendly EMPEROR'S CHILDREN TERMINATOR unit is selected to attack.",
     "target": "That EMPEROR'S CHILDREN TERMINATOR unit",
-    "effect": "Your unit's attacks have +2 S. 1CP"
+    "effect": "Your unit's attacks have +2 S."
   },
   "warp-plunge-elegant-brutes": {
     "faction": "emperors-children",
     "when": "End of your opponent's Fight phase.",
     "target": "One friendly unengaged EMPEROR'S CHILDREN TERMINATOR unit.",
-    "effect": "Place your unit in strategic reserves. 1CP UNIQUE: HOST"
+    "effect": "Place your unit in strategic reserves. UNIQUE: HOST"
   },
   "possessive-mania-frenzied-host": {
     "faction": "emperors-children",
@@ -12529,25 +12529,25 @@
     "faction": "emperors-children",
     "when": "Start of your Shooting phase.",
     "target": "One friendly EMPEROR'S CHILDREN BATTLELINE unit.",
-    "effect": "Select one visible enemy unit within 12\" of your unit. That enemy unit has +6\" detection range. 1CP"
+    "effect": "Select one visible enemy unit within 12\" of your unit. That enemy unit has +6\" detection range."
   },
   "absolute-sensory-overload-frenzied-host": {
     "faction": "emperors-children",
     "when": "Your Shooting phase, when a friendly EMPEROR'S CHILDREN BATTLELINE unit is selected to shoot.",
     "target": "That EMPEROR'S CHILDREN BATTLELINE unit.",
-    "effect": "Those ranged attacks do not prevent your unit from being hidden. 1CP"
+    "effect": "Those ranged attacks do not prevent your unit from being hidden."
   },
   "honour-is-for-fools-spectacle-of-slaughter": {
     "faction": "emperors-children",
     "when": "Fight phase, when a friendly FLAWLESS BLADES unit is selected to fight.",
     "target": "That FLAWLESS BLADES unit.",
-    "effect": "Your unit's melee attacks have [PRECISION]. 1CP"
+    "effect": "Your unit's melee attacks have [PRECISION]."
   },
   "single-minded-strike-spectacle-of-slaughter": {
     "faction": "emperors-children",
     "when": "Your Charge phase, when a friendly FLAWLESS BLADES unit starts a charge move.",
     "target": "That FLAWLESS BLADES unit.",
-    "effect": "Your unit can move through models (excluding MONSTER/VEHICLE models). 1CP"
+    "effect": "Your unit can move through models (excluding MONSTER/VEHICLE models)."
   },
   "intoxicated-by-triumph-spectacle-of-slaughter": {
     "faction": "emperors-children",
@@ -12941,15 +12941,15 @@
   },
   "avenge-the-star-children-final-day": {
     "faction": "genestealer-cults",
-    "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has shot or fought. 1CP",
+    "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has shot or fought.",
     "target": "One Tyranids Character unit from your army that was destroyed by that enemy unit this phase. You can use this Stratagem on that unit even though it was just destroyed.",
-    "effect": "Until the end of the battle, each time a Genestealer Cults model from your army makes an attack that targets that enemy unit, add 1 to the Hit roll and add 1 to the Wound roll. 1CP"
+    "effect": "Until the end of the battle, each time a Genestealer Cults model from your army makes an attack that targets that enemy unit, add 1 to the Hit roll and add 1 to the Wound roll."
   },
   "divine-imperative-final-day": {
     "faction": "genestealer-cults",
     "when": "Your Charge phase, when a friendly Genestealer Cults unit within 12\" of a friendly engaged Tyranids unit declares a charge.",
     "target": "That Genestealer Cults unit.",
-    "effect": "� Your unit has +1 to charge rolls. � You can use this part of this stratagem. If you do: � Your unit can re-roll charge rolls. � Y our unit must end that charge move engaged with an enemy unit engaged with that friendly Tyranids unit. 1CP"
+    "effect": "� Your unit has +1 to charge rolls. � You can use this part of this stratagem. If you do: � Your unit can re-roll charge rolls. � Y our unit must end that charge move engaged with an enemy unit engaged with that friendly Tyranids unit."
   },
   "frenzied-devotion-xenocreed-congregation": {
     "faction": "genestealer-cults",
@@ -13047,7 +13047,7 @@
     "faction": "genestealer-cults",
     "when": "Your Shooting phase or your Charge phase.",
     "target": "One Tyranids unit from your army.",
-    "effect": "Until the end of the phase, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back. 1CP"
+    "effect": "Until the end of the phase, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
   },
   "resistance-tunnels-final-day": {
     "faction": "genestealer-cults",
@@ -13114,7 +13114,7 @@
     "faction": "genestealer-cults",
     "when": "Your Shooting phase or the Fight phase, when a friendly KILLER unit has attacked, if those attacks destroyed an enemy unit or an enemy CHARACTER model.",
     "target": "That KILLER unit.",
-    "effect": "Each visible friendly battle-shocked GENESTEALER CULTS unit within 12\" of your unit is no longer battle-shocked. 1CP"
+    "effect": "Each visible friendly battle-shocked GENESTEALER CULTS unit within 12\" of your unit is no longer battle-shocked."
   },
   "surging-broodworship-heroes-of-the-uprising": {
     "faction": "genestealer-cults",
@@ -13138,13 +13138,13 @@
     "faction": "genestealer-cults",
     "when": "Start of your opponent's Movement phase.",
     "target": "One friendly PURESTRAIN GENESTEALERS unit.",
-    "effect": "Your unit has 6\" detection range until the end of the turn. 1CP"
+    "effect": "Your unit has 6\" detection range until the end of the turn."
   },
   "inhuman-reactions-purestrain-broodswarm": {
     "faction": "genestealer-cults",
     "when": "Your opponent's Movement phase, when an enemy unit ends a move within 8\" of a friendly unengaged PURESTRAIN GENESTEALERS unit.",
     "target": "That PURESTRAIN GENESTEALERS unit.",
-    "effect": "Your unit can make a normal move of up to D3+3\". 1CP UNIQUE: HOSTS"
+    "effect": "Your unit can make a normal move of up to D3+3\". UNIQUE: HOSTS"
   },
   "eyes-of-the-cult-xenocult-masses": {
     "faction": "genestealer-cults",
@@ -13162,7 +13162,7 @@
     "faction": "genestealer-cults",
     "when": "Your opponent's Shooting phase, when an enemy unit targets a friendly NEOPHYTE HYBRIDS unit with every model within a terrain area.",
     "target": "That NEOPHYTE HYBRIDS unit.",
-    "effect": "Ranged attacks that target your unit have -1 AP until that unit has attacked. 1CP"
+    "effect": "Ranged attacks that target your unit have -1 AP until that unit has attacked."
   },
   "gene-tailored-toxins-heroes-of-the-uprising": {
     "faction": "genestealer-cults",
@@ -13606,7 +13606,7 @@
     "faction": "grey-knights",
     "when": "Start of your opponent's Movement phase.",
     "target": "One Grey Knights Infantry unit from your army.",
-    "effect": "Until the end of the phase, each time an enemy unit is set up or ends a Normal, Advance or Fall Back move within 6\" of your unit, roll one D6, adding 2 to the result if your unit is wholly within your army's Hallowed Ground: on a 4+, that enemy unit suffers D3 mortal wounds. 1CP"
+    "effect": "Until the end of the phase, each time an enemy unit is set up or ends a Normal, Advance or Fall Back move within 6\" of your unit, roll one D6, adding 2 to the result if your unit is wholly within your army's Hallowed Ground: on a 4+, that enemy unit suffers D3 mortal wounds."
   },
   "flames-of-sanctity-warpbane-task-force": {
     "faction": "grey-knights",
@@ -13618,13 +13618,13 @@
     "faction": "grey-knights",
     "when": "Your opponent's Shooting phase, just after an enemy unit has selected its targets.",
     "target": "One Grey Knights Infantry unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
-    "effect": "Until the end of the phase, models in your unit that are wholly within your Hallowed Ground have a 4+ invulnerable save. 1CP"
+    "effect": "Until the end of the phase, models in your unit that are wholly within your Hallowed Ground have a 4+ invulnerable save."
   },
   "hallowed-beacon-warpbane-task-force": {
     "faction": "grey-knights",
     "when": "Reinforcements step of your Movement phase.",
     "target": "One Grey Knights Infantry unit (excluding Terminator units) that is arriving using the Deep Strike ability this phase.",
-    "effect": "Set up your unit wholly within your army's Hallowed Ground and more than 6\" horizontally away from all enemy units. 1CP"
+    "effect": "Set up your unit wholly within your army's Hallowed Ground and more than 6\" horizontally away from all enemy units."
   },
   "repelling-sphere-warpbane-task-force": {
     "faction": "grey-knights",
@@ -13648,7 +13648,7 @@
     "faction": "grey-knights",
     "when": "Fight phase, when an enemy unit targets a friendly PALADIN SQUAD unit.",
     "target": "That PALADIN SQUAD unit.",
-    "effect": "That enemy unit's melee attacks have [HAZARDOUS]. 1CP"
+    "effect": "That enemy unit's melee attacks have [HAZARDOUS]."
   },
   "soul-locked-fires-of-purgation": {
     "faction": "grey-knights",
@@ -13666,19 +13666,19 @@
     "faction": "grey-knights",
     "when": "Your Shooting phase, when a friendly PURGATION SQUAD unit has shot.",
     "target": "That PURGATION SQUAD unit.",
-    "effect": "Select one battleshocked enemy unit hit by those attacks. That enemy unit suffers D3+1 mortal wounds. 1CP"
+    "effect": "Select one battleshocked enemy unit hit by those attacks. That enemy unit suffers D3+1 mortal wounds."
   },
   "blades-from-the-beyond-immaterial-interdiction": {
     "faction": "grey-knights",
     "when": "Fight phase, when a friendly INTERCEPTOR SQUAD unit that made a charge move this turn is selected to fight.",
     "target": "That INTERCEPTOR SQUAD unit.",
-    "effect": "Your unit's melee attacks have [LANCE]. 1CP"
+    "effect": "Your unit's melee attacks have [LANCE]."
   },
   "by-thought-alone-immaterial-interdiction": {
     "faction": "grey-knights",
     "when": "Your Shooting phase, when a friendly INTERCEPTOR SQUAD unit starts an action.",
     "target": "That INTERCEPTOR SQUAD unit.",
-    "effect": "That action does not prevent your unit from being eligible to shoot. 1CP"
+    "effect": "That action does not prevent your unit from being eligible to shoot."
   },
   "responsive-displacement-immaterial-interdiction": {
     "faction": "grey-knights",
@@ -14580,13 +14580,13 @@
     "faction": "leagues-of-votann",
     "when": "Your Shooting phase, when a friendly EINHYR HEARTHGUARD unit is selected to shoot.",
     "target": "That EINHYR HEARTHGUARD unit.",
-    "effect": "Your unit's ranged attacks have: +1 S. If you spend 1 YP, [SUSTAINED HITS 1]. 1CP"
+    "effect": "Your unit's ranged attacks have: +1 S. If you spend 1 YP, [SUSTAINED HITS 1]."
   },
   "materialisation-matrices-hearthguard-covenant": {
     "faction": "leagues-of-votann",
     "when": "Your Movement phase, when a friendly EINHYR HEARTHGUARD unit with Deep Strike is selected to make an ingress move.",
     "target": "That EINHYR HEARTHGUARD unit.",
-    "effect": "Y our unit can be set up anywhere on the battlefield that is more than 6\" horizontally from all enemy units, even if that is within your opponent's deployment zone. Your unit is not eligible to declare a charge until the end of the turn. 1CP",
+    "effect": "Y our unit can be set up anywhere on the battlefield that is more than 6\" horizontally from all enemy units, even if that is within your opponent's deployment zone. Your unit is not eligible to declare a charge until the end of the turn.",
     "restrictions": "Until the end of the turn, your unit is not eligible to declare a charge."
   },
   "ironskein-hearthguard-covenant": {
@@ -14873,13 +14873,13 @@
     "when": "The Reinforcements step of your Movement phase.",
     "target": "One Leagues of Votann unit from your army that is in Reserves and has the Deep Strike ability.",
     "effect": "Until the end of the phase, when your unit is set up on the battlefield using the Deep Strike ability, it can be set up anywhere on the battlefield that is more than 6\" horizontally away from all enemy units.",
-    "restrictions": "Until the end of the turn, your unit is not eligible to declare a charge. 1CP"
+    "restrictions": "Until the end of the turn, your unit is not eligible to declare a charge."
   },
   "auxiliary-contract-mercenary-oathband": {
     "faction": "leagues-of-votann",
     "when": "Your Shooting phase or the Fight phase.",
     "target": "One Leagues of Votann Infantry or Leagues of Votann Mounted unit from your army that has not been selected to shoot or fight this phase.",
-    "effect": "Until the end of the phase, weapons equipped by models in your unit have the [PRECISION] ability. 1CP"
+    "effect": "Until the end of the phase, weapons equipped by models in your unit have the [PRECISION] ability."
   },
   "grand-artifice-mercenary-oathband": {
     "faction": "leagues-of-votann",
@@ -14945,13 +14945,13 @@
     "faction": "leagues-of-votann",
     "when": "The Fight phase.",
     "target": "One Leagues of Votann Infantry unit from your army that has not been selected to fight this phase.",
-    "effect": "Each time you use this Stratagem, you can spend 3YP. Until the end of the phase, each time a model in your unit makes an attack, reroll a Hit roll of 1 and reroll a Wound roll of 1. If you spent YP during this usage of this Stratagem, you can reroll a Hit roll of 1 and reroll the Wound roll instead. 1CP"
+    "effect": "Each time you use this Stratagem, you can spend 3YP. Until the end of the phase, each time a model in your unit makes an attack, reroll a Hit roll of 1 and reroll a Wound roll of 1. If you spent YP during this usage of this Stratagem, you can reroll a Hit roll of 1 and reroll the Wound roll instead."
   },
   "privateer-arsenal-mercenary-oathband": {
     "faction": "leagues-of-votann",
     "when": "Your Shooting phase.",
     "target": "One Leagues of Votann Infantry unit from your army that has not been selected to shoot this phase.",
-    "effect": "Each time you use this Stratagem, you can spend 3YP. Until the end of the phase, each time a model in your unit makes an attack, reroll a Hit roll of 1 and reroll a Wound roll of 1. If you spent YP during this usage of this Stratagem, you can reroll the Hit roll and reroll a Wound roll of 1 instead. 1CP"
+    "effect": "Each time you use this Stratagem, you can spend 3YP. Until the end of the phase, each time a model in your unit makes an attack, reroll a Hit roll of 1 and reroll a Wound roll of 1. If you spent YP during this usage of this Stratagem, you can reroll the Hit roll and reroll a Wound roll of 1 instead."
   },
   "illuminated-priority-brandfast-oathband": {
     "faction": "leagues-of-votann",
@@ -14969,13 +14969,13 @@
     "faction": "leagues-of-votann",
     "when": "End of your opponent's Movement phase, from the second battle round onwards.",
     "target": "Up to two friendly SAGITAUR units in strategic reserves.",
-    "effect": "Your units each make an ingress move. 1CP"
+    "effect": "Your units each make an ingress move."
   },
   "built-to-last-armoured-trailblazers": {
     "faction": "leagues-of-votann",
     "when": "Your opponent's Shooting phase, when an enemy unit targets a friendly SAGITAUR unit.",
     "target": "That SAGITAUR unit.",
-    "effect": "Ranged attacks that target your unit with a S greater than your unit's T have -1 to wound rolls. 1CP"
+    "effect": "Ranged attacks that target your unit with a S greater than your unit's T have -1 to wound rolls."
   },
   "scornful-analysis-farseekers": {
     "faction": "leagues-of-votann",
@@ -15597,7 +15597,7 @@
   },
   "molecular-targeting-cryptek-conclave": {
     "faction": "necrons",
-    "when": "Your Shooting phase or the Fight phase. 1CP",
+    "when": "Your Shooting phase or the Fight phase.",
     "target": "One Necrons unit from your army that has not been selected to shoot or fight this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes an attack, you can ignore any or all modifiers to the following: that attack's Ballistic Skill or Weapon Skill characteristic; the Hit roll. If your unit has the Cryptek keyword, you can also ignore any or all modifiers to the Wound roll."
   },
@@ -15610,12 +15610,12 @@
   "methodical-murder-cursed-legion": {
     "faction": "necrons",
     "when": "Your Shooting phase or the Fight phase.",
-    "target": "One Necrons unit (excluding Monsters 1CP and Vehicles) from your army that has not been selected to shoot or fight this phase.",
+    "target": "One Necrons unit (excluding Monsters and Vehicles) from your army that has not been selected to shoot or fight this phase.",
     "effect": "Until the end of the phase, weapons equipped by models in your unit have the [SUSTAINED HITS 1] ability."
   },
   "image-of-death-cursed-legion": {
     "faction": "necrons",
-    "when": "Your opponent's Shooting phase or the 1CP Fight phase, just after an enemy unit has selected its targets.",
+    "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
     "target": "One Destroyer Cult unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
     "effect": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
   },
@@ -15651,7 +15651,7 @@
   },
   "entrophasic-aura-targeting-pantheon-of-woe": {
     "faction": "necrons",
-    "when": "Your Shooting phase or the Fight phase. 1CP",
+    "when": "Your Shooting phase or the Fight phase.",
     "target": "One Necrons unit (excluding Monsters) from your army that has not been selected to shoot or fight this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit, reroll a Hit roll of 1. If the target of that attack is unravelling, reroll a Wound roll of 1 as well."
   },
@@ -15723,7 +15723,7 @@
   },
   "mass-transmogrification-pantheon-of-woe": {
     "faction": "necrons",
-    "when": "Your Shooting phase or the Fight phase, 1CP just after a Necrons Monster unit from your army destroys an enemy unit.",
+    "when": "Your Shooting phase or the Fight phase, just after a Necrons Monster unit from your army destroys an enemy unit.",
     "target": "One friendly Necrons unit (excluding Monsters) within 6\" of that Monster unit.",
     "effect": "If that enemy unit was unravelling at the start of the phase, your friendly unit's Reanimation Protocols activate.",
     "restrictions": "You can only use this Stratagem once per turn."
@@ -15763,19 +15763,19 @@
     "faction": "necrons",
     "when": "Your Movement phase.",
     "target": "One Necrons Vehicle or Necrons Mounted unit (excluding Titanic units) from your army that has not been selected to move this phase.",
-    "effect": "Until the end of the phase, if your unit Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in your unit. 1CP"
+    "effect": "Until the end of the phase, if your unit Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in your unit."
   },
   "dimensional-tunnel-starshatter-arsenal": {
     "faction": "necrons",
     "when": "Your Movement phase.",
     "target": "One Necrons Vehicle or Necrons Mounted unit (excluding Titanic units) from your army.",
-    "effect": "Until the end of the phase, models in your unit can move horizontally through models and terrain features. 1CP"
+    "effect": "Until the end of the phase, models in your unit can move horizontally through models and terrain features."
   },
   "endless-servitude-starshatter-arsenal": {
     "faction": "necrons",
     "when": "End of your Fight phase.",
     "target": "One Necrons unit (excluding Monster and Titanic units) from your army that is within range of one or more objective markers you control.",
-    "effect": "Your unit's Reanimation Protocols activate. 1CP"
+    "effect": "Your unit's Reanimation Protocols activate."
   },
   "reactive-reposition-starshatter-arsenal": {
     "faction": "necrons",
@@ -15785,13 +15785,13 @@
   },
   "mortis-protocols-cursed-legion": {
     "faction": "necrons",
-    "when": "Your Shooting phase or the Fight phase, just 1CP after the first time a Destroyer Cult unit from your army destroys an enemy unit this turn.",
+    "when": "Your Shooting phase or the Fight phase, just after the first time a Destroyer Cult unit from your army destroys an enemy unit this turn.",
     "target": "One friendly Necrons unit (excluding Monsters and Vehicles) within 9\" of that Destroyer Cult unit.",
     "effect": "The friendly unit's Reanimation Protocols activate."
   },
   "driven-to-butchery-cursed-legion": {
     "faction": "necrons",
-    "when": "Your Shooting phase or your Charge phase. 1CP",
+    "when": "Your Shooting phase or your Charge phase.",
     "target": "One Destroyer Cult unit from your army.",
     "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced.",
     "restrictions": "You can only use this Stratagem once per turn."
@@ -15902,13 +15902,13 @@
   },
   "microscarab-swarm-cryptek-conclave": {
     "faction": "necrons",
-    "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected 1CP its targets.",
+    "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
     "target": "One Cryptek Infantry unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
     "effect": "If your unit has the Necron Warriors keyword, until the end of the phase, models in your unit have a 5+ invulnerable save. If your unit has the Immortals keyword, until the end of the phase, models in your unit have a 4+ invulnerable save."
   },
   "animus-curse-cryptek-conclave": {
     "faction": "necrons",
-    "when": "Your opponent's Shooting phase or the Fight 1CP phase, just after an enemy unit has shot or fought.",
+    "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has shot or fought.",
     "target": "One Cryptek model from your army that was destroyed by one of the attacking unit's attacks. You can use this Stratagem on that model even though it was just destroyed.",
     "effect": "Until the end of the battle, each time a friendly Necrons model makes an attack that targets the attacking unit, you can reroll the Hit roll."
   },
@@ -15928,19 +15928,19 @@
     "faction": "necrons",
     "when": "Command phase.",
     "target": "One friendly IMMORTALS unit.",
-    "effect": "Your unit has +1 OC until the end of the turn. 1CP"
+    "effect": "Your unit has +1 OC until the end of the turn."
   },
   "will-of-the-conqueror-hand-of-the-dynasty": {
     "faction": "necrons",
     "when": "End of your Movement phase.",
     "target": "One friendly IMMORTALS/NECRON WARRIORS unit.",
-    "effect": "Select one objective your unit is controlling. That objective is secured. 1CP"
+    "effect": "Select one objective your unit is controlling. That objective is secured."
   },
   "nanosaturation-hand-of-the-dynasty": {
     "faction": "necrons",
     "when": "Your opponent's Shooting phase, when an enemy unit that targeted a friendly IMMORTALS/NECRON WARRIORS unit has shot.",
     "target": "That IMMORTALS/NECRON WARRIORS unit.",
-    "effect": "Your unit shoots using snap shooting, but while doing so your unit can only target that enemy unit. 1CP"
+    "effect": "Your unit shoots using snap shooting, but while doing so your unit can only target that enemy unit."
   },
   "omnilocked-strafing-skyshroud-spearhead": {
     "faction": "necrons",
@@ -15958,7 +15958,7 @@
     "faction": "necrons",
     "when": "Your opponent's Shooting phase, when an enemy unit targets a friendly NECRONS MOUNTED unit.",
     "target": "That NECRONS MOUNTED unit.",
-    "effect": "Ranged attacks that target your unit with a S greater than your unit's T have -1 to wound rolls. 1CP UNIQUE: HYPERCRYPT"
+    "effect": "Ranged attacks that target your unit with a S greater than your unit's T have -1 to wound rolls. UNIQUE: HYPERCRYPT"
   },
   "subsurface-quantumweave-the-phaerons-armoury": {
     "faction": "necrons",
@@ -15970,13 +15970,13 @@
     "faction": "necrons",
     "when": "Start of your Shooting phase.",
     "target": "One friendly NECRONS TITANIC FLY unit.",
-    "effect": "Select one visible enemy unit within 12\" of your unit. That enemy unit has +3\" detection range. 1CP"
+    "effect": "Select one visible enemy unit within 12\" of your unit. That enemy unit has +3\" detection range."
   },
   "cosmic-storm-the-phaerons-armoury": {
     "faction": "necrons",
     "when": "Your Shooting phase, when a friendly OBELISK/TESSERACT VAULT unit is selected to shoot.",
     "target": "That OBELISK/TESSERACT VAULT unit.",
-    "effect": "Your unit's Tesla Sphere weapons have +1 AP. 1CP"
+    "effect": "Your unit's Tesla Sphere weapons have +1 AP."
   },
   "enlivened-sentinels-hand-of-the-dynasty": {
     "faction": "necrons",
@@ -16735,19 +16735,19 @@
     "faction": "orks",
     "when": "Your Shooting phase, when a friendly ORKS INFANTRY unit is selected to shoot.",
     "target": "That ORKS INFANTRY unit.",
-    "effect": "Your unit's ranged attacks have [IGNORES COVER]. 1CP"
+    "effect": "Your unit's ranged attacks have [IGNORES COVER]."
   },
   "bash-and-grab-freebooter-krew": {
     "faction": "orks",
     "when": "The Fight phase.",
     "target": "One Orks unit from your army that has not been selected to fight this phase.",
-    "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit within range of the loot objective, you can reroll the Wound roll. 1CP"
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit within range of the loot objective, you can reroll the Wound roll."
   },
   "boardin-rush-freebooter-krew": {
     "faction": "orks",
     "when": "Your Movement phase.",
     "target": "One Orks unit from your army that has not been selected to move this phase.",
-    "effect": "Until the end of the phase, each time your unit Advances, do not make an Advance roll. Instead, until the end of the phase, add 6\" to the Move characteristic of models in your unit. 1CP"
+    "effect": "Until the end of the phase, each time your unit Advances, do not make an Advance roll. Instead, until the end of the phase, add 6\" to the Move characteristic of models in your unit."
   },
   "careen-war-horde": {
     "faction": "orks",
@@ -16885,13 +16885,13 @@
     "faction": "orks",
     "when": "End of your opponent's Movement phase.",
     "target": "One friendly unengaged BOYZ/KOMMANDOS/STORMBOYZ unit that was engaged at the start of the phase.",
-    "effect": "Your unit can make a normal move of up to 6\". 1CP"
+    "effect": "Your unit can make a normal move of up to 6\"."
   },
   "ded-sneaky-taktikal-brigade": {
     "faction": "orks",
     "when": "End of your opponent's Fight phase.",
     "target": "One friendly unengaged KOMMANDOS/STORMBOYZ unit.",
-    "effect": "Place your unit in strategic reserves. 1CP SPEEDWAAAGH! When a Speedwaaagh! is unleashed, entire planets become Ork speedways. The aliens tear across battlefields and weave through no man's land at breakneck pace, blazing away at anything in their path. So fastmoving are these Orkoid formations that they often punch clean through the enemy lines before their foes truly realise they are in battle. The Orks then haul their jostling vehicles and turboboosted Trukks around, charging back for another pass and then another. As they roar, they fill the air with deafening hails of firepower and choking clouds of dust and fume. Halfblinded, deafened by engines and bellowing, the enemy reels as swarms of light vehicles hit them from every direction. Ordered battle descends into highoctane anarchy as the Orks compete in contests of speed and violence in which their enemies are an unwilling audience and participants. Soon enough, the onceproud ranks of the foe are reduced to mangled ruin and the Orks race onward towards the next battle."
+    "effect": "Place your unit in strategic reserves. SPEEDWAAAGH! When a Speedwaaagh! is unleashed, entire planets become Ork speedways. The aliens tear across battlefields and weave through no man's land at breakneck pace, blazing away at anything in their path. So fastmoving are these Orkoid formations that they often punch clean through the enemy lines before their foes truly realise they are in battle. The Orks then haul their jostling vehicles and turboboosted Trukks around, charging back for another pass and then another. As they roar, they fill the air with deafening hails of firepower and choking clouds of dust and fume. Halfblinded, deafened by engines and bellowing, the enemy reels as swarms of light vehicles hit them from every direction. Ordered battle descends into highoctane anarchy as the Orks compete in contests of speed and violence in which their enemies are an unwilling audience and participants. Soon enough, the onceproud ranks of the foe are reduced to mangled ruin and the Orks race onward towards the next battle."
   },
   "call-dat-dakka-more-dakka": {
     "faction": "orks",
@@ -16903,13 +16903,13 @@
     "faction": "orks",
     "when": "Your Command phase.",
     "target": "One Orks unit from your army (excluding Gretchin units) that is within range of the loot objective.",
-    "effect": "Until the start of your next Command phase, the Waaagh! is active for your unit, even if you have already called a Waaagh! this battle. Designer's Note: This means that any abilities that are in effect while the Waaagh! is active for your army will be in effect for your unit. 1CP"
+    "effect": "Until the start of your next Command phase, the Waaagh! is active for your unit, even if you have already called a Waaagh! this battle. Designer's Note: This means that any abilities that are in effect while the Waaagh! is active for your army will be in effect for your unit."
   },
   "deck-fraggers-freebooter-krew": {
     "faction": "orks",
     "when": "Your Shooting phase.",
     "target": "One Orks unit from your army that has not been selected to shoot this phase.",
-    "effect": "Until the end of the phase, each time a model in your unit targets an Infantry unit with a ranged weapon, that weapon has the [BLAST] ability. 1CP"
+    "effect": "Until the end of the phase, each time a model in your unit targets an Infantry unit with a ranged weapon, that weapon has the [BLAST] ability."
   },
   "rolling-loot-heap-freebooter-krew": {
     "faction": "orks",
@@ -16927,25 +16927,25 @@
     "faction": "orks",
     "when": "Your Shooting phase, when a friendly ORKS INFANTRY unit is selected to shoot.",
     "target": "That ORKS INFANTRY unit.",
-    "effect": "Your unit's ranged attacks that target a unit within 9\" have +1 AP. 1CP CALL DAT DAKKA?"
+    "effect": "Your unit's ranged attacks that target a unit within 9\" have +1 AP. CALL DAT DAKKA?"
   },
   "brutal-broadside-rollin-deff": {
     "faction": "orks",
     "when": "Your Shooting phase, when a friendly BATTLEWAGON unit is selected to shoot.",
     "target": "That BATTLEWAGON unit.",
-    "effect": "Your unit's ranged attacks (excluding attacks made by weapons selected with Firing Deck) have [RAPID FIRE X], where X is that attack's A. 1CP"
+    "effect": "Your unit's ranged attacks (excluding attacks made by weapons selected with Firing Deck) have [RAPID FIRE X], where X is that attack's A."
   },
   "impending-crunch-rollin-deff": {
     "faction": "orks",
     "when": "Your Charge phase, when a friendly WAGON unit ends a charge move.",
     "target": "That WAGON unit.",
-    "effect": "Each enemy unit engaged with your unit makes a battleshock roll, with -1 to that battleshock roll. 1CP"
+    "effect": "Each enemy unit engaged with your unit makes a battleshock roll, with -1 to that battleshock roll."
   },
   "devastating-drift-rollin-deff": {
     "faction": "orks",
     "when": "Your Fight phase, when a friendly WAGON unit that made a charge move this turn is selected to fight.",
     "target": "That WAGON unit.",
-    "effect": "Your unit's melee attacks have [CLEAVE 1]. 1CP MORE DAKKA! A HORDE OF GUNCRAZED ORKS UNLEASH A DEVASTATING STORM OF DAKKA INTO THE ENEMY"
+    "effect": "Your unit's melee attacks have [CLEAVE 1]. MORE DAKKA! A HORDE OF GUNCRAZED ORKS UNLEASH A DEVASTATING STORM OF DAKKA INTO THE ENEMY"
   },
   "boarding-ramps-rollin-deff": {
     "faction": "orks",
@@ -17281,11 +17281,11 @@
     "faction": "space-wolves",
     "when": "End of your Movement phase.",
     "target": "One friendly ADEPTUS ASTARTES INFANTRY CHARACTER unit.",
-    "effect": "Select one objective your unit is controlling. That objective is secured. 1CP"
+    "effect": "Select one objective your unit is controlling. That objective is secured."
   },
   "the-foe-foreseen-saga-of-the-great-wolf": {
     "faction": "space-wolves",
-    "when": "Your opponent's Shooting phase or the 1CP Fight phase, just after an enemy unit has selected its targets.",
+    "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
     "target": "One Adeptus Astartes unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
     "effect": "Until the end of the phase, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
   },
@@ -17293,7 +17293,7 @@
     "faction": "space-wolves",
     "when": "Your Movement phase.",
     "target": "One Adeptus Astartes unit from your army that has not been selected to move this phase.",
-    "effect": "Until the end of the turn, your unit is eligible to declare a charge in a turn in which it Fell Back. If your unit is a Space Wolves unit, until the end of the turn, it is eligible to declare a charge in a turn in which it Advanced or Fell Back. 1CP"
+    "effect": "Until the end of the turn, your unit is eligible to declare a charge in a turn in which it Fell Back. If your unit is a Space Wolves unit, until the end of the turn, it is eligible to declare a charge in a turn in which it Advanced or Fell Back."
   },
   "grimnars-command-saga-of-the-great-wolf": {
     "faction": "space-wolves",
@@ -17315,7 +17315,7 @@
   },
   "fenrisian-ferocity-saga-of-the-great-wolf": {
     "faction": "space-wolves",
-    "when": "Your Movement phase or your Charge phase. 1CP",
+    "when": "Your Movement phase or your Charge phase.",
     "target": "One Adeptus Astartes Mounted or Adeptus Astartes Walker unit from your army that has not been selected to move or charge this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes a Normal, Advance, Fall Back or Charge move, it can move horizontally through models (excluding Titanic models) and terrain features. When doing so, it can move within Engagement Range of enemy models, but cannot end a Normal, Advance or Fall Back move within Engagement Range of them."
   },
@@ -17329,31 +17329,31 @@
     "faction": "space-wolves",
     "when": "Any phase, when a friendly ADEPTUS ASTARTES INFANTRY CHARACTER unit suffers a mortal wound.",
     "target": "That ADEPTUS ASTARTES INFANTRY CHARACTER unit.",
-    "effect": "Your unit has Feel No Pain 5+ against mortal wounds. 1CP"
+    "effect": "Your unit has Feel No Pain 5+ against mortal wounds."
   },
   "stalk-between-worlds-champions-of-fenris": {
     "faction": "space-wolves",
     "when": "Your opponent's Shooting phase, when an enemy unit targets a friendly ADEPTUS ASTARTES INFANTRY CHARACTER unit.",
     "target": "That ADEPTUS ASTARTES INFANTRY CHARACTER unit.",
-    "effect": "Your unit has Stealth. 1CP"
+    "effect": "Your unit has Stealth."
   },
   "fangs-of-the-pack-legends-of-saga-and-song": {
     "faction": "space-wolves",
     "when": "Fight phase, when a friendly ADEPTUS ASTARTES TERMINATOR unit is selected to fight.",
     "target": "That ADEPTUS ASTARTES TERMINATOR unit.",
-    "effect": "Your unit's melee attacks have [PRECISION]. 1CP"
+    "effect": "Your unit's melee attacks have [PRECISION]."
   },
   "wings-of-the-blizzard-legends-of-saga-and-song": {
     "faction": "space-wolves",
     "when": "End of your opponent's Fight phase.",
     "target": "One friendly unengaged ADEPTUS ASTARTES TERMINATOR unit.",
-    "effect": "Place your unit in strategic reserves. 1CP"
+    "effect": "Place your unit in strategic reserves."
   },
   "grizzled-killers-veterans-of-the-fang": {
     "faction": "space-wolves",
     "when": "Fight phase, when a friendly GREY HUNTERS unit is selected to fight.",
     "target": "That GREY HUNTERS unit.",
-    "effect": "Your unit's melee attacks have: [SUSTAINED HITS 1]. OR: [LETHAL HITS]. 1CP"
+    "effect": "Your unit's melee attacks have: [SUSTAINED HITS 1]. OR: [LETHAL HITS]."
   },
   "icy-calm-veterans-of-the-fang": {
     "faction": "space-wolves",
@@ -17365,7 +17365,7 @@
     "faction": "space-wolves",
     "when": "Start of your Shooting phase.",
     "target": "One friendly unengaged GREY HUNTERS unit.",
-    "effect": "Select one visible enemy unit within 24\" of your unit. That enemy unit has +6\" detection range. 1CP"
+    "effect": "Select one visible enemy unit within 24\" of your unit. That enemy unit has +6\" detection range."
   },
   "a-giant-amongst-giants-champions-of-fenris": {
     "faction": "space-wolves",
@@ -18053,19 +18053,19 @@
     "faction": "tau-empire",
     "when": "End of your Movement phase.",
     "target": "One friendly PATHFINDER TEAM/STEALTH BATTLESUITS unit.",
-    "effect": "Select one objective your unit is controlling. That objective is secured. 1CP"
+    "effect": "Select one objective your unit is controlling. That objective is secured."
   },
   "microdrone-support-advanced-acquisition-cadre": {
     "faction": "tau-empire",
     "when": "Your Shooting phase, when a friendly PATHFINDER TEAM/ STEALTH BATTLESUITS unit starts an action.",
     "target": "That PATHFINDER TEAM/STEALTH BATTLESUITS unit.",
-    "effect": "That action does not prevent your unit from being eligible to shoot. 1CP"
+    "effect": "That action does not prevent your unit from being eligible to shoot."
   },
   "autoreactive-camouflage-advanced-acquisition-cadre": {
     "faction": "tau-empire",
     "when": "Your opponent's Shooting phase, when an enemy unit targets a friendly PATHFINDER TEAM/ STEALTH BATTLESUITS unit, if that friendly unit is hidden.",
     "target": "That PATHFINDER TEAM/STEALTH BATTLESUITS unit.",
-    "effect": "Your unit has +1 Sv. 1CP UNIQUE: AUXILIARIES"
+    "effect": "Your unit has +1 Sv. UNIQUE: AUXILIARIES"
   },
   "negation-emitters-advanced-acquisition-cadre": {
     "faction": "tau-empire",
@@ -19231,19 +19231,19 @@
     "faction": "tyranids",
     "when": "End of your Movement phase.",
     "target": "One Tyranids unit from your army that was set up as Reinforcements this turn.",
-    "effect": "Until the end of your next Fight phase, weapons equipped by models in your unit have the [SUSTAINED HITS 1] and [IGNORES COVER] abilities. 1CP"
+    "effect": "Until the end of your next Fight phase, weapons equipped by models in your unit have the [SUSTAINED HITS 1] and [IGNORES COVER] abilities."
   },
   "tunnel-network-subterranean-assault": {
     "faction": "tyranids",
     "when": "End of your Movement phase.",
     "target": "One Tyranids unit from your army that is wholly within 9\" of one or more of your Tunnel Markers and not within Engagement Range of one or more enemy units.",
-    "effect": "Remove your unit from the battlefield and set it up again, wholly within 9\" of another Tunnel Marker you placed, and more than 6\" horizontally away from all enemy units. 1CP"
+    "effect": "Remove your unit from the battlefield and set it up again, wholly within 9\" of another Tunnel Marker you placed, and more than 6\" horizontally away from all enemy units."
   },
   "swarming-assault-subterranean-assault": {
     "faction": "tyranids",
     "when": "Your Charge phase.",
     "target": "One Tyranids Monster unit from your army that was set up as Reinforcements this turn.",
-    "effect": "Until the end of the phase, friendly Tyranids units within 6\" of your unit can re-roll Charge rolls. 1CP"
+    "effect": "Until the end of the phase, friendly Tyranids units within 6\" of your unit can re-roll Charge rolls."
   },
   "retreat-below-subterranean-assault": {
     "faction": "tyranids",
@@ -19267,7 +19267,7 @@
     "faction": "tyranids",
     "when": "End of your Movement phase.",
     "target": "One friendly TYRANID WARRIORS unit.",
-    "effect": "Select one objective your unit is controlling. That objective is secured. 1CP"
+    "effect": "Select one objective your unit is controlling. That objective is secured."
   },
   "parasitic-payload-warrior-bioform-onslaught": {
     "faction": "tyranids",
@@ -19403,19 +19403,19 @@
     "faction": "tyranids",
     "when": "Fight phase, when a friendly DEATHLEAPER/LICTOR/ NEUROLICTOR/VON RYAN'S LEAPERS unit is selected to fight.",
     "target": "That DEATHLEAPER/LICTOR/NEUROLICTOR/VON RYAN'S LEAPERS unit.",
-    "effect": "Your unit's attacks that target a hidden unit have +1 S and AP. 1CP"
+    "effect": "Your unit's attacks that target a hidden unit have +1 S and AP."
   },
   "hypersensory-adaptations-ambush-predators": {
     "faction": "tyranids",
     "when": "Start of your Shooting phase.",
     "target": "One friendly DEATHLEAPER/LICTOR/NEUROLICTOR/VON RYAN'S LEAPERS unit.",
-    "effect": "Select one visible enemy unit within 12\" of your unit. That enemy unit has +6\" detection range. 1CP"
+    "effect": "Select one visible enemy unit within 12\" of your unit. That enemy unit has +6\" detection range."
   },
   "scanner-gheist-ambush-predators": {
     "faction": "tyranids",
     "when": "End of your opponent's Fight phase.",
     "target": "One friendly unengaged DEATHLEAPER/LICTOR/ NEUROLICTOR unit.",
-    "effect": "Place your unit in strategic reserves. 1CP"
+    "effect": "Place your unit in strategic reserves."
   },
   "catalytic-biofortification-talons-of-the-norn-queen": {
     "faction": "tyranids",
@@ -19427,13 +19427,13 @@
     "faction": "tyranids",
     "when": "Fight phase, when a friendly NORN ASSIMILATOR/NORN EMISSARY unit is selected to fight.",
     "target": "That NORN ASSIMILATOR/NORN EMISSARY unit.",
-    "effect": "Your unit's melee attacks have +2 S. 1CP"
+    "effect": "Your unit's melee attacks have +2 S."
   },
   "tanglestrike-rounds-talons-of-the-norn-queen": {
     "faction": "tyranids",
     "when": "Your Shooting phase, when a friendly NORN ASSIMILATOR unit has shot.",
     "target": "That NORN ASSIMILATOR unit.",
-    "effect": "Select one enemy unit hit by those attacks. That enemy unit is tethered until the start of your next Command phase: While a unit is tethered, that unit has 2\" M. 1CP"
+    "effect": "Select one enemy unit hit by those attacks. That enemy unit is tethered until the start of your next Command phase: While a unit is tethered, that unit has 2\" M."
   },
   "encircling-horrors-ambush-predators": {
     "faction": "tyranids",
@@ -20063,7 +20063,7 @@
     "faction": "world-eaters",
     "when": "Fight phase, when a friendly WORLD EATERS CHARACTER unit (excluding EPIC HERO units) is selected to fight.",
     "target": "That WORLD EATERS CHARACTER unit.",
-    "effect": "Your unit's CHARACTER models' melee attacks have: +1 A. +2 S. 1CP"
+    "effect": "Your unit's CHARACTER models' melee attacks have: +1 A. +2 S."
   },
   "punish-the-craven-vessels-of-wrath": {
     "faction": "world-eaters",
@@ -20075,7 +20075,7 @@
     "faction": "world-eaters",
     "when": "Your Shooting phase or the Fight phase, when a friendly DAEMON VEHICLE unit is selected to attack.",
     "target": "That DAEMON VEHICLE unit.",
-    "effect": "Your unit's attacks can ignore modifiers to: BS. WS. Hit rolls and wound rolls. 1CP"
+    "effect": "Your unit's attacks can ignore modifiers to: BS. WS. Hit rolls and wound rolls."
   },
   "trail-of-destruction-brazen-engines": {
     "faction": "world-eaters",
@@ -20087,7 +20087,7 @@
     "faction": "world-eaters",
     "when": "Your opponent's Shooting phase, when an enemy unit that targeted a friendly unengaged DAEMON VEHICLE unit (excluding TITANIC units) has shot.",
     "target": "That DAEMON VEHICLE unit.",
-    "effect": "Your unit can make a surge move of up to D6\". 1CP"
+    "effect": "Your unit can make a surge move of up to D6\"."
   },
   "focused-ferocity-butchers-of-khorne": {
     "faction": "world-eaters",
@@ -20099,7 +20099,7 @@
     "faction": "world-eaters",
     "when": "Fight phase, when a friendly TERMINATOR SQUAD unit is selected to fight.",
     "target": "That TERMINATOR SQUAD unit.",
-    "effect": "Your unit's attacks that target a MONSTER/VEHICLE unit have +1 to wound rolls. 1CP"
+    "effect": "Your unit's attacks that target a MONSTER/VEHICLE unit have +1 to wound rolls."
   },
   "wrath-beyond-reason-butchers-of-khorne": {
     "faction": "world-eaters",

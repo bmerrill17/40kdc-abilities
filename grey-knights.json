@@ -1738,7 +1738,7 @@
     },
     "when": "Start of your opponent's Movement phase.",
     "target": "One Grey Knights Infantry unit from your army.",
-    "effect": "Until the end of the phase, each time an enemy unit is set up or ends a Normal, Advance or Fall Back move within 6\" of your unit, roll one D6, adding 2 to the result if your unit is wholly within your army's Hallowed Ground: on a 4+, that enemy unit suffers D3 mortal wounds. 1CP"
+    "effect": "Until the end of the phase, each time an enemy unit is set up or ends a Normal, Advance or Fall Back move within 6\" of your unit, roll one D6, adding 2 to the result if your unit is wholly within your army's Hallowed Ground: on a 4+, that enemy unit suffers D3 mortal wounds."
   },
   {
     "ability_id": "flames-of-sanctity-warpbane-task-force",
@@ -1776,7 +1776,7 @@
     },
     "when": "Your opponent's Shooting phase, just after an enemy unit has selected its targets.",
     "target": "One Grey Knights Infantry unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
-    "effect": "Until the end of the phase, models in your unit that are wholly within your Hallowed Ground have a 4+ invulnerable save. 1CP"
+    "effect": "Until the end of the phase, models in your unit that are wholly within your Hallowed Ground have a 4+ invulnerable save."
   },
   {
     "ability_id": "hallowed-beacon-warpbane-task-force",
@@ -1795,7 +1795,7 @@
     },
     "when": "Reinforcements step of your Movement phase.",
     "target": "One Grey Knights Infantry unit (excluding Terminator units) that is arriving using the Deep Strike ability this phase.",
-    "effect": "Set up your unit wholly within your army's Hallowed Ground and more than 6\" horizontally away from all enemy units. 1CP"
+    "effect": "Set up your unit wholly within your army's Hallowed Ground and more than 6\" horizontally away from all enemy units."
   },
   {
     "ability_id": "repelling-sphere-warpbane-task-force",
@@ -1871,7 +1871,7 @@
     },
     "when": "Fight phase, when an enemy unit targets a friendly PALADIN SQUAD unit.",
     "target": "That PALADIN SQUAD unit.",
-    "effect": "That enemy unit's melee attacks have [HAZARDOUS]. 1CP"
+    "effect": "That enemy unit's melee attacks have [HAZARDOUS]."
   },
   {
     "ability_id": "soul-locked-fires-of-purgation",
@@ -1928,7 +1928,7 @@
     },
     "when": "Your Shooting phase, when a friendly PURGATION SQUAD unit has shot.",
     "target": "That PURGATION SQUAD unit.",
-    "effect": "Select one battleshocked enemy unit hit by those attacks. That enemy unit suffers D3+1 mortal wounds. 1CP"
+    "effect": "Select one battleshocked enemy unit hit by those attacks. That enemy unit suffers D3+1 mortal wounds."
   },
   {
     "ability_id": "blades-from-the-beyond-immaterial-interdiction",
@@ -1947,7 +1947,7 @@
     },
     "when": "Fight phase, when a friendly INTERCEPTOR SQUAD unit that made a charge move this turn is selected to fight.",
     "target": "That INTERCEPTOR SQUAD unit.",
-    "effect": "Your unit's melee attacks have [LANCE]. 1CP"
+    "effect": "Your unit's melee attacks have [LANCE]."
   },
   {
     "ability_id": "by-thought-alone-immaterial-interdiction",
@@ -1966,7 +1966,7 @@
     },
     "when": "Your Shooting phase, when a friendly INTERCEPTOR SQUAD unit starts an action.",
     "target": "That INTERCEPTOR SQUAD unit.",
-    "effect": "That action does not prevent your unit from being eligible to shoot. 1CP"
+    "effect": "That action does not prevent your unit from being eligible to shoot."
   },
   {
     "ability_id": "responsive-displacement-immaterial-interdiction",

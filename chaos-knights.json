@@ -711,7 +711,7 @@
     },
     "when": "Any phase, just after a mortal wound is allocated to a Chaos Knights unit from your army.",
     "target": "That Chaos Knights unit.",
-    "effect": "Until the end of the phase, models in your unit have the Feel No Pain 5+ ability against mortal wounds. 1CP"
+    "effect": "Until the end of the phase, models in your unit have the Feel No Pain 5+ ability against mortal wounds."
   },
   {
     "ability_id": "merciless-fusillade-helhunt-lance",
@@ -747,7 +747,7 @@
       "ref": "eng_10-06_warhammer40000_faction_pack_chaos_knights-nd97dcwfqa-6prdhhde6p.pdf",
       "edition": "11e"
     },
-    "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected 1CP its targets.",
+    "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
     "target": "One Chaos Knights unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
     "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
   },
@@ -787,7 +787,7 @@
     },
     "when": "Your Movement phase, just after a Chaos Knights unit from your army Falls Back.",
     "target": "That Chaos Knights unit.",
-    "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back. 1CP"
+    "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
   },
   {
     "ability_id": "goaded-beast-helhunt-lance",
@@ -1590,7 +1590,7 @@
     },
     "when": "Any phase, when a friendly KNIGHT TYRANT unit suffers a mortal wound.",
     "target": "That KNIGHT TYRANT unit.",
-    "effect": "Your unit has Feel No Pain 5+ against mortal wounds. 1CP"
+    "effect": "Your unit has Feel No Pain 5+ against mortal wounds."
   },
   {
     "ability_id": "pitiless-focus-bastions-of-tyranny",
@@ -1628,7 +1628,7 @@
     },
     "when": "Your Shooting phase, when a friendly KNIGHT TYRANT unit has shot.",
     "target": "That KNIGHT TYRANT unit.",
-    "effect": "Select one enemy unit hit by those attacks. That enemy unit is suppressed until the start of your next Command phase: While a unit is suppressed, that unit's attacks have -1 to hit rolls. 1CP UNIQUE: WAR DOGS"
+    "effect": "Select one enemy unit hit by those attacks. That enemy unit is suppressed until the start of your next Command phase: While a unit is suppressed, that unit's attacks have -1 to hit rolls. UNIQUE: WAR DOGS"
   },
   {
     "ability_id": "insensate-bloodthirst-hunting-warpack",
@@ -1647,7 +1647,7 @@
     },
     "when": "Fight phase, when an enemy unit targets a friendly WAR DOG unit.",
     "target": "That WAR DOG unit.",
-    "effect": "Your unit has Feel No Pain 5+. 1CP"
+    "effect": "Your unit has Feel No Pain 5+."
   },
   {
     "ability_id": "leash-of-the-masters-hunting-warpack",
@@ -1666,7 +1666,7 @@
     },
     "when": "Your Shooting phase, when a friendly WAR DOG unit has shot.",
     "target": "That WAR DOG unit.",
-    "effect": "Those attacks do not prevent your unit from being eligible to start an action. 1CP"
+    "effect": "Those attacks do not prevent your unit from being eligible to start an action."
   },
   {
     "ability_id": "stalking-focus-hunting-warpack",
@@ -1685,7 +1685,7 @@
     },
     "when": "Your opponent's Shooting phase, when an enemy unit targets a friendly WAR DOG unit within range of an objective.",
     "target": "That WAR DOG unit.",
-    "effect": "Ranged attacks that target your unit have 1 AP until that enemy unit has attacked. 1CP"
+    "effect": "Ranged attacks that target your unit have 1 AP until that enemy unit has attacked."
   },
   {
     "ability_id": "dark-sacrifice-iconoclast-fiefdom",
@@ -1723,7 +1723,7 @@
     },
     "when": "Start of your Shooting phase.",
     "target": "One friendly DAMNED unit.",
-    "effect": "Select one visible enemy unit within 12\" of your unit. That enemy unit is hunted: While a unit is hunted, that unit has +6\" detection range. 1CP"
+    "effect": "Select one visible enemy unit within 12\" of your unit. That enemy unit is hunted: While a unit is hunted, that unit has +6\" detection range."
   },
   {
     "ability_id": "pterrorshade-rookery-bastions-of-tyranny",

@@ -2386,7 +2386,7 @@
     },
     "when": "End of your Movement phase.",
     "target": "One Tyranids unit from your army that was set up as Reinforcements this turn.",
-    "effect": "Until the end of your next Fight phase, weapons equipped by models in your unit have the [SUSTAINED HITS 1] and [IGNORES COVER] abilities. 1CP"
+    "effect": "Until the end of your next Fight phase, weapons equipped by models in your unit have the [SUSTAINED HITS 1] and [IGNORES COVER] abilities."
   },
   {
     "ability_id": "tunnel-network-subterranean-assault",
@@ -2405,7 +2405,7 @@
     },
     "when": "End of your Movement phase.",
     "target": "One Tyranids unit from your army that is wholly within 9\" of one or more of your Tunnel Markers and not within Engagement Range of one or more enemy units.",
-    "effect": "Remove your unit from the battlefield and set it up again, wholly within 9\" of another Tunnel Marker you placed, and more than 6\" horizontally away from all enemy units. 1CP"
+    "effect": "Remove your unit from the battlefield and set it up again, wholly within 9\" of another Tunnel Marker you placed, and more than 6\" horizontally away from all enemy units."
   },
   {
     "ability_id": "swarming-assault-subterranean-assault",
@@ -2424,7 +2424,7 @@
     },
     "when": "Your Charge phase.",
     "target": "One Tyranids Monster unit from your army that was set up as Reinforcements this turn.",
-    "effect": "Until the end of the phase, friendly Tyranids units within 6\" of your unit can re-roll Charge rolls. 1CP"
+    "effect": "Until the end of the phase, friendly Tyranids units within 6\" of your unit can re-roll Charge rolls."
   },
   {
     "ability_id": "retreat-below-subterranean-assault",
@@ -2500,7 +2500,7 @@
     },
     "when": "End of your Movement phase.",
     "target": "One friendly TYRANID WARRIORS unit.",
-    "effect": "Select one objective your unit is controlling. That objective is secured. 1CP"
+    "effect": "Select one objective your unit is controlling. That objective is secured."
   },
   {
     "ability_id": "parasitic-payload-warrior-bioform-onslaught",
@@ -2922,7 +2922,7 @@
     },
     "when": "Fight phase, when a friendly DEATHLEAPER/LICTOR/ NEUROLICTOR/VON RYAN'S LEAPERS unit is selected to fight.",
     "target": "That DEATHLEAPER/LICTOR/NEUROLICTOR/VON RYAN'S LEAPERS unit.",
-    "effect": "Your unit's attacks that target a hidden unit have +1 S and AP. 1CP"
+    "effect": "Your unit's attacks that target a hidden unit have +1 S and AP."
   },
   {
     "ability_id": "hypersensory-adaptations-ambush-predators",
@@ -2941,7 +2941,7 @@
     },
     "when": "Start of your Shooting phase.",
     "target": "One friendly DEATHLEAPER/LICTOR/NEUROLICTOR/VON RYAN'S LEAPERS unit.",
-    "effect": "Select one visible enemy unit within 12\" of your unit. That enemy unit has +6\" detection range. 1CP"
+    "effect": "Select one visible enemy unit within 12\" of your unit. That enemy unit has +6\" detection range."
   },
   {
     "ability_id": "scanner-gheist-ambush-predators",
@@ -2960,7 +2960,7 @@
     },
     "when": "End of your opponent's Fight phase.",
     "target": "One friendly unengaged DEATHLEAPER/LICTOR/ NEUROLICTOR unit.",
-    "effect": "Place your unit in strategic reserves. 1CP"
+    "effect": "Place your unit in strategic reserves."
   },
   {
     "ability_id": "catalytic-biofortification-talons-of-the-norn-queen",
@@ -2998,7 +2998,7 @@
     },
     "when": "Fight phase, when a friendly NORN ASSIMILATOR/NORN EMISSARY unit is selected to fight.",
     "target": "That NORN ASSIMILATOR/NORN EMISSARY unit.",
-    "effect": "Your unit's melee attacks have +2 S. 1CP"
+    "effect": "Your unit's melee attacks have +2 S."
   },
   {
     "ability_id": "tanglestrike-rounds-talons-of-the-norn-queen",
@@ -3017,7 +3017,7 @@
     },
     "when": "Your Shooting phase, when a friendly NORN ASSIMILATOR unit has shot.",
     "target": "That NORN ASSIMILATOR unit.",
-    "effect": "Select one enemy unit hit by those attacks. That enemy unit is tethered until the start of your next Command phase: While a unit is tethered, that unit has 2\" M. 1CP"
+    "effect": "Select one enemy unit hit by those attacks. That enemy unit is tethered until the start of your next Command phase: While a unit is tethered, that unit has 2\" M."
   },
   {
     "ability_id": "encircling-horrors-ambush-predators",

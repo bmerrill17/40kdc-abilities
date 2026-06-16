@@ -2762,7 +2762,7 @@
     },
     "when": "Start of the Command phase.",
     "target": "One friendly ADEPTA SORORITAS INFANTRY FLY unit or one friendly EXORCIST unit.",
-    "effect": "Select one friendly battleshocked ADEPTA SORORITAS unit within 6\" of your unit. That unit is no longer battleshocked. 1CP"
+    "effect": "Select one friendly battleshocked ADEPTA SORORITAS unit within 6\" of your unit. That unit is no longer battleshocked."
   },
   {
     "ability_id": "the-blood-of-martyrs",

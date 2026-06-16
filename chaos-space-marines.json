@@ -2590,7 +2590,7 @@
     "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
     "target": "One Heretic Astartes unit from your army (excluding Damned units) that was selected as the target of one or more of the attacking unit's attacks.",
     "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1.",
-    "restrictions": "You cannot target the same unit with the Empyric Dislocation and Armour of Corruption Stratagems in the same phase. 2CP"
+    "restrictions": "You cannot target the same unit with the Empyric Dislocation and Armour of Corruption Stratagems in the same phase."
   },
   {
     "ability_id": "warp-tainted-warpstrike-champions",
@@ -2628,7 +2628,7 @@
     },
     "when": "Your Shooting phase.",
     "target": "Up to two Heretic Astartes units from your army that were set up using the Deep Strike ability this turn and have not been selected to shoot this phase.",
-    "effect": "Until the end of the phase, ranged weapons equipped by models in your units have the [IGNORES COVER] ability. 1CP"
+    "effect": "Until the end of the phase, ranged weapons equipped by models in your units have the [IGNORES COVER] ability."
   },
   {
     "ability_id": "armour-of-corruption-warpstrike-champions",
@@ -2648,7 +2648,7 @@
     "when": "Fight phase, just after an enemy unit has selected its targets.",
     "target": "One Heretic Astartes Terminator, Obliterators or Mutilators unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
     "effect": "Until the end of the turn, each time an attack is allocated to a model in your unit, subtract 1 from the Damage characteristic of that attack.",
-    "restrictions": "You cannot target the same unit with the Armour of Corruption and Empyric Dislocation Stratagems in the same phase. 1CP"
+    "restrictions": "You cannot target the same unit with the Armour of Corruption and Empyric Dislocation Stratagems in the same phase."
   },
   {
     "ability_id": "warp-flicker-warpstrike-champions",
@@ -2667,7 +2667,7 @@
     },
     "when": "Your Movement phase.",
     "target": "One Heretic Astartes Terminator, Obliterators or Mutilators unit from your army.",
-    "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced. 1CP"
+    "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced."
   },
   {
     "ability_id": "portal-of-spite-warpstrike-champions",
@@ -2773,7 +2773,7 @@
     },
     "when": "Any phase.",
     "target": "One Heretic Astartes unit from your army (excluding Damned units) that has not been selected to shoot or fight this phase.",
-    "effect": "Until the end of the phase, if your unit is selected to make a Dark Pact, you can select both abilities for that unit's weapons to gain. 1CP"
+    "effect": "Until the end of the phase, if your unit is selected to make a Dark Pact, you can select both abilities for that unit's weapons to gain."
   },
   {
     "ability_id": "balefire-boon-cult-of-the-arkifane",
@@ -2811,7 +2811,7 @@
     },
     "when": "Your Command phase.",
     "target": "One Heretic Astartes unit from your army (excluding Damned units).",
-    "effect": "One model in your unit regains up to D3 lost wounds. If your unit has the Soul Forge keyword, one model in your unit regains up to 3 lost wounds instead. 1CP"
+    "effect": "One model in your unit regains up to D3 lost wounds. If your unit has the Soul Forge keyword, one model in your unit regains up to 3 lost wounds instead."
   },
   {
     "ability_id": "forge-fire-surge-cult-of-the-arkifane",
@@ -3684,7 +3684,7 @@
     },
     "when": "Your Command phase.",
     "target": "One Damned unit from your army.",
-    "effect": "Select one of the following effects: � Improve the Ballistic Skill characteristic of ranged weapons equipped by models in this unit by 1. � Improve the Attacks characteristic of Rapid Fire weapons equipped by models in this unit by 1. � Improve the Save characteristic of models in this unit by 1. Until the start of your next turn, your unit has the benefit of that effect. 1CP"
+    "effect": "Select one of the following effects: � Improve the Ballistic Skill characteristic of ranged weapons equipped by models in this unit by 1. � Improve the Attacks characteristic of Rapid Fire weapons equipped by models in this unit by 1. � Improve the Save characteristic of models in this unit by 1. Until the start of your next turn, your unit has the benefit of that effect."
   },
   {
     "ability_id": "seize-the-prize-hurons-marauders",
@@ -3703,7 +3703,7 @@
     },
     "when": "Your Movement phase, just after a Heretic Astartes unit (excluding Monsters and Vehicles) from your army has been selected to Advance.",
     "target": "That Heretic Astartes unit.",
-    "effect": "Do not make an Advance roll for your unit. Instead, until the end of the phase add 6\" to the Move characteristic of models in your unit. 1CP"
+    "effect": "Do not make an Advance roll for your unit. Instead, until the end of the phase add 6\" to the Move characteristic of models in your unit."
   },
   {
     "ability_id": "reavers-flurry-hurons-marauders",
@@ -3910,9 +3910,9 @@
       "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
       "edition": "11e"
     },
-    "when": "Your Shooting phase or the Fight phase. 1CP",
+    "when": "Your Shooting phase or the Fight phase.",
     "target": "One Heretic Astartes Infantry (excluding Damned units) or Heretic Astartes Mounted unit from your army that has not been selected to shoot or fight this phase.",
-    "effect": "Until the end of the phase, each time your unit makes an attack that targets your Vendetta target, add 1 to the Wound roll. 1CP"
+    "effect": "Until the end of the phase, each time your unit makes an attack that targets your Vendetta target, add 1 to the Wound roll."
   },
   {
     "ability_id": "corrupted-munitions-renegade-warband",
@@ -3931,7 +3931,7 @@
     },
     "when": "Your Shooting phase",
     "target": "One Heretic Astartes unit in your army that has just been selected to shoot.",
-    "effect": "Until the end of the phase, each time a model in this unit makes a ranged attack, improve the Armour Penetration of that attack by 1. 1CP"
+    "effect": "Until the end of the phase, each time a model in this unit makes a ranged attack, improve the Armour Penetration of that attack by 1."
   },
   {
     "ability_id": "depthless-cruelty-dread-talons",
@@ -4082,7 +4082,7 @@
       "edition": "11e"
     },
     "when": "Your Shooting phase or the Fight phase.",
-    "target": "One Heretic Astartes Infantry unit from 1CP your army that has not been selected to shoot or fight this phase.",
+    "target": "One Heretic Astartes Infantry unit from your army that has not been selected to shoot or fight this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets a unit that is Battleshocked and/or Below Halfstrength, improve the Armour Penetration characteristic of that attack by 1."
   },
   {
@@ -4100,7 +4100,7 @@
       "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
       "edition": "11e"
     },
-    "when": "Your Shooting phase or the Fight phase. 1CP",
+    "when": "Your Shooting phase or the Fight phase.",
     "target": "One Heretic Astartes Infantry unit from your army that has not been selected to shoot or fight this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets a unit that is Battleshocked and/or Below Halfstrength, you can reroll the Hit roll."
   },
@@ -4311,7 +4311,7 @@
     },
     "when": "Your Movement phase.",
     "target": "One Heretic Astartes unit (excluding Monsters and Vehicles) from your army.",
-    "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced. 1CP"
+    "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced."
   },
   {
     "ability_id": "to-the-favoured-the-spoils-hurons-marauders",
@@ -4330,7 +4330,7 @@
     },
     "when": "Your opponent's Shooting phase, just after an enemy unit has shot.",
     "target": "One Heretic Astartes unit from your army that lost one or more wounds as a result of those attacks.",
-    "effect": "Your unit can make a surge move of up to D6\". 1CP"
+    "effect": "Your unit can make a surge move of up to D6\"."
   },
   {
     "ability_id": "encircling-surge-hurons-marauders",
@@ -4577,7 +4577,7 @@
     },
     "when": "Fight phase, just after an enemy unit has selected its targets.",
     "target": "One Heretic Astartes unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
-    "effect": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6: on a 4+, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play. 1CP"
+    "effect": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6: on a 4+, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play."
   },
   {
     "ability_id": "renegade-claim-renegade-warband",
@@ -4938,7 +4938,7 @@
     },
     "when": "Your Command phase.",
     "target": "One Heretic Astartes Infantry unit (excluding Damned units) from your army.",
-    "effect": "One destroyed model (excluding Character models) is returned to your unit. If your unit is a Battleline unit, D3 destroyed models (excluding Character models) are returned to your unit instead. 1CP"
+    "effect": "One destroyed model (excluding Character models) is returned to your unit. If your unit is a Battleline unit, D3 destroyed models (excluding Character models) are returned to your unit instead."
   },
   {
     "ability_id": "autostimulants-creations-of-bile",
@@ -4976,7 +4976,7 @@
     },
     "when": "Fight phase.",
     "target": "One Heretic Astartes Infantry unit from your army that has not been selected to fight this phase.",
-    "effect": "Until the end of the phase, each time a model in your unit makes a melee attack that targets a Character unit, you can reroll the Wound roll. After your unit has fought, if one or more enemy Character models were destroyed as a result of those attacks, select one enemy unit within 6\" of your unit. That enemy unit must take a Battleshock test. If the enemy Warlord was destroyed as a result of those attacks, each enemy unit within 6\" of your unit must take a Battleshock test instead. 2CP"
+    "effect": "Until the end of the phase, each time a model in your unit makes a melee attack that targets a Character unit, you can reroll the Wound roll. After your unit has fought, if one or more enemy Character models were destroyed as a result of those attacks, select one enemy unit within 6\" of your unit. That enemy unit must take a Battleshock test. If the enemy Warlord was destroyed as a result of those attacks, each enemy unit within 6\" of your unit must take a Battleshock test instead."
   },
   {
     "ability_id": "delayed-mutations-creations-of-bile",
@@ -4995,7 +4995,7 @@
     },
     "when": "Your Command phase.",
     "target": "One Heretic Astartes Infantry unit (excluding Damned units) from your army.",
-    "effect": "Your unit suffers D3 mortal wounds. Then select one augmentation (see Experimental Augmentations). Until the start of your next Command phase, models in your unit have the selected augmentation in addition to any other augmentations they have. 1CP"
+    "effect": "Your unit suffers D3 mortal wounds. Then select one augmentation (see Experimental Augmentations). Until the start of your next Command phase, models in your unit have the selected augmentation in addition to any other augmentations they have."
   },
   {
     "ability_id": "warpcharged-engines-renegade-raiders",
@@ -5090,7 +5090,7 @@
     },
     "when": "Your Shooting phase, when a friendly HERETIC ASTARTES PSYKER unit is selected to shoot.",
     "target": "That HERETIC ASTARTES PSYKER unit.",
-    "effect": "Your unit's ranged attacks have [IGNORES COVER]. 1CP"
+    "effect": "Your unit's ranged attacks have [IGNORES COVER]."
   },
   {
     "ability_id": "ruinations-bounty-devotees-of-destruction",
@@ -5109,7 +5109,7 @@
     },
     "when": "Your Shooting phase, when a friendly HAVOCS/OBLITERATORS unit is selected to shoot.",
     "target": "That HAVOCS/OBLITERATORS unit.",
-    "effect": "When your unit uses the Dark Pacts ability, your unit's ranged attacks have: [LETHAL HITS]. [SUSTAINED HITS 1]. 1CP"
+    "effect": "When your unit uses the Dark Pacts ability, your unit's ranged attacks have: [LETHAL HITS]. [SUSTAINED HITS 1]."
   },
   {
     "ability_id": "snare-of-fire-devotees-of-destruction",
@@ -5185,7 +5185,7 @@
     },
     "when": "Your Movement phase, when a friendly WARP TALONS unit ends a move.",
     "target": "That WARP TALONS unit.",
-    "effect": "Select one visible enemy unit (excluding MONSTER/VEHICLE units) within 9\" of your unit. That enemy unit makes a battle-shock roll, with -1 to that battle-shock roll. 1CP"
+    "effect": "Select one visible enemy unit (excluding MONSTER/VEHICLE units) within 9\" of your unit. That enemy unit makes a battle-shock roll, with -1 to that battle-shock roll."
   },
   {
     "ability_id": "conduit-of-chaos-cabal-of-chaos",

@@ -2775,7 +2775,7 @@
     },
     "when": "Your Shooting phase, when a friendly TELEMON HEAVY DREADNOUGHT unit is selected to shoot.",
     "target": "That TELEMON HEAVY DREADNOUGHT unit.",
-    "effect": "Your unit's: Arachnus Storm Cannon weapons have [RAPID FIRE 6]. Iliastus Accelerator Culverin weapons have [RAPID FIRE 2]. 1CP"
+    "effect": "Your unit's: Arachnus Storm Cannon weapons have [RAPID FIRE 6]. Iliastus Accelerator Culverin weapons have [RAPID FIRE 2]."
   },
   {
     "ability_id": "interred-expertise-might-of-the-moritoi",
