@@ -1189,7 +1189,7 @@
       "ref": "eng_08-06_warhammer40000_faction_pack_dark_angels-fw4ot2jwtw-hplla1qiky.pdf",
       "edition": "11e"
     },
-    "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected 1CP its targets.",
+    "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
     "target": "One Adeptus Astartes unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
     "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
   },
@@ -1383,7 +1383,7 @@
     },
     "when": "Your Movement phase or your Charge phase.",
     "target": "One Ravenwing unit from your army.",
-    "effect": "Until the end of the phase, each time a model in your unit makes a Normal, Advance or Charge move, it can move horizontally through terrain features. 1CP"
+    "effect": "Until the end of the phase, each time a model in your unit makes a Normal, Advance or Charge move, it can move horizontally through terrain features."
   },
   {
     "ability_id": "illuminating-fire-lions-blade-task-force",
@@ -1402,7 +1402,7 @@
     },
     "when": "Your Shooting phase, just after a Ravenwing unit from your army has selected its targets.",
     "target": "That Ravenwing unit.",
-    "effect": "Select one enemy unit within 12\" of your unit that was selected as the target of one or more of the attacking unit's attacks. Until the end of the phase, each time a friendly Deathwing unit makes an attack that targets that enemy unit, add 1 to the Wound roll. 2CP"
+    "effect": "Select one enemy unit within 12\" of your unit that was selected as the target of one or more of the attacking unit's attacks. Until the end of the phase, each time a friendly Deathwing unit makes an attack that targets that enemy unit, add 1 to the Wound roll."
   },
   {
     "ability_id": "inescapable-wrath-lions-blade-task-force",
@@ -1442,7 +1442,7 @@
     "when": "Fight phase, just after an enemy unit has selected its targets.",
     "target": "One Adeptus Astartes unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
     "effect": "If that enemy unit is within Engagement Range of one or more Ravenwing units from your army, until the end of the phase, each time a model in that enemy unit makes an attack, subtract 1 from the Hit roll. If that enemy unit is within Engagement Range of one or more Deathwing units from your army, until the end of the phase, each time a model in that enemy unit makes an attack, if the Strength characteristic of that attack is greater than the Toughness characteristic of the target, subtract 1 from the Wound roll.",
-    "restrictions": "A unit cannot be targeted by this and the Armour of Contempt Stratagem in the same phase. 1CP"
+    "restrictions": "A unit cannot be targeted by this and the Armour of Contempt Stratagem in the same phase."
   },
   {
     "ability_id": "inescapable-justice-wrath-of-the-rock",
@@ -1480,7 +1480,7 @@
     },
     "when": "Your Movement phase.",
     "target": "One Adeptus Astartes unit from your army.",
-    "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced. If your unit has the Ravenwing keyword, it is also eligible to shoot and declare a charge in a turn in which it Fell Back. 1CP"
+    "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced. If your unit has the Ravenwing keyword, it is also eligible to shoot and declare a charge in a turn in which it Fell Back."
   },
   {
     "ability_id": "lions-will-wrath-of-the-rock",
@@ -1518,7 +1518,7 @@
     },
     "when": "Your Shooting phase.",
     "target": "One Adeptus Astartes Infantry or Adeptus Astartes Mounted unit from your army that has not been selected to shoot this phase.",
-    "effect": "Until the end of the phase, add 2 to the Strength characteristic of ranged weapons equipped by models in your unit. 1CP"
+    "effect": "Until the end of the phase, add 2 to the Strength characteristic of ranged weapons equipped by models in your unit."
   },
   {
     "ability_id": "leonine-aggression-wrath-of-the-rock",
@@ -2819,7 +2819,7 @@
     },
     "when": "Your Shooting phase, when a friendly HELLBLASTER SQUAD unit has shot.",
     "target": "That HELLBLASTER SQUAD unit.",
-    "effect": "Select one enemy unit hit by your unit's plasma ranged attacks. That enemy unit is seared until the start of your next turn: While a unit is seared, that unit has 2\" M. 1CP"
+    "effect": "Select one enemy unit hit by your unit's plasma ranged attacks. That enemy unit is seared until the start of your next turn: While a unit is seared, that unit has 2\" M."
   },
   {
     "ability_id": "no-sacrifice-too-great-dark-age-arsenal",
@@ -2838,7 +2838,7 @@
     },
     "when": "Your Shooting phase, when a friendly ADEPTUS ASTARTES unit is selected to shoot.",
     "target": "That ADEPTUS ASTARTES unit.",
-    "effect": "Your unit's [HAZARDOUS] plasma ranged attacks have +1 S. 1CP"
+    "effect": "Your unit's [HAZARDOUS] plasma ranged attacks have +1 S."
   },
   {
     "ability_id": "revelation-of-guilt-dark-age-arsenal",
@@ -2857,7 +2857,7 @@
     },
     "when": "Your Shooting phase, when a friendly ADEPTUS ASTARTES unit is selected to shoot.",
     "target": "That ADEPTUS ASTARTES unit.",
-    "effect": "Your unit's plasma ranged attacks have +1 to hit rolls. 1CP"
+    "effect": "Your unit's plasma ranged attacks have +1 to hit rolls."
   },
   {
     "ability_id": "skyborne-surveillance-darkflight-pursuit",
@@ -2876,7 +2876,7 @@
     },
     "when": "Your Shooting phase, when a friendly RAVENWING FLY unit has shot.",
     "target": "That RAVENWING FLY unit.",
-    "effect": "Visible enemy units within 6\" of your unit have +3\" detection range. 1CP"
+    "effect": "Visible enemy units within 6\" of your unit have +3\" detection range."
   },
   {
     "ability_id": "wings-of-shadow-darkflight-pursuit",
@@ -2914,7 +2914,7 @@
     },
     "when": "Your opponent's Shooting phase, when an enemy unit that targeted a friendly unengaged RAVENWING FLY unit has shot.",
     "target": "That RAVENWING FLY unit.",
-    "effect": "Your unit can make a normal move of up to D3+3\". 1CP"
+    "effect": "Your unit can make a normal move of up to D3+3\"."
   },
   {
     "ability_id": "exacting-punishment-interrogation-conclave",
@@ -2933,7 +2933,7 @@
     },
     "when": "Your Shooting phase or the Fight phase, when a friendly CHAPLAIN unit is selected to attack.",
     "target": "That CHAPLAIN unit.",
-    "effect": "Your unit's attacks have [PRECISION]. 1CP"
+    "effect": "Your unit's attacks have [PRECISION]."
   },
   {
     "ability_id": "terrifying-zeal-interrogation-conclave",

@@ -934,7 +934,7 @@
     },
     "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
     "target": "One Adeptus Astartes unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
-    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1. 1CP"
+    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
   },
   {
     "ability_id": "adaptive-tactics-black-spear-task-force",
@@ -992,7 +992,7 @@
     "when": "Your Shooting phase.",
     "target": "One Kill Team unit from your army that has not been selected to shoot this phase.",
     "effect": "Until the end of the phase, ranged weapons (excluding Devastating Wounds weapons) equipped by models in your unit have the [ANTI-INFANTRY 2+] and [ANTI-MONSTER 5+] abilities.",
-    "restrictions": "You cannot select any units that have already been targeted with either the Kraken Rounds or Dragonfire Rounds Stratagems this phase. 1CP"
+    "restrictions": "You cannot select any units that have already been targeted with either the Kraken Rounds or Dragonfire Rounds Stratagems this phase."
   },
   {
     "ability_id": "kraken-rounds-black-spear-task-force",

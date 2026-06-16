@@ -2961,7 +2961,7 @@
     },
     "when": "End of your Movement phase.",
     "target": "One friendly PATHFINDER TEAM/STEALTH BATTLESUITS unit.",
-    "effect": "Select one objective your unit is controlling. That objective is secured. 1CP"
+    "effect": "Select one objective your unit is controlling. That objective is secured."
   },
   {
     "ability_id": "microdrone-support-advanced-acquisition-cadre",
@@ -2980,7 +2980,7 @@
     },
     "when": "Your Shooting phase, when a friendly PATHFINDER TEAM/ STEALTH BATTLESUITS unit starts an action.",
     "target": "That PATHFINDER TEAM/STEALTH BATTLESUITS unit.",
-    "effect": "That action does not prevent your unit from being eligible to shoot. 1CP"
+    "effect": "That action does not prevent your unit from being eligible to shoot."
   },
   {
     "ability_id": "autoreactive-camouflage-advanced-acquisition-cadre",
@@ -2999,7 +2999,7 @@
     },
     "when": "Your opponent's Shooting phase, when an enemy unit targets a friendly PATHFINDER TEAM/ STEALTH BATTLESUITS unit, if that friendly unit is hidden.",
     "target": "That PATHFINDER TEAM/STEALTH BATTLESUITS unit.",
-    "effect": "Your unit has +1 Sv. 1CP UNIQUE: AUXILIARIES"
+    "effect": "Your unit has +1 Sv. UNIQUE: AUXILIARIES"
   },
   {
     "ability_id": "negation-emitters-advanced-acquisition-cadre",

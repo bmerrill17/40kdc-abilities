@@ -2692,7 +2692,7 @@
       "ref": "eng_09-06_warhammer40000_faction_pack_necrons-qodfthk7tt-bzeqy07okc.pdf",
       "edition": "11e"
     },
-    "when": "Your Shooting phase or the Fight phase. 1CP",
+    "when": "Your Shooting phase or the Fight phase.",
     "target": "One Necrons unit from your army that has not been selected to shoot or fight this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes an attack, you can ignore any or all modifiers to the following: that attack's Ballistic Skill or Weapon Skill characteristic; the Hit roll. If your unit has the Cryptek keyword, you can also ignore any or all modifiers to the Wound roll."
   },
@@ -2731,7 +2731,7 @@
       "edition": "11e"
     },
     "when": "Your Shooting phase or the Fight phase.",
-    "target": "One Necrons unit (excluding Monsters 1CP and Vehicles) from your army that has not been selected to shoot or fight this phase.",
+    "target": "One Necrons unit (excluding Monsters and Vehicles) from your army that has not been selected to shoot or fight this phase.",
     "effect": "Until the end of the phase, weapons equipped by models in your unit have the [SUSTAINED HITS 1] ability."
   },
   {
@@ -2749,7 +2749,7 @@
       "ref": "eng_09-06_warhammer40000_faction_pack_necrons-qodfthk7tt-bzeqy07okc.pdf",
       "edition": "11e"
     },
-    "when": "Your opponent's Shooting phase or the 1CP Fight phase, just after an enemy unit has selected its targets.",
+    "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
     "target": "One Destroyer Cult unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
     "effect": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
   },
@@ -2863,7 +2863,7 @@
       "ref": "eng_09-06_warhammer40000_faction_pack_necrons-qodfthk7tt-bzeqy07okc.pdf",
       "edition": "11e"
     },
-    "when": "Your Shooting phase or the Fight phase. 1CP",
+    "when": "Your Shooting phase or the Fight phase.",
     "target": "One Necrons unit (excluding Monsters) from your army that has not been selected to shoot or fight this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit, reroll a Hit roll of 1. If the target of that attack is unravelling, reroll a Wound roll of 1 as well."
   },
@@ -3091,7 +3091,7 @@
       "ref": "eng_09-06_warhammer40000_faction_pack_necrons-qodfthk7tt-bzeqy07okc.pdf",
       "edition": "11e"
     },
-    "when": "Your Shooting phase or the Fight phase, 1CP just after a Necrons Monster unit from your army destroys an enemy unit.",
+    "when": "Your Shooting phase or the Fight phase, just after a Necrons Monster unit from your army destroys an enemy unit.",
     "target": "One friendly Necrons unit (excluding Monsters) within 6\" of that Monster unit.",
     "effect": "If that enemy unit was unravelling at the start of the phase, your friendly unit's Reanimation Protocols activate.",
     "restrictions": "You can only use this Stratagem once per turn."
@@ -3209,7 +3209,7 @@
     },
     "when": "Your Movement phase.",
     "target": "One Necrons Vehicle or Necrons Mounted unit (excluding Titanic units) from your army that has not been selected to move this phase.",
-    "effect": "Until the end of the phase, if your unit Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in your unit. 1CP"
+    "effect": "Until the end of the phase, if your unit Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in your unit."
   },
   {
     "ability_id": "dimensional-tunnel-starshatter-arsenal",
@@ -3228,7 +3228,7 @@
     },
     "when": "Your Movement phase.",
     "target": "One Necrons Vehicle or Necrons Mounted unit (excluding Titanic units) from your army.",
-    "effect": "Until the end of the phase, models in your unit can move horizontally through models and terrain features. 1CP"
+    "effect": "Until the end of the phase, models in your unit can move horizontally through models and terrain features."
   },
   {
     "ability_id": "endless-servitude-starshatter-arsenal",
@@ -3247,7 +3247,7 @@
     },
     "when": "End of your Fight phase.",
     "target": "One Necrons unit (excluding Monster and Titanic units) from your army that is within range of one or more objective markers you control.",
-    "effect": "Your unit's Reanimation Protocols activate. 1CP"
+    "effect": "Your unit's Reanimation Protocols activate."
   },
   {
     "ability_id": "reactive-reposition-starshatter-arsenal",
@@ -3283,7 +3283,7 @@
       "ref": "eng_09-06_warhammer40000_faction_pack_necrons-qodfthk7tt-bzeqy07okc.pdf",
       "edition": "11e"
     },
-    "when": "Your Shooting phase or the Fight phase, just 1CP after the first time a Destroyer Cult unit from your army destroys an enemy unit this turn.",
+    "when": "Your Shooting phase or the Fight phase, just after the first time a Destroyer Cult unit from your army destroys an enemy unit this turn.",
     "target": "One friendly Necrons unit (excluding Monsters and Vehicles) within 9\" of that Destroyer Cult unit.",
     "effect": "The friendly unit's Reanimation Protocols activate."
   },
@@ -3302,7 +3302,7 @@
       "ref": "eng_09-06_warhammer40000_faction_pack_necrons-qodfthk7tt-bzeqy07okc.pdf",
       "edition": "11e"
     },
-    "when": "Your Shooting phase or your Charge phase. 1CP",
+    "when": "Your Shooting phase or your Charge phase.",
     "target": "One Destroyer Cult unit from your army.",
     "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced.",
     "restrictions": "You can only use this Stratagem once per turn."
@@ -3647,7 +3647,7 @@
       "ref": "eng_09-06_warhammer40000_faction_pack_necrons-qodfthk7tt-bzeqy07okc.pdf",
       "edition": "11e"
     },
-    "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected 1CP its targets.",
+    "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
     "target": "One Cryptek Infantry unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
     "effect": "If your unit has the Necron Warriors keyword, until the end of the phase, models in your unit have a 5+ invulnerable save. If your unit has the Immortals keyword, until the end of the phase, models in your unit have a 4+ invulnerable save."
   },
@@ -3666,7 +3666,7 @@
       "ref": "eng_09-06_warhammer40000_faction_pack_necrons-qodfthk7tt-bzeqy07okc.pdf",
       "edition": "11e"
     },
-    "when": "Your opponent's Shooting phase or the Fight 1CP phase, just after an enemy unit has shot or fought.",
+    "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has shot or fought.",
     "target": "One Cryptek model from your army that was destroyed by one of the attacking unit's attacks. You can use this Stratagem on that model even though it was just destroyed.",
     "effect": "Until the end of the battle, each time a friendly Necrons model makes an attack that targets the attacking unit, you can reroll the Hit roll."
   },
@@ -3725,7 +3725,7 @@
     },
     "when": "Command phase.",
     "target": "One friendly IMMORTALS unit.",
-    "effect": "Your unit has +1 OC until the end of the turn. 1CP"
+    "effect": "Your unit has +1 OC until the end of the turn."
   },
   {
     "ability_id": "will-of-the-conqueror-hand-of-the-dynasty",
@@ -3744,7 +3744,7 @@
     },
     "when": "End of your Movement phase.",
     "target": "One friendly IMMORTALS/NECRON WARRIORS unit.",
-    "effect": "Select one objective your unit is controlling. That objective is secured. 1CP"
+    "effect": "Select one objective your unit is controlling. That objective is secured."
   },
   {
     "ability_id": "nanosaturation-hand-of-the-dynasty",
@@ -3763,7 +3763,7 @@
     },
     "when": "Your opponent's Shooting phase, when an enemy unit that targeted a friendly IMMORTALS/NECRON WARRIORS unit has shot.",
     "target": "That IMMORTALS/NECRON WARRIORS unit.",
-    "effect": "Your unit shoots using snap shooting, but while doing so your unit can only target that enemy unit. 1CP"
+    "effect": "Your unit shoots using snap shooting, but while doing so your unit can only target that enemy unit."
   },
   {
     "ability_id": "omnilocked-strafing-skyshroud-spearhead",
@@ -3820,7 +3820,7 @@
     },
     "when": "Your opponent's Shooting phase, when an enemy unit targets a friendly NECRONS MOUNTED unit.",
     "target": "That NECRONS MOUNTED unit.",
-    "effect": "Ranged attacks that target your unit with a S greater than your unit's T have -1 to wound rolls. 1CP UNIQUE: HYPERCRYPT"
+    "effect": "Ranged attacks that target your unit with a S greater than your unit's T have -1 to wound rolls. UNIQUE: HYPERCRYPT"
   },
   {
     "ability_id": "subsurface-quantumweave-the-phaerons-armoury",
@@ -3858,7 +3858,7 @@
     },
     "when": "Start of your Shooting phase.",
     "target": "One friendly NECRONS TITANIC FLY unit.",
-    "effect": "Select one visible enemy unit within 12\" of your unit. That enemy unit has +3\" detection range. 1CP"
+    "effect": "Select one visible enemy unit within 12\" of your unit. That enemy unit has +3\" detection range."
   },
   {
     "ability_id": "cosmic-storm-the-phaerons-armoury",
@@ -3877,7 +3877,7 @@
     },
     "when": "Your Shooting phase, when a friendly OBELISK/TESSERACT VAULT unit is selected to shoot.",
     "target": "That OBELISK/TESSERACT VAULT unit.",
-    "effect": "Your unit's Tesla Sphere weapons have +1 AP. 1CP"
+    "effect": "Your unit's Tesla Sphere weapons have +1 AP."
   },
   {
     "ability_id": "enlivened-sentinels-hand-of-the-dynasty",

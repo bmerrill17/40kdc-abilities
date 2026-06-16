@@ -6804,7 +6804,7 @@
       "ref": "eng_08-06_warhammer40000_faction_pack_space-marines-nd2ezs5yzn-wxe2nf2ckk.pdf",
       "edition": "11e"
     },
-    "when": "Your opponent's Shooting phase or the 1CP Fight phase, just after an enemy unit has selected its targets.",
+    "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
     "target": "One Adeptus Astartes unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
     "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
   },
@@ -6958,7 +6958,7 @@
     },
     "when": "Your Shooting phase, when a friendly PHOBOS/SCOUT SQUAD unit has shot.",
     "target": "That PHOBOS/SCOUT SQUAD unit.",
-    "effect": "Those ranged attacks do not prevent your unit from being hidden. 1CP"
+    "effect": "Those ranged attacks do not prevent your unit from being hidden."
   },
   {
     "ability_id": "battle-drill-recall-anvil-siege-force",
@@ -6996,7 +6996,7 @@
     },
     "when": "Your Shooting phase or the Fight phase.",
     "target": "One Adeptus Astartes Infantry unit from your army that has not been selected to shoot or fight this phase.",
-    "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets the closest eligible target within 6\", add 1 to the Wound roll. 1CP"
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets the closest eligible target within 6\", add 1 to the Wound roll."
   },
   {
     "ability_id": "onslaught-of-fire-firestorm-assault-force",
@@ -7531,7 +7531,7 @@
       "ref": "eng_08-06_warhammer40000_faction_pack_space-marines-nd2ezs5yzn-wxe2nf2ckk.pdf",
       "edition": "11e"
     },
-    "when": "Your Shooting phase or the Fight phase. 1CP",
+    "when": "Your Shooting phase or the Fight phase.",
     "target": "One Adeptus Astartes unit from your army that has not been selected to shoot or fight this phase.",
     "effect": "Until the end of the phase, weapons equipped by models in your unit have the [PRECISION] ability and each time a model in your unit makes an attack that targets a Character unit, add 1 to the Hit roll."
   },
@@ -7665,7 +7665,7 @@
       "edition": "11e"
     },
     "when": "Your Shooting phase or the Fight phase.",
-    "target": "One Adeptus Astartes unit from your 1CP army that has not been selected to shoot or fight this phase.",
+    "target": "One Adeptus Astartes unit from your army that has not been selected to shoot or fight this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit, reroll a Hit roll of 1. If that target is auspex scanned, reroll a Wound roll of 1 as well."
   },
   {
@@ -7685,7 +7685,7 @@
     },
     "when": "Your Shooting phase or the Fight phase, just after an Adeptus Astartes Battleline unit from your army finished making its attacks.",
     "target": "That Adeptus Astartes Battleline unit.",
-    "effect": "When an enemy unit is auspex scanned as a result of those attacks this turn, until the start of your next turn, it is suppressed. While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll. 1CP"
+    "effect": "When an enemy unit is auspex scanned as a result of those attacks this turn, until the start of your next turn, it is suppressed. While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll."
   },
   {
     "ability_id": "guided-disruption-bastion-task-force",
@@ -7702,7 +7702,7 @@
       "ref": "eng_08-06_warhammer40000_faction_pack_space-marines-nd2ezs5yzn-wxe2nf2ckk.pdf",
       "edition": "11e"
     },
-    "when": "Your Shooting phase or the Fight phase, just 1CP after an Adeptus Astartes Battleline unit from your army has finished making its attacks.",
+    "when": "Your Shooting phase or the Fight phase, just after an Adeptus Astartes Battleline unit from your army has finished making its attacks.",
     "target": "That Adeptus Astartes Battleline unit.",
     "effect": "When an enemy unit is auspex scanned as a result of those attacks this turn, if that enemy unit does not have the Monster or Vehicle keywords, until the start of your next turn, it is pinned. While a unit is pinned, subtract 2 from that unit's Move characteristic and subtract 2 from Charge rolls made for that unit."
   },
@@ -7723,7 +7723,7 @@
     },
     "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
     "target": "One Adeptus Astartes Battleline unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
-    "effect": "Until the end of the phase, each time an attack targets your unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of your unit, subtract 1 from the Wound roll. 1CP"
+    "effect": "Until the end of the phase, each time an attack targets your unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of your unit, subtract 1 from the Wound roll."
   },
   {
     "ability_id": "light-of-vengeance-bastion-task-force",
@@ -7742,7 +7742,7 @@
     },
     "when": "Your Shooting phase or the Fight phase.",
     "target": "One Adeptus Astartes unit from your army that has not been selected to shoot or fight this phase.",
-    "effect": "Select the [LETHAL HITS] or [SUSTAINED HITS 1] ability. Until the end of the phase, weapons equipped by models in your unit have that ability while targeting an auspex scanned unit or if the bearer has the Battleline keyword. 1CP"
+    "effect": "Select the [LETHAL HITS] or [SUSTAINED HITS 1] ability. Until the end of the phase, weapons equipped by models in your unit have that ability while targeting an auspex scanned unit or if the bearer has the Battleline keyword."
   },
   {
     "ability_id": "heresy-undone-bastion-task-force",
@@ -7780,7 +7780,7 @@
     },
     "when": "Command phase.",
     "target": "One Adeptus Astartes unit from your army that is within Engagement Range of one or more enemy units.",
-    "effect": "Until the start of your next Command phase, add 1 to the Objective Control characteristics of models in your unit. 2CP"
+    "effect": "Until the start of your next Command phase, add 1 to the Objective Control characteristics of models in your unit."
   },
   {
     "ability_id": "stand-to-the-end-ceramite-sentinels",
@@ -7799,7 +7799,7 @@
     },
     "when": "Fight phase, just after an enemy unit has selected its targets.",
     "target": "One Adeptus Astartes unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
-    "effect": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, adding 1 to the result if it is an Entrenched unit: on a 4+, do not remove it from play. That destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play. 1CP"
+    "effect": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, adding 1 to the result if it is an Entrenched unit: on a 4+, do not remove it from play. That destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play."
   },
   {
     "ability_id": "priority-strike-ceramite-sentinels",
@@ -7818,7 +7818,7 @@
     },
     "when": "Your Shooting phase or the Fight phase.",
     "target": "One Adeptus Astartes Infantry or Adeptus Astartes Mounted unit from your army that has not been selected to shoot or fight this phase.",
-    "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets a Character, Monster or Vehicle unit, you can reroll the Wound roll. 1CP"
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets a Character, Monster or Vehicle unit, you can reroll the Wound roll."
   },
   {
     "ability_id": "augmented-targeting-ceramite-sentinels",
@@ -7972,7 +7972,7 @@
     },
     "when": "Your Shooting phase, when a friendly SPEEDER unit is selected to shoot.",
     "target": "That SPEEDER unit.",
-    "effect": "Select one enemy unit within 24\" of your unit. That enemy unit has +6\" detection range until your unit has shot. 1CP"
+    "effect": "Select one enemy unit within 24\" of your unit. That enemy unit has +6\" detection range until your unit has shot."
   },
   {
     "ability_id": "reactive-evasion-fulguris-task-force",
@@ -8010,7 +8010,7 @@
     },
     "when": "End of your opponent's Fight phase.",
     "target": "One friendly unengaged SPEEDER unit.",
-    "effect": "Place your unit in strategic reserves. 1CP"
+    "effect": "Place your unit in strategic reserves."
   },
   {
     "ability_id": "adaptive-operations-subversion-assets",
@@ -8029,7 +8029,7 @@
     },
     "when": "Your Shooting phase, when a friendly PHOBOS/SCOUT SQUAD unit starts an action.",
     "target": "That PHOBOS/SCOUT SQUAD unit.",
-    "effect": "That action does not prevent your unit from being eligible to shoot. 1CP"
+    "effect": "That action does not prevent your unit from being eligible to shoot."
   },
   {
     "ability_id": "cloaked-position-subversion-assets",
@@ -8048,7 +8048,7 @@
     },
     "when": "Start of your opponent's Movement phase.",
     "target": "One friendly unengaged PHOBOS/SCOUT SQUAD unit.",
-    "effect": "Your unit has -3\" detection range until the end of the turn. 1CP"
+    "effect": "Your unit has -3\" detection range until the end of the turn."
   },
   {
     "ability_id": "bellicose-weapon-spirits-fulguris-task-force",

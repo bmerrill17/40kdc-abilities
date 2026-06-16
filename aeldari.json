@@ -2549,7 +2549,7 @@
     },
     "when": "End of your opponent's Fight phase.",
     "target": "One friendly unengaged HARLEQUINS unit.",
-    "effect": "Place your unit in strategic reserves. 1CP"
+    "effect": "Place your unit in strategic reserves."
   },
   {
     "ability_id": "heroes-fall-fateful-performance",
@@ -3687,7 +3687,7 @@
     },
     "when": "The Fight phase.",
     "target": "One Aeldari unit from your army that has not been selected to fight this phase.",
-    "effect": "Until the end of the phase, each time a model in your unit makes an attack, reroll a Wound roll of 1. If your unit has the Anhrathe keyword, then until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit within range of an objective marker, you can reroll the Wound roll instead. 1CP"
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack, reroll a Wound roll of 1. If your unit has the Anhrathe keyword, then until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit within range of an objective marker, you can reroll the Wound roll instead."
   },
   {
     "ability_id": "no-prey-too-big-eldritch-raiders",
@@ -3706,7 +3706,7 @@
     },
     "when": "Your Shooting phase.",
     "target": "One Anhrathe, Rangers or Shroud Runners unit from your army that has not been selected to shoot this phase.",
-    "effect": "Until the end of the phase, each time a model in your unit makes an attack, if the Strength characteristic of that attack is less than the highest Toughness characteristic of models in the target unit, add 1 to the Wound roll. 1CP"
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack, if the Strength characteristic of that attack is less than the highest Toughness characteristic of models in the target unit, add 1 to the Wound roll."
   },
   {
     "ability_id": "fate-inescapable-seer-council",
@@ -3839,7 +3839,7 @@
     },
     "when": "Fight phase, just after an enemy unit has selected its targets.",
     "target": "One Aeldari Infantry unit from your army (excluding Wraith Construct units) that was selected as the target of one or more of the attacking unit's attacks.",
-    "effect": "Until the end of the phase, models in your unit have the Feel No Pain 5+ ability. 1CP"
+    "effect": "Until the end of the phase, models in your unit have the Feel No Pain 5+ ability."
   },
   {
     "ability_id": "ishas-fury-seer-council",
@@ -4069,7 +4069,7 @@
     },
     "when": "Your Charge phase.",
     "target": "One Harlequins unit from your army.",
-    "effect": "Until the end of the phase, your unit is eligible to declare a charge in a turn in which it Advanced. 1CP"
+    "effect": "Until the end of the phase, your unit is eligible to declare a charge in a turn in which it Advanced."
   },
   {
     "ability_id": "weavers-coils-serpents-brood",
@@ -4107,7 +4107,7 @@
     },
     "when": "Your opponent's Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.",
     "target": "One Harlequins Infantry unit from your army that is within 8\" of that enemy unit.",
-    "effect": "Your unit can make a Normal move of up to 6\". 1CP"
+    "effect": "Your unit can make a Normal move of up to 6\"."
   },
   {
     "ability_id": "skyward-lunge-serpents-brood",
@@ -4297,7 +4297,7 @@
     },
     "when": "Any phase, when a friendly AELDARI VEHICLE unit suffers a mortal wound.",
     "target": "That AELDARI VEHICLE unit.",
-    "effect": "Your unit has Feel No Pain 5+ against mortal wounds. 1CP"
+    "effect": "Your unit has Feel No Pain 5+ against mortal wounds."
   },
   {
     "ability_id": "swift-deployment-armoured-warhost",
@@ -4354,7 +4354,7 @@
     },
     "when": "Your Movement phase, just after an Aeldari unit from your army Falls Back.",
     "target": "That Aeldari unit.",
-    "effect": "Until the end of the turn, your unit is eligible to declare a charge in a turn in which it Fell Back. If it is an Anhrathe unit, also select one enemy unit your unit was within Engagement Range of at the start of the phase, and roll six D6: for each 4+, that enemy unit suffers 1 mortal wound. 1CP"
+    "effect": "Until the end of the turn, your unit is eligible to declare a charge in a turn in which it Fell Back. If it is an Anhrathe unit, also select one enemy unit your unit was within Engagement Range of at the start of the phase, and roll six D6: for each 4+, that enemy unit suffers 1 mortal wound."
   },
   {
     "ability_id": "outcast-ambush-corsair-coterie",
@@ -4373,7 +4373,7 @@
     },
     "when": "Your Shooting phase.",
     "target": "One Rangers or Shroud Runners unit from your army that has not been selected to shoot this phase.",
-    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the [IGNORES COVER] and [RAPID FIRE 1] abilities, and until the end of the phase, improve the Armour Penetration characteristic of those weapons by 1. 1CP"
+    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the [IGNORES COVER] and [RAPID FIRE 1] abilities, and until the end of the phase, improve the Armour Penetration characteristic of those weapons by 1."
   },
   {
     "ability_id": "into-the-breach-corsair-coterie",
@@ -4392,7 +4392,7 @@
     },
     "when": "Your Shooting phase, just after an Anhrathe unit from your army destroyed one or more enemy units.",
     "target": "That Anhrathe unit.",
-    "effect": "After your unit has resolved all of its shooting attacks, it can make a Normal move of up to D6+1\". 1CP"
+    "effect": "After your unit has resolved all of its shooting attacks, it can make a Normal move of up to D6+1\"."
   },
   {
     "ability_id": "cloak-and-shadow-corsair-coterie",
@@ -4411,7 +4411,7 @@
     },
     "when": "Your opponent's Shooting phase, just after an enemy unit has selected its targets.",
     "target": "One Aeldari Infantry unit from your army that is within range of an objective marker that you control and that was selected as the target of one or more of the attacking unit's attacks.",
-    "effect": "Until the end of the phase, models in your unit have the Stealth ability and your unit can only be selected as the target of a ranged attack if the attacking model is within 18\". 1CP"
+    "effect": "Until the end of the phase, models in your unit have the Stealth ability and your unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
   },
   {
     "ability_id": "vengeful-sorrow-corsair-coterie",
@@ -4449,7 +4449,7 @@
     },
     "when": "Command phase.",
     "target": "One Anhrathe unit from your army that is within Engagement Range of one or more enemy units.",
-    "effect": "Until the start of the next Command phase, add 1 to the Objective Control characteristic of models in your unit. 1CP"
+    "effect": "Until the start of the next Command phase, add 1 to the Objective Control characteristic of models in your unit."
   },
   {
     "ability_id": "ruthless-killers-eldritch-raiders",
@@ -4468,7 +4468,7 @@
     },
     "when": "Your Shooting phase or the Fight phase.",
     "target": "One Corsair Voidscarred unit from your army that has not been selected to shoot or Fight this phase.",
-    "effect": "Until the end of the phase, each time a model in your unit makes an attack, add 1 to the Damage characteristic of that attack. 1CP"
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack, add 1 to the Damage characteristic of that attack."
   },
   {
     "ability_id": "withdraw-and-reinforce-eldritch-raiders",
@@ -4717,7 +4717,7 @@
     },
     "when": "Your Shooting phase, when a friendly AELDARI VEHICLE unit is selected to shoot.",
     "target": "That AELDARI VEHICLE unit.",
-    "effect": "Your unit's attacks can reroll: One hit roll. One wound roll. One damage roll. 1CP"
+    "effect": "Your unit's attacks can reroll: One hit roll. One wound roll. One damage roll."
   },
   {
     "ability_id": "deceptive-feint-fateful-performance",
@@ -4755,7 +4755,7 @@
     },
     "when": "Your Shooting phase, when a friendly RANGERS/SHROUD RUNNERS unit has shot.",
     "target": "That RANGERS/SHROUD RUNNERS unit.",
-    "effect": "Select one enemy unit hit by those ranged attacks. That enemy unit makes a battleshock roll, with 1 to that battleshock roll if a model in that enemy unit was destroyed by those attacks. 1CP"
+    "effect": "Select one enemy unit hit by those ranged attacks. That enemy unit makes a battleshock roll, with 1 to that battleshock roll if a model in that enemy unit was destroyed by those attacks."
   },
   {
     "ability_id": "casting-back-the-veil-path-of-the-outcast",
@@ -4831,7 +4831,7 @@
     },
     "when": "End of your Movement phase.",
     "target": "One friendly TROUPE unit.",
-    "effect": "Select one objective your unit is controlling. That objective is secured. 1CP"
+    "effect": "Select one objective your unit is controlling. That objective is secured."
   },
   {
     "ability_id": "phantasmal-mirage-twilight-flickers",

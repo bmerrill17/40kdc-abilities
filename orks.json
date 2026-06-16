@@ -3185,7 +3185,7 @@
     },
     "when": "Your Shooting phase, when a friendly ORKS INFANTRY unit is selected to shoot.",
     "target": "That ORKS INFANTRY unit.",
-    "effect": "Your unit's ranged attacks have [IGNORES COVER]. 1CP"
+    "effect": "Your unit's ranged attacks have [IGNORES COVER]."
   },
   {
     "ability_id": "bash-and-grab-freebooter-krew",
@@ -3204,7 +3204,7 @@
     },
     "when": "The Fight phase.",
     "target": "One Orks unit from your army that has not been selected to fight this phase.",
-    "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit within range of the loot objective, you can reroll the Wound roll. 1CP"
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit within range of the loot objective, you can reroll the Wound roll."
   },
   {
     "ability_id": "boardin-rush-freebooter-krew",
@@ -3223,7 +3223,7 @@
     },
     "when": "Your Movement phase.",
     "target": "One Orks unit from your army that has not been selected to move this phase.",
-    "effect": "Until the end of the phase, each time your unit Advances, do not make an Advance roll. Instead, until the end of the phase, add 6\" to the Move characteristic of models in your unit. 1CP"
+    "effect": "Until the end of the phase, each time your unit Advances, do not make an Advance roll. Instead, until the end of the phase, add 6\" to the Move characteristic of models in your unit."
   },
   {
     "ability_id": "careen-war-horde",
@@ -3660,7 +3660,7 @@
     },
     "when": "End of your opponent's Movement phase.",
     "target": "One friendly unengaged BOYZ/KOMMANDOS/STORMBOYZ unit that was engaged at the start of the phase.",
-    "effect": "Your unit can make a normal move of up to 6\". 1CP"
+    "effect": "Your unit can make a normal move of up to 6\"."
   },
   {
     "ability_id": "ded-sneaky-taktikal-brigade",
@@ -3679,7 +3679,7 @@
     },
     "when": "End of your opponent's Fight phase.",
     "target": "One friendly unengaged KOMMANDOS/STORMBOYZ unit.",
-    "effect": "Place your unit in strategic reserves. 1CP SPEEDWAAAGH! When a Speedwaaagh! is unleashed, entire planets become Ork speedways. The aliens tear across battlefields and weave through no man's land at breakneck pace, blazing away at anything in their path. So fastmoving are these Orkoid formations that they often punch clean through the enemy lines before their foes truly realise they are in battle. The Orks then haul their jostling vehicles and turboboosted Trukks around, charging back for another pass and then another. As they roar, they fill the air with deafening hails of firepower and choking clouds of dust and fume. Halfblinded, deafened by engines and bellowing, the enemy reels as swarms of light vehicles hit them from every direction. Ordered battle descends into highoctane anarchy as the Orks compete in contests of speed and violence in which their enemies are an unwilling audience and participants. Soon enough, the onceproud ranks of the foe are reduced to mangled ruin and the Orks race onward towards the next battle."
+    "effect": "Place your unit in strategic reserves. SPEEDWAAAGH! When a Speedwaaagh! is unleashed, entire planets become Ork speedways. The aliens tear across battlefields and weave through no man's land at breakneck pace, blazing away at anything in their path. So fastmoving are these Orkoid formations that they often punch clean through the enemy lines before their foes truly realise they are in battle. The Orks then haul their jostling vehicles and turboboosted Trukks around, charging back for another pass and then another. As they roar, they fill the air with deafening hails of firepower and choking clouds of dust and fume. Halfblinded, deafened by engines and bellowing, the enemy reels as swarms of light vehicles hit them from every direction. Ordered battle descends into highoctane anarchy as the Orks compete in contests of speed and violence in which their enemies are an unwilling audience and participants. Soon enough, the onceproud ranks of the foe are reduced to mangled ruin and the Orks race onward towards the next battle."
   },
   {
     "ability_id": "call-dat-dakka-more-dakka",
@@ -3717,7 +3717,7 @@
     },
     "when": "Your Command phase.",
     "target": "One Orks unit from your army (excluding Gretchin units) that is within range of the loot objective.",
-    "effect": "Until the start of your next Command phase, the Waaagh! is active for your unit, even if you have already called a Waaagh! this battle. Designer's Note: This means that any abilities that are in effect while the Waaagh! is active for your army will be in effect for your unit. 1CP"
+    "effect": "Until the start of your next Command phase, the Waaagh! is active for your unit, even if you have already called a Waaagh! this battle. Designer's Note: This means that any abilities that are in effect while the Waaagh! is active for your army will be in effect for your unit."
   },
   {
     "ability_id": "deck-fraggers-freebooter-krew",
@@ -3736,7 +3736,7 @@
     },
     "when": "Your Shooting phase.",
     "target": "One Orks unit from your army that has not been selected to shoot this phase.",
-    "effect": "Until the end of the phase, each time a model in your unit targets an Infantry unit with a ranged weapon, that weapon has the [BLAST] ability. 1CP"
+    "effect": "Until the end of the phase, each time a model in your unit targets an Infantry unit with a ranged weapon, that weapon has the [BLAST] ability."
   },
   {
     "ability_id": "rolling-loot-heap-freebooter-krew",
@@ -3793,7 +3793,7 @@
     },
     "when": "Your Shooting phase, when a friendly ORKS INFANTRY unit is selected to shoot.",
     "target": "That ORKS INFANTRY unit.",
-    "effect": "Your unit's ranged attacks that target a unit within 9\" have +1 AP. 1CP CALL DAT DAKKA?"
+    "effect": "Your unit's ranged attacks that target a unit within 9\" have +1 AP. CALL DAT DAKKA?"
   },
   {
     "ability_id": "brutal-broadside-rollin-deff",
@@ -3812,7 +3812,7 @@
     },
     "when": "Your Shooting phase, when a friendly BATTLEWAGON unit is selected to shoot.",
     "target": "That BATTLEWAGON unit.",
-    "effect": "Your unit's ranged attacks (excluding attacks made by weapons selected with Firing Deck) have [RAPID FIRE X], where X is that attack's A. 1CP"
+    "effect": "Your unit's ranged attacks (excluding attacks made by weapons selected with Firing Deck) have [RAPID FIRE X], where X is that attack's A."
   },
   {
     "ability_id": "impending-crunch-rollin-deff",
@@ -3831,7 +3831,7 @@
     },
     "when": "Your Charge phase, when a friendly WAGON unit ends a charge move.",
     "target": "That WAGON unit.",
-    "effect": "Each enemy unit engaged with your unit makes a battleshock roll, with -1 to that battleshock roll. 1CP"
+    "effect": "Each enemy unit engaged with your unit makes a battleshock roll, with -1 to that battleshock roll."
   },
   {
     "ability_id": "devastating-drift-rollin-deff",
@@ -3850,7 +3850,7 @@
     },
     "when": "Your Fight phase, when a friendly WAGON unit that made a charge move this turn is selected to fight.",
     "target": "That WAGON unit.",
-    "effect": "Your unit's melee attacks have [CLEAVE 1]. 1CP MORE DAKKA! A HORDE OF GUNCRAZED ORKS UNLEASH A DEVASTATING STORM OF DAKKA INTO THE ENEMY"
+    "effect": "Your unit's melee attacks have [CLEAVE 1]. MORE DAKKA! A HORDE OF GUNCRAZED ORKS UNLEASH A DEVASTATING STORM OF DAKKA INTO THE ENEMY"
   },
   {
     "ability_id": "boarding-ramps-rollin-deff",

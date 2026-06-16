@@ -2590,7 +2590,7 @@
       "ref": "eng_10-06_warhammer40000_faction_pack_chaos_daemons-kisvudjypt-uzk9pla0dk.pdf",
       "edition": "11e"
     },
-    "when": "Your Shooting phase or the 1CP Fight phase.",
+    "when": "Your Shooting phase or the Fight phase.",
     "target": "One Legiones Daemonica unit from your army that has not been selected to shoot or fight this phase.",
     "effect": "Until the end of the phase, improve the Armour Penetration characteristic of weapons equipped by models in that unit by 1. In addition, until the end of the phase, each time such a weapon targets a unit that is Battle-shocked, you can re-roll the Wound roll."
   },
@@ -2667,7 +2667,7 @@
       "ref": "eng_10-06_warhammer40000_faction_pack_chaos_daemons-kisvudjypt-uzk9pla0dk.pdf",
       "edition": "11e"
     },
-    "when": "Your Shooting phase or the Fight phase. 1CP",
+    "when": "Your Shooting phase or the Fight phase.",
     "target": "One Legiones Daemonica Nurgle unit from your army that has not been selected to shoot or fight this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes an attack, add 1 to the Hit roll. After your unit has finished making its attacks, select one enemy unit hit by one or more of those attacks; that enemy unit must take a Battleshock test."
   },
@@ -2688,7 +2688,7 @@
     },
     "when": "Your Movement phase.",
     "target": "One Legiones Daemonica Nurgle Infantry unit from your army.",
-    "effect": "Until the end of the phase, each time your unit makes a Normal move, add 5\" to the Move characteristic of models in your unit. 1CP"
+    "effect": "Until the end of the phase, each time your unit makes a Normal move, add 5\" to the Move characteristic of models in your unit."
   },
   {
     "ability_id": "death-denied-shadow-legion",
@@ -2821,7 +2821,7 @@
     },
     "when": "Fight phase.",
     "target": "One Legiones Daemonica Slaanesh Monster unit or up to two Legiones Daemonica Slaanesh units (excluding Monsters) from your army that have not been selected to fight this phase.",
-    "effect": "Until the end of the phase, each time a model in one of those units makes an attack, add 1 to the Wound roll. 1CP"
+    "effect": "Until the end of the phase, each time a model in one of those units makes an attack, add 1 to the Wound roll."
   },
   {
     "ability_id": "blood-begets-skulls-blood-legion",
@@ -2840,7 +2840,7 @@
     },
     "when": "Your Charge phase.",
     "target": "One Legiones Daemonica Khorne unit from your army that has not been selected to charge this phase.",
-    "effect": "Until the end of the phase, your unit is eligible to declare a charge in a turn in which it Advanced. 2CP"
+    "effect": "Until the end of the phase, your unit is eligible to declare a charge in a turn in which it Advanced."
   },
   {
     "ability_id": "wrath-undeniable-blood-legion",
@@ -2897,7 +2897,7 @@
     },
     "when": "Your Shooting phase.",
     "target": "One Legiones Daemonica Khorne Infantry or Legiones Daemonica Khorne Mounted unit from your army (excluding units that Fell Back this turn) that is not within Engagement Range of one or more enemy units.",
-    "effect": "Select one enemy unit that is not within Engagement Range of one or more units from your army and is within 8\" of and visible to your unit. Roll six D6: for each 4+, that enemy unit suffers 1 mortal wound. 1CP"
+    "effect": "Select one enemy unit that is not within Engagement Range of one or more units from your army and is within 8\" of and visible to your unit. Roll six D6: for each 4+, that enemy unit suffers 1 mortal wound."
   },
   {
     "ability_id": "corrupt-realspace-daemonic-incursion",
@@ -2973,7 +2973,7 @@
     },
     "when": "Your Movement phase or your Charge phase.",
     "target": "One Legiones Daemonica Nurgle unit from your army.",
-    "effect": "Until the end of the phase, each time a model in your unit makes a move, it can move through terrain features. 1CP"
+    "effect": "Until the end of the phase, each time a model in your unit makes a move, it can move through terrain features."
   },
   {
     "ability_id": "plague-of-woes-plague-legion",
@@ -3068,7 +3068,7 @@
     },
     "when": "Any phase.",
     "target": "One Legiones Daemonica Tzeentch Monster unit from your army that is on the battlefield.",
-    "effect": "Select No Man's Land or your opponent's deployment zone, or spend one Flux token and select both. Until the end of the phase, the selected areas of the battlefield are within your army's Shadow of Chaos. 1CP"
+    "effect": "Select No Man's Land or your opponent's deployment zone, or spend one Flux token and select both. Until the end of the phase, the selected areas of the battlefield are within your army's Shadow of Chaos."
   },
   {
     "ability_id": "flickering-reality-scintillating-legion",
@@ -3087,7 +3087,7 @@
     },
     "when": "Fight phase, just after an enemy unit has selected its targets.",
     "target": "One Legiones Daemonica Tzeentch unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
-    "effect": "Roll one D6, then you can spend one Flux token to reroll the result: until the end of the phase, each time an attack targets your unit, on an unmodified Hit roll (after any reroll) of that result, the attack sequence ends, even if the original Hit roll would have been a Critical Hit. Example: If you roll a 2 and choose to spend one Flux token to reroll the result, and the reroll is a 6, then until the end of the phase, each time an attack targets your unit, on an unmodified Hit roll of 6 the attack sequence ends, that attack fails to hit and no Critical Hit effects (e.g. Lethal Hits) are resolved. 1CP"
+    "effect": "Roll one D6, then you can spend one Flux token to reroll the result: until the end of the phase, each time an attack targets your unit, on an unmodified Hit roll (after any reroll) of that result, the attack sequence ends, even if the original Hit roll would have been a Critical Hit. Example: If you roll a 2 and choose to spend one Flux token to reroll the result, and the reroll is a 6, then until the end of the phase, each time an attack targets your unit, on an unmodified Hit roll of 6 the attack sequence ends, that attack fails to hit and no Critical Hit effects (e.g. Lethal Hits) are resolved."
   },
   {
     "ability_id": "fateborne-nightmares-scintillating-legion",
@@ -3106,7 +3106,7 @@
     },
     "when": "Your Movement phase or your Charge phase.",
     "target": "One Legiones Daemonica Tzeentch unit from your army.",
-    "effect": "Until the end of the phase, each time a model in your unit makes a move, it can move through terrain features. 1CP"
+    "effect": "Until the end of the phase, each time a model in your unit makes a move, it can move through terrain features."
   },
   {
     "ability_id": "ficklefire-scintillating-legion",
@@ -3125,7 +3125,7 @@
     },
     "when": "Your Shooting phase.",
     "target": "One Legiones Daemonica Tzeentch unit from your army that is within Engagement Range of one or more enemy units.",
-    "effect": "Until the end of the phase, enemy units are not considered to be within Engagement Range of your unit for the purposes of selecting targets for, and resolving attacks with, ranged weapons. Until the end of the phase, each time an enemy model is destroyed while its unit is within Engagement Range of your unit, roll one D6: on a 5+, your unit suffers 1 mortal wound after the attacking unit has finished making its attacks. 1CP"
+    "effect": "Until the end of the phase, enemy units are not considered to be within Engagement Range of your unit for the purposes of selecting targets for, and resolving attacks with, ranged weapons. Until the end of the phase, each time an enemy model is destroyed while its unit is within Engagement Range of your unit, roll one D6: on a 5+, your unit suffers 1 mortal wound after the attacking unit has finished making its attacks."
   },
   {
     "ability_id": "delirium-unmade-scintillating-legion",
@@ -3182,7 +3182,7 @@
     },
     "when": "Your Command phase.",
     "target": "One Legiones Daemonica Slaanesh Monster unit from your army that is on the battlefield.",
-    "effect": "Each unit on the battlefield that is within your army's Shadow of Chaos must take a Battleshock test, subtracting 1 from that test if they are Below Halfstrength. Designer's Note: This Stratagem forces all friendly and enemy units alike within your army's Shadow of Chaos to take a Battleshock test. This can allow a Chaos Daemons player to heal units from their army through the Daemonic Terror army rule, at the risk of causing some of their own units to become Battleshocked. 1CP"
+    "effect": "Each unit on the battlefield that is within your army's Shadow of Chaos must take a Battleshock test, subtracting 1 from that test if they are Below Halfstrength. Designer's Note: This Stratagem forces all friendly and enemy units alike within your army's Shadow of Chaos to take a Battleshock test. This can allow a Chaos Daemons player to heal units from their army through the Daemonic Terror army rule, at the risk of causing some of their own units to become Battleshocked."
   },
   {
     "ability_id": "phantasmal-longing-legion-of-excess",
@@ -3201,7 +3201,7 @@
     },
     "when": "Your Movement phase or your Charge phase.",
     "target": "One Legiones Daemonica Slaanesh unit from your army.",
-    "effect": "Until the end of the phase, each time a model in your unit makes a move, it can move through terrain features. 1CP"
+    "effect": "Until the end of the phase, each time a model in your unit makes a move, it can move through terrain features."
   },
   {
     "ability_id": "fools-flight-blood-legion",
@@ -3220,7 +3220,7 @@
     },
     "when": "Your opponent's Movement phase, when an enemy unit ends a fallback move.",
     "target": "One friendly unengaged Legiones Daemonica Khorne unit that is within 6\" of that enemy unit.",
-    "effect": "Declare a charge with your unit. When selecting charge targets, you can only select enemy units that made a fallback move this phase and are within the maximum distance. 1CP"
+    "effect": "Declare a charge with your unit. When selecting charge targets, you can only select enemy units that made a fallback move this phase and are within the maximum distance."
   },
   {
     "ability_id": "foetid-resurgence-plague-legion",
@@ -3239,7 +3239,7 @@
     },
     "when": "Your Command phase.",
     "target": "One Legiones Daemonica Nurgle unit from your army that is on the battlefield.",
-    "effect": "Return up to 1 destroyed model to your unit, or up to D3 destroyed models instead if your unit is a Battleline unit, with their full wounds remaining. If it is a Monster unit, one model in your unit regains up to D3+1 lost wounds instead. 1CP"
+    "effect": "Return up to 1 destroyed model to your unit, or up to D3 destroyed models instead if your unit is a Battleline unit, with their full wounds remaining. If it is a Monster unit, one model in your unit regains up to D3+1 lost wounds instead."
   },
   {
     "ability_id": "from-beyond-the-veil-cavalcade-of-chaos",
@@ -3258,7 +3258,7 @@
     },
     "when": "End of the Movement phase, from the start of the battle.",
     "target": "One friendly LEGIONES DAEMONICA MOUNTED unit in strategic reserves.",
-    "effect": "Your unit can make an ingress move. 1CP"
+    "effect": "Your unit can make an ingress move."
   },
   {
     "ability_id": "warp-riders-cavalcade-of-chaos",
@@ -3277,7 +3277,7 @@
     },
     "when": "Your Movement phase, when a friendly LEGIONES DAEMONICA MOUNTED unit is selected to move.",
     "target": "That LEGIONES DAEMONICA MOUNTED unit.",
-    "effect": "Your unit has MOBILE. 1CP"
+    "effect": "Your unit has MOBILE."
   },
   {
     "ability_id": "inescapable-manifestations-cavalcade-of-chaos",
@@ -3296,7 +3296,7 @@
     },
     "when": "Your opponent's Movement phase, when a unit is selected to make a fallback move, if that unit is engaged with a friendly LEGIONES DAEMONICA MOUNTED unit.",
     "target": "That LEGIONES DAEMONICA MOUNTED unit.",
-    "effect": "When an enemy unit engaged with your unit is selected to make a fallback move, that enemy unit must use the desperate escape mode. If that enemy unit is battleshocked, -1 from those hazard rolls. 1CP"
+    "effect": "When an enemy unit engaged with your unit is selected to make a fallback move, that enemy unit must use the desperate escape mode. If that enemy unit is battleshocked, -1 from those hazard rolls."
   },
   {
     "ability_id": "carnival-of-excess-lords-of-the-warp",
@@ -3315,7 +3315,7 @@
     },
     "when": "Fight phase, when an enemy unit has fought.",
     "target": "One friendly LEGIONES DAEMONICA CHARACTER SLAANESH unit (excluding MONSTER units) that has not been selected to fight this phase.",
-    "effect": "Your unit has Fights First and must be the next unit you select to fight. 1CP"
+    "effect": "Your unit has Fights First and must be the next unit you select to fight."
   },
   {
     "ability_id": "call-to-murder-lords-of-the-warp",
@@ -3334,7 +3334,7 @@
     },
     "when": "Fight phase, when a friendly LEGIONES DAEMONICA KHORNE CHARACTER unit (excluding MONSTER units) that made a charge move this turn is selected to fight.",
     "target": "That LEGIONES DAEMONICA CHARACTER KHORNE unit.",
-    "effect": "Your unit's melee attacks have +1 A. 1CP"
+    "effect": "Your unit's melee attacks have +1 A."
   },
   {
     "ability_id": "bilious-blessing-lords-of-the-warp",
@@ -3353,7 +3353,7 @@
     },
     "when": "Start of your Shooting phase.",
     "target": "One friendly LEGIONES DAEMONICA CHARACTER NURGLE unit (excluding MONSTER units).",
-    "effect": "Select one visible enemy unit within 8\" of your unit and roll seven D6: For each 4+, that enemy unit suffers 1 mortal wound. 1CP"
+    "effect": "Select one visible enemy unit within 8\" of your unit and roll seven D6: For each 4+, that enemy unit suffers 1 mortal wound."
   },
   {
     "ability_id": "skirling-magicks-lords-of-the-warp",
@@ -3391,7 +3391,7 @@
     },
     "when": "Your Command phase.",
     "target": "One friendly LEGIONES DAEMONICA BATTLELINE unit (excluding PINK HORRORS units).",
-    "effect": "Your unit heals 3 wounds. 1CP"
+    "effect": "Your unit heals 3 wounds."
   },
   {
     "ability_id": "soulseeing-warptide",
@@ -3410,7 +3410,7 @@
     },
     "when": "Start of your Shooting phase.",
     "target": "One friendly LEGIONES DAEMONICA BATTLELINE unit.",
-    "effect": "Select one visible enemy unit within 12\" of your unit. That enemy unit has +6\" detection range. 1CP"
+    "effect": "Select one visible enemy unit within 12\" of your unit. That enemy unit has +6\" detection range."
   },
   {
     "ability_id": "incorporeal-entities-warptide",
@@ -3429,7 +3429,7 @@
     },
     "when": "Your opponent's Shooting phase, when an enemy unit targets a friendly LEGIONES DAEMONICA BATTLELINE unit.",
     "target": "That LEGIONES DAEMONICA BATTLELINE unit.",
-    "effect": "Ranged attacks that target your unit with a S greater than your unit's T have 1 to wound rolls. 1CP"
+    "effect": "Ranged attacks that target your unit with a S greater than your unit's T have 1 to wound rolls."
   },
   {
     "ability_id": "apocalyptic-steeds-cavalcade-of-chaos",

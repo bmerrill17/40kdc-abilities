@@ -1454,7 +1454,7 @@
     },
     "when": "Your opponent's Shooting phase, just after an enemy unit has selected its targets.",
     "target": "One Adeptus Astartes Character unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
-    "effect": "Until the end of the phase, your unit can only be selected as the target of a ranged attack if the attacking model is within 18\". 1CP"
+    "effect": "Until the end of the phase, your unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
   },
   {
     "ability_id": "unto-the-burning-skies-angelic-inheritors",
@@ -1492,7 +1492,7 @@
     },
     "when": "Your Command phase.",
     "target": "One Adeptus Astartes Infantry unit from your army.",
-    "effect": "Select one nonCharacter model in your unit. Until the start of your next Command phase, your model has the Character keyword. Designer's Note: While in effect, your model's unit is therefore a Character unit, meaning it can interact with the Legacy of the Angel Detachment rule, in addition to other rules that interact with Character units. 1CP"
+    "effect": "Select one nonCharacter model in your unit. Until the start of your next Command phase, your model has the Character keyword. Designer's Note: While in effect, your model's unit is therefore a Character unit, meaning it can interact with the Legacy of the Angel Detachment rule, in addition to other rules that interact with Character units."
   },
   {
     "ability_id": "a-grim-warning-rage-cursed-onslaught",
@@ -1530,7 +1530,7 @@
     },
     "when": "Fight phase.",
     "target": "One Adeptus Astartes unit from your army that made a Charge move this turn.",
-    "effect": "Select either the Strength or Armour Penetration characteristic of melee weapons equipped by models in your unit. Until the end of the phase, add 1 to the selected characteristic. You can instead choose for your unit to give in to the Red Thirst; if it does, it becomes Battleshocked (but the effects of this Stratagem still apply to it), and until the end of the phase, add 1 to the Strength and Armour Penetration characteristics of melee weapons equipped by models in your unit. 2CP"
+    "effect": "Select either the Strength or Armour Penetration characteristic of melee weapons equipped by models in your unit. Until the end of the phase, add 1 to the selected characteristic. You can instead choose for your unit to give in to the Red Thirst; if it does, it becomes Battleshocked (but the effects of this Stratagem still apply to it), and until the end of the phase, add 1 to the Strength and Armour Penetration characteristics of melee weapons equipped by models in your unit."
   },
   {
     "ability_id": "deathless-duty-rage-cursed-onslaught",
@@ -1568,7 +1568,7 @@
     },
     "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
     "target": "One Death Company unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
-    "effect": "Until the end of the phase, models in your unit have the Feel No Pain 5+ ability. 1CP"
+    "effect": "Until the end of the phase, models in your unit have the Feel No Pain 5+ ability."
   },
   {
     "ability_id": "red-wrath-rage-cursed-onslaught",
@@ -2868,7 +2868,7 @@
     },
     "when": "Your Shooting phase or the Fight phase, when a friendly ADEPTUS ASTARTES CHARACTER unit is selected to attack.",
     "target": "That ADEPTUS ASTARTES CHARACTER unit.",
-    "effect": "Your unit's attacks have: [LETHAL HITS]. OR: [SUSTAINED HITS 1]. 1CP"
+    "effect": "Your unit's attacks have: [LETHAL HITS]. OR: [SUSTAINED HITS 1]."
   },
   {
     "ability_id": "aura-of-the-angels-grace-legacy-of-grace",
@@ -2887,7 +2887,7 @@
     },
     "when": "Your opponent's Shooting phase, when an enemy unit targets a friendly ADEPTUS ASTARTES CHARACTER unit.",
     "target": "That CHARACTER unit.",
-    "effect": "Your unit has 5+ InSv. 1CP"
+    "effect": "Your unit has 5+ InSv."
   },
   {
     "ability_id": "judgement-of-the-golden-host-encarmine-speartip",
@@ -2906,7 +2906,7 @@
     },
     "when": "Your Charge phase, when a friendly SANGUINARY GUARD unit from your army ends a charge move.",
     "target": "That SANGUINARY GUARD unit.",
-    "effect": "Select one enemy unit engaged with your unit. Roll one D6 for each model in your unit engaged with that enemy unit: For each 3+, that enemy unit suffers 1 mortal wound. 1CP"
+    "effect": "Select one enemy unit engaged with your unit. Roll one D6 for each model in your unit engaged with that enemy unit: For each 3+, that enemy unit suffers 1 mortal wound."
   },
   {
     "ability_id": "inexorable-valour-encarmine-speartip",

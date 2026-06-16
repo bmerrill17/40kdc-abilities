@@ -2657,7 +2657,7 @@
     },
     "when": "Your Charge phase, when a friendly SWORD BRETHREN SQUAD unit ends a charge move.",
     "target": "That SWORD BRETHREN SQUAD unit.",
-    "effect": "Select one enemy unit engaged with your unit. Roll one D6 for each model in your unit engaged with that enemy unit: For each 4+, that enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds). 1CP"
+    "effect": "Select one enemy unit engaged with your unit. Roll one D6 for each model in your unit engaged with that enemy unit: For each 4+, that enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds)."
   },
   {
     "ability_id": "unsparing-execution-marshals-household",
@@ -2695,7 +2695,7 @@
     },
     "when": "Any phase, when a friendly CHAPLAIN unit suffers a mortal wound.",
     "target": "That CHAPLAIN unit.",
-    "effect": "Your unit has Feel No Pain 4+ against mortal wounds. 1CP"
+    "effect": "Your unit has Feel No Pain 4+ against mortal wounds."
   },
   {
     "ability_id": "rite-of-perfervid-wrath-wrathful-procession",
@@ -2714,7 +2714,7 @@
     },
     "when": "Fight phase, when a friendly CHAPLAIN unit is selected to fight.",
     "target": "That CHAPLAIN unit.",
-    "effect": "Your unit's melee attacks have +1 S. 1CP"
+    "effect": "Your unit's melee attacks have +1 S."
   },
   {
     "ability_id": "fervent-exemplars-marshals-household",

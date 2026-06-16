@@ -1524,9 +1524,9 @@
       "ref": "eng_09-06_warhammer40000_faction_pack_genestealer_cults-ee2tg004ty-lfbh6g1gr7.pdf",
       "edition": "11e"
     },
-    "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has shot or fought. 1CP",
+    "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has shot or fought.",
     "target": "One Tyranids Character unit from your army that was destroyed by that enemy unit this phase. You can use this Stratagem on that unit even though it was just destroyed.",
-    "effect": "Until the end of the battle, each time a Genestealer Cults model from your army makes an attack that targets that enemy unit, add 1 to the Hit roll and add 1 to the Wound roll. 1CP"
+    "effect": "Until the end of the battle, each time a Genestealer Cults model from your army makes an attack that targets that enemy unit, add 1 to the Hit roll and add 1 to the Wound roll."
   },
   {
     "ability_id": "divine-imperative-final-day",
@@ -1545,7 +1545,7 @@
     },
     "when": "Your Charge phase, when a friendly Genestealer Cults unit within 12\" of a friendly engaged Tyranids unit declares a charge.",
     "target": "That Genestealer Cults unit.",
-    "effect": "� Your unit has +1 to charge rolls. � You can use this part of this stratagem. If you do: � Your unit can re-roll charge rolls. � Y our unit must end that charge move engaged with an enemy unit engaged with that friendly Tyranids unit. 1CP"
+    "effect": "� Your unit has +1 to charge rolls. � You can use this part of this stratagem. If you do: � Your unit can re-roll charge rolls. � Y our unit must end that charge move engaged with an enemy unit engaged with that friendly Tyranids unit."
   },
   {
     "ability_id": "frenzied-devotion-xenocreed-congregation",
@@ -1851,7 +1851,7 @@
     },
     "when": "Your Shooting phase or your Charge phase.",
     "target": "One Tyranids unit from your army.",
-    "effect": "Until the end of the phase, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back. 1CP"
+    "effect": "Until the end of the phase, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
   },
   {
     "ability_id": "resistance-tunnels-final-day",
@@ -2061,7 +2061,7 @@
     },
     "when": "Your Shooting phase or the Fight phase, when a friendly KILLER unit has attacked, if those attacks destroyed an enemy unit or an enemy CHARACTER model.",
     "target": "That KILLER unit.",
-    "effect": "Each visible friendly battle-shocked GENESTEALER CULTS unit within 12\" of your unit is no longer battle-shocked. 1CP"
+    "effect": "Each visible friendly battle-shocked GENESTEALER CULTS unit within 12\" of your unit is no longer battle-shocked."
   },
   {
     "ability_id": "surging-broodworship-heroes-of-the-uprising",
@@ -2137,7 +2137,7 @@
     },
     "when": "Start of your opponent's Movement phase.",
     "target": "One friendly PURESTRAIN GENESTEALERS unit.",
-    "effect": "Your unit has 6\" detection range until the end of the turn. 1CP"
+    "effect": "Your unit has 6\" detection range until the end of the turn."
   },
   {
     "ability_id": "inhuman-reactions-purestrain-broodswarm",
@@ -2156,7 +2156,7 @@
     },
     "when": "Your opponent's Movement phase, when an enemy unit ends a move within 8\" of a friendly unengaged PURESTRAIN GENESTEALERS unit.",
     "target": "That PURESTRAIN GENESTEALERS unit.",
-    "effect": "Your unit can make a normal move of up to D3+3\". 1CP UNIQUE: HOSTS"
+    "effect": "Your unit can make a normal move of up to D3+3\". UNIQUE: HOSTS"
   },
   {
     "ability_id": "eyes-of-the-cult-xenocult-masses",
@@ -2213,7 +2213,7 @@
     },
     "when": "Your opponent's Shooting phase, when an enemy unit targets a friendly NEOPHYTE HYBRIDS unit with every model within a terrain area.",
     "target": "That NEOPHYTE HYBRIDS unit.",
-    "effect": "Ranged attacks that target your unit have -1 AP until that unit has attacked. 1CP"
+    "effect": "Ranged attacks that target your unit have -1 AP until that unit has attacked."
   },
   {
     "ability_id": "gene-tailored-toxins-heroes-of-the-uprising",
