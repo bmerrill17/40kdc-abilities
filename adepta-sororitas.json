@@ -760,10 +760,12 @@
     },
     "source": {
       "kind": "pdf",
-      "ref": "eng_11-06_warhammer40000_faction_pack_adepta_sororitas.pdf",
-      "phases": []
+      "edition": "11e",
+      "ref": "manual"
     },
-    "raw_text": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+    "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One ADEPTA SORORITAS unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
+    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
   },
   {
     "ability_id": "rites-of-fire-bringers-of-flame",
@@ -778,12 +780,12 @@
     },
     "source": {
       "kind": "pdf",
-      "ref": "eng_11-06_warhammer40000_faction_pack_adepta_sororitas.pdf",
-      "phases": [
-        "Shooting"
-      ]
+      "edition": "11e",
+      "ref": "manual"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes a ranged attack that targets an enemy unit within 6\" that is also within range of an objective marker, add 1 to the Wound roll. If one or more enemy models are destroyed as the result of those attacks, select one of those destroyed models; that destroyed model's unit must take a Battle-shock test."
+    "when": "Your Shooting phase.",
+    "target": "One ADEPTA SORORITAS unit from your army that disembarked from a TRANSPORT this turn and has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes a ranged attack that targets an enemy unit within 6\" that is also within range of an objective marker, add 1 to the Wound roll. If one or more enemy models are destroyed as the result of those attacks, select one of those destroyed models; that destroyed model's unit must take a Battle-shock test."
   },
   {
     "ability_id": "fervent-purgation",
@@ -816,10 +818,12 @@
     },
     "source": {
       "kind": "pdf",
-      "ref": "eng_11-06_warhammer40000_faction_pack_adepta_sororitas.pdf",
-      "phases": []
+      "edition": "11e",
+      "ref": "manual"
     },
-    "raw_text": "Until the end of the phase, each time an enemy model within Engagement Range of your unit selects its targets, it must select your unit as the target of its attacks."
+    "when": "Start of the Fight phase.",
+    "target": "One ADEPTA SORORITAS INFANTRY or ADEPTA SORORITAS WALKER unit from your army.",
+    "effect": "Until the end of the phase, each time an enemy model within Engagement Range of your unit selects its targets, it must select your unit as the target of its attacks."
   },
   {
     "ability_id": "divine-intervention-hallowed-martyrs",
@@ -834,10 +838,13 @@
     },
     "source": {
       "kind": "pdf",
-      "ref": "eng_11-06_warhammer40000_faction_pack_adepta_sororitas.pdf",
-      "phases": []
+      "edition": "11e",
+      "ref": "manual"
     },
-    "raw_text": "You can discard 1-3 Miracle dice. At the end of the phase, set the last destroyed model from your unit back up on the battlefield, as close as possible to where it was destroyed and not within Engagement Range of any enemy models. Roll one D3, adding 1 to the result for each Miracle dice you discarded. That model is set back up with that number of wounds remaining (up to its starting number of wounds)."
+    "when": "Any phase.",
+    "target": "One ADEPTA SORORITAS CHARACTER unit from your army that was just destroyed. You can use this Stratagem on that unit even though it was just destroyed.",
+    "effect": "You can discard 1-3 Miracle dice. At the end of the phase, set the last destroyed model from your unit back up on the battlefield, as close as possible to where it was destroyed and not within Engagement Range of any enemy models. Roll one D3, adding 1 to the result for each Miracle dice you discarded. That model is set back up with that number of wounds remaining (up to its starting number of wounds).",
+    "restrictions": "You cannot select SAINT CELESTINE as the target of this Stratagem. You cannot select the same CHARACTER as the target of this Stratagem more than once per battle."
   },
   {
     "ability_id": "devout-fanaticism-penitent-host",

@@ -1567,11 +1567,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/worldeaters.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "edition": "11e",
+      "ref": "manual"
     },
-    "raw_text": "Each time this model makes a melee attack that targets a CHARACTER unit, you can re-roll the Hit roll and you can re-roll the Wound roll. Each time this model’s unit destroys a CHARACTER model, you gain 1CP."
+    "when": "Fight phase, just after a BLOOD LEGIONS or WORLD EATERS unit from your army has fought, and one or more enemy CHARACTER or MONSTER models were destroyed as a result of those attacks.",
+    "target": "That BLOOD LEGIONS or WORLD EATERS unit.",
+    "effect": "You gain D3 BTP and you can then spend one or more BTP you have to activate one of the Blood Tithe abilities."
   },
   {
     "ability_id": "summoned-by-slaughter-khorne-daemonkin",
