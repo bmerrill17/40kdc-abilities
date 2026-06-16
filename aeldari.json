@@ -2547,7 +2547,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Remove your unit from the battlefield and place it into Strategic Reserves."
+    "raw_text": "1CP. WHEN: End of your opponent’s Fight phase. TARGET: One HARLEQUINS unit from your army that is not within Engagement Range of one or more enemy units. EFFECT: Remove your unit from the battlefield and place it into Strategic Reserves."
   },
   {
     "ability_id": "fateful-performance-heroes-fall",
@@ -2564,7 +2564,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6. On a 4+, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play."
+    "raw_text": "1CP. WHEN: Fight phase, just after an enemy unit has selected its targets. TARGET: One HARLEQUINS unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6. On a 4+, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play."
   },
   {
     "ability_id": "fateful-performance-mistweave",
@@ -3414,7 +3414,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, you can re‑roll the Wound roll."
+    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase. TARGET: One ASURYANI MOUNTED or VYPER unit from your army that was set up on the battlefield from Reserves this turn and has not been selected to shoot or fight this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack, you can re‑roll the Wound roll."
   },
   {
     "ability_id": "focused-firepower",
@@ -3431,7 +3431,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, improve the Armour Penetration characteristic of that attack by 1."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One ASURYANI MOUNTED or VYPER unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack, improve the Armour Penetration characteristic of that attack by 1."
   },
   {
     "ability_id": "spiralling-evasion",
@@ -3448,7 +3448,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, models in your unit have a 4+ invulnerable save."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets. TARGET: One ASURYANI MOUNTED or VYPER unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, models in your unit have a 4+ invulnerable save."
   },
   {
     "ability_id": "fangs-of-the-brood",
@@ -3465,7 +3465,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, when using your unit’s Dance of Death ability, you can select three of the abilities for your unit to gain, instead of one."
+    "raw_text": "1CP. WHEN: Start of the Fight phase. TARGET: One TROUPE unit from your army. EFFECT: Until the end of the phase, when using your unit’s Dance of Death ability, you can select three of the abilities for your unit to gain, instead of one."
   },
   {
     "ability_id": "crushing-strides",
@@ -3482,7 +3482,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Select one enemy unit within Engagement Range of your unit and roll one D6 for each WRAITHBLADES model in your unit, or roll four D6 if your unit has the WRAITHLORD keyword, or roll six D6 if your unit has the WRAITHKNIGHT keyword: for each 3+, that enemy unit suffers 1 mortal wound."
+    "raw_text": "1CP. WHEN: Your Charge phase, just after a WRAITHBLADES, WRAITHLORD or WRAITHKNIGHT unit from your army ends a Charge move. TARGET: That WRAITHBLADES, WRAITHLORD or WRAITHKNIGHT unit. EFFECT: Select one enemy unit within Engagement Range of your unit and roll one D6 for each WRAITHBLADES model in your unit, or roll four D6 if your unit has the WRAITHLORD keyword, or roll six D6 if your unit has the WRAITHKNIGHT keyword: for each 3+, that enemy unit suffers 1 mortal wound."
   },
   {
     "ability_id": "seers-eye",
@@ -3499,7 +3499,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Select one enemy unit visible to your PSYKER model. Until the end of the phase, each time a model in your WRAITH CONSTRUCT unit makes an attack that targets that enemy unit, you can ignore any or all modifiers to the Armour Penetration and/or Damage characteristics of that attack."
+    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase. TARGET: One AELDARI PSYKER model from your army and one friendly WRAITH CONSTRUCT unit within 12\" of it that has not been selected to shoot or fight this phase. EFFECT: Select one enemy unit visible to your PSYKER model. Until the end of the phase, each time a model in your WRAITH CONSTRUCT unit makes an attack that targets that enemy unit, you can ignore any or all modifiers to the Armour Penetration and/or Damage characteristics of that attack."
   },
   {
     "ability_id": "wraithbone-armour",
@@ -3516,7 +3516,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an attack is allocated to a model in your unit, subtract 1 from the Damage characteristic of that attack."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. TARGET: One WRAITH CONSTRUCT unit from your army (excluding TITANIC units) that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time an attack is allocated to a model in your unit, subtract 1 from the Damage characteristic of that attack."
   },
   {
     "ability_id": "blades-from-beyond",
@@ -3533,7 +3533,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, melee weapons equipped by models in your unit have the [DEVASTATING WOUNDS] ability."
+    "raw_text": "1CP. WHEN: Fight phase. TARGET: One WRAITHBLADES, WRAITHLORD or WRAITHKNIGHT unit from your army that has not been selected to fight this phase. EFFECT: Until the end of the phase, melee weapons equipped by models in your unit have the [DEVASTATING WOUNDS] ability."
   },
   {
     "ability_id": "macabre-resilience",
@@ -3550,7 +3550,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Wound roll."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. TARGET: One YNNARI INFANTRY or YNNARI MOUNTED unit from your army (excluding WRAITH CONSTRUCT units) that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time an attack targets your unit, subtract 1 from the Wound roll."
   },
   {
     "ability_id": "emissaries-of-ynnead",
@@ -3567,7 +3567,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, re‑roll a Hit roll of 1. If your unit is below its Starting Strength, you can re‑roll the Hit roll instead."
+    "raw_text": "1CP. WHEN: Fight phase, just after a YNNARI INFANTRY unit from your army has selected its targets. TARGET: That YNNARI INFANTRY unit. EFFECT: Until the end of the phase, each time a model in your unit makes an attack, re‑roll a Hit roll of 1. If your unit is below its Starting Strength, you can re‑roll the Hit roll instead."
   },
   {
     "ability_id": "soulsight",
@@ -3584,7 +3584,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, ranged weapons equipped by models in your unit have the [LETHAL HITS] and [IGNORES COVER] abilities"
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One YNNARI unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, ranged weapons equipped by models in your unit have the [LETHAL HITS] and [IGNORES COVER] abilities"
   },
   {
     "ability_id": "warding-salvoes",
@@ -3601,7 +3601,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit within range of one or more objective markers, you can re‑roll the Wound roll."
+    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase. TARGET: One DIRE AVENGERS or GUARDIANS unit from your army that has not been selected to shoot or fight this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit within range of one or more objective markers, you can re‑roll the Wound roll."
   },
   {
     "ability_id": "shield-nodes",
@@ -3618,7 +3618,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "If your unit is within range of one or more objective markers, until the end of the phase, each time an attack targets your unit, subtract 1 from the Wound roll."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. TARGET: One DIRE AVENGERS or GUARDIANS unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: If your unit is within range of one or more objective markers, until the end of the phase, each time an attack targets your unit, subtract 1 from the Wound roll."
   },
   {
     "ability_id": "vauls-vengeance",
@@ -3635,7 +3635,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "After that enemy unit has finished making its attacks, your unit can shoot as if it were your Shooting phase, but when resolving those attacks, it can only target that enemy unit (and only if it is an eligible target)."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit destroys a DIRE AVENGERS or GUARDIANS unit from your army TARGET: One WAR WALKERS unit from your army. EFFECT: After that enemy unit has finished making its attacks, your unit can shoot as if it were your Shooting phase, but when resolving those attacks, it can only target that enemy unit (and only if it is an eligible target). RESTRICTIONS: You can only use this Stratagem once per battle round."
   },
   {
     "ability_id": "blades-of-asuryan",
@@ -3652,7 +3652,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, ranged weapons equipped by models in your unit have the [PISTOL] ability."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One Dire AVENGERS or GUARDIANS unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, ranged weapons equipped by models in your unit have the [PISTOL] ability."
   },
   {
     "ability_id": "pirates-due",
@@ -3669,7 +3669,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, re‑roll a Wound roll of 1. If your unit has the ANHRATHE keyword, then until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit within range of an objective marker, you can re‑roll the Wound roll instead."
+    "raw_text": "1CP. WHEN: The Fight phase. TARGET: One AELDARI unit from your army that has not been selected to fight this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack, re‑roll a Wound roll of 1. If your unit has the ANHRATHE keyword, then until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit within range of an objective marker, you can re‑roll the Wound roll instead."
   },
   {
     "ability_id": "no-prey-too-big",
@@ -3686,7 +3686,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, if the Strength characteristic of that attack is less than the highest Toughness characteristic of models in the target unit, add 1 to the Wound roll."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One ANHRATHE, RANGERS or SHROUD RUNNERS unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack, if the Strength characteristic of that attack is less than the highest Toughness characteristic of models in the target unit, add 1 to the Wound roll."
   },
   {
     "ability_id": "fate-inescapable",
@@ -3703,7 +3703,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, ranged weapons equipped by models in your unit have the [IGNORES COVER] ability and each time a model in your unit makes an attack, on a Critical Wound, improve the Armour Penetration characteristic of that attack by 1."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One ASURYANI INFANTRY unit from your army (excluding WRAITH CONSTRUCT units) that has not been selected to shoot this phase and is within 9\" of one or more friendly ASURYANI PSYKER models. EFFECT: Until the end of the phase, ranged weapons equipped by models in your unit have the [IGNORES COVER] ability and each time a model in your unit makes an attack, on a Critical Wound, improve the Armour Penetration characteristic of that attack by 1."
   },
   {
     "ability_id": "lightning-fast-reactions",
@@ -3720,7 +3720,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. TARGET: One ASURYANI unit from your army (excluding WRAITH CONSTRUCT units) that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
   },
   {
     "ability_id": "blitzing-firepower",
@@ -3737,7 +3737,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, ranged weapons equipped by models in your unit have the [SUSTAINED HITS 1] ability while targeting an enemy unit within 12\". If such a weapon already has that ability, until the end of the phase, each time an attack is made with that weapon, an unmodified Hit roll of 5+ scores a Critical Hit."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One ASURYANI unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, ranged weapons equipped by models in your unit have the [SUSTAINED HITS 1] ability while targeting an enemy unit within 12\". If such a weapon already has that ability, until the end of the phase, each time an attack is made with that weapon, an unmodified Hit roll of 5+ scores a Critical Hit."
   },
   {
     "ability_id": "warrior-focus",
@@ -3754,7 +3754,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, you can ignore any or all modifiers to that attack’s Ballistic Skill, Weapon skill, Strength, Armour Penetration and Damage characteristics and/or any or all modifiers to the Hit roll."
+    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase. TARGET: One ASPECT WARRIORS or AVATAR OF KHAINE unit from your army that has not been selected to shoot or fight this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack, you can ignore any or all modifiers to that attack’s Ballistic Skill, Weapon skill, Strength, Armour Penetration and Damage characteristics and/or any or all modifiers to the Hit roll."
   },
   {
     "ability_id": "doom-inescapable",
@@ -3771,7 +3771,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, your model’s Wailing Doom ranged weapon has a Range characteristic of 18\" and a Damage characteristic of 8."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One AVATAR OF KHAINE model from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, your model’s Wailing Doom ranged weapon has a Range characteristic of 18\" and a Damage characteristic of 8."
   },
   {
     "ability_id": "preternatural-precision",
@@ -3788,7 +3788,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Each time you use this Stratagem, you can remove one Aspect Shrine token your unit has (see datasheets). Then, select one of the following abilities, or select two of the following abilities if you removed an Aspect Shrine token during this usage of this Stratagem: [IGNORES COVER], [LETHAL HITS], [SUSTAINED HITS 1]. Until the end of the phase, ranged weapons equipped by models in your unit have the selected abilities."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One ASPECT WARRIORS unit from your army that has not been selected to shoot this phase. EFFECT: Each time you use this Stratagem, you can remove one Aspect Shrine token your unit has (see datasheets). Then, select one of the following abilities, or select two of the following abilities if you removed an Aspect Shrine token during this usage of this Stratagem: [IGNORES COVER], [LETHAL HITS], [SUSTAINED HITS 1]. Until the end of the phase, ranged weapons equipped by models in your unit have the selected abilities."
   },
   {
     "ability_id": "yriels-example",
@@ -3805,7 +3805,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, models in your unit have the Feel No Pain 5+ ability."
+    "raw_text": "1CP. WHEN: Fight phase, just after an enemy unit has selected its targets. TARGET: One AELDARI INFANTRY unit from your army (excluding WRAITH CONSTRUCT units) that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, models in your unit have the Feel No Pain 5+ ability."
   },
   {
     "ability_id": "ishas-fury",
@@ -3822,7 +3822,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Roll six D6: for each 3+, that enemy unit suffers 1 mortal wound."
+    "raw_text": "1CP. WHEN: Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move. TARGET: One ASURYANI PSYKER model from your army within 9\" of that enemy unit. EFFECT: Roll six D6: for each 3+, that enemy unit suffers 1 mortal wound."
   },
   {
     "ability_id": "staged-death",
@@ -3839,7 +3839,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "At the end of the phase, set your model back up on the battlefield as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with half of its starting number of wounds remaining."
+    "raw_text": "1CP. WHEN: Any phase. TARGET: One HARLEQUINS CHARACTER model from your army that was just destroyed. You can use this Stratagem on that model even though it was just destroyed. EFFECT: At the end of the phase, set your model back up on the battlefield as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with half of its starting number of wounds remaining. RESTRICTIONS: Each model can only be targeted with this Stratagem once per battle."
   },
   {
     "ability_id": "heroes-fall",
@@ -3856,7 +3856,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6. On a 4+, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play."
+    "raw_text": "1CP. WHEN: Fight phase, just after an enemy unit has selected its targets. TARGET: One HARLEQUINS unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6. On a 4+, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play."
   },
   {
     "ability_id": "mocking-flight",
@@ -3873,7 +3873,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
+    "raw_text": "1CP. WHEN: Your Movement phase, just after a HARLEQUINS unit from your army Falls Back. TARGET: That HARLEQUINS unit. EFFECT: Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
   },
   {
     "ability_id": "tricksters-retort",
@@ -3890,7 +3890,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can make a Normal move of up to 6\"."
+    "raw_text": "1CP. WHEN: Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move. TARGET: One TROUPE unit from your army that is within 9\" of that enemy unit. EFFECT: Your unit can make a Normal move of up to 6\"."
   },
   {
     "ability_id": "bloody-dance",
@@ -3907,7 +3907,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit now declares a charge that only targets one or more of those enemy units, and you resolve that charge."
+    "raw_text": "1CP. WHEN: End of your opponent’s Charge phase. TARGET: One HARLEQUINS INFANTRY or HARLEQUINS MOUNTED unit from your army that is within 6\" of one or more enemy units and would be eligible to declare a charge against one or more of those enemy units if it were your Charge phase. EFFECT: Your unit now declares a charge that only targets one or more of those enemy units, and you resolve that charge. RESTRICTIONS: Note that even if this charge is successful, your unit does not receive any Charge bonus this turn."
   },
   {
     "ability_id": "exit-the-stage",
@@ -3924,7 +3924,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Remove your unit from the battlefield and place it into Strategic Reserves."
+    "raw_text": "1CP. WHEN: End of your opponent’s Fight phase. TARGET: One HARLEQUINS unit from your army that is not within Engagement Range of one or more enemy units. EFFECT: Remove your unit from the battlefield and place it into Strategic Reserves."
   },
   {
     "ability_id": "overflight",
@@ -3941,7 +3941,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can make a Normal move of up to 7\"."
+    "raw_text": "1CP. WHEN: End of your Shooting phase or the end of the Fight phase. TARGET: One ASURYANI MOUNTED unit from your army that destroyed one or more enemy units this phase. EFFECT: Your unit can make a Normal move of up to 7\"."
   },
   {
     "ability_id": "wind-of-blades",
@@ -3958,7 +3958,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced or Fell Back."
+    "raw_text": "1CP. WHEN: Your Movement phase. TARGET: One ASURYANI MOUNTED or VYPER unit from your army that has not been selected to move this phase. EFFECT: Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced or Fell Back."
   },
   {
     "ability_id": "daring-riders",
@@ -3975,7 +3975,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, when setting up your unit on the battlefield from Reserves, it can be set up anywhere on the battlefield that is more than 6\" horizontally away from all enemy units. When doing so, if your unit is set up within 9\" horizontally of one or more enemy units, until the end of the turn, it is not eligible to declare a charge."
+    "raw_text": "1CP. WHEN: The Reinforcements step of your Movement phase. TARGET: One ASURYANI MOUNTED or VYPER unit from your army in Reserves. EFFECT: Until the end of the phase, when setting up your unit on the battlefield from Reserves, it can be set up anywhere on the battlefield that is more than 6\" horizontally away from all enemy units. When doing so, if your unit is set up within 9\" horizontally of one or more enemy units, until the end of the turn, it is not eligible to declare a charge."
   },
   {
     "ability_id": "venomous-wrath",
@@ -3992,7 +3992,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "After your unit has shot, if it is not within Engagement Range of one or more enemy units, it can make a Normal move of up to 6\". Until the end of the turn, your unit is not eligible to declare a charge."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One HARLEQUINS VEHICLE unit from your army that has not been selected to shoot this phase. EFFECT: After your unit has shot, if it is not within Engagement Range of one or more enemy units, it can make a Normal move of up to 6\". Until the end of the turn, your unit is not eligible to declare a charge."
   },
   {
     "ability_id": "striking-stride",
@@ -4009,7 +4009,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, your unit is eligible to declare a charge in a turn in which it Advanced."
+    "raw_text": "1CP. WHEN: Your Charge phase. TARGET: One HARLEQUINS unit from your army. EFFECT: Until the end of the phase, your unit is eligible to declare a charge in a turn in which it Advanced."
   },
   {
     "ability_id": "weavers-coils",
@@ -4026,7 +4026,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "If your unit is not within Engagement Range of one or more enemy units, it can make a Normal move. Otherwise, your unit can make a Fall Back move of up to 6\"."
+    "raw_text": "1CP. WHEN: End of your Fight phase. TARGET: One HARLEQUINS MOUNTED unit from your army that was eligible to fight this phase. EFFECT: If your unit is not within Engagement Range of one or more enemy units, it can make a Normal move. Otherwise, your unit can make a Fall Back move of up to 6\"."
   },
   {
     "ability_id": "weaving-stride",
@@ -4043,7 +4043,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can make a Normal move of up to 6\"."
+    "raw_text": "1CP. WHEN: Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move. TARGET: One HARLEQUINS INFANTRY unit from your army that is within 9\" of that enemy unit. EFFECT: Your unit can make a Normal move of up to 6\"."
   },
   {
     "ability_id": "skyward-lunge",
@@ -4060,7 +4060,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "If your unit is not within Engagement Range of one or more enemy units, you can remove it from the battlefield and place it into Strategic Reserves."
+    "raw_text": "1CP. WHEN: End of your opponent’s Fight phase. TARGET: One HARLEQUINS VEHICLE or HARLEQUINS MOUNTED unit from your army. EFFECT: If your unit is not within Engagement Range of one or more enemy units, you can remove it from the battlefield and place it into Strategic Reserves."
   },
   {
     "ability_id": "soul-bridge",
@@ -4077,7 +4077,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the start of your next Command phase, your WRAITHBLADES, WRAITHGUARD or WRAITHLORD unit is considered to be within 12\" of your PSYKER model for the purposes of the Psychic Guidance and Spirit Guides abilities."
+    "raw_text": "1CP. WHEN: Your Command phase. TARGET: One WRAITHBLADES, WRAITHGUARD or WRAITHLORD unit from your army and one ASURYANI PSYKER model from your army. EFFECT: Until the start of your next Command phase, your WRAITHBLADES, WRAITHGUARD or WRAITHLORD unit is considered to be within 12\" of your PSYKER model for the purposes of the Psychic Guidance and Spirit Guides abilities."
   },
   {
     "ability_id": "spirit-token",
@@ -4094,7 +4094,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Select one objective marker you control that your unit is within range of. That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
+    "raw_text": "1CP. WHEN: Start of your Movement phase. TARGET: One WRAITHBLADES or WRAITHGUARD unit from your army. EFFECT: Select one objective marker you control that your unit is within range of. That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
   },
   {
     "ability_id": "pall-of-dread",
@@ -4111,7 +4111,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Select one of those objective markers. That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
+    "raw_text": "1CP. WHEN: Any phase. TARGET: One YNNARI unit from your army that was just destroyed while it was within range of one or more objective markers you controlled at the end of the previous phase. You can use this Stratagem on that unit even though it was just destroyed. EFFECT: Select one of those objective markers. That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
   },
   {
     "ability_id": "death-answers-death",
@@ -4128,7 +4128,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can shoot as if it were your Shooting phase."
+    "raw_text": "1CP. WHEN: End of your opponent’s Shooting phase. TARGET: One YNNARI unit from your army (excluding WRAITH CONSTRUCT units), if one or more models in that unit were destroyed this phase. EFFECT: Your unit can shoot as if it were your Shooting phase."
   },
   {
     "ability_id": "time-to-strike",
@@ -4145,7 +4145,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time your unit Advances, do not make an Advance roll. Instead, until the end of the phase, add 6\" to the Move characteristic of models in your unit. Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced."
+    "raw_text": "1CP. WHEN: Your Movement phase. TARGET: One STORM GUARDIANS unit from your army that has not been selected to move this phase. EFFECT: Until the end of the phase, each time your unit Advances, do not make an Advance roll. Instead, until the end of the phase, add 6\" to the Move characteristic of models in your unit. Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced."
   },
   {
     "ability_id": "cost-of-victory",
@@ -4162,7 +4162,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "If your unit is not within Engagement Range of one or more enemy units, remove it from the battlefield and place it into Strategic Reserves. When doing so, return every destroyed GUARDIANS model to your unit."
+    "raw_text": "1CP. WHEN: End of your opponent’s Fight phase. TARGET: One GUARDIANS unit from your army. EFFECT: If your unit is not within Engagement Range of one or more enemy units, remove it from the battlefield and place it into Strategic Reserves. When doing so, return every destroyed GUARDIANS model to your unit."
   },
   {
     "ability_id": "cloudstrike",
@@ -4179,7 +4179,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, your unit has the Deep Strike ability. When your unit is set up on the battlefield using the Deep Strike ability, it can be set up anywhere on the battlefield that is more than 6\" horizontally away from all enemy units, but if it does, until the end of the turn, it is not eligible to declare a charge. In addition, if your unit is a TRANSPORT, each unit that disembarks from it this turn must be set up more than 6\" horizontally from all enemy units and until the end of the turn, is not eligible to declare a charge.&x20;"
+    "raw_text": "1CP. WHEN: Start of the Reinforcements step of your Movement phase. TARGET: One AELDARI VEHICLE unit from your army that can FLY and is in Strategic Reserves. EFFECT: Until the end of the phase, your unit has the Deep Strike ability. When your unit is set up on the battlefield using the Deep Strike ability, it can be set up anywhere on the battlefield that is more than 6\" horizontally away from all enemy units, but if it does, until the end of the turn, it is not eligible to declare a charge. In addition, if your unit is a TRANSPORT, each unit that disembarks from it this turn must be set up more than 6\" horizontally from all enemy units and until the end of the turn, is not eligible to declare a charge.&x20;"
   },
   {
     "ability_id": "anti-grav-repulsion",
@@ -4196,7 +4196,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, subtract 2 from Charge rolls made for that enemy unit."
+    "raw_text": "1CP. WHEN: Your opponent’s Charge phase, just after an enemy unit has declared a charge. TARGET: One AELDARI VEHICLE unit from your army that can FLY and was selected as a target of that charge. EFFECT: Until the end of the phase, subtract 2 from Charge rolls made for that enemy unit."
   },
   {
     "ability_id": "layered-wards",
@@ -4213,7 +4213,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, models in your unit have the Feel No Pain 5+ ability against mortal wounds."
+    "raw_text": "1CP. WHEN: Any phase, just after a mortal wound is allocated to an AELDARI VEHICLE unit from your army. TARGET: That AELDARI VEHICLE unit. EFFECT: Until the end of the phase, models in your unit have the Feel No Pain 5+ ability against mortal wounds."
   },
   {
     "ability_id": "swift-deployment",
@@ -4230,7 +4230,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, units can disembark from your TRANSPORT after it has Advanced. Units that do so count as having made a Normal move that phase, and cannot declare a charge in the same turn, but can otherwise act normally."
+    "raw_text": "1CP. WHEN: Your Movement phase. TARGET: One AELDARI TRANSPORT unit from your army. EFFECT: Until the end of the phase, units can disembark from your TRANSPORT after it has Advanced. Units that do so count as having made a Normal move that phase, and cannot declare a charge in the same turn, but can otherwise act normally."
   },
   {
     "ability_id": "vectored-engines",
@@ -4247,7 +4247,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, your unit is eligible to shoot in a turn in which it Fell Back."
+    "raw_text": "1CP. WHEN: Your Movement phase, just after an AELDARI VEHICLE unit from your army that can FLY Falls Back. TARGET: That AELDARI VEHICLE unit. EFFECT: Until the end of the turn, your unit is eligible to shoot in a turn in which it Fell Back."
   },
   {
     "ability_id": "lethal-ruse",
@@ -4264,7 +4264,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, your unit is eligible to declare a charge in a turn in which it Fell Back. If it is an ANHRATHE unit, also select one enemy unit your unit was within Engagement Range of at the start of the phase, and roll six D6: for each 4+, that enemy unit suffers 1 mortal wound."
+    "raw_text": "1CP. WHEN: Your Movement phase, just after an AELDARI unit from your army Falls Back. TARGET: That AELDARI unit. EFFECT: Until the end of the turn, your unit is eligible to declare a charge in a turn in which it Fell Back. If it is an ANHRATHE unit, also select one enemy unit your unit was within Engagement Range of at the start of the phase, and roll six D6: for each 4+, that enemy unit suffers 1 mortal wound."
   },
   {
     "ability_id": "outcast-ambush",
@@ -4281,7 +4281,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, ranged weapons equipped by models in your unit have the [IGNORES COVER] and [RAPID FIRE 1] abilities, and until the end of the phase, improve the Armour Penetration characteristic of those weapons by 1."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One RANGERS or SHROUD RUNNERS unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, ranged weapons equipped by models in your unit have the [IGNORES COVER] and [RAPID FIRE 1] abilities, and until the end of the phase, improve the Armour Penetration characteristic of those weapons by 1."
   },
   {
     "ability_id": "into-the-breach",
@@ -4298,7 +4298,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "After your unit has resolved all of its shooting attacks, it can make a Normal move of up to D6+1\"."
+    "raw_text": "1CP. WHEN: Your Shooting phase, just after an ANHRATHE unit from your army destroyed one or more enemy units. TARGET: That ANHRATHE unit. EFFECT: After your unit has resolved all of its shooting attacks, it can make a Normal move of up to D6+1\"."
   },
   {
     "ability_id": "cloak-and-shadow",
@@ -4315,7 +4315,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, models in your unit have the Stealth ability and your unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets. TARGET: One AELDARI INFANTRY unit from your army that is within range of an objective marker that you control and that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, models in your unit have the Stealth ability and your unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
   },
   {
     "ability_id": "vengeful-sorrow",
@@ -4332,7 +4332,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can make a Surge move. To do so, roll one D6 and add 1 to the roll: models in your unit move a number of inches up to this result, but your unit must end that move as close as possible to the closest enemy unit (excluding AIRCRAFT). When doing so, those models can be moved within Engagement Range of that enemy unit."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has shot. TARGET: One AELDARI INFANTRY unit from your army, if one or more models in that unit were destroyed as a result of those attacks, and if that AELDARI unit is neither Battle‑shocked nor within Engagement Range of one or more enemy units. EFFECT: Your unit can make a Surge move. To do so, roll one D6 and add 1 to the roll: models in your unit move a number of inches up to this result, but your unit must end that move as close as possible to the closest enemy unit (excluding AIRCRAFT). When doing so, those models can be moved within Engagement Range of that enemy unit."
   },
   {
     "ability_id": "raiders-spoils",
@@ -4349,7 +4349,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the start of the next Command phase, add 1 to the Objective Control characteristic of models in your unit."
+    "raw_text": "1CP. WHEN: Command phase. TARGET: One ANHRATHE unit from your army that is within Engagement Range of one or more enemy units. EFFECT: Until the start of the next Command phase, add 1 to the Objective Control characteristic of models in your unit."
   },
   {
     "ability_id": "ruthless-killers",
@@ -4366,7 +4366,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, add 1 to the Damage characteristic of that attack."
+    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase. TARGET: One CORSAIR VOIDSCARRED unit from your army that has not been selected to shoot or Fight this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack, add 1 to the Damage characteristic of that attack."
   },
   {
     "ability_id": "withdraw-and-reinforce",
@@ -4383,7 +4383,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Remove your unit from the battlefield and place it into Strategic Reserves. If that unit is below Starting Strength, return all destroyed models (excluding CHARACTER models) to that unit."
+    "raw_text": "1CP. WHEN: End of your opponent’s Fight phase. TARGET: One ANHRATHE unit from your army that is not within Engagement Range of one or more enemy units. EFFECT: Remove your unit from the battlefield and place it into Strategic Reserves. If that unit is below Starting Strength, return all destroyed models (excluding CHARACTER models) to that unit."
   },
   {
     "ability_id": "presentiment-of-dread",
@@ -4400,7 +4400,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Select one enemy unit within 18\" of and visible to your model. That enemy unit must take a Battle‑shock test, subtracting 1 from that test."
+    "raw_text": "1CP. WHEN: Command phase. TARGET: One ASURYANI PSYKER model from your army. EFFECT: Select one enemy unit within 18\" of and visible to your model. That enemy unit must take a Battle‑shock test, subtracting 1 from that test."
   },
   {
     "ability_id": "forewarned",
@@ -4417,7 +4417,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll and subtract 1 from the Wound roll."
+    "raw_text": "1CP. WHEN: Fight phase, just after an enemy unit has selected its targets. TARGET: One ASURYANI INFANTRY unit from your army (excluding WRAITH CONSTRUCT units) that was selected as the target of one or more of the attacking unit’s attacks and is within 9\" of one or more friendly ASURYANI PSYKER models. EFFECT: Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll and subtract 1 from the Wound roll."
   },
   {
     "ability_id": "unshrouded-truth",
@@ -4434,7 +4434,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Remove your unit from the battlefield and set it up again anywhere on the battlefield that is more than 9\" horizontally away from all enemy models."
+    "raw_text": "1CP. WHEN: Your Movement phase. TARGET: One ASURYANI INFANTRY unit from your army (excluding WRAITH CONSTRUCT units) that has not been selected to move this phase, was not set up on the battlefield this phase, and is within 9\" of one or more friendly ASURYANI PSYKER models. EFFECT: Remove your unit from the battlefield and set it up again anywhere on the battlefield that is more than 9\" horizontally away from all enemy models. RESTRICTIONS: Until the end of the phase, your unit is not eligible to be selected to move."
   },
   {
     "ability_id": "psychic-shield",
@@ -4451,7 +4451,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, your unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets. TARGET: One ASURYANI INFANTRY unit from your army (excluding WRAITH CONSTRUCT units) that was selected as the target of one or more of the attacking unit’s attacks and is within 9\" of one or more friendly ASURYANI PSYKER models. EFFECT: Until the end of the phase, your unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
   },
   {
     "ability_id": "skyborne-sanctuary",
@@ -4468,7 +4468,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "If your ASURYANI unit is not within Engagement Range of one or more enemy units and is wholly within 6\" of that TRANSPORT, it can embark within it."
+    "raw_text": "1CP. WHEN: End of the Fight phase. TARGET: One ASURYANI unit from your army that was eligible to fight this phase and one friendly TRANSPORT it is able to embark within. EFFECT: If your ASURYANI unit is not within Engagement Range of one or more enemy units and is wholly within 6\" of that TRANSPORT, it can embark within it."
   },
   {
     "ability_id": "feigned-retreat",
@@ -4485,7 +4485,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
+    "raw_text": "1CP. WHEN: Your Movement phase, just after an ASURYANI unit from your army Falls Back. TARGET: That ASURYANI unit. EFFECT: Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
   },
   {
     "ability_id": "fire-and-fade",
@@ -4502,7 +4502,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can make a Normal move of up to D6+1\"."
+    "raw_text": "1CP. WHEN: Your Shooting phase, just after an ASURYANI INFANTRY unit from your army (excluding AIRCRAFT, ASURMEN and WRAITH CONSTRUCT units) has shot. TARGET: That ASURYANI unit. EFFECT: Your unit can make a Normal move of up to D6+1\". RESTRICTIONS: Until the end of the turn, your unit is not eligible to declare a charge or embark within a TRANSPORT."
   },
   {
     "ability_id": "webway-tunnel",
@@ -4519,7 +4519,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "If your unit is not within Engagement Range of one or more enemy units, remove it from the battlefield and place it into Strategic Reserves."
+    "raw_text": "1CP. WHEN: End of your opponent’s Fight phase. TARGET: One ASURYANI INFANTRY unit from your army that is wholly within 9\" of one or more battlefield edges. EFFECT: If your unit is not within Engagement Range of one or more enemy units, remove it from the battlefield and place it into Strategic Reserves."
   },
   {
     "ability_id": "to-their-final-breath",
@@ -4536,7 +4536,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Each time you use this Stratagem, you can remove one Aspect Shrine token your unit has (see datasheets). Then, until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, adding 1 to the result if you removed an Aspect Shrine token during this usage of this Stratagem. On a 4+, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play."
+    "raw_text": "1CP. WHEN: Fight phase, just after an enemy unit has selected its targets. TARGET: One ASPECT WARRIORS or AVATAR OF KHAINE unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Each time you use this Stratagem, you can remove one Aspect Shrine token your unit has (see datasheets). Then, until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, adding 1 to the result if you removed an Aspect Shrine token during this usage of this Stratagem. On a 4+, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play."
   },
   {
     "ability_id": "khaines-vengeance",
@@ -4553,7 +4553,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "All models in that enemy unit must take a Desperate Escape test. When doing so, if that enemy unit is Battle‑shocked, subtract 1 from each of those tests."
+    "raw_text": "1CP. WHEN: Your opponent’s Movement phase, just after an enemy unit (excluding MONSTERS and VEHICLES) is selected to Fall Back. TARGET: One ASPECT WARRIORS or AVATAR OF KHAINE unit from your army that is within Engagement Range of that enemy unit. EFFECT: All models in that enemy unit must take a Desperate Escape test. When doing so, if that enemy unit is Battle‑shocked, subtract 1 from each of those tests."
   },
   {
     "ability_id": "parting-the-veil",
@@ -4570,7 +4570,7 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, do not remove it from play. The destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play."
+    "raw_text": "2CP. WHEN: Fight phase, just after an enemy unit has selected its targets. TARGET: One YNNARI unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, do not remove it from play. The destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play."
   },
   {
     "ability_id": "impeding-fire",
@@ -4587,6 +4587,6 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Select one enemy unit (excluding TITANIC units) visible to and within 36\" of your unit. Until the end of the phase, each time that enemy unit declares a charge, subtract 2 from the Charge roll (this is not cumulative with any other negative modifiers to that Charge roll)."
+    "raw_text": "1CP. WHEN: Start of your opponent’s Charge phase. TARGET: One RANGERS, SHROUD RUNNERS or STARFANG unit from your army. EFFECT: Select one enemy unit (excluding TITANIC units) visible to and within 36\" of your unit. Until the end of the phase, each time that enemy unit declares a charge, subtract 2 from the Charge roll (this is not cumulative with any other negative modifiers to that Charge roll)."
   }
 ]

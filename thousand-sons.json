@@ -1832,7 +1832,7 @@
       "ref": "10th/json/thousandsons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. TARGET: One THOUSAND SONS or SCINTILLATING LEGIONS unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
   },
   {
     "ability_id": "hex-marked-armour",
@@ -1849,7 +1849,7 @@
       "ref": "10th/json/thousandsons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. TARGET: One THOUSAND SONS VEHICLE unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
   },
   {
     "ability_id": "ensorcelled-infusion",
@@ -1866,7 +1866,7 @@
       "ref": "10th/json/thousandsons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, ranged weapons equipped by VEHICLE models in your unit have the [PSYCHIC] ability and each time an attack is made with such a weapon, add 1 to the Wound roll."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One THOUSAND SONS VEHICLE unit from your army that has not been selected to shoot this phase, that is within 6\" of one or more friendly THOUSAND SONS PSYKER units. EFFECT: Until the end of the phase, ranged weapons equipped by VEHICLE models in your unit have the [PSYCHIC] ability and each time an attack is made with such a weapon, add 1 to the Wound roll."
   },
   {
     "ability_id": "unwavering-phalanx",
@@ -1883,7 +1883,7 @@
       "ref": "10th/json/thousandsons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, each time an attack targets your unit, subtract 1 from the Wound roll."
+    "raw_text": "1CP. WHEN: Your opponent’s Charge phase, just after an enemy unit ends a Charge move. TARGET: One RUBRIC MARINES unit from your army within Engagement Range of that enemy unit. EFFECT: Until the end of the turn, each time an attack targets your unit, subtract 1 from the Wound roll."
   },
   {
     "ability_id": "devastating-sorcery",
@@ -1900,7 +1900,7 @@
       "ref": "10th/json/thousandsons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, add 9\" to the Range characteristic of Psychic weapons equipped by models in your unit, and each time a model in your unit makes an attack with a Psychic weapon, you can re-roll the Hit roll and you can re-roll the Wound roll."
+    "raw_text": "2CP. WHEN: Your Shooting phase. TARGET: One THOUSAND SONS PSYKER unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, add 9\" to the Range characteristic of Psychic weapons equipped by models in your unit, and each time a model in your unit makes an attack with a Psychic weapon, you can re-roll the Hit roll and you can re-roll the Wound roll."
   },
   {
     "ability_id": "mutate-landscape",
@@ -1917,7 +1917,7 @@
       "ref": "10th/json/thousandsons.json",
       "edition": "10e"
     },
-    "raw_text": "That objective marker is mutated, and remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase. While an objective marker is mutated and under your control, each time an enemy unit ends a Normal, Advance, Fall Back or Charge move within range of that objective marker, roll one D6: on a 4+, that enemy unit suffers D3 mortal wounds."
+    "raw_text": "1CP. WHEN: Your Command phase. TARGET: One THOUSAND SONS PSYKER unit from your army within range of an objective marker you control. EFFECT: That objective marker is mutated, and remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase. While an objective marker is mutated and under your control, each time an enemy unit ends a Normal, Advance, Fall Back or Charge move within range of that objective marker, roll one D6: on a 4+, that enemy unit suffers D3 mortal wounds."
   },
   {
     "ability_id": "malevolent-animus",
@@ -1934,7 +1934,7 @@
       "ref": "10th/json/thousandsons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the start of your next Command phase, your VEHICLE unit is malevolent. While a unit is malevolent, it can ignore any or all modifiers to the following: the profile characteristics of its models; the Weapon Skill and Ballistic Skill characteristics of weapons equipped by its models; any roll or test made for it (excluding modifiers to saving throws)."
+    "raw_text": "1CP. WHEN: Your Command phase TARGET: One THOUSAND SONS VEHICLE unit from your army within 6\" of one or more friendly THOUSAND SONS PSYKER units. EFFECT: Until the start of your next Command phase, your VEHICLE unit is malevolent. While a unit is malevolent, it can ignore any or all modifiers to the following: the profile characteristics of its models; the Weapon Skill and Ballistic Skill characteristics of weapons equipped by its models; any roll or test made for it (excluding modifiers to saving throws)."
   },
   {
     "ability_id": "psychic-dominion",
@@ -1951,7 +1951,7 @@
       "ref": "10th/json/thousandsons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, all attacks made against your unit with Psychic weapons have the [HAZARDOUS] ability and all models in your unit have the Feel No Pain 4+ ability against Psychic Attacks."
+    "raw_text": "1CP. WHEN: Any phase, just after an enemy unit has selected its targets. TARGET: One THOUSAND SONS unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, all attacks made against your unit with Psychic weapons have the [HAZARDOUS] ability and all models in your unit have the Feel No Pain 4+ ability against Psychic Attacks."
   },
   {
     "ability_id": "destined-by-fate",
@@ -1968,7 +1968,7 @@
       "ref": "10th/json/thousandsons.json",
       "edition": "10e"
     },
-    "raw_text": "Change the Damage characteristic of that attack to 0. If you are using fast dice rolling, select one of those attacks you failed a saving throw for."
+    "raw_text": "1CP. WHEN: Any phase, just after a saving throw is failed for a THOUSAND SONS PSYKER model from your army. If you are using fast dice rolling, this Stratagem can still be used after rolling multiple saving throws at once. TARGET: That PSYKER model. EFFECT: Change the Damage characteristic of that attack to 0. If you are using fast dice rolling, select one of those attacks you failed a saving throw for."
   },
   {
     "ability_id": "desecration-of-worlds",
@@ -1985,7 +1985,7 @@
       "ref": "10th/json/thousandsons.json",
       "edition": "10e"
     },
-    "raw_text": "That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
+    "raw_text": "1CP. WHEN: Your Command phase. TARGET: One THOUSAND SONS PSYKER unit from your army within range of an objective marker you control. EFFECT: That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
   },
   {
     "ability_id": "arcane-focus",
@@ -2002,7 +2002,7 @@
       "ref": "10th/json/thousandsons.json",
       "edition": "10e"
     },
-    "raw_text": "Re-roll all of the D6 rolled for that Psychic test (including the additional D6 for Channelling the Warp)."
+    "raw_text": "1CP. WHEN: Your Shooting phase, just after you take a Psychic test for a THOUSAND SONS model from your army that Channelled the Warp (before resolving that Ritual). TARGET: That THOUSAND SONS model. EFFECT: Re-roll all of the D6 rolled for that Psychic test (including the additional D6 for Channelling the Warp)."
   },
   {
     "ability_id": "gift-of-change",
@@ -2019,7 +2019,7 @@
       "ref": "10th/json/thousandsons.json",
       "edition": "10e"
     },
-    "raw_text": "At the end of the phase, add one TZEENTCH CHAOS SPAWN unit containing one model to your army, and set it up as close as possible to where your model was destroyed and not within Engagement Range of one or more enemy units."
+    "raw_text": "1CP. WHEN: Any phase. TARGET: One THOUSAND SONS CHARACTER model from your army (excluding MONSTERS) that was just destroyed. You can use this Stratagem on that model even though it was just destroyed. EFFECT: At the end of the phase, add one TZEENTCH CHAOS SPAWN unit containing one model to your army, and set it up as close as possible to where your model was destroyed and not within Engagement Range of one or more enemy units. RESTRICTIONS: You can only use this Stratagem once per battle round."
   },
   {
     "ability_id": "ethereal-phantasm",
@@ -2036,7 +2036,7 @@
       "ref": "10th/json/thousandsons.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can make a Normal move of up to D6\", or a Normal move of up to 6\" instead if it is wholly within 6\" of one or more friendly THOUSAND SONS units."
+    "raw_text": "1CP. WHEN: Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move. TARGET: One SCINTILLATING LEGIONS unit from your army that is within 9\" of that enemy unit and not within Engagement Range of one or more enemy units. EFFECT: Your unit can make a Normal move of up to D6\", or a Normal move of up to 6\" instead if it is wholly within 6\" of one or more friendly THOUSAND SONS units."
   },
   {
     "ability_id": "fractal-disjunction",
@@ -2053,7 +2053,7 @@
       "ref": "10th/json/thousandsons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, your unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets. TARGET: One SCINTILLATING LEGIONS unit from your army (excluding MONSTERS) that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, your unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
   },
   {
     "ability_id": "chronosorcerous-bleed",
@@ -2070,7 +2070,7 @@
       "ref": "10th/json/thousandsons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, subtract 2 from Charge rolls made for that enemy unit (this is not cumulative with any other negative modifiers to that Charge roll)."
+    "raw_text": "1CP. WHEN: Your opponent’s Charge phase, just after an enemy unit has declared a charge. TARGET: One THOUSAND SONS PSYKER or SCINTILLATING LEGIONS unit from your army that was selected as a target of that charge. EFFECT: Until the end of the phase, subtract 2 from Charge rolls made for that enemy unit (this is not cumulative with any other negative modifiers to that Charge roll)."
   },
   {
     "ability_id": "glimmershift-portal",
@@ -2087,7 +2087,7 @@
       "ref": "10th/json/thousandsons.json",
       "edition": "10e"
     },
-    "raw_text": "Remove those units from the battlefield and place them into Strategic Reserves."
+    "raw_text": "1CP. WHEN: End of your opponent’s Fight phase. TARGET: Up to two SCINTILLATING LEGIONS units from your army (excluding MONSTERS), or one SCINTILLATING LEGIONS MONSTER unit from your army, if all of those units are more than 3\" horizontally away from all enemy units. EFFECT: Remove those units from the battlefield and place them into Strategic Reserves."
   },
   {
     "ability_id": "cyberspirit-machinations",
@@ -2104,7 +2104,7 @@
       "ref": "10th/json/thousandsons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, your VEHICLE unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
+    "raw_text": "1CP. WHEN: Your Movement phase, just after a THOUSAND SONS VEHICLE unit from your army Falls Back. TARGET: That VEHICLE unit, and one friendly THOUSAND SONS PSYKER unit within 6\" of that VEHICLE unit. EFFECT: Until the end of the turn, your VEHICLE unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
   },
   {
     "ability_id": "egotistical-power",
@@ -2121,7 +2121,7 @@
       "ref": "10th/json/thousandsons.json",
       "edition": "10e"
     },
-    "raw_text": "Select the Imbued Manifestation, Psychic Maelstrom or Wrath of the Immaterium ability (see Kindred Sorcery). Until the start of your next Command phase, that ability applies to your unit instead of any other Kindred Sorcery ability, even if you have already selected that ability this battle."
+    "raw_text": "1CP. WHEN: Your Command phase. TARGET: One THOUSAND SONS PSYKER unit from your army. EFFECT: Select the Imbued Manifestation, Psychic Maelstrom or Wrath of the Immaterium ability (see Kindred Sorcery). Until the start of your next Command phase, that ability applies to your unit instead of any other Kindred Sorcery ability, even if you have already selected that ability this battle."
   },
   {
     "ability_id": "warped-vicissitude",
@@ -2138,7 +2138,7 @@
       "ref": "10th/json/thousandsons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, models in your unit have a 4+ invulnerable save."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. TARGET: One TZAANGORS unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, models in your unit have a 4+ invulnerable save."
   },
   {
     "ability_id": "deranged-ferocity",
@@ -2155,7 +2155,7 @@
       "ref": "10th/json/thousandsons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes a Pile-in or Consolidation move, it can move up to 6\" instead of up to 3\", and when determining which models in it are eligible to fight, any models in it that are within 3\" of one or more enemy models are eligible to fight. When resolving those attacks, such models can target one of those enemy units that is within 3\" of them and within Engagement Range of their unit."
+    "raw_text": "1CP. WHEN: Fight phase, just after a TZEENTCH MUTANT unit from your army is selected to fi ght. TARGET: That TZEENTCH MUTANT unit. EFFECT: Until the end of the phase, each time a model in your unit makes a Pile-in or Consolidation move, it can move up to 6\" instead of up to 3\", and when determining which models in it are eligible to fight, any models in it that are within 3\" of one or more enemy models are eligible to fight. When resolving those attacks, such models can target one of those enemy units that is within 3\" of them and within Engagement Range of their unit."
   },
   {
     "ability_id": "blessed-transmutations",
@@ -2172,7 +2172,7 @@
       "ref": "10th/json/thousandsons.json",
       "edition": "10e"
     },
-    "raw_text": "Return up to D3+1 destroyed models (excluding CHARACTERS) to your TZAANGORS unit."
+    "raw_text": "1CP. WHEN: Your Command phase. TARGET: One THOUSAND SONS PSYKER model from your army, and one friendly TZAANGORS unit that is below its Starting Strength and within 12\" of that PSYKER model. EFFECT: Return up to D3+1 destroyed models (excluding CHARACTERS) to your TZAANGORS unit."
   },
   {
     "ability_id": "touched-by-tzeentch",
@@ -2189,7 +2189,7 @@
       "ref": "10th/json/thousandsons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, your unit is eligible to shoot or declare a charge in a turn in which it Advanced."
+    "raw_text": "1CP. WHEN: Start of your Movement phase. TARGET: One TZEENTCH MUTANT unit from your army. EFFECT: Until the end of the turn, your unit is eligible to shoot or declare a charge in a turn in which it Advanced."
   },
   {
     "ability_id": "twisted-mirage",
@@ -2206,7 +2206,7 @@
       "ref": "10th/json/thousandsons.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can be set up anywhere on the battlefield that is more than 3\" horizontally away from all enemy units, or anywhere on the battlefield that is more than 9\" horizontally away from all enemy units if it is a MONSTER unit. In either case, until the end of the turn, it is not eligible to declare a charge."
+    "raw_text": "1CP. WHEN: Reinforcements step of your Movement phase. TARGET: One TZEENTCH MUTANT unit from your army that is arriving from Strategic Reserves this phase. EFFECT: Your unit can be set up anywhere on the battlefield that is more than 3\" horizontally away from all enemy units, or anywhere on the battlefield that is more than 9\" horizontally away from all enemy units if it is a MONSTER unit. In either case, until the end of the turn, it is not eligible to declare a charge."
   },
   {
     "ability_id": "ardent-automata",
@@ -2223,7 +2223,7 @@
       "ref": "10th/json/thousandsons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
+    "raw_text": "1CP. WHEN: Your Movement phase, just after a RUBRICAE unit from your army Falls Back. TARGET: That RUBRICAE unit. EFFECT: Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
   },
   {
     "ability_id": "inexorable-advance",
@@ -2240,7 +2240,7 @@
       "ref": "10th/json/thousandsons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, your unit can ignore any or all modifiers to its Move characteristic and to Advance rolls made for it, and ranged weapons equipped by models in your unit have the [ASSAULT] ability."
+    "raw_text": "1CP. WHEN: Your Movement phase. TARGET: One RUBRICAE unit from your army. EFFECT: Until the end of the turn, your unit can ignore any or all modifiers to its Move characteristic and to Advance rolls made for it, and ranged weapons equipped by models in your unit have the [ASSAULT] ability."
   },
   {
     "ability_id": "revenge-of-the-rubricae",
@@ -2257,7 +2257,7 @@
       "ref": "10th/json/thousandsons.json",
       "edition": "10e"
     },
-    "raw_text": "After the attacking unit has shot, your RUBRICAE unit can shoot as if it were your Shooting phase, but when resolving those attacks it can only target the enemy unit that just destroyed your PSYKER model (and only if it is an eligible target)."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after a THOUSAND SONS PSYKER model from your army is destroyed. TARGET: One RUBRICAE unit from your army that was within 6\" of that PSYKER model when it was destroyed. EFFECT: After the attacking unit has shot, your RUBRICAE unit can shoot as if it were your Shooting phase, but when resolving those attacks it can only target the enemy unit that just destroyed your PSYKER model (and only if it is an eligible target)."
   },
   {
     "ability_id": "deceptive-glamour",
@@ -2274,7 +2274,7 @@
       "ref": "10th/json/thousandsons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an enemy model within Engagement Range of your unit selects targets for its attacks, it can only target your unit if there are no eligible SCINTILLATING LEGIONS targets for those attacks."
+    "raw_text": "2CP. WHEN: Start of the Fight phase. TARGET: One THOUSAND SONS unit from your army. EFFECT: Until the end of the phase, each time an enemy model within Engagement Range of your unit selects targets for its attacks, it can only target your unit if there are no eligible SCINTILLATING LEGIONS targets for those attacks."
   },
   {
     "ability_id": "implacable-guardians",
@@ -2291,7 +2291,7 @@
       "ref": "10th/json/thousandsons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an attack is allocated to a model in your unit (excluding PSYKER models), subtract 1 from the Damage characteristic of that attack."
+    "raw_text": "2CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets. TARGET: One RUBRIC MARINES PSYKER unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time an attack is allocated to a model in your unit (excluding PSYKER models), subtract 1 from the Damage characteristic of that attack."
   },
   {
     "ability_id": "warpflame-gargoyles",
@@ -2308,7 +2308,7 @@
       "ref": "10th/json/thousandsons.json",
       "edition": "10e"
     },
-    "raw_text": "Roll six D6: for each 5+, that enemy unit suffers 1 mortal wound. That enemy unit must then take a Battle-shock test."
+    "raw_text": "1CP. WHEN: Your opponent’s Charge phase, just after an enemy unit ends a Charge move. TARGET: One THOUSAND SONS VEHICLE unit from your army within Engagement Range of that enemy unit. EFFECT: Roll six D6: for each 5+, that enemy unit suffers 1 mortal wound. That enemy unit must then take a Battle-shock test."
   },
   {
     "ability_id": "infernal-fusillade",
@@ -2325,6 +2325,6 @@
       "ref": "10th/json/thousandsons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, all inferno bolt pistols, inferno boltguns, inferno combi‑bolters and inferno combi‑weapons equipped by models in your unit have the [PSYCHIC] ability and a Strength characteristic of 5."
+    "raw_text": "2CP. WHEN: Your Shooting phase. TARGET: One THOUSAND SONS PSYKER unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, all inferno bolt pistols, inferno boltguns, inferno combi‑bolters and inferno combi‑weapons equipped by models in your unit have the [PSYCHIC] ability and a Strength characteristic of 5."
   }
 ]

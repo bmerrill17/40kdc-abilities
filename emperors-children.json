@@ -1041,7 +1041,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "Select one enemy unit. Until the end of the phase, melee weapons equipped by models in those CHARACTER units have the [SUSTAINED HITS 1] ability while targeting that enemy unit."
+    "raw_text": "1CP. WHEN: Fight phase. TARGET: One or more EMPEROR’S CHILDREN CHARACTER units from your army that have not been selected to fight this phase. EFFECT: Select one enemy unit. Until the end of the phase, melee weapons equipped by models in those CHARACTER units have the [SUSTAINED HITS 1] ability while targeting that enemy unit."
   },
   {
     "ability_id": "heightened-jealousy",
@@ -1058,7 +1058,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in an EMPEROR’S CHILDREN CHARACTER unit from your army that is not your army’s Favoured Champions makes an attack, add 1 to the Strength characteristic of that attack."
+    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase, just after an EMPEROR’S CHILDREN CHARACTER unit becomes your army’s Favoured Champions, or just after your army’s Favoured Champions unit destroys an enemy unit. TARGET: Your army’s Favoured Champions unit. EFFECT: Until the end of the phase, each time a model in an EMPEROR’S CHILDREN CHARACTER unit from your army that is not your army’s Favoured Champions makes an attack, add 1 to the Strength characteristic of that attack."
   },
   {
     "ability_id": "refusal-to-be-outdone",
@@ -1075,7 +1075,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "Select one enemy unit within Engagement Range of one or more units from your army. Until the end of the phase, each time your unit declares a charge, if that enemy unit is one of the targets of that charge, add 2 to the Charge roll."
+    "raw_text": "1CP. WHEN: Your Charge phase. TARGET: One EMPEROR’S CHILDREN CHARACTER unit from your army. EFFECT: Select one enemy unit within Engagement Range of one or more units from your army. Until the end of the phase, each time your unit declares a charge, if that enemy unit is one of the targets of that charge, add 2 to the Charge roll."
   },
   {
     "ability_id": "sustained-by-agony",
@@ -1092,7 +1092,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "Select one friendly LEGIONS OF EXCESS unit within 6\" of your unit. One model in that LEGIONS OF EXCESS unit recovers up to 3 lost wounds or, if it is a DAEMONETTES unit, return up to D3+3 destroyed models to it instead."
+    "raw_text": "1CP. WHEN: Fight phase, just after an EMPEROR’S CHILDREN unit from your army destroys an enemy unit. TARGET: That EMPEROR’S CHILDREN unit. EFFECT: Select one friendly LEGIONS OF EXCESS unit within 6\" of your unit. One model in that LEGIONS OF EXCESS unit recovers up to 3 lost wounds or, if it is a DAEMONETTES unit, return up to D3+3 destroyed models to it instead."
   },
   {
     "ability_id": "sycophantic-surge",
@@ -1109,7 +1109,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, your unit is eligible to declare a charge in a turn in which it Advanced or Fell Back, provided at least one of the targets of that charge is within Engagement Range of one or more EMPEROR’S CHILDREN units from your army."
+    "raw_text": "1CP. WHEN: Your Charge phase. TARGET: One LEGIONS OF EXCESS unit from your army. EFFECT: Until the end of the phase, your unit is eligible to declare a charge in a turn in which it Advanced or Fell Back, provided at least one of the targets of that charge is within Engagement Range of one or more EMPEROR’S CHILDREN units from your army."
   },
   {
     "ability_id": "uncanny-reactions",
@@ -1126,7 +1126,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets. TARGET: One SLAANESH unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
   },
   {
     "ability_id": "cruel-bladesman",
@@ -1143,7 +1143,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, improve the Armour Penetration characteristic of melee weapons equipped by models in your unit by 1."
+    "raw_text": "1CP. WHEN: Fight phase. TARGET: One EMPEROR’S CHILDREN unit from your army that made a Charge move this turn and has not been selected to fight this phase. EFFECT: Until the end of the phase, improve the Armour Penetration characteristic of melee weapons equipped by models in your unit by 1."
   },
   {
     "ability_id": "deft-parry",
@@ -1160,7 +1160,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
+    "raw_text": "1CP. WHEN: Fight phase just after an enemy unit has selected its targets. TARGET: One EMPEROR’S CHILDREN unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
   },
   {
     "ability_id": "incessant-violence",
@@ -1177,7 +1177,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes a Consolidation move, it can move up to 6\" instead of up to 3\", provided your unit ends that Consolidation move within Engagement Range of one or more enemy units."
+    "raw_text": "1CP. WHEN: Fight phase, just before an EMPEROR’S CHILDREN unit from your army Consolidates. TARGET: That EMPEROR’S CHILDREN unit. EFFECT: Until the end of the phase, each time a model in your unit makes a Consolidation move, it can move up to 6\" instead of up to 3\", provided your unit ends that Consolidation move within Engagement Range of one or more enemy units."
   },
   {
     "ability_id": "violent-excess",
@@ -1194,7 +1194,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, melee weapons equipped by models in your unit have the [SUSTAINED HITS 1] ability."
+    "raw_text": "1CP. WHEN: Fight phase. TARGET: One EMPEROR’S CHILDREN unit from your army that has not been selected to fight this phase. EFFECT: Until the end of the phase, melee weapons equipped by models in your unit have the [SUSTAINED HITS 1] ability."
   },
   {
     "ability_id": "honour-the-prince",
@@ -1211,7 +1211,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, if your unit Advances, do not make an Advance roll. Instead, until the end of the phase, add 6\" to the Move characteristic of models in your unit."
+    "raw_text": "1CP. WHEN: Your Movement phase. TARGET: One EMPEROR’S CHILDREN INFANTRY unit from your army that has not been selected to move this phase. EFFECT: Until the end of the phase, if your unit Advances, do not make an Advance roll. Instead, until the end of the phase, add 6\" to the Move characteristic of models in your unit."
   },
   {
     "ability_id": "capricious-reactions",
@@ -1228,7 +1228,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets. TARGET: One EMPEROR’S CHILDREN unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
   },
   {
     "ability_id": "contemptuous-disregard",
@@ -1245,7 +1245,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an attack targets your unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of your unit, subtract 1 from the Wound roll."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase. TARGET: One EMPEROR’S CHILDREN unit from your army. EFFECT: Until the end of the phase, each time an attack targets your unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of your unit, subtract 1 from the Wound roll."
   },
   {
     "ability_id": "close-quarters-excruciation",
@@ -1262,7 +1262,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an EMPEROR’S CHILDREN model in your unit makes an attack that targets an eligible unit within 12\", improve the Strength and  Armour Penetration characteristics of that attack by 1."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One EMPEROR’S CHILDREN unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, each time an EMPEROR’S CHILDREN model in your unit makes an attack that targets an eligible unit within 12\", improve the Strength and  Armour Penetration characteristics of that attack by 1."
   },
   {
     "ability_id": "euphoric-inspiration",
@@ -1279,7 +1279,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, you can re-roll Charge rolls for friendly EMPEROR’S CHILDREN units within 6\" of your unit."
+    "raw_text": "1CP. WHEN: Your Charge phase. TARGET: One EMPEROR’S CHILDREN DAEMON unit from your army. EFFECT: Until the end of the phase, you can re-roll Charge rolls for friendly EMPEROR’S CHILDREN units within 6\" of your unit."
   },
   {
     "ability_id": "martial-perfection",
@@ -1296,7 +1296,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, you can re-roll the Hit roll."
+    "raw_text": "1CP. WHEN: Fight phase. TARGET: One EMPEROR’S CHILDREN unit from your army that has not been selected to fight this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack, you can re-roll the Hit roll."
   },
   {
     "ability_id": "combat-stimms",
@@ -1313,7 +1313,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Wound roll."
+    "raw_text": "2CP. WHEN: Fight phase, just after an enemy unit has selected its targets. TARGET: One EMPEROR’S CHILDREN INFANTRY unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time an attack targets your unit, subtract 1 from the Wound roll."
   },
   {
     "ability_id": "prideful-superiority",
@@ -1330,7 +1330,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack that targets a CHARACTER unit, you can re-roll the Hit roll and you can re‑roll the Wound roll."
+    "raw_text": "2CP. WHEN: Fight phase. TARGET: One EMPEROR’S CHILDREN unit from your army that has not been selected to fight this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack that targets a CHARACTER unit, you can re-roll the Hit roll and you can re‑roll the Wound roll."
   },
   {
     "ability_id": "diabolic-majesty",
@@ -1347,7 +1347,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "Each enemy unit within 6\" of your unit must take a Battle-shock test, subtracting 1 from the result."
+    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase, just after an EMPEROR’S CHILDREN CHARACTER unit becomes your army’s Favoured Champions. TARGET: That EMPEROR’S CHILDREN unit. EFFECT: Each enemy unit within 6\" of your unit must take a Battle-shock test, subtracting 1 from the result. RESTRICTIONS: You can only use this Stratagem once per battle round."
   },
   {
     "ability_id": "dynamic-breakthrough",
@@ -1364,7 +1364,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes a move, it can move through enemy models (excluding MONSTERS and VEHICLES). When doing so, it can move within Engagement Range of such models but cannot end that move within Engagement Range of them, and any Desperate Escape test is automatically passed"
+    "raw_text": "1CP. WHEN: Your Movement phase. TARGET: One EMPEROR’S CHILDREN VEHICLE unit from your army that has not been selected to move this phase. EFFECT: Until the end of the phase, each time a model in your unit makes a move, it can move through enemy models (excluding MONSTERS and VEHICLES). When doing so, it can move within Engagement Range of such models but cannot end that move within Engagement Range of them, and any Desperate Escape test is automatically passed"
   },
   {
     "ability_id": "unshakeable-opponents",
@@ -1381,7 +1381,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, each time a model in your unit makes an attack, you can ignore any or all modifiers to the following: that attack’s Ballistic Skill or Weapon Skill characteristic; the Hit roll; the Wound roll."
+    "raw_text": "1CP. WHEN: Command phase. TARGET: One EMPEROR’S CHILDREN unit from your army. EFFECT: Until the end of the turn, each time a model in your unit makes an attack, you can ignore any or all modifiers to the following: that attack’s Ballistic Skill or Weapon Skill characteristic; the Hit roll; the Wound roll."
   },
   {
     "ability_id": "unbound-arrogance",
@@ -1398,7 +1398,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "Increase your pledge to Slaanesh by 1."
+    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase, just after an EMPEROR’S CHILDREN unit from your army destroys an enemy unit. TARGET: That EMPEROR’S CHILDREN unit. EFFECT: Increase your pledge to Slaanesh by 1. RESTRICTIONS: You can only use this Stratagem once per battle round."
   },
   {
     "ability_id": "beautiful-death",
@@ -1415,7 +1415,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, adding 1 to the result if your unit is your army’s Favoured Champions. On a 4+, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play."
+    "raw_text": "1CP. WHEN: Fight phase, just after an enemy unit has selected its targets. TARGET: One EMPEROR’S CHILDREN CHARACTER unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, adding 1 to the result if your unit is your army’s Favoured Champions. On a 4+, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play."
   },
   {
     "ability_id": "vengeful-surge",
@@ -1432,7 +1432,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "After the attacking unit has shot, your unit can make a Surge move. To do so, roll one D6: each model in your unit can move a distance in inches up to the result, but your unit must end that move as close as possible to the closest enemy unit. When doing so, those models can be moved within Engagement Range of that enemy unit. If your unit is not your army’s Favoured Champions, you can re-roll the dice to determine the distance of its Surge move."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets. TARGET: One EMPEROR’S CHILDREN CHARACTER unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: After the attacking unit has shot, your unit can make a Surge move. To do so, roll one D6: each model in your unit can move a distance in inches up to the result, but your unit must end that move as close as possible to the closest enemy unit. When doing so, those models can be moved within Engagement Range of that enemy unit. If your unit is not your army’s Favoured Champions, you can re-roll the dice to determine the distance of its Surge move."
   },
   {
     "ability_id": "ecstatic-slaughter",
@@ -1449,7 +1449,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "Your EMPEROR’S CHILDREN unit can declare a charge. If it does so and it has already been selected to fight this phase, it cannot fight again this phase."
+    "raw_text": "1CP. WHEN: Fight phase, just after a LEGIONS OF EXCESS unit from your army destroys an enemy unit. TARGET: That LEGIONS OF EXCESS unit and one friendly EMPEROR’S CHILDREN unit within 6\" of it that is not within Engagement Range of one or more enemy units. EFFECT: Your EMPEROR’S CHILDREN unit can declare a charge. If it does so and it has already been selected to fight this phase, it cannot fight again this phase."
   },
   {
     "ability_id": "terrifying-spectacle",
@@ -1466,7 +1466,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "Each enemy unit within 6\" of your unit must take a Battle-shock test, subtracting 1 from that test if they are Below Half-strength. Enemy units affected by this Stratagem do not need to take any other Battle-shock tests in the same phase."
+    "raw_text": "1CP. WHEN: Your opponent’s Command phase. TARGET: One EMPEROR’S CHILDREN unit from your army that made a Charge move in the previous turn and destroyed one or more enemy units in the previous Fight phase. EFFECT: Each enemy unit within 6\" of your unit must take a Battle-shock test, subtracting 1 from that test if they are Below Half-strength. Enemy units affected by this Stratagem do not need to take any other Battle-shock tests in the same phase."
   },
   {
     "ability_id": "on-to-the-next",
@@ -1483,7 +1483,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "If your EMPEROR’S CHILDREN unit is wholly within 6\" of that TRANSPORT, it can embark within it."
+    "raw_text": "1CP. WHEN: End of the Fight phase. TARGET: One EMPEROR’S CHILDREN unit from your army that destroyed an enemy unit this phase, and one friendly TRANSPORT it is able to embark within. EFFECT: If your EMPEROR’S CHILDREN unit is wholly within 6\" of that TRANSPORT, it can embark within it."
   },
   {
     "ability_id": "advance-and-claim",
@@ -1500,7 +1500,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "Select one objective marker you control that your TRANSPORT is within range of. That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
+    "raw_text": "1CP. WHEN: Your Command phase. TARGET: One EMPEROR’S CHILDREN TRANSPORT from your army that has one or more TORMENTORS units embarked within it (excluding Battle-shocked units). EFFECT: Select one objective marker you control that your TRANSPORT is within range of. That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
   },
   {
     "ability_id": "ceaseless-onslaught",
@@ -1517,7 +1517,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, your EMPEROR’S CHILDREN unit is eligible to declare a charge."
+    "raw_text": "1CP. WHEN: Your Charge phase. TARGET: One EMPEROR’S CHILDREN unit from your army that disembarked from a TRANSPORT that made a Normal move this turn. EFFECT: Until the end of the phase, your EMPEROR’S CHILDREN unit is eligible to declare a charge."
   },
   {
     "ability_id": "reactive-disembarkation",
@@ -1534,7 +1534,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "One EMPEROR’S CHILDREN unit embarked within your TRANSPORT can disembark. When doing so, models in that unit can be set up anywhere on the battlefield wholly within 6\" of that TRANSPORT and not within Engagement Range of one or more enemy units."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets. TARGET: One EMPEROR’S CHILDREN TRANSPORT from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: One EMPEROR’S CHILDREN unit embarked within your TRANSPORT can disembark. When doing so, models in that unit can be set up anywhere on the battlefield wholly within 6\" of that TRANSPORT and not within Engagement Range of one or more enemy units."
   },
   {
     "ability_id": "outflanking-strike",
@@ -1551,7 +1551,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "For each of those TRANSPORTS wholly within 9\" of one or more battlefield edges, remove it from the battlefield and place it into Strategic Reserves."
+    "raw_text": "1CP. WHEN: End of your opponent’s Fight phase. TARGET: One EMPEROR’S CHILDREN TRANSPORT from your army, or up to two EMPEROR’S CHILDREN DEDICATED TRANSPORTS from your army. EFFECT: For each of those TRANSPORTS wholly within 9\" of one or more battlefield edges, remove it from the battlefield and place it into Strategic Reserves."
   },
   {
     "ability_id": "dark-vigour",
@@ -1568,7 +1568,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can make a Normal move of up to 6\"."
+    "raw_text": "1CP. WHEN: Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move. TARGET: One EMPEROR’S CHILDREN unit from your army (excluding BEASTS and VEHICLES) that is within 9\" of the enemy unit that just ended that move. EFFECT: Your unit can make a Normal move of up to 6\"."
   },
   {
     "ability_id": "cruel-raiders",
@@ -1585,7 +1585,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "Remove your unit from the battlefield and place it into Strategic Reserves."
+    "raw_text": "1CP. WHEN: End of your opponent’s Fight phase. TARGET: One EMPEROR’S CHILDREN unit from your army that is wholly within 9\" of one or more battlefield edges and not within 3\" horizontally of one or more enemy units. EFFECT: Remove your unit from the battlefield and place it into Strategic Reserves."
   },
   {
     "ability_id": "sinuous-breach",
@@ -1602,7 +1602,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time your unit makes a Normal, Advance or Charge move, it can move horizontally through terrain features."
+    "raw_text": "1CP. WHEN: Your Movement phase or your Charge phase. TARGET: One EMPEROR’S CHILDREN DAEMON unit from your army that has not been selected to move or charge this phase. EFFECT: Until the end of the phase, each time your unit makes a Normal, Advance or Charge move, it can move horizontally through terrain features."
   },
   {
     "ability_id": "catalytic-stimulus",
@@ -1619,7 +1619,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can make a Stimulus move. To do so, roll one D6: models in your unit move a number of inches up to the result, but your unit must end that move as close as possible to the closest enemy unit (excluding AIRCRAFT). When doing so, those models can be moved within Engagement Range of that enemy unit."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has shot. TARGET: One EMPEROR’S CHILDREN unit from your army that lost one or more wounds as a result of those attacks. EFFECT: Your unit can make a Stimulus move. To do so, roll one D6: models in your unit move a number of inches up to the result, but your unit must end that move as close as possible to the closest enemy unit (excluding AIRCRAFT). When doing so, those models can be moved within Engagement Range of that enemy unit."
   },
   {
     "ability_id": "protection-of-the-dark-prince",
@@ -1636,7 +1636,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, models in your unit have the Feel No Pain 6+ ability, and the Feel No Pain 4+ ability against mortal wounds."
+    "raw_text": "1CP. WHEN: Any phase, just after a mortal wound or attack is allocated to a model in an EMPEROR’S CHILDREN unit from your army. TARGET: That EMPEROR’S CHILDREN unit. EFFECT: Until the end of the phase, models in your unit have the Feel No Pain 6+ ability, and the Feel No Pain 4+ ability against mortal wounds."
   },
   {
     "ability_id": "embrace-the-pain",
@@ -1653,7 +1653,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an enemy model within Engagement Range of your unit selects targets, it must select your unit as the target of its attacks."
+    "raw_text": "1CP. WHEN: Start of the Fight phase. TARGET: One EMPEROR’S CHILDREN INFANTRY unit from your army. EFFECT: Until the end of the phase, each time an enemy model within Engagement Range of your unit selects targets, it must select your unit as the target of its attacks."
   },
   {
     "ability_id": "violent-crescendo",
@@ -1670,7 +1670,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes a Pile-in or Consolidation move, it can move up to 6\" instead of up to 3\". When doing so, it does not need to end that move closer to the closest enemy model, provided it ends that move as close as possible to the closest enemy unit."
+    "raw_text": "2CP. WHEN: Fight phase. TARGET: One SLAANESH BEASTS, SLAANESH INFANTRY or SLAANESH MOUNTED unit from your army that has not been selected to fight this phase. EFFECT: Until the end of the phase, each time a model in your unit makes a Pile-in or Consolidation move, it can move up to 6\" instead of up to 3\". When doing so, it does not need to end that move closer to the closest enemy model, provided it ends that move as close as possible to the closest enemy unit."
   },
   {
     "ability_id": "dark-apparitions",
@@ -1687,7 +1687,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "Remove your unit from the battlefield and place it into Strategic Reserves. If it arrives back on the battlefield in the Reinforcements step of your next Movement phase using the Deep Strike ability, it can be set up anywhere that is more than 6\" horizontally away from all enemy units (instead of more than 9\"). provided it is also set up wholly within 9\" of one or more friendly EMPEROR’S CHILDREN units."
+    "raw_text": "2CP. WHEN: End of your opponent’s Fight phase. TARGET: One DAEMONETTES unit from your army that is not within Engagement Range of one or more enemy units. EFFECT: Remove your unit from the battlefield and place it into Strategic Reserves. If it arrives back on the battlefield in the Reinforcements step of your next Movement phase using the Deep Strike ability, it can be set up anywhere that is more than 6\" horizontally away from all enemy units (instead of more than 9\"). provided it is also set up wholly within 9\" of one or more friendly EMPEROR’S CHILDREN units."
   },
   {
     "ability_id": "cut-down-the-weak",
@@ -1704,7 +1704,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can declare a charge. When doing so, you must select that enemy unit as a target of that charge, and your unit does not receive a Charge bonus this turn."
+    "raw_text": "2CP. WHEN: Your opponent’s Movement phase, just after an enemy unit Falls Back. TARGET: One EMPEROR’S CHILDREN unit from your army (you can only select a VEHICLE if it is a WALKER) that is within 6\" of that enemy unit and would be eligible to declare a charge against that enemy unit if it were your Charge phase. EFFECT: Your unit can declare a charge. When doing so, you must select that enemy unit as a target of that charge, and your unit does not receive a Charge bonus this turn."
   },
   {
     "ability_id": "death-ecstasy",
@@ -1721,7 +1721,7 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, do not remove it from play. The destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play."
+    "raw_text": "2CP. WHEN: Fight phase, just after an enemy unit has selected its targets. TARGET: One EMPEROR’S CHILDREN unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, do not remove it from play. The destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play."
   },
   {
     "ability_id": "armour-of-abhorrence",
@@ -1738,6 +1738,6 @@
       "ref": "10th/json/emperors_children.json",
       "edition": "10e"
     },
-    "raw_text": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. TARGET: One EMPEROR’S CHILDREN unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
   }
 ]

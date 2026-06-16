@@ -4856,7 +4856,7 @@
       "ref": "10th/json/astramilitarum.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, ranged weapons equipped by models in your unit have the [PRECISION] ability."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One PLATOON unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, ranged weapons equipped by models in your unit have the [PRECISION] ability."
   },
   {
     "ability_id": "scouting-outriders",
@@ -4873,7 +4873,7 @@
       "ref": "10th/json/astramilitarum.json",
       "edition": "10e"
     },
-    "raw_text": "Remove your unit from the battlefield and place it into Strategic Reserves."
+    "raw_text": "1CP. WHEN: End of your opponent’s turn. TARGET: One ASTRA MILITARUM MOUNTED or ASTRA MILITARUM WALKER unit from your army that is wholly within 10\" of one or more battlefield edges and not within Engagement Range of one or more enemy units. EFFECT: Remove your unit from the battlefield and place it into Strategic Reserves."
   },
   {
     "ability_id": "blazing-advance",
@@ -4890,7 +4890,7 @@
       "ref": "10th/json/astramilitarum.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, your unit is eligible to shoot in a turn in which it Advanced."
+    "raw_text": "1CP. WHEN: Your Movement phase, just after a SQUADRON unit from your army Advances. TARGET: That SQUADRON unit. EFFECT: Until the end of the turn, your unit is eligible to shoot in a turn in which it Advanced."
   },
   {
     "ability_id": "furious-cannonade",
@@ -4907,7 +4907,7 @@
       "ref": "10th/json/astramilitarum.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack that targets a unit within 12\", improve the Armour Penetration characteristic of that attack by 1."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One SQUADRON unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack that targets a unit within 12\", improve the Armour Penetration characteristic of that attack by 1."
   },
   {
     "ability_id": "coordinated-action",
@@ -4924,7 +4924,7 @@
       "ref": "10th/json/astramilitarum.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, Orders affecting one of your units affect the other, and vice versa."
+    "raw_text": "1CP. WHEN: Start of any phase. TARGET: One REGIMENT unit from your army and one SQUADRON unit from your army within 6\" of and visible to that REGIMENT unit. EFFECT: Until the end of the phase, Orders affecting one of your units affect the other, and vice versa."
   },
   {
     "ability_id": "fields-of-fire",
@@ -4941,7 +4941,7 @@
       "ref": "10th/json/astramilitarum.json",
       "edition": "10e"
     },
-    "raw_text": "Select one enemy unit. Until the end of the phase, each time your selected REGIMENT and SQUADRON units make an attack that targets that enemy unit, improve the Armour Penetration characteristic of that attack by 1."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One REGIMENT unit and one SQUADRON unit from your army that have not been selected to shoot this phase. EFFECT: Select one enemy unit. Until the end of the phase, each time your selected REGIMENT and SQUADRON units make an attack that targets that enemy unit, improve the Armour Penetration characteristic of that attack by 1."
   },
   {
     "ability_id": "stalwart-protector",
@@ -4958,7 +4958,7 @@
       "ref": "10th/json/astramilitarum.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a ranged attack is allocated to an INFANTRY model from your army, if that model is not fully visible to every model in the attacking unit because of your VEHICLE, that model has the Benefit of Cover against that attack."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets. TARGET: One ASTRA MILITARUM VEHICLE unit from your army. EFFECT: Until the end of the phase, each time a ranged attack is allocated to an INFANTRY model from your army, if that model is not fully visible to every model in the attacking unit because of your VEHICLE, that model has the Benefit of Cover against that attack."
   },
   {
     "ability_id": "clear-and-secure",
@@ -4975,7 +4975,7 @@
       "ref": "10th/json/astramilitarum.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack that targets a unit within range of an objective marker, you can re-roll the Hit roll and you can re-roll the Wound roll."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One ASTRA MILITARUM unit from your army that disembarked from a TRANSPORT this turn and has not been selected to shoot this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack that targets a unit within range of an objective marker, you can re-roll the Hit roll and you can re-roll the Wound roll."
   },
   {
     "ability_id": "swift-interception",
@@ -4992,7 +4992,7 @@
       "ref": "10th/json/astramilitarum.json",
       "edition": "10e"
     },
-    "raw_text": "Your TRANSPORT can make a Normal move of up to 6\"."
+    "raw_text": "1CP. WHEN: Your opponent’s movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move. TARGET: One TRANSPORT unit from your army (excluding AIRCRAFT and TITANIC units) that is not within Engagement Range of one or more enemy units, and is within 9\" of the enemy unit that just ended that move. EFFECT: Your TRANSPORT can make a Normal move of up to 6\"."
   },
   {
     "ability_id": "hasty-extraction",
@@ -5009,7 +5009,7 @@
       "ref": "10th/json/astramilitarum.json",
       "edition": "10e"
     },
-    "raw_text": "Provided your unit is not within Engagement Range of one or more enemy units and every model in your unit is within 3\" of an ASTRA MILITARUM TRANSPORT from your army, it can embark within that TRANSPORT."
+    "raw_text": "1CP. WHEN: Your opponent’s Charge phase, after an enemy unit has selected targets for its charge but before it makes a Charge move.&x20; TARGET: One ASTRA MILITARUM INFANTRY unit from your army that was selected as a target of that charge. EFFECT: Provided your unit is not within Engagement Range of one or more enemy units and every model in your unit is within 3\" of an ASTRA MILITARUM TRANSPORT from your army, it can embark within that TRANSPORT."
   },
   {
     "ability_id": "callous-sacrifice",
@@ -5026,7 +5026,7 @@
       "ref": "10th/json/astramilitarum.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, enemy units are not considered to be within Engagement Range of your unit for the purposes of selecting targets of ranged weapons. Until the end of the phase, each time an enemy model loses a wound, while that model’s unit is within Engagement Range of your unit, roll one D6: on a 4+, one model from your unit is destroyed after the attacking unit has finished making its attacks."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One PLATOON unit from your army that is within Engagement Range of one or more enemy units. EFFECT: Until the end of the phase, enemy units are not considered to be within Engagement Range of your unit for the purposes of selecting targets of ranged weapons. Until the end of the phase, each time an enemy model loses a wound, while that model’s unit is within Engagement Range of your unit, roll one D6: on a 4+, one model from your unit is destroyed after the attacking unit has finished making its attacks."
   },
   {
     "ability_id": "trench-fighters",
@@ -5043,7 +5043,7 @@
       "ref": "10th/json/astramilitarum.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, adding 2 to the result if it is a REGIMENT model. On a 4+, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play."
+    "raw_text": "1CP. WHEN: Fight phase, just after an enemy unit has selected its targets. TARGET: One ASTRA MILITARUM INFANTRY unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, adding 2 to the result if it is a REGIMENT model. On a 4+, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play."
   },
   {
     "ability_id": "final-hour",
@@ -5060,7 +5060,7 @@
       "ref": "10th/json/astramilitarum.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the battle round, ranged weapons equipped by models in your unit (excluding [ONE SHOT] weapons) have the [HAZARDOUS] ability, and each time a model in your unit makes a ranged attack, you can ignore any or all modifiers to that attack’s Ballistic Skill characteristic and to the Hit roll."
+    "raw_text": "1CP. WHEN: Your Command phase. TARGET: One SQUADRON unit from your army that is Below Half-strength (excluding OFFICER units). EFFECT: Until the end of the battle round, ranged weapons equipped by models in your unit (excluding [ONE SHOT] weapons) have the [HAZARDOUS] ability, and each time a model in your unit makes a ranged attack, you can ignore any or all modifiers to that attack’s Ballistic Skill characteristic and to the Hit roll."
   },
   {
     "ability_id": "inspired-command",
@@ -5077,7 +5077,7 @@
       "ref": "10th/json/astramilitarum.json",
       "edition": "10e"
     },
-    "raw_text": "Your OFFICER can issue one Order as if it were your Command phase."
+    "raw_text": "1CP. WHEN: Your opponent’s Command phase. TARGET: One ASTRA MILITARUM OFFICER unit from your army. EFFECT: Your OFFICER can issue one Order as if it were your Command phase."
   },
   {
     "ability_id": "draw-them-out",
@@ -5094,7 +5094,7 @@
       "ref": "10th/json/astramilitarum.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can make a Normal move of up to 6\"."
+    "raw_text": "1CP. WHEN: Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move. TARGET: One PLATOON unit from your army that is within 9\" of that enemy unit, and is not within Engagement Range of one or more enemy units. EFFECT: Your unit can make a Normal move of up to 6\"."
   },
   {
     "ability_id": "courageous-diversion",
@@ -5111,7 +5111,7 @@
       "ref": "10th/json/astramilitarum.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, your unit has the Feel No Pain 6+ ability, and each time an enemy model makes an attack, if your unit is the closest eligible target, subtract 1 from the hit roll."
+    "raw_text": "1CP. WHEN: Start of your opponent’s Shooting phase. TARGET: One ASTRA MILITARUM INFANTRY or ASTRA MILITARUM MOUNTED unit from your army. EFFECT: Until the end of the phase, your unit has the Feel No Pain 6+ ability, and each time an enemy model makes an attack, if your unit is the closest eligible target, subtract 1 from the hit roll."
   },
   {
     "ability_id": "tactical-withdrawal",
@@ -5128,7 +5128,7 @@
       "ref": "10th/json/astramilitarum.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, your unit is eligible to shoot in a turn in which it Fell Back."
+    "raw_text": "1CP. WHEN: Your Movement phase, just after a SQUADRON unit from your army Falls Back. TARGET: That SQUADRON unit. EFFECT: Until the end of the turn, your unit is eligible to shoot in a turn in which it Fell Back."
   },
   {
     "ability_id": "crash-through",
@@ -5145,7 +5145,7 @@
       "ref": "10th/json/astramilitarum.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time your unit makes a Normal, Advance or Charge move, it can move horizontally through terrain features as if they were not there."
+    "raw_text": "1CP. WHEN: Your Movement phase or your Charge phase. TARGET: One ASTRA MILITARUM VEHICLE unit from your army that has not been selected to move or charge this phase. EFFECT: Until the end of the phase, each time your unit makes a Normal, Advance or Charge move, it can move horizontally through terrain features as if they were not there."
   },
   {
     "ability_id": "rapid-dispersal",
@@ -5162,7 +5162,7 @@
       "ref": "10th/json/astramilitarum.json",
       "edition": "10e"
     },
-    "raw_text": "Your INFANTRY unit can make a Normal move of up to D6\"."
+    "raw_text": "1CP. WHEN: Your Movement phase. TARGET: One ASTRA MILITARUM INFANTRY unit from your army that disembarked from a TRANSPORT this phase. EFFECT: Your INFANTRY unit can make a Normal move of up to D6\"."
   },
   {
     "ability_id": "move-out",
@@ -5179,7 +5179,7 @@
       "ref": "10th/json/astramilitarum.json",
       "edition": "10e"
     },
-    "raw_text": "Provided your unit is not within Engagement Range of one or more enemy units and every model in your unit is within 3\" of an ASTRA MILITARUM TRANSPORT from your army, it can embark within that TRANSPORT."
+    "raw_text": "1CP. WHEN: End of your opponent’s turn. TARGET: One ASTRA MILITARUM unit from your army. EFFECT: Provided your unit is not within Engagement Range of one or more enemy units and every model in your unit is within 3\" of an ASTRA MILITARUM TRANSPORT from your army, it can embark within that TRANSPORT."
   },
   {
     "ability_id": "furious-fusillade",
@@ -5196,7 +5196,7 @@
       "ref": "10th/json/astramilitarum.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, add 1 to the Attacks characteristic of ranged weapons equipped by models in your unit while targeting an enemy unit within half range."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One PLATOON unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, add 1 to the Attacks characteristic of ranged weapons equipped by models in your unit while targeting an enemy unit within half range."
   },
   {
     "ability_id": "reinforcements",
@@ -5213,7 +5213,7 @@
       "ref": "10th/json/astramilitarum.json",
       "edition": "10e"
     },
-    "raw_text": "Add a new unit to your army identical to your destroyed unit, in Strategic Reserves, at its Starting Strength and with all of its wounds remaining."
+    "raw_text": "2CP. WHEN: Any phase. TARGET: One INFANTRY REGIMENT unit from your army that was just destroyed. You can use this Stratagem on that unit even though it was just destroyed. EFFECT: Add a new unit to your army identical to your destroyed unit, in Strategic Reserves, at its Starting Strength and with all of its wounds remaining. RESTRICTIONS: This Stratagem cannot be used to return destroyed CHARACTER units to Attached units. You can only use this Stratagem once per battle."
   },
   {
     "ability_id": "flexible-command",
@@ -5230,7 +5230,7 @@
       "ref": "10th/json/astramilitarum.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, your OFFICERS can issue Orders to REGIMENT units and SQUADRON units."
+    "raw_text": "2CP. WHEN: Your Command phase. TARGET: Any number of ASTRA MILITARUM OFFICER units from your army. EFFECT: Until the end of the phase, your OFFICERS can issue Orders to REGIMENT units and SQUADRON units."
   },
   {
     "ability_id": "over-the-top",
@@ -5247,7 +5247,7 @@
       "ref": "10th/json/astramilitarum.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, when your model issues the Move! Move! Move! Order, it can issue that Order to any number of eligible friendly INFANTRY REGIMENT units, regardless of range to your model."
+    "raw_text": "2CP. WHEN: Start of your Command phase. TARGET: One INFANTRY OFFICER model from your army. EFFECT: Until the end of the phase, when your model issues the Move! Move! Move! Order, it can issue that Order to any number of eligible friendly INFANTRY REGIMENT units, regardless of range to your model."
   },
   {
     "ability_id": "scramble-field",
@@ -5264,7 +5264,7 @@
       "ref": "10th/json/astramilitarum.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, enemy units that are set up on the battlefield as Reinforcements cannot be set up within 12\" of your unit."
+    "raw_text": "1CP. WHEN: Start of your opponent’s Reinforcements step. TARGET: One ASTRA MILITARUM INFANTRY unit from your army. EFFECT: Until the end of the phase, enemy units that are set up on the battlefield as Reinforcements cannot be set up within 12\" of your unit."
   },
   {
     "ability_id": "tanglefoot-grenades",
@@ -5281,7 +5281,7 @@
       "ref": "10th/json/astramilitarum.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an enemy unit selects your unit as the target of a charge, subtract 2 from the Charge roll (this is not cumulative with any other negative modifiers to that Charge roll)."
+    "raw_text": "1CP. WHEN: Start of your opponent’s Charge phase. TARGET: One ASTRA MILITARUM GRENADES unit from your army. EFFECT: Until the end of the phase, each time an enemy unit selects your unit as the target of a charge, subtract 2 from the Charge roll (this is not cumulative with any other negative modifiers to that Charge roll)."
   },
   {
     "ability_id": "vox-relay",
@@ -5298,7 +5298,7 @@
       "ref": "10th/json/astramilitarum.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, your unit can issue Orders even though it is not on the battlefield, and it can issue Orders to ASTRA MILITARUM TRANSPORT units from your army (excluding TITANIC units) regardless of the distance to and from your unit’s TRANSPORT."
+    "raw_text": "1CP. WHEN: Your Command phase. TARGET: One INFANTRY OFFICER unit from your army embarked within a TRANSPORT. You can use this Stratagem on that unit even though it is embarked within a TRANSPORT. EFFECT: Until the end of the phase, your unit can issue Orders even though it is not on the battlefield, and it can issue Orders to ASTRA MILITARUM TRANSPORT units from your army (excluding TITANIC units) regardless of the distance to and from your unit’s TRANSPORT."
   },
   {
     "ability_id": "minefield",
@@ -5315,7 +5315,7 @@
       "ref": "10th/json/astramilitarum.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an enemy unit ends a Charge move within Engagement Range of your unit, roll one D6 for each model in that enemy unit: for each 5+, that enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds)."
+    "raw_text": "1CP. WHEN: Start of your opponent’s Charge phase. TARGET: One PLATOON unit from your army. EFFECT: Until the end of the phase, each time an enemy unit ends a Charge move within Engagement Range of your unit, roll one D6 for each model in that enemy unit: for each 5+, that enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds)."
   },
   {
     "ability_id": "flare-burst",
@@ -5332,6 +5332,6 @@
       "ref": "10th/json/astramilitarum.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time your unit makes an attack that targets a visible enemy unit within 12\", you can re-roll the Hit roll."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One ASTRA MILITARUM CHARACTER unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, each time your unit makes an attack that targets a visible enemy unit within 12\", you can re-roll the Hit roll."
   }
 ]

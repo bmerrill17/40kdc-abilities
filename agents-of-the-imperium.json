@@ -2499,7 +2499,7 @@
       "ref": "10th/json/agents.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes a ranged attack that targets a unit within 12\", improve the Strength and Armour Penetration characteristics of that attack by 1."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One VOIDFARERS unit from your army. EFFECT: Until the end of the phase, each time a model in your unit makes a ranged attack that targets a unit within 12\", improve the Strength and Armour Penetration characteristics of that attack by 1."
   },
   {
     "ability_id": "dispense-justice",
@@ -2516,7 +2516,7 @@
       "ref": "10th/json/agents.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, weapons equipped by models in your unit have the [LETHAL HITS] ability."
+    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase. TARGET: One ADEPTUS ARBITES, INQUISITORIAL AGENTS or ORDO HERETICUS unit from your army that has not been selected to shoot or fight this phase. EFFECT: Until the end of the phase, weapons equipped by models in your unit have the [LETHAL HITS] ability."
   },
   {
     "ability_id": "armour-of-contempt",
@@ -2533,7 +2533,7 @@
       "ref": "10th/json/agents.json",
       "edition": "10e"
     },
-    "raw_text": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. TARGET: One DEATHWATCH unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
   },
   {
     "ability_id": "masters-of-the-void",
@@ -2550,7 +2550,7 @@
       "ref": "10th/json/agents.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each AGENTS OF THE IMPERIUM unit from your army that is arriving from Strategic Reserves this turn can be set up within your opponent’s deployment zone (all other restrictions still apply)."
+    "raw_text": "1CP. WHEN: Your Movement phase. TARGET: One VOIDFARERS CHARACTER unit from your army. EFFECT: Until the end of the phase, each AGENTS OF THE IMPERIUM unit from your army that is arriving from Strategic Reserves this turn can be set up within your opponent’s deployment zone (all other restrictions still apply)."
   },
   {
     "ability_id": "selfless-bodyguard",
@@ -2567,7 +2567,7 @@
       "ref": "10th/json/agents.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an attack with the [PRECISION] ability is allocated to a CHARACTER model in your unit, if there are one or more Bodyguard models in your unit, roll one D6: on a 2+, that attack is allocated to a Bodyguard model of your choice in your unit instead."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. TARGET: One AGENTS OF THE IMPERIUM Attached unit that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time an attack with the [PRECISION] ability is allocated to a CHARACTER model in your unit, if there are one or more Bodyguard models in your unit, roll one D6: on a 2+, that attack is allocated to a Bodyguard model of your choice in your unit instead."
   },
   {
     "ability_id": "execution-order",
@@ -2584,7 +2584,7 @@
       "ref": "10th/json/agents.json",
       "edition": "10e"
     },
-    "raw_text": "Select one enemy CHARACTER unit on the battlefield. Until the start of your next Command phase, each time a model in your unit targets that CHARACTER unit, its weapons have the [PRECISION] ability."
+    "raw_text": "2CP. WHEN: Your Command phase. TARGET: One ADEPTUS ARBITES, INQUISITORIAL AGENTS or ORDO HERETICUS INFANTRY unit from your army. EFFECT: Select one enemy CHARACTER unit on the battlefield. Until the start of your next Command phase, each time a model in your unit targets that CHARACTER unit, its weapons have the [PRECISION] ability."
   },
   {
     "ability_id": "emperors-will",
@@ -2601,7 +2601,7 @@
       "ref": "10th/json/agents.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, your unit is eligible to shoot in a turn in which it Advanced or Fell Back."
+    "raw_text": "1CP. WHEN: Your Movement phase. TARGET: One AGENTS OF THE IMPERIUM unit from your army. EFFECT: Until the end of the phase, your unit is eligible to shoot in a turn in which it Advanced or Fell Back."
   },
   {
     "ability_id": "line-of-fire",
@@ -2618,7 +2618,7 @@
       "ref": "10th/json/agents.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, models in your unit can target enemy units that are within Engagement Range of one or more friendly units with ranged weapons (excluding Blast weapons), provided the target is within 12\"."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One ADEPTUS ARBITES, INQUISITORIAL AGENTS or ORDO HERETICUS unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, models in your unit can target enemy units that are within Engagement Range of one or more friendly units with ranged weapons (excluding Blast weapons), provided the target is within 12\"."
   },
   {
     "ability_id": "exact-punishment",
@@ -2635,7 +2635,7 @@
       "ref": "10th/json/agents.json",
       "edition": "10e"
     },
-    "raw_text": "After the attacking unit has shot, your unit can shoot as if it were your Shooting phase, but when resolving those attacks it can only target that enemy unit (and only if it is an eligible target)."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an AGENTS OF THE IMPERIUM unit from your army is destroyed as the result of an enemy unit’s attacks. TARGET: One ADEPTUS ARBITES, INQUISITORIAL AGENTS or ORDO HERETICUS unit from your army that was within 6\" of the destroyed unit (you cannot target the destroyed unit with the Stratagem). EFFECT: After the attacking unit has shot, your unit can shoot as if it were your Shooting phase, but when resolving those attacks it can only target that enemy unit (and only if it is an eligible target)."
   },
   {
     "ability_id": "inviolate-jurisdiction",
@@ -2652,7 +2652,7 @@
       "ref": "10th/json/agents.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, models in your unit have the Feel No Pain 5+ ability."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. TARGET: One ADEPTUS ARBITES, INQUISITORIAL AGENTS or ORDO HERETICUS INFANTRY unit from your army within range of an objective marker and that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, models in your unit have the Feel No Pain 5+ ability."
   },
   {
     "ability_id": "will-sapping-salvo",
@@ -2669,7 +2669,7 @@
       "ref": "10th/json/agents.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, ranged weapons equipped by models in your unit have the [SUSTAINED HITS 1] ability. In addition, if it is a CULEXUS ASSASSIN unit, until the end of the phase, change the Damage characteristic of ranged weapons equipped by models in your unit to 3."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One AGENTS OF THE IMPERIUM INFANTRY unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, ranged weapons equipped by models in your unit have the [SUSTAINED HITS 1] ability. In addition, if it is a CULEXUS ASSASSIN unit, until the end of the phase, change the Damage characteristic of ranged weapons equipped by models in your unit to 3."
   },
   {
     "ability_id": "adaptive-tactics",
@@ -2686,7 +2686,7 @@
       "ref": "10th/json/agents.json",
       "edition": "10e"
     },
-    "raw_text": "Select the Furor Tactics, Malleus Tactics or Purgatus Tactics. Until the start of your next Command phase, that Deathwatch Mission Tactic is active for your unit instead of any other Deathwatch Mission Tactic that is active for your army, even if you have already selected that Deathwatch Mission Tactic this battle."
+    "raw_text": "1CP. WHEN: Your Command phase. TARGET: One DEATHWATCH unit from your army. EFFECT: Select the Furor Tactics, Malleus Tactics or Purgatus Tactics. Until the start of your next Command phase, that Deathwatch Mission Tactic is active for your unit instead of any other Deathwatch Mission Tactic that is active for your army, even if you have already selected that Deathwatch Mission Tactic this battle."
   },
   {
     "ability_id": "rapid-tactical-relocation",
@@ -2703,7 +2703,7 @@
       "ref": "10th/json/agents.json",
       "edition": "10e"
     },
-    "raw_text": "Remove your unit from the battlefield. In the Reinforcements step of your next Movement phase, set your unit up anywhere on the battlefield that is more than 9\" horizontally away from all enemy models."
+    "raw_text": "1CP. WHEN: End of your opponent’s Fight phase. TARGET: One INQUISTOR or DEATHWATCH INFANTRY unit from your army. EFFECT: Remove your unit from the battlefield. In the Reinforcements step of your next Movement phase, set your unit up anywhere on the battlefield that is more than 9\" horizontally away from all enemy models. RESTRICTIONS: You cannot select a unit that is within Engagement Range of one or more enemy units."
   },
   {
     "ability_id": "ritual-of-warding",
@@ -2720,7 +2720,7 @@
       "ref": "10th/json/agents.json",
       "edition": "10e"
     },
-    "raw_text": "That objective marker is said to be Warded and remains under your control, even if you have no models within range of it, until your opponent controls it at the start or end of any turn. While an objective marker is Warded and under your control, enemy DAEMON units cannot be set up on the battlefield within 6\" of it."
+    "raw_text": "1CP. WHEN: Start of any Command phase. TARGET: One INQUISITOR, INQUISITORIAL AGENTS or ORDO MALLEUS unit from your army that is within range of an objective marker you control. EFFECT: That objective marker is said to be Warded and remains under your control, even if you have no models within range of it, until your opponent controls it at the start or end of any turn. While an objective marker is Warded and under your control, enemy DAEMON units cannot be set up on the battlefield within 6\" of it."
   },
   {
     "ability_id": "rites-of-exorcism",
@@ -2737,7 +2737,7 @@
       "ref": "10th/json/agents.json",
       "edition": "10e"
     },
-    "raw_text": "Select one enemy DAEMON unit within 12\" and visible to your unit. That unit must take a Battle‐shock test. If that test is failed, then until the end of the phase, each time a friendly AGENTS OF THE IMPERIUM unit makes an attack that targets that DAEMON unit, that attack has the [DEVASTATING WOUNDS] ability."
+    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase. TARGET: One INQUISITOR, INQUISITORIAL AGENTS or ORDO MALLEUS unit from your army. EFFECT: Select one enemy DAEMON unit within 12\" and visible to your unit. That unit must take a Battle‐shock test. If that test is failed, then until the end of the phase, each time a friendly AGENTS OF THE IMPERIUM unit makes an attack that targets that DAEMON unit, that attack has the [DEVASTATING WOUNDS] ability."
   },
   {
     "ability_id": "steel-heart",
@@ -2754,7 +2754,7 @@
       "ref": "10th/json/agents.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
+    "raw_text": "1CP. WHEN: Your Movement phase, just after a GREY KNIGHTS TERMINATOR SQUAD unit from your army Falls Back. TARGET: That GREY KNIGHTS TERMINATOR SQUAD unit. EFFECT: Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
   },
   {
     "ability_id": "violent-acquisition",
@@ -2771,7 +2771,7 @@
       "ref": "10th/json/agents.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit within range of an objective marker, that attack has the [SUSTAINED HITS 1], [LANCE] and [IGNORES COVER] abilities."
+    "raw_text": "2CP. WHEN: Your Shooting phase or the Fight phase. TARGET: One AGENTS OF THE IMPERIUM unit from your army. EFFECT: Until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit within range of an objective marker, that attack has the [SUSTAINED HITS 1], [LANCE] and [IGNORES COVER] abilities."
   },
   {
     "ability_id": "displacer-field",
@@ -2788,7 +2788,7 @@
       "ref": "10th/json/agents.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, models in your unit have a 4+ invulnerable save and, after the attacking unit has resolved its attacks, unless your unit is within Engagement Range of one or more enemy units, it can make a Normal move of up to 6\" (when doing so, models in this unit move as if they have the FLY keyword)."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets. TARGET: One AGENTS OF THE IMPERIUM CHARACTER unit from your army (excluding OFFICIO ASSASSINORUM units) that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, models in your unit have a 4+ invulnerable save and, after the attacking unit has resolved its attacks, unless your unit is within Engagement Range of one or more enemy units, it can make a Normal move of up to 6\" (when doing so, models in this unit move as if they have the FLY keyword)."
   },
   {
     "ability_id": "stun-grenades",
@@ -2805,7 +2805,7 @@
       "ref": "10th/json/agents.json",
       "edition": "10e"
     },
-    "raw_text": "Select one enemy unit (excluding MONSTERS or VEHICLES) within 8\" of and visible to your unit. That enemy unit must take a Battle‐shock test and, until the end of the phase, each time a model in that unit makes an attack, subtract 1 from the Hit roll."
+    "raw_text": "1CP. WHEN: Start of any phase (excluding the Command phase). TARGET: One ADEPTUS ARBITES, INQUISITORIAL AGENTS or ORDO HERETICUS GRENADES unit from your army that is not within Engagement Range of one or more enemy units. EFFECT: Select one enemy unit (excluding MONSTERS or VEHICLES) within 8\" of and visible to your unit. That enemy unit must take a Battle‐shock test and, until the end of the phase, each time a model in that unit makes an attack, subtract 1 from the Hit roll."
   },
   {
     "ability_id": "hellfire-rounds",
@@ -2822,7 +2822,7 @@
       "ref": "10th/json/agents.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, ranged weapons (excluding Devastating Wounds weapons) equipped by models in your unit have the [ANTI‐INFANTRY 2+] and [ANTI‐MONSTER 5+] abilities."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One DEATHWATCH INFANTRY unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, ranged weapons (excluding Devastating Wounds weapons) equipped by models in your unit have the [ANTI‐INFANTRY 2+] and [ANTI‐MONSTER 5+] abilities. RESTRICTIONS: You cannot select any units that have already been targeted with either the Kraken Rounds or Dragonfire Rounds Stratagems this phase."
   },
   {
     "ability_id": "dragonfire-rounds",
@@ -2839,7 +2839,7 @@
       "ref": "10th/json/agents.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, ranged weapons equipped by models in your unit have the [ASSAULT] and [IGNORES COVER] abilities."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One DEATHWATCH INFANTRY unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, ranged weapons equipped by models in your unit have the [ASSAULT] and [IGNORES COVER] abilities. RESTRICTIONS: You cannot select any units that have already been targeted with either the Kraken Rounds or Hellfire Rounds Stratagems this phase."
   },
   {
     "ability_id": "kraken-rounds",
@@ -2856,7 +2856,7 @@
       "ref": "10th/json/agents.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, improve the Armour Penetration characteristic of ranged weapons equipped by models in your unit by 1 and improve the Range characteristic of those weapons by 6\"."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One DEATHWATCH INFANTRY unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, improve the Armour Penetration characteristic of ranged weapons equipped by models in your unit by 1 and improve the Range characteristic of those weapons by 6\". RESTRICTIONS: You cannot select any units that have already been targeted with either the Dragonfire Rounds or Hellfire Rounds Stratagems this phase."
   },
   {
     "ability_id": "truesilver-armour",
@@ -2873,7 +2873,7 @@
       "ref": "10th/json/agents.json",
       "edition": "10e"
     },
-    "raw_text": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. TARGET: One GREY KNIGHTS TERMINATOR SQUAD unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
   },
   {
     "ability_id": "hexagrammic-wards",
@@ -2890,7 +2890,7 @@
       "ref": "10th/json/agents.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, all Psychic weapons equipped by models in the attacking unit have the [HAZARDOUS] ability."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. TARGET: One ORDO MALLEUS unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, all Psychic weapons equipped by models in the attacking unit have the [HAZARDOUS] ability."
   },
   {
     "ability_id": "psybolt-ammunition",
@@ -2907,6 +2907,6 @@
       "ref": "10th/json/agents.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, ranged weapons equipped by models in your unit have the [LETHAL HITS] and [PSYCHIC] abilities."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One GREY KNIGHTS TERMINATOR SQUAD unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, ranged weapons equipped by models in your unit have the [LETHAL HITS] and [PSYCHIC] abilities."
   }
 ]

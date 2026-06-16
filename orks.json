@@ -1974,7 +1974,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, ranged weapons equipped by models in your unit have the [IGNORES COVER] ability."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One ORKS unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, ranged weapons equipped by models in your unit have the [IGNORES COVER] ability."
   },
   {
     "ability_id": "rollin-deff-speshul-shells",
@@ -1991,7 +1991,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes a ranged attack that targets the closest eligible target within 18\", improve the Armour Penetration characteristic of ranged weapons equipped by models in your unit by 1."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One ORKS unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, each time a model in your unit makes a ranged attack that targets the closest eligible target within 18\", improve the Armour Penetration characteristic of ranged weapons equipped by models in your unit by 1."
   },
   {
     "ability_id": "dakka-dakka-dakka",
@@ -2008,7 +2008,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Each time you use this Stratagem, you can choose to push it. Until the end of the phase, each time a model in your unit makes an attack, re‑roll a Hit roll of 1. If you chose to push it, you can re‑roll the Hit roll instead and, until the end of the phase, ranged weapons equipped by models in your unit have the [HAZARDOUS] ability as well."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One ORKS WALKER or GROTS VEHICLE unit from your army that has not been selected to shoot this phase. EFFECT: Each time you use this Stratagem, you can choose to push it. Until the end of the phase, each time a model in your unit makes an attack, re‑roll a Hit roll of 1. If you chose to push it, you can re‑roll the Hit roll instead and, until the end of the phase, ranged weapons equipped by models in your unit have the [HAZARDOUS] ability as well."
   },
   {
     "ability_id": "rollin-deff-dead-shiny-shootas",
@@ -2059,7 +2059,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "If your ORKS INFANTRY unit is wholly within 6\" of that TRANSPORT, it can embark within it."
+    "raw_text": "1CP. WHEN: End of the Fight phase. TARGET: One ORKS INFANTRY unit from your army that is not within Engagement Range of one or more enemy units, and one friendly TRANSPORT it is able to embark within. EFFECT: If your ORKS INFANTRY unit is wholly within 6\" of that TRANSPORT, it can embark within it."
   },
   {
     "ability_id": "armoured-duellists",
@@ -2076,7 +2076,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time your unit makes an attack that targets a MONSTER or VEHICLE unit, add 1 to the Hit roll and add 1 to the Wound roll."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One ORKS VEHICLE unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, each time your unit makes an attack that targets a MONSTER or VEHICLE unit, add 1 to the Hit roll and add 1 to the Wound roll."
   },
   {
     "ability_id": "impervious",
@@ -2093,7 +2093,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an attack targets your unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of your unit, subtract 1 from the Wound roll."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets. TARGET: One BATTLEWAGON, KILL RIG or HUNTA RIG unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time an attack targets your unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of your unit, subtract 1 from the Wound roll."
   },
   {
     "ability_id": "mekanised-brutality",
@@ -2110,7 +2110,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, each time a unit disembarks from your unit after your unit makes a Normal move, that disembarked unit is still eligible to declare a charge this turn."
+    "raw_text": "1CP. WHEN: Your Movement phase. TARGET: One BATTLEWAGON, KILL RIG or HUNTA RIG unit from your army that has not been selected to move this phase. EFFECT: Until the end of the turn, each time a unit disembarks from your unit after your unit makes a Normal move, that disembarked unit is still eligible to declare a charge this turn."
   },
   {
     "ability_id": "run-em-down",
@@ -2127,7 +2127,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Select up to two other friendly ORKS VEHICLE or ORKS MONSTER units within 6\" of your unit. Until the end of the turn, your unit and each unit you selected are eligible to declare a charge in a turn in which they Advanced."
+    "raw_text": "1CP. WHEN: Your Movement phase. TARGET: One BATTLEWAGON, KILL RIG or HUNTA RIG unit from your army that has not been selected to move this phase. EFFECT: Select up to two other friendly ORKS VEHICLE or ORKS MONSTER units within 6\" of your unit. Until the end of the turn, your unit and each unit you selected are eligible to declare a charge in a turn in which they Advanced."
   },
   {
     "ability_id": "yooz-in-trouble-now",
@@ -2144,7 +2144,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "One ORKS INFANTRY unit embarked within your model can disembark and make a Surge move. To do so, roll one D6: models in that unit move a number of inches up to this result, but that unit must end that move as close as possible to the closest enemy unit (excluding AIRCRAFT). When doing so, those models can be moved within Engagement Range of that enemy unit."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has shot. TARGET: One BATTLEWAGON, HUNTA RIG or KILL RIG model from your army that was hit by one or more of the attacking unit’s attacks. EFFECT: One ORKS INFANTRY unit embarked within your model can disembark and make a Surge move. To do so, roll one D6: models in that unit move a number of inches up to this result, but that unit must end that move as close as possible to the closest enemy unit (excluding AIRCRAFT). When doing so, those models can be moved within Engagement Range of that enemy unit."
   },
   {
     "ability_id": "runnin-boots",
@@ -2841,7 +2841,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, ranged weapons equipped by models in your unit have the [LETHAL HITS] ability and, each time a model in your unit makes an attack that targets a unit within 9\", a Critical Hit is scored on an unmodified Hit roll of 5+, instead of only a 6."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One SPEED FREEKS unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, ranged weapons equipped by models in your unit have the [LETHAL HITS] ability and, each time a model in your unit makes an attack that targets a unit within 9\", a Critical Hit is scored on an unmodified Hit roll of 5+, instead of only a 6. RESTRICTIONS: A unit cannot be targeted by this and the Dakkastorm Stratagem in the same phase."
   },
   {
     "ability_id": "stalkin-taktiks",
@@ -2858,7 +2858,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a ranged attack targets your unit, models in your unit have the Benefit of Cover against that attack. In addition, if your unit has the Infantry keyword, until the end of the phase, models in your unit have the Stealth ability."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets. TARGET: One BEAST SNAGGA INFANTRY or BEAST SNAGGA MOUNTED unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time a ranged attack targets your unit, models in your unit have the Benefit of Cover against that attack. In addition, if your unit has the Infantry keyword, until the end of the phase, models in your unit have the Stealth ability."
   },
   {
     "ability_id": "drag-it-down",
@@ -2875,7 +2875,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, melee weapons equipped by models in your unit have the [SUSTAINED HITS 1] ability. In addition, each time a model in your unit makes a melee attack that targets your Prey, a Critical Hit is scored on an unmodified Hit roll of 5+, instead of only a 6."
+    "raw_text": "1CP. WHEN: Fight phase. TARGET: One BEAST SNAGGA unit from your army that has not been selected to fight this phase. EFFECT: Until the end of the phase, melee weapons equipped by models in your unit have the [SUSTAINED HITS 1] ability. In addition, each time a model in your unit makes a melee attack that targets your Prey, a Critical Hit is scored on an unmodified Hit roll of 5+, instead of only a 6."
   },
   {
     "ability_id": "klankin-klaws",
@@ -2892,7 +2892,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Each time you use this Stratagem, you can choose to push it. Until the end of the phase, add 2 to the Strength characteristic of melee weapons equipped by models in your unit and, if you chose to push it, until the end of the phase, add 1 to the Damage characteristic of those weapons and they have the [HAZARDOUS] ability as well."
+    "raw_text": "1CP. WHEN: Fight phase. TARGET: One ORKS WALKER unit from your army that has not been selected to fight this phase. EFFECT: Each time you use this Stratagem, you can choose to push it. Until the end of the phase, add 2 to the Strength characteristic of melee weapons equipped by models in your unit and, if you chose to push it, until the end of the phase, add 1 to the Damage characteristic of those weapons and they have the [HAZARDOUS] ability as well."
   },
   {
     "ability_id": "bigger-shells-for-bigger-gitz",
@@ -2909,7 +2909,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Each time you use this Stratagem, you can choose to push it. Until the end of the phase, each time a model in your unit makes an attack that targets a MONSTER or VEHICLE, add 1 to the Wound roll. If you chose to push it, add 1 to the Damage characteristic of that attack and, until the end of the phase, ranged weapons equipped by models in your unit have the [HAZARDOUS] ability as well."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One MEK, ORKS WALKER or GROTS VEHICLE unit from your army that has not been selected to shoot this phase. EFFECT: Each time you use this Stratagem, you can choose to push it. Until the end of the phase, each time a model in your unit makes an attack that targets a MONSTER or VEHICLE, add 1 to the Wound roll. If you chose to push it, add 1 to the Damage characteristic of that attack and, until the end of the phase, ranged weapons equipped by models in your unit have the [HAZARDOUS] ability as well."
   },
   {
     "ability_id": "extra-gubbinz",
@@ -2926,7 +2926,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an attack is allocated to a model in your unit, subtract 1 from the Damage characteristic of that attack."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets. TARGET: One ORKS WALKER or GROTS VEHICLE unit from your army (excluding TITANIC units) that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time an attack is allocated to a model in your unit, subtract 1 from the Damage characteristic of that attack."
   },
   {
     "ability_id": "unbridled-carnage",
@@ -2943,7 +2943,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes a melee attack, an unmodified hit roll of 5+ scores a Critical Hit."
+    "raw_text": "1CP. WHEN: Fight phase. TARGET: One Orks unit from your army that has not been selected to fight this phase. EFFECT: Until the end of the phase, each time a model in your unit makes a melee attack, an unmodified hit roll of 5+ scores a Critical Hit."
   },
   {
     "ability_id": "ard-as-nails",
@@ -2960,7 +2960,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Wound roll."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. TARGET: One ORKS unit from your army (excluding GROTS, MONSTER and VEHICLE units) that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time an attack targets your unit, subtract 1 from the Wound roll."
   },
   {
     "ability_id": "mob-rule",
@@ -2977,7 +2977,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Select one friendly Battle‑shocked ORKS INFANTRY unit within 6\" of that Mob unit. That ORKS INFANTRY unit is no longer Battle‑shocked."
+    "raw_text": "1CP. WHEN: End of your Command phase. TARGET: One MOB unit from your army that contains 10 or more models and is not Below Half‑strength. EFFECT: Select one friendly Battle‑shocked ORKS INFANTRY unit within 6\" of that Mob unit. That ORKS INFANTRY unit is no longer Battle‑shocked."
   },
   {
     "ability_id": "ere-we-go",
@@ -2994,7 +2994,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, add 2 to Advance and Charge rolls made for your unit."
+    "raw_text": "1CP. WHEN: Start of your Movement phase. TARGET: One ORKS INFANTRY unit from your army. EFFECT: Until the end of the turn, add 2 to Advance and Charge rolls made for your unit."
   },
   {
     "ability_id": "armed-to-da-teef",
@@ -3011,7 +3011,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, re‑roll a Hit roll of 1. If a Waaagh! is active for your unit, you can re‑roll the Hit roll instead."
+    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase. TARGET: One NOBZ or MEGANOBZ unit from your army that has not been selected to shoot or fight this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack, re‑roll a Hit roll of 1. If a Waaagh! is active for your unit, you can re‑roll the Hit roll instead."
   },
   {
     "ability_id": "cut-em-down",
@@ -3028,7 +3028,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "When that enemy unit Falls Back, all models in that enemy unit must take a Desperate Escape test. When doing so, if a Waaagh! is active for your unit, subtract 1 from each of those tests."
+    "raw_text": "1CP. WHEN: Your opponent’s Movement phase, just after an enemy unit is selected to Fall Back. TARGET: One NOBZ or MEGANOBZ unit from your army within Engagement Range of that enemy unit. EFFECT: When that enemy unit Falls Back, all models in that enemy unit must take a Desperate Escape test. When doing so, if a Waaagh! is active for your unit, subtract 1 from each of those tests."
   },
   {
     "ability_id": "hulking-brutes",
@@ -3045,7 +3045,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets. TARGET: One NOBZ or MEGANOBZ unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
   },
   {
     "ability_id": "competitive-streak",
@@ -3062,7 +3062,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, re‑roll a Wound roll of 1. If your unit contains 10 or more models, re‑roll the Wound roll instead."
+    "raw_text": "1CP. WHEN: Fight phase. TARGET: One BOYZ unit from your army that has not been selected to fight this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack, re‑roll a Wound roll of 1. If your unit contains 10 or more models, re‑roll the Wound roll instead."
   },
   {
     "ability_id": "bulldozer-brutality",
@@ -3079,7 +3079,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time your unit is selected to fight, when determining which models in your unit are eligible to fight, any models in your unit that are within 3\" of one or more enemy models are eligible to fight. When resolving those attacks, such models can target one of those enemy units that is within 3\" of them and within Engagement Range of their unit."
+    "raw_text": "1CP. WHEN: Fight phase. TARGET: One BOYZ unit from your army that has not been selected to fight this phase and is within Engagement Range of one or more enemy units. EFFECT: Until the end of the phase, each time your unit is selected to fight, when determining which models in your unit are eligible to fight, any models in your unit that are within 3\" of one or more enemy models are eligible to fight. When resolving those attacks, such models can target one of those enemy units that is within 3\" of them and within Engagement Range of their unit."
   },
   {
     "ability_id": "fight-proppa",
@@ -3096,7 +3096,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Select the [SUSTAINED HITS 1] or [LETHAL HITS] ability. Until the end of the phase, melee weapons equipped by models in your unit have the selected ability."
+    "raw_text": "1CP. WHEN: Fight phase. TARGET: One ORKS INFANTRY or ORKS MOUNTED unit from your army that has not been selected to fight this phase. EFFECT: Select the [SUSTAINED HITS 1] or [LETHAL HITS] ability. Until the end of the phase, melee weapons equipped by models in your unit have the selected ability."
   },
   {
     "ability_id": "krunchin-descent",
@@ -3113,7 +3113,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Select one enemy unit within Engagement Range of your unit, then roll one D6 for each model in your unit that is within Engagement Range of that enemy unit: for each 4+, that enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds)."
+    "raw_text": "1CP. WHEN: Your Charge phase, just after a STORMBOYZ unit from your army ends a Charge move. TARGET: That STORMBOYZ unit. EFFECT: Select one enemy unit within Engagement Range of your unit, then roll one D6 for each model in your unit that is within Engagement Range of that enemy unit: for each 4+, that enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds)."
   },
   {
     "ability_id": "orks-is-still-orks",
@@ -3130,7 +3130,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit, re‐roll a Wound roll of 1. If that enemy unit is within range of an objective marker, you can re‐roll the Wound roll instead."
+    "raw_text": "1CP. WHEN: Fight phase. TARGET: One ORKS unit from your army that has not been selected to fight this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit, re‐roll a Wound roll of 1. If that enemy unit is within range of an objective marker, you can re‐roll the Wound roll instead."
   },
   {
     "ability_id": "long-uncontrolled-bursts",
@@ -3147,7 +3147,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, ranged weapons equipped by models in your unit have the [IGNORES COVER] ability."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One ORKS unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, ranged weapons equipped by models in your unit have the [IGNORES COVER] ability."
   },
   {
     "ability_id": "bash-and-grab",
@@ -3164,7 +3164,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit within range of the loot objective, you can re‑roll the Wound roll."
+    "raw_text": "1CP. WHEN: The Fight phase. TARGET: One ORKS unit from your army that has not been selected to fight this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit within range of the loot objective, you can re‑roll the Wound roll."
   },
   {
     "ability_id": "boardin-rush",
@@ -3181,7 +3181,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time your unit Advances, do not make an Advance roll. Instead, until the end of the phase, add 6\" to the Move characteristic of models in your unit."
+    "raw_text": "1CP. WHEN: Your Movement phase. TARGET: One ORKS unit from your army that has not been selected to move this phase. EFFECT: Until the end of the phase, each time your unit Advances, do not make an Advance roll. Instead, until the end of the phase, add 6\" to the Move characteristic of models in your unit."
   },
   {
     "ability_id": "careen",
@@ -3198,7 +3198,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can make a Normal or Fall Back move before its Deadly Demise ability is resolved, and before any embarked units perform an Emergency Disembarkation. When making this move, your unit can move over enemy units (excluding MONSTERS and VEHICLES) as if they were not there."
+    "raw_text": "1CP. WHEN: Any phase, just after an ORKS VEHICLE unit from your army with the Deadly Demise ability is destroyed. TARGET: That destroyed ORKS VEHICLE unit, if you rolled a 6 for its Deadly Demise ability. You can use this Stratagem on that unit even though it was just destroyed. EFFECT: Your unit can make a Normal or Fall Back move before its Deadly Demise ability is resolved, and before any embarked units perform an Emergency Disembarkation. When making this move, your unit can move over enemy units (excluding MONSTERS and VEHICLES) as if they were not there."
   },
   {
     "ability_id": "crushing-impact",
@@ -3215,7 +3215,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Select one enemy unit within Engagement Range of your unit, then roll one D6 for each model in your unit that is within Engagement Range of that enemy unit: for each 5+, that enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds). If a Waaagh! is active for your unit, that enemy unit suffers 1 mortal wound for each 4+ instead."
+    "raw_text": "1CP. WHEN: Your Charge phase, just after a NOBZ or MEGANOBZ unit from your army ends a Charge move. TARGET: That NOBZ or MEGANOBZ unit. EFFECT: Select one enemy unit within Engagement Range of your unit, then roll one D6 for each model in your unit that is within Engagement Range of that enemy unit: for each 5+, that enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds). If a Waaagh! is active for your unit, that enemy unit suffers 1 mortal wound for each 4+ instead."
   },
   {
     "ability_id": "tide-of-muscle",
@@ -3232,7 +3232,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time your unit declares a charge, add 1 to the Charge roll and, if your unit contains 10 or more models, you can re-roll the Charge roll."
+    "raw_text": "1CP. WHEN: Your Charge phase. TARGET: One BOYZ unit from your army that has not declared a charge this phase. EFFECT: Until the end of the phase, each time your unit declares a charge, add 1 to the Charge roll and, if your unit contains 10 or more models, you can re-roll the Charge roll."
   },
   {
     "ability_id": "huge-show-offs",
@@ -3249,7 +3249,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Until the start of your next Command phase, improve your unit’s Move, Leadership and Objective Control characteristics by 1, and each time a model in your unit makes an attack, add 1 to the Hit roll."
+    "raw_text": "1CP. WHEN: Your Command phase. TARGET: One ORKS WALKER unit (excluding KILLA KANS) from your army. EFFECT: Until the start of your next Command phase, improve your unit’s Move, Leadership and Objective Control characteristics by 1, and each time a model in your unit makes an attack, add 1 to the Hit roll."
   },
   {
     "ability_id": "orks-is-never-beaten",
@@ -3266,7 +3266,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, do not remove it from play. The destroyed model can fight after the attacking unit has finished making attacks, and is then removed from play."
+    "raw_text": "2CP. WHEN: Fight phase, just after an enemy unit has selected its targets. TARGET: One ORKS unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, do not remove it from play. The destroyed model can fight after the attacking unit has finished making attacks, and is then removed from play."
   },
   {
     "ability_id": "get-stuck-in-ladz",
@@ -3283,7 +3283,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Until the start of your next Command phase, the Waaagh! is active for your unit, even if you have already called a Waaagh! this battle.\n\nDesigner’s Note: This means that any abilities that are in effect while the Waaagh! is active for your army will be in effect for your unit."
+    "raw_text": "2CP. WHEN: Your Command phase. TARGET: One ORKS unit (excluding GRETCHIN) from your army. EFFECT: Until the start of your next Command phase, the Waaagh! is active for your unit, even if you have already called a Waaagh! this battle.\n\nDesigner’s Note: This means that any abilities that are in effect while the Waaagh! is active for your army will be in effect for your unit."
   },
   {
     "ability_id": "speediest-freeks",
@@ -3300,7 +3300,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, models in your unit have a 5+ invulnerable save. If your unit is a VEHICLE unit with an unmodified Toughness characteristic of 8 or less, until the end of the phase, models in your unit have a 4+ invulnerable save instead."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. TARGET: One SPEED FREEKS or TRUKK unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, models in your unit have a 5+ invulnerable save. If your unit is a VEHICLE unit with an unmodified Toughness characteristic of 8 or less, until the end of the phase, models in your unit have a 4+ invulnerable save instead."
   },
   {
     "ability_id": "squig-flingin",
@@ -3317,7 +3317,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Select one enemy unit within 9\" of your unit. That enemy unit must take a Battle‑shock test and, when doing so, subtract 1 from the result."
+    "raw_text": "1CP. WHEN: Your Movement phase, just after a SPEED FREEKS or TRUKK unit from your army ends a Normal, Advance or Fall Back move. TARGET: That SPEED FREEKS or TRUKK unit. EFFECT: Select one enemy unit within 9\" of your unit. That enemy unit must take a Battle‑shock test and, when doing so, subtract 1 from the result."
   },
   {
     "ability_id": "more-gitz-over-ere",
@@ -3334,7 +3334,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can make a Normal move of up to 6\"."
+    "raw_text": "1CP. WHEN: Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move. TARGET: One SPEED FREEKS unit from your army that is within 9\" of that enemy unit and is not within Engagement Range of one or more enemy units. EFFECT: Your unit can make a Normal move of up to 6\"."
   },
   {
     "ability_id": "where-dya-fink-youre-going",
@@ -3351,7 +3351,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "If your unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to 6\"."
+    "raw_text": "1CP. WHEN: Your opponent’s Movement phase, just after an enemy unit ends a Fall Back move. TARGET: One BEAST SNAGGA INFANTRY or BEAST SNAGGA MOUNTED unit from your army that was within Engagement Range of that enemy unit at the start of the phase. EFFECT: If your unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to 6\"."
   },
   {
     "ability_id": "instinctive-hunters",
@@ -3368,7 +3368,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Remove your unit from the battlefield and place it into Strategic Reserves."
+    "raw_text": "1CP. WHEN: End of your opponent’s Fight phase. TARGET: One BEAST SNAGGA unit from your army that is not within Engagement Range of one or more enemy unit. EFFECT: Remove your unit from the battlefield and place it into Strategic Reserves."
   },
   {
     "ability_id": "unstoppable-momentum",
@@ -3385,7 +3385,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Select one enemy unit within Engagement Range of your unit and roll one D6 for each model in your unit: for each 4+, that enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds). If that enemy unit is your Prey, roll three additional D6."
+    "raw_text": "1CP. WHEN: Your Charge phase, just after a BEAST SNAGGA MOUNTED unit from your army ends a Charge move. TARGET: That BEAST SNAGGA unit. EFFECT: Select one enemy unit within Engagement Range of your unit and roll one D6 for each model in your unit: for each 4+, that enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds). If that enemy unit is your Prey, roll three additional D6."
   },
   {
     "ability_id": "dat-ones-even-bigga",
@@ -3402,7 +3402,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, your unit is eligible to charge in a turn in which it Advanced or Fell Back. In addition, you can re-roll Charge rolls made for your unit, provided one of the targets of that charge is your Prey."
+    "raw_text": "1CP. WHEN: Your Charge phase. TARGET: One BEAST SNAGGA unit from your army. EFFECT: Until the end of the phase, your unit is eligible to charge in a turn in which it Advanced or Fell Back. In addition, you can re-roll Charge rolls made for your unit, provided one of the targets of that charge is your Prey."
   },
   {
     "ability_id": "superfuelled-boiler",
@@ -3419,7 +3419,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, you can re‑roll Advance rolls made for your unit and ranged weapons equipped by models in your unit have the [ASSAULT] ability."
+    "raw_text": "1CP. WHEN: Your Movement phase, just after an ORKS WALKER unit from your army has been selected to Advance. TARGET: That ORKS WALKER unit. EFFECT: Until the end of the turn, you can re‑roll Advance rolls made for your unit and ranged weapons equipped by models in your unit have the [ASSAULT] ability."
   },
   {
     "ability_id": "conniving-runts",
@@ -3436,7 +3436,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Roll one D6: on a 4+, that enemy unit suffers D3+1 mortal wounds. Your unit can then make a Normal move."
+    "raw_text": "1CP. WHEN: Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move. TARGET: One GRETCHIN unit from your army that is within 9\" of that enemy unit and not within Engagement Range of any enemy units. EFFECT: Roll one D6: on a 4+, that enemy unit suffers D3+1 mortal wounds. Your unit can then make a Normal move."
   },
   {
     "ability_id": "too-arrogant-to-die",
@@ -3453,7 +3453,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not shot or fought this phase, roll one D6, adding 2 to the result if a Waaagh! is active for your unit. On a 5+, do not remove the destroyed model from play; it can shoot or fight after the attacking unit has finished making its attacks, and is then removed from play."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. TARGET: One NOBZ or MEGANOBZ unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time a model in your unit is destroyed, if that model has not shot or fought this phase, roll one D6, adding 2 to the result if a Waaagh! is active for your unit. On a 5+, do not remove the destroyed model from play; it can shoot or fight after the attacking unit has finished making its attacks, and is then removed from play."
   },
   {
     "ability_id": "always-lookin-fer-a-fight",
@@ -3470,7 +3470,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time your unit makes a Consolidation move, it can move up to D3+3\" instead of up to 3\". If a Waaagh! is active for your unit, it can move up to 6\" instead."
+    "raw_text": "1CP. WHEN: Fight phase, just after an enemy unit is destroyed. TARGET: One NOBZ or MEGANOBZ unit from your army that destroyed that enemy unit. EFFECT: Until the end of the phase, each time your unit makes a Consolidation move, it can move up to D3+3\" instead of up to 3\". If a Waaagh! is active for your unit, it can move up to 6\" instead."
   },
   {
     "ability_id": "braggin-rights",
@@ -3487,7 +3487,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Until the start of your next Command phase, while those two units are within 6\" of each other, they both count as containing 10 or more models for the purpose of your Detachment rule, any Enhancements models from your army have and any Stratagems you use."
+    "raw_text": "1CP. WHEN: Your Command phase. TARGET: Two BOYZ units from your army that are within 6\" of each other. EFFECT: Until the start of your next Command phase, while those two units are within 6\" of each other, they both count as containing 10 or more models for the purpose of your Detachment rule, any Enhancements models from your army have and any Stratagems you use."
   },
   {
     "ability_id": "come-on-ladz",
@@ -3504,7 +3504,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Return up to D3+2 destroyed models to your unit (excluding CHARACTER models)."
+    "raw_text": "1CP. WHEN: Your Command phase. TARGET: One BOYZ unit from your army. EFFECT: Return up to D3+2 destroyed models to your unit (excluding CHARACTER models)."
   },
   {
     "ability_id": "go-get-em",
@@ -3521,7 +3521,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "After the attacking unit has shot, your unit can make a Go Get ’Em! move. To do so, roll one D6: each model in your unit can move a distance in inches up to the result, but your unit must end that move as close as possible to the closest enemy unit. When doing so, those models can be moved within Engagement Range of that enemy unit. If your unit contains 10 or more models, you can re-roll the D6 to determine how far your unit can move."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets. TARGET: One BOYZ unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: After the attacking unit has shot, your unit can make a Go Get ’Em! move. To do so, roll one D6: each model in your unit can move a distance in inches up to the result, but your unit must end that move as close as possible to the closest enemy unit. When doing so, those models can be moved within Engagement Range of that enemy unit. If your unit contains 10 or more models, you can re-roll the D6 to determine how far your unit can move."
   },
   {
     "ability_id": "dats-ours",
@@ -3538,7 +3538,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Until the start of the next Command phase, add 1 to the Objective Control characteristic of models in your unit."
+    "raw_text": "1CP. WHEN: Command phase. TARGET: One ORKS unit from your army that is within Engagement Range of one or more enemy units. EFFECT: Until the start of the next Command phase, add 1 to the Objective Control characteristic of models in your unit."
   },
   {
     "ability_id": "taktikal-retreat",
@@ -3555,7 +3555,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
+    "raw_text": "1CP. WHEN: Your Movement phase, just after an ORKS unit from your army Falls Back. TARGET: That ORKS unit. EFFECT: Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
   },
   {
     "ability_id": "on-to-da-next",
@@ -3572,7 +3572,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can make a Normal move of up to 6\"."
+    "raw_text": "1CP. WHEN: Your opponent’s Movement phase, just after an enemy unit Falls Back. TARGET: One ORKS unit from your army that was within Engagement Range of that enemy unit at the start of the phase. EFFECT: Your unit can make a Normal move of up to 6\"."
   },
   {
     "ability_id": "ded-sneaky",
@@ -3589,7 +3589,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Remove your unit from the battlefield and place it into Strategic Reserves."
+    "raw_text": "1CP. WHEN: End of your opponent’s Fight phase. TARGET: One KOMMANDOS or STORMBOYZ unit from your army that is not within Engagement Range of one or more enemy units. EFFECT: Remove your unit from the battlefield and place it into Strategic Reserves."
   },
   {
     "ability_id": "call-dat-dakka",
@@ -3606,7 +3606,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can shoot as if it were your Shooting phase, but must target only that enemy unit when doing so, and can only do so if that enemy unit is an eligible target."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has shot. TARGET: One ORKS unit from your army that had one or more of its models destroyed as a result of the attacking unit’s attacks. EFFECT: Your unit can shoot as if it were your Shooting phase, but must target only that enemy unit when doing so, and can only do so if that enemy unit is an eligible target."
   },
   {
     "ability_id": "grab-and-bash",
@@ -3623,7 +3623,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Until the start of your next Command phase, the Waaagh! is active for your unit, even if you have already called a Waaagh! this battle.\n\nDesigner’s Note: This means that any abilities that are in effect while the Waaagh! is active for your army will be in effect for your unit."
+    "raw_text": "1CP. WHEN: Your Command phase. TARGET: One ORKS unit from your army (excluding GRETCHIN units) that is within range of the loot objective. EFFECT: Until the start of your next Command phase, the Waaagh! is active for your unit, even if you have already called a Waaagh! this battle.\n\nDesigner’s Note: This means that any abilities that are in effect while the Waaagh! is active for your army will be in effect for your unit."
   },
   {
     "ability_id": "deck-fraggers",
@@ -3640,7 +3640,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit targets an INFANTRY unit with a ranged weapon, that weapon has the [BLAST] ability."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One ORKS unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, each time a model in your unit targets an INFANTRY unit with a ranged weapon, that weapon has the [BLAST] ability."
   },
   {
     "ability_id": "rolling-loot-heap",
@@ -3657,7 +3657,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, ranged weapons equipped by models in your unit have the [ANTI‑VEHICLE 4+] ability."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One FLASH GITZ unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, ranged weapons equipped by models in your unit have the [ANTI‑VEHICLE 4+] ability."
   },
   {
     "ability_id": "krump-and-run",
@@ -3674,7 +3674,7 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can make a Normal move of up to 6\"."
+    "raw_text": "1CP. WHEN: Your opponent’s Movement phase, just after an enemy unit falls back. TARGET: One ORKS unit from your army that was within engagement range of that enemy unit at the start of the phase and is not within range of one or more enemy units. EFFECT: Your unit can make a Normal move of up to 6\"."
   },
   {
     "ability_id": "speshul-shells",
@@ -3691,6 +3691,6 @@
       "ref": "10th/json/orks.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes a ranged attack that targets the closest eligible target within 18\", improve the Armour Penetration characteristic of ranged weapons equipped by models in your unit by 1."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One ORKS unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, each time a model in your unit makes a ranged attack that targets the closest eligible target within 18\", improve the Armour Penetration characteristic of ranged weapons equipped by models in your unit by 1."
   }
 ]

@@ -1539,7 +1539,7 @@
       "ref": "10th/json/imperialknights.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, when making ranged attacks with Blast weapons, models in your unit can target enemy units within Engagement Range of your unit (provided no other friendly units are also within Engagement Range of that enemy unit). In addition, until the end of the phase, your unit does not suffer the penalty to its Hit rolls for being within Engagement Range of one or more enemy units, but each time a model in your unit makes an attack with a Blast weapon that targets a unit within Engagement Range of your unit, on an unmodified Hit roll of 1, your unit suffers 1 mortal wound after all of its attacks have been resolved."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One IMPERIAL KNIGHTS unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, when making ranged attacks with Blast weapons, models in your unit can target enemy units within Engagement Range of your unit (provided no other friendly units are also within Engagement Range of that enemy unit). In addition, until the end of the phase, your unit does not suffer the penalty to its Hit rolls for being within Engagement Range of one or more enemy units, but each time a model in your unit makes an attack with a Blast weapon that targets a unit within Engagement Range of your unit, on an unmodified Hit roll of 1, your unit suffers 1 mortal wound after all of its attacks have been resolved."
   },
   {
     "ability_id": "full-tilt-freeblade",
@@ -1556,7 +1556,7 @@
       "ref": "10th/json/imperialknights.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, add 2\" to the Move characteristic of your models and add 2 to Advance rolls made for those model’s units."
+    "raw_text": "2CP. WHEN: Your Movement phase. TARGET: One IMPERIAL KNIGHTS unit from your army that has not been selected to move this phase. EFFECT: Until the end of the phase, add 2\" to the Move characteristic of your models and add 2 to Advance rolls made for those model’s units."
   },
   {
     "ability_id": "omnissian-champion",
@@ -1896,7 +1896,7 @@
       "ref": "10th/json/imperialknights.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, the Attacks characteristic of any armoured Feet melee weapons equipped by your model is 8, the Attacks characteristic of any titanic Feet melee weapons equipped by your model is 12, and improve the Armour Penetration characteristic of those weapons by 1."
+    "raw_text": "1CP. WHEN: Fight phase. TARGET: One IMPERIAL KNIGHTS model from your army that has not been selected to fight this phase. EFFECT: Until the end of the phase, the Attacks characteristic of any armoured Feet melee weapons equipped by your model is 8, the Attacks characteristic of any titanic Feet melee weapons equipped by your model is 12, and improve the Armour Penetration characteristic of those weapons by 1."
   },
   {
     "ability_id": "drive-them-out",
@@ -1913,7 +1913,7 @@
       "ref": "10th/json/imperialknights.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit on your defensive line, an unmodified Hit roll of 5+ scores a Critical Hit."
+    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase. TARGET: One IMPERIAL KNIGHTS unit from your army that has not been selected to shoot or fight this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit on your defensive line, an unmodified Hit roll of 5+ scores a Critical Hit."
   },
   {
     "ability_id": "steadfast-superiority",
@@ -1930,7 +1930,7 @@
       "ref": "10th/json/imperialknights.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, you can re‑roll the Hit roll."
+    "raw_text": "1CP. WHEN: Fight phase. TARGET: One IMPERIAL KNIGHTS unit from your army that is within Engagement Range of one or more enemy units, that is on your defensive line and that has not already been selected to fight this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack, you can re‑roll the Hit roll."
   },
   {
     "ability_id": "marshal-the-defence",
@@ -1947,7 +1947,7 @@
       "ref": "10th/json/imperialknights.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, add 3\" to the Move characteristic of models in your units."
+    "raw_text": "1CP. WHEN: Your Movement phase. TARGET: Up to two IMPERIAL KNIGHTS units from your army that have not been selected to move this phase. EFFECT: Until the end of the phase, add 3\" to the Move characteristic of models in your units."
   },
   {
     "ability_id": "titanic-bombardment",
@@ -1964,7 +1964,7 @@
       "ref": "10th/json/imperialknights.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, ranged weapons equipped by models in your unit have the [SUSTAINED HITS 2] ability."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One IMPERIAL KNIGHTS TITANIC unit from your army that Remained Stationary this turn, that is on your defensive line and that has not been selected to shoot this phase. EFFECT: Until the end of the phase, ranged weapons equipped by models in your unit have the [SUSTAINED HITS 2] ability."
   },
   {
     "ability_id": "virtue-of-courage",
@@ -1981,7 +1981,7 @@
       "ref": "10th/json/imperialknights.json",
       "edition": "10e"
     },
-    "raw_text": "Select one enemy unit. Until the end of the phase, each time one of your ARMIGER models makes an attack that targets that enemy unit, add 1 to the Hit roll."
+    "raw_text": "1CP. WHEN: Start of the Fight phase. TARGET: One ARMIGER model from your army, or one IMPERIAL KNIGHTS TITANIC model from your army, and one or more friendly ARMIGER models affected by that model’s Bondsman ability. EFFECT: Select one enemy unit. Until the end of the phase, each time one of your ARMIGER models makes an attack that targets that enemy unit, add 1 to the Hit roll."
   },
   {
     "ability_id": "exemplars-wisdom",
@@ -1998,7 +1998,7 @@
       "ref": "10th/json/imperialknights.json",
       "edition": "10e"
     },
-    "raw_text": "Select one enemy unit hit by one or more of those attacks. Until the end of the phase, each time one of your ARMIGER models makes an attack that targets that enemy unit, improve the Armour Penetration characteristic of that attack by 1."
+    "raw_text": "1CP. WHEN: Your Shooting phase, just after an IMPERIAL KNIGHTS TITANIC model from your army has shot. TARGET: That IMPERIAL KNIGHTS TITANIC model, and one or more friendly ARMIGER models affected by that model’s Bondsman ability. EFFECT: Select one enemy unit hit by one or more of those attacks. Until the end of the phase, each time one of your ARMIGER models makes an attack that targets that enemy unit, improve the Armour Penetration characteristic of that attack by 1."
   },
   {
     "ability_id": "bonded-imperative",
@@ -2015,7 +2015,7 @@
       "ref": "10th/json/imperialknights.json",
       "edition": "10e"
     },
-    "raw_text": "When selecting targets for that use of that Bondsman ability, you can select one friendly ADEPTUS MECHANICUS unit within 12\" of your unit in addition, or instead of selecting one ARMIGER model. Until the start of your next Command phase, every model in that ADEPTUS MECHANICUS unit is affected by that Bondsman ability."
+    "raw_text": "1CP. WHEN: Your Command phase, just before an IMPERIAL KNIGHTS CHARACTER unit from your army uses a Bondsman ability. TARGET: That IMPERIAL KNIGHTS CHARACTER unit. EFFECT: When selecting targets for that use of that Bondsman ability, you can select one friendly ADEPTUS MECHANICUS unit within 12\" of your unit in addition, or instead of selecting one ARMIGER model. Until the start of your next Command phase, every model in that ADEPTUS MECHANICUS unit is affected by that Bondsman ability."
   },
   {
     "ability_id": "fortress-of-intimidation",
@@ -2032,7 +2032,7 @@
       "ref": "10th/json/imperialknights.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an enemy unit selects your unit as a target of a charge, that unit must take a Battle‑shock test, subtracting 1 from the result."
+    "raw_text": "1CP. WHEN: Start of your opponent’s Charge phase. TARGET: One IMPERIAL KNIGHTS TITANIC unit from your army that is on your defensive line. EFFECT: Until the end of the phase, each time an enemy unit selects your unit as a target of a charge, that unit must take a Battle‑shock test, subtracting 1 from the result."
   },
   {
     "ability_id": "let-duty-be-your-shield",
@@ -2049,7 +2049,7 @@
       "ref": "10th/json/imperialknights.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets. TARGET: One ARMIGER unit from your army that was selected as the target of one or more of the attacking units attacks. EFFECT: Until the end of the phase, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
   },
   {
     "ability_id": "courageous-stand",
@@ -2066,7 +2066,7 @@
       "ref": "10th/json/imperialknights.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, models in your unit have the Feel No Pain 6+ ability."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. TARGET: One IMPERIAL KNIGHTS TITANIC unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, models in your unit have the Feel No Pain 6+ ability."
   },
   {
     "ability_id": "titanic-duel",
@@ -2083,7 +2083,7 @@
       "ref": "10th/json/imperialknights.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time your model makes an attack that targets a MONSTER, TITANIC or WALKER unit, add 1 to the Hit roll and add 1 to the Wound roll."
+    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase. TARGET: One IMPERIAL KNIGHTS TITANIC model from your army that has not been selected to shoot or fight this phase. EFFECT: Until the end of the phase, each time your model makes an attack that targets a MONSTER, TITANIC or WALKER unit, add 1 to the Hit roll and add 1 to the Wound roll."
   },
   {
     "ability_id": "moment-of-glory",
@@ -2100,7 +2100,7 @@
       "ref": "10th/json/imperialknights.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time your unit Consolidates, models in it can move an additional 3\" provided your unit can end that move within Engagement Range of one or more enemy units."
+    "raw_text": "1CP. WHEN: Fight phase, just before an IMPERIAL KNIGHTS TITANIC unit from your army Consolidates. TARGET: That IMPERIAL KNIGHTS TITANIC unit. EFFECT: Until the end of the phase, each time your unit Consolidates, models in it can move an additional 3\" provided your unit can end that move within Engagement Range of one or more enemy units."
   },
   {
     "ability_id": "heros-tread",
@@ -2117,7 +2117,7 @@
       "ref": "10th/json/imperialknights.json",
       "edition": "10e"
     },
-    "raw_text": "Your Level of Control over that objective marker is 5 (unless it would otherwise be higher), until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
+    "raw_text": "1CP. WHEN: End of your Command phase. TARGET: One IMPERIAL KNIGHTS TITANIC model from your army that is within range of an objective marker you control. EFFECT: Your Level of Control over that objective marker is 5 (unless it would otherwise be higher), until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
   },
   {
     "ability_id": "driven-by-the-past",
@@ -2134,7 +2134,7 @@
       "ref": "10th/json/imperialknights.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, your unit is eligible to declare a charge in a turn in which it Advanced."
+    "raw_text": "1CP. WHEN: Your Charge phase. TARGET: One IMPERIAL KNIGHTS TITANIC unit from your army. EFFECT: Until the end of the turn, your unit is eligible to declare a charge in a turn in which it Advanced."
   },
   {
     "ability_id": "unstoppable-warrior",
@@ -2151,7 +2151,7 @@
       "ref": "10th/json/imperialknights.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
+    "raw_text": "2CP. WHEN: Your Movement phase, just after an IMPERIAL KNIGHTS TITANIC unit from your army Falls Back. TARGET: That IMPERIAL KNIGHTS TITANIC unit. EFFECT: Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
   },
   {
     "ability_id": "run-them-through",
@@ -2168,7 +2168,7 @@
       "ref": "10th/json/imperialknights.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, melee weapons equipped by your models have the [LANCE] ability."
+    "raw_text": "1CP. WHEN: Fight phase. TARGET: One IMPERIAL KNIGHTS unit from your army that has not been selected to fight this phase. EFFECT: Until the end of the phase, melee weapons equipped by your models have the [LANCE] ability."
   },
   {
     "ability_id": "vow-of-retribution",
@@ -2185,7 +2185,7 @@
       "ref": "10th/json/imperialknights.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, ranged weapons equipped by your models have the [LETHAL HITS] ability."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One IMPERIAL KNIGHTS unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, ranged weapons equipped by your models have the [LETHAL HITS] ability."
   },
   {
     "ability_id": "tactical-foil",
@@ -2202,7 +2202,7 @@
       "ref": "10th/json/imperialknights.json",
       "edition": "10e"
     },
-    "raw_text": "Your model can make a Normal move of up to D6\"."
+    "raw_text": "1CP. WHEN: Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move. TARGET: One IMPERIAL KNIGHTS model from your army that is within 9\" of that unit. EFFECT: Your model can make a Normal move of up to D6\"."
   },
   {
     "ability_id": "machine-focus",
@@ -2219,7 +2219,7 @@
       "ref": "10th/json/imperialknights.json",
       "edition": "10e"
     },
-    "raw_text": "Until the start of your next turn, your unit can ignore any or all modifiers to the following: the Weapon Skill or Ballistic Skill characteristics of weapons equipped by its models; any Hit roll or Wound roll made for it."
+    "raw_text": "1CP. WHEN: Your Command phase. TARGET: One IMPERIAL KNIGHTS unit from your army. EFFECT: Until the start of your next turn, your unit can ignore any or all modifiers to the following: the Weapon Skill or Ballistic Skill characteristics of weapons equipped by its models; any Hit roll or Wound roll made for it."
   },
   {
     "ability_id": "aggression-begets-aggression",
@@ -2236,7 +2236,7 @@
       "ref": "10th/json/imperialknights.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, ranged weapons equipped by models in your units have the [ASSAULT] ability."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One IMPERIAL KNIGHTS unit from your army or one IMPERIAL KNIGHTS CHARACTER unit from your army and one friendly ADEPTUS MECHANICUS unit that is within 6\" of that unit. EFFECT: Until the end of the phase, ranged weapons equipped by models in your units have the [ASSAULT] ability."
   },
   {
     "ability_id": "thronegheist-fury",
@@ -2253,7 +2253,7 @@
       "ref": "10th/json/imperialknights.json",
       "edition": "10e"
     },
-    "raw_text": "Select one ranged weapon equipped by a model in your unit. That model can shoot at that enemy unit (and only if it is an eligible target). When doing so, that model can only make attacks with that weapon and each time it makes a ranged attack, an unmodified Hit roll of 6 is required to score a hit, irrespective of the attacking weapon’s Ballistic Skill or any modifiers."
+    "raw_text": "1CP. WHEN: Your opponent’s Movement phase, just after an enemy unit is set up or ends a Normal, Advance, or Fall Back move. TARGET: One IMPERIAL KNIGHTS TITANIC unit from your army that is within 24\" of and visible to that enemy unit. EFFECT: Select one ranged weapon equipped by a model in your unit. That model can shoot at that enemy unit (and only if it is an eligible target). When doing so, that model can only make attacks with that weapon and each time it makes a ranged attack, an unmodified Hit roll of 6 is required to score a hit, irrespective of the attacking weapon’s Ballistic Skill or any modifiers."
   },
   {
     "ability_id": "lancebreaker",
@@ -2270,7 +2270,7 @@
       "ref": "10th/json/imperialknights.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an attack targets your unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of your unit, subtract 1 from the Wound roll."
+    "raw_text": "1CP. WHEN: Fight phase, just after an enemy unit has selected its targets. TARGET: One IMPERIAL KNIGHTS unit from your army that was selected as the target of one or more of the attacking unit’s attacks and is on your defensive line. EFFECT: Until the end of the phase, each time an attack targets your unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of your unit, subtract 1 from the Wound roll."
   },
   {
     "ability_id": "mantle-of-the-mentor",
@@ -2287,7 +2287,7 @@
       "ref": "10th/json/imperialknights.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, your ARMIGER models are eligible to shoot in a turn in which they Fell Back."
+    "raw_text": "1CP. WHEN: Start of your Shooting phase. TARGET: One ARMIGER model from your army, or one IMPERIAL KNIGHTS TITANIC model from your army, and one or more friendly ARMIGER models affected by that model’s Bondsman ability. EFFECT: Until the end of the phase, your ARMIGER models are eligible to shoot in a turn in which they Fell Back."
   },
   {
     "ability_id": "squires-of-the-hunt",
@@ -2304,7 +2304,7 @@
       "ref": "10th/json/imperialknights.json",
       "edition": "10e"
     },
-    "raw_text": "For each of your ARMIGER models that is within 9\" of one or more battlefield edges and not within Engagement Range of one or more enemy units, remove that ARMIGER model from the battlefield and place it into Strategic Reserves."
+    "raw_text": "1CP. WHEN: End of your opponent’s Fight phase. TARGET: One ARMIGER model from your army, or one IMPERIAL KNIGHTS TITANIC model from your army, and one or more friendly ARMIGER models affected by that model’s Bondsman ability. EFFECT: For each of your ARMIGER models that is within 9\" of one or more battlefield edges and not within Engagement Range of one or more enemy units, remove that ARMIGER model from the battlefield and place it into Strategic Reserves."
   },
   {
     "ability_id": "rotate-ion-shields",
@@ -2321,6 +2321,6 @@
       "ref": "10th/json/imperialknights.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, models in your unit have a 4+ invulnerable save."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets. TARGET: One IMPERIAL KNIGHTS unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, models in your unit have a 4+ invulnerable save."
   }
 ]

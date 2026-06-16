@@ -2483,7 +2483,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6: on a 4+, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play."
+    "raw_text": "1CP. WHEN: Fight phase, just after an enemy unit has selected its targets. TARGET: One HERETIC ASTARTES unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6: on a 4+, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play."
   },
   {
     "ability_id": "prey-on-the-weak-raiders",
@@ -2500,7 +2500,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack that targets a unit that is Battle‑shocked and/or Below Half‑strength, you can re‑roll the Hit roll."
+    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase. TARGET: One HERETIC ASTARTES INFANTRY unit from your army that has not been selected to shoot or fight this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack that targets a unit that is Battle‑shocked and/or Below Half‑strength, you can re‑roll the Hit roll."
   },
   {
     "ability_id": "infernal-fulgurite",
@@ -2585,7 +2585,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. TARGET: One HERETIC ASTARTES unit from your army (excluding DAMNED units) that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1. RESTRICTIONS: You cannot target the same unit with the Empyric Dislocation and Armour of Corruption Stratagems in the same phase."
   },
   {
     "ability_id": "warp-tainted",
@@ -2602,7 +2602,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
+    "raw_text": "1CP. WHEN: Your Movement phase. TARGET: One HERETIC ASTARTES TERMINATOR, OBLITERATORS or MUTILATORS unit from your army, within range of an objective marker you control. EFFECT: That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
   },
   {
     "ability_id": "siegebreaker-strike",
@@ -2619,7 +2619,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, ranged weapons equipped by models in your units have the [IGNORES COVER] ability."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: Up to two HERETIC ASTARTES units from your army that were set up using the Deep Strike ability this turn and have not been selected to shoot this phase. EFFECT: Until the end of the phase, ranged weapons equipped by models in your units have the [IGNORES COVER] ability."
   },
   {
     "ability_id": "armour-of-corruption",
@@ -2636,7 +2636,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, each time an attack is allocated to a model in your unit, subtract 1 from the Damage characteristic of that attack."
+    "raw_text": "2CP. WHEN: Fight phase, just after an enemy unit has selected its targets. TARGET: One HERETIC ASTARTES TERMINATOR, OBLITERATORS or MUTILATORS unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the turn, each time an attack is allocated to a model in your unit, subtract 1 from the Damage characteristic of that attack. RESTRICTIONS: You cannot target the same unit with the Armour of Corruption and Empyric Dislocation Stratagems in the same phase."
   },
   {
     "ability_id": "warp-flicker",
@@ -2653,7 +2653,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced."
+    "raw_text": "1CP. WHEN: Your Movement phase. TARGET: One HERETIC ASTARTES TERMINATOR, OBLITERATORS or MUTILATORS unit from your army. EFFECT: Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced."
   },
   {
     "ability_id": "portal-of-spite",
@@ -2670,7 +2670,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time your unit declares a charge, if the closest eligible enemy unit is selected as one of the targets of that charge, add 2 to the Charge roll."
+    "raw_text": "1CP. WHEN: Your Charge phase. TARGET: One HERETIC ASTARTES unit from your army that was set up using the Deep Strike ability this turn and has not declared a charge this phase. EFFECT: Until the end of the phase, each time your unit declares a charge, if the closest eligible enemy unit is selected as one of the targets of that charge, add 2 to the Charge roll."
   },
   {
     "ability_id": "wyredjinn",
@@ -2755,7 +2755,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, if your unit is selected to make a Dark Pact, you can select both abilities for that unit’s weapons to gain."
+    "raw_text": "1CP. WHEN: Any phase. TARGET: One HERETIC ASTARTES unit from your army (excluding DAMNED units) that has not been selected to shoot or fight this phase. EFFECT: Until the end of the phase, if your unit is selected to make a Dark Pact, you can select both abilities for that unit’s weapons to gain."
   },
   {
     "ability_id": "balefire-boon",
@@ -2772,7 +2772,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, improve the Armour Penetration characteristic of that attack by 1."
+    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase. TARGET: One SOUL FORGE unit from your army that has not been selected to shoot or fight this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack, improve the Armour Penetration characteristic of that attack by 1."
   },
   {
     "ability_id": "biomechanoid-regeneration",
@@ -2789,7 +2789,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "One model in your unit regains up to D3 lost wounds. If your unit has the SOUL FORGE keyword, one model in your unit regains up to 3 lost wounds instead."
+    "raw_text": "1CP. WHEN: Your Command phase. TARGET: One HERETIC ASTARTES unit from your army (excluding DAMNED units). EFFECT: One model in your unit regains up to D3 lost wounds. If your unit has the SOUL FORGE keyword, one model in your unit regains up to 3 lost wounds instead."
   },
   {
     "ability_id": "forge-fire-surge",
@@ -2806,7 +2806,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, your unit is eligible to shoot in a turn in which it Advanced. If your unit has the SOUL FORGE keyword, until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced instead."
+    "raw_text": "1CP. WHEN: Your Movement phase, just after a HERETIC ASTARTES unit from your army Advances.&x20; TARGET: That HERETIC ASTARTES unit. EFFECT: Until the end of the turn, your unit is eligible to shoot in a turn in which it Advanced. If your unit has the SOUL FORGE keyword, until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced instead."
   },
   {
     "ability_id": "unholy-fortitude",
@@ -2823,7 +2823,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, add 1 to the Toughness characteristic of models in your unit."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets. TARGET: One SOUL FORGE unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, add 1 to the Toughness characteristic of models in your unit."
   },
   {
     "ability_id": "warmasters-gift",
@@ -3656,7 +3656,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Select one of the following effects:\n\n• Improve the Ballistic Skill characteristic of ranged weapons equipped by models in this unit by 1.\n• Improve the Attacks characteristic of Rapid Fire weapons equipped by models in this unit by 1.\n• Improve the Save characteristic of models in this unit by 1.\n\nUntil the start of your next turn, your unit has the benefit of that effect."
+    "raw_text": "1CP. WHEN: Your Command phase. TARGET: One DAMNED unit from your army. EFFECT: Select one of the following effects:\n\n• Improve the Ballistic Skill characteristic of ranged weapons equipped by models in this unit by 1.\n• Improve the Attacks characteristic of Rapid Fire weapons equipped by models in this unit by 1.\n• Improve the Save characteristic of models in this unit by 1.\n\nUntil the start of your next turn, your unit has the benefit of that effect."
   },
   {
     "ability_id": "seize-the-prize",
@@ -3673,7 +3673,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Do not make an Advance roll for your unit. Instead, until the end of the phase add 6\" to the Move characteristic of models in your unit."
+    "raw_text": "1CP. WHEN: Your Movement phase, just after a HERETIC ASTARTES unit (excluding MONSTERS and VEHICLES) from your army has been selected to Advance. TARGET: That HERETIC ASTARTES unit. EFFECT: Do not make an Advance roll for your unit. Instead, until the end of the phase add 6\" to the Move characteristic of models in your unit."
   },
   {
     "ability_id": "reavers-flurry",
@@ -3690,7 +3690,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, add 1 to the Attacks characteristics of melee weapons equipped by models in your unit."
+    "raw_text": "1CP. WHEN: Your Fight phase. TARGET: One HERETIC ASTARTES unit from your army that made a Charge move this turn. EFFECT: Until the end of the phase, add 1 to the Attacks characteristics of melee weapons equipped by models in your unit."
   },
   {
     "ability_id": "unfailingly-obdurate",
@@ -3707,7 +3707,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. TARGET: One HERETIC ASTARTES unit from your army (excluding DAMNED units) that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
   },
   {
     "ability_id": "scour-and-seize",
@@ -3724,7 +3724,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack that targets a unit within range of an objective marker, that attack has the [PRECISION] ability."
+    "raw_text": "1CP. WHEN: Fight phase. TARGET: One HERETIC ASTARTES unit from your army that has not been selected to fight this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack that targets a unit within range of an objective marker, that attack has the [PRECISION] ability."
   },
   {
     "ability_id": "ruinous-raid",
@@ -3741,7 +3741,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, if the target of that attack is within range of an objective marker, you can re-roll the Hit roll and you can re-roll the Wound roll."
+    "raw_text": "1CP. WHEN: Your Shooting phase or your Fight phase. TARGET: One HERETIC ASTARTES unit from your army that disembarked from a TRANSPORT this turn and has not been selected to shoot or fight this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack, if the target of that attack is within range of an objective marker, you can re-roll the Hit roll and you can re-roll the Wound roll."
   },
   {
     "ability_id": "persistent-assailants",
@@ -3758,7 +3758,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, you can re-roll the Hit roll, and if your unit is Below Half-strength you can re-roll the Wound roll as well."
+    "raw_text": "1CP. WHEN: Fight phase. TARGET: One HERETIC ASTARTES unit from your army that was selected as the target of one or more attacks this phase and has not been selected to fight this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack, you can re-roll the Hit roll, and if your unit is Below Half-strength you can re-roll the Wound roll as well."
   },
   {
     "ability_id": "pitiless-cannonade",
@@ -3775,7 +3775,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack that targets a unit that is Below Half-strength, a successful unmodified Hit roll of 5+ scores a Critical Hit."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One HERETIC ASTARTES unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack that targets a unit that is Below Half-strength, a successful unmodified Hit roll of 5+ scores a Critical Hit."
   },
   {
     "ability_id": "point-blank-destruction",
@@ -3792,7 +3792,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, your unit’s ranged weapons (excluding Blast weapons) have the [PISTOL] ability."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One HERETIC ASTARTES unit from your army that is within Engagement Range of one or more enemy units and has not been selected to shoot this phase. EFFECT: Until the end of the phase, your unit’s ranged weapons (excluding Blast weapons) have the [PISTOL] ability."
   },
   {
     "ability_id": "from-all-sides",
@@ -3809,7 +3809,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, add 1 to Charge rolls made for your unit for each other HERETIC ASTARTES unit from your army that made a Charge move this phase (to a maximum of +3)."
+    "raw_text": "1CP. WHEN: Start of your Charge phase. TARGET: One HERETIC ASTARTES unit from your army. EFFECT: Until the end of the phase, add 1 to Charge rolls made for your unit for each other HERETIC ASTARTES unit from your army that made a Charge move this phase (to a maximum of +3)."
   },
   {
     "ability_id": "pick-them-off",
@@ -3826,7 +3826,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack that targets a unit that is below its Starting Strength, you can re-roll the Hit roll. If the target is Below Half-strength, you can re-roll the Wound roll as well."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One HERETIC ASTARTES unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack that targets a unit that is below its Starting Strength, you can re-roll the Hit roll. If the target is Below Half-strength, you can re-roll the Wound roll as well."
   },
   {
     "ability_id": "desperate-pledge",
@@ -3843,7 +3843,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, if your unit invokes its contract, each time it makes an attack, improve the Armour Penetration characteristic of that attack by 1."
+    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase. TARGET: One HERETIC ASTARTES DAEMON VEHICLE unit from your army that has not been selected to shoot or fight this phase. EFFECT: Until the end of the phase, if your unit invokes its contract, each time it makes an attack, improve the Armour Penetration characteristic of that attack by 1."
   },
   {
     "ability_id": "vengeful-destruction",
@@ -3860,7 +3860,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time your unit makes an attack that targets your Vendetta target, add 1 to the Wound roll."
+    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase. TARGET: One HERETIC ASTARTES INFANTRY (excluding DAMNED units) or HERETIC ASTARTES MOUNTED unit from your army that has not been selected to shoot or fight this phase. EFFECT: Until the end of the phase, each time your unit makes an attack that targets your Vendetta target, add 1 to the Wound roll."
   },
   {
     "ability_id": "corrupted-munitions",
@@ -3877,7 +3877,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in this unit makes a ranged attack, improve the Armour Penetration of that attack by 1."
+    "raw_text": "1CP. WHEN: Your Shooting phase TARGET: One HERETIC ASTARTES unit in your army that has just been selected to shoot. EFFECT: Until the end of the phase, each time a model in this unit makes a ranged attack, improve the Armour Penetration of that attack by 1."
   },
   {
     "ability_id": "depthless-cruelty",
@@ -3894,7 +3894,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack that targets a unit that is Battle-shocked and/or Below Half-strength, improve the Armour Penetration characteristic of that attack by 1."
+    "raw_text": "1CP. WHEN: Fight phase. TARGET: One HERETIC ASTARTES INFANTRY unit from your army that has not been selected to fight this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack that targets a unit that is Battle-shocked and/or Below Half-strength, improve the Armour Penetration characteristic of that attack by 1."
   },
   {
     "ability_id": "pitiless-hunters",
@@ -3911,7 +3911,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack that targets a unit that is Battle-shocked and/or Below Half-strength, you can re-roll the Hit roll and you can re-roll the Wound roll."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One HERETIC ASTARTES INFANTRY unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack that targets a unit that is Battle-shocked and/or Below Half-strength, you can re-roll the Hit roll and you can re-roll the Wound roll."
   },
   {
     "ability_id": "chosen-for-glory",
@@ -3928,7 +3928,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can make a Desperate Pact. If it does, until the end of the phase, each time a model in your unit makes an attack, you can re-roll the Hit roll, and if your unit did not fail the resulting Leadership test when making that Desperate Pact, you can re-roll the Wound roll as well."
+    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase. TARGET: One DAMNED unit from your army that has not been selected to shoot or fight this phase. EFFECT: Your unit can make a Desperate Pact. If it does, until the end of the phase, each time a model in your unit makes an attack, you can re-roll the Hit roll, and if your unit did not fail the resulting Leadership test when making that Desperate Pact, you can re-roll the Wound roll as well."
   },
   {
     "ability_id": "infernal-sacrifice",
@@ -3945,7 +3945,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can make a Desperate Pact. If it does, your unit suffers D3 mortal wounds (in addition to any suffered for failing the resulting Leadership test), and until the end of the phase, add 1 to the Attacks characteristic of the melee weapons equipped by models in your unit, and if your unit did not fail the resulting Leadership test when making that Desperate Pact, until the end of the phase, improve the Strength characteristic of those weapons by 1 as well."
+    "raw_text": "1CP. WHEN: Fight phase. TARGET: One DAMNED unit from your army that has not been selected to fight this phase. EFFECT: Your unit can make a Desperate Pact. If it does, your unit suffers D3 mortal wounds (in addition to any suffered for failing the resulting Leadership test), and until the end of the phase, add 1 to the Attacks characteristic of the melee weapons equipped by models in your unit, and if your unit did not fail the resulting Leadership test when making that Desperate Pact, until the end of the phase, improve the Strength characteristic of those weapons by 1 as well."
   },
   {
     "ability_id": "crazed-focus",
@@ -3962,7 +3962,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can make a Desperate Pact. If it does, until the end of the phase, each time a model in your unit makes an attack, improve the Armour Penetration characteristic of that attack by 1, and if your unit did not fail the resulting Leadership test when making that Desperate Pact, improve the Strength characteristic of that attack by 1 as well."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One DAMNED unit from your army that has not been selected to shoot this phase. EFFECT: Your unit can make a Desperate Pact. If it does, until the end of the phase, each time a model in your unit makes an attack, improve the Armour Penetration characteristic of that attack by 1, and if your unit did not fail the resulting Leadership test when making that Desperate Pact, improve the Strength characteristic of that attack by 1 as well."
   },
   {
     "ability_id": "contemptuous-disregard",
@@ -3979,7 +3979,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. TARGET: One HERETIC ASTARTES unit from your army (excluding DAMNED units) that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
   },
   {
     "ability_id": "let-the-galaxy-burn",
@@ -3996,7 +3996,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, ranged weapons equipped by models in your unit have the [IGNORES COVER] ability, and change the Attacks characteristic of Torrent weapons equipped by models in your unit to 6."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One HERETIC ASTARTES unit from your army (excluding TZEENTCH units) that has not been selected to shoot this phase. EFFECT: Until the end of the phase, ranged weapons equipped by models in your unit have the [IGNORES COVER] ability, and change the Attacks characteristic of Torrent weapons equipped by models in your unit to 6."
   },
   {
     "ability_id": "talons-sunk-deep",
@@ -4013,7 +4013,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack that targets a unit that is Battle‑shocked and/or Below Half‑strength, improve the Armour Penetration characteristic of that attack by 1."
+    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase. TARGET: One HERETIC ASTARTES INFANTRY unit from your army that has not been selected to shoot or fight this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack that targets a unit that is Battle‑shocked and/or Below Half‑strength, improve the Armour Penetration characteristic of that attack by 1."
   },
   {
     "ability_id": "prey-on-the-weak",
@@ -4030,7 +4030,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack that targets a unit that is Battle‑shocked and/or Below Half‑strength, you can re‑roll the Hit roll."
+    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase. TARGET: One HERETIC ASTARTES INFANTRY unit from your army that has not been selected to shoot or fight this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack that targets a unit that is Battle‑shocked and/or Below Half‑strength, you can re‑roll the Hit roll."
   },
   {
     "ability_id": "sadistic-display",
@@ -4047,7 +4047,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Each enemy unit within 6\" of and visible to your unit (excluding MONSTER and VEHICLE units) must take a Battle‑shock test."
+    "raw_text": "1CP. WHEN: Fight phase, just after a HERETIC ASTARTES unit from your army destroys an enemy unit. TARGET: That HERETIC ASTARTES unit. EFFECT: Each enemy unit within 6\" of and visible to your unit (excluding MONSTER and VEHICLE units) must take a Battle‑shock test."
   },
   {
     "ability_id": "profane-zeal",
@@ -4064,7 +4064,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, you can re-roll the Wound roll."
+    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase. TARGET: One HERETIC ASTARTES CHAOS UNDIVIDED unit from your army that has not been selected to shoot or fight this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack, you can re-roll the Wound roll."
   },
   {
     "ability_id": "brutal-attrition",
@@ -4081,7 +4081,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a melee attack is allocated to your unit, after the attacking unit has finished making its attacks, roll one D6 (to a maximum of six D6 per attacking unit): for each 4+, the attacking unit suffers 1 mortal wound."
+    "raw_text": "1CP. WHEN: Fight phase, just after an enemy unit has selected its targets. TARGET: One HERETIC ASTARTES INFANTRY unit from your army (excluding DAMNED units) that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time a melee attack is allocated to your unit, after the attacking unit has finished making its attacks, roll one D6 (to a maximum of six D6 per attacking unit): for each 4+, the attacking unit suffers 1 mortal wound."
   },
   {
     "ability_id": "daemonic-possession",
@@ -4098,7 +4098,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the battle, your unit has the DAEMON keyword."
+    "raw_text": "1CP. WHEN: Your Command phase. TARGET: One HERETIC ASTARTES VEHICLE unit from your army (excluding DAEMON units). EFFECT: Until the end of the battle, your unit has the DAEMON keyword."
   },
   {
     "ability_id": "never-outgunned",
@@ -4115,7 +4115,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Select either the [LETHAL HITS] or [SUSTAINED HITS 1] ability. Until the end of the phase, weapons equipped by models in your unit have the selected ability."
+    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase. TARGET: One HERETIC ASTARTES unit from your army that has just been selected to shoot or fight. EFFECT: Select either the [LETHAL HITS] or [SUSTAINED HITS 1] ability. Until the end of the phase, weapons equipped by models in your unit have the selected ability."
   },
   {
     "ability_id": "bloody-example",
@@ -4132,7 +4132,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Each enemy unit within 12\" of and visible to your unit must take a Battle-shock test."
+    "raw_text": "1CP. WHEN: Fight phase, just after a HERETIC ASTARTES unit from your army destroys a CHARACTER unit. TARGET: That HERETIC ASTARTES unit. EFFECT: Each enemy unit within 12\" of and visible to your unit must take a Battle-shock test."
   },
   {
     "ability_id": "eye-of-the-gods",
@@ -4149,7 +4149,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the battle, add 1 to the Move, Toughness and Wounds characteristics of that Character model, and add 1 to the Attacks, Strength and Damage characteristics of that CHARACTER models melee weapons."
+    "raw_text": "1CP. WHEN: Fight phase, just after a HERETIC ASTARTES CHARACTER unit from your army (excluding DAMNED, DAEMON AND EPIC HERO units) destroys an enemy unit. TARGET: One HERETIC ASTARTES CHARACTER model in that unit. EFFECT: Until the end of the battle, add 1 to the Move, Toughness and Wounds characteristics of that Character model, and add 1 to the Attacks, Strength and Damage characteristics of that CHARACTER models melee weapons."
   },
   {
     "ability_id": "skinshift",
@@ -4166,7 +4166,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "One model in your unit regains up to 3 lost wounds. In addition, if your unit is a TZEENTCH unit below its Starting Strength, one destroyed model (excluding CHARACTER models) is returned to your unit with its full wounds remaining."
+    "raw_text": "1CP. WHEN: Your Command phase. TARGET: One HERETIC ASTARTES unit from your army. EFFECT: One model in your unit regains up to 3 lost wounds. In addition, if your unit is a TZEENTCH unit below its Starting Strength, one destroyed model (excluding CHARACTER models) is returned to your unit with its full wounds remaining."
   },
   {
     "ability_id": "endless-ire",
@@ -4183,7 +4183,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Select one enemy unit within 12\" of and visible to your unit. Until the start of your next Command phase, that enemy unit is considered to be your focus of hatred."
+    "raw_text": "2CP. WHEN: Any phase, just after your focus of hatred is destroyed. TARGET: One HERETIC ASTARTES CHARACTER unit from your army (excluding Damned units). EFFECT: Select one enemy unit within 12\" of and visible to your unit. Until the start of your next Command phase, that enemy unit is considered to be your focus of hatred."
   },
   {
     "ability_id": "bringers-of-despair",
@@ -4200,7 +4200,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, your unit has the Fights First ability."
+    "raw_text": "2CP. WHEN: Start of the Fight phase. TARGET: One HERETIC ASTARTES unit from your army (excluding DAMNED units) that is within Engagement Range of your focus of hatred. EFFECT: Until the end of the phase, your unit has the Fights First ability."
   },
   {
     "ability_id": "at-the-tyrants-command",
@@ -4217,7 +4217,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced."
+    "raw_text": "1CP. WHEN: Your Movement phase. TARGET: One HERETIC ASTARTES unit (excluding MONSTERS and VEHICLES) from your army. EFFECT: Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced."
   },
   {
     "ability_id": "to-the-favoured-the-spoils",
@@ -4234,7 +4234,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can make a Surge move. To do so, roll one D6: models in your unit move a number of inches up to the result, but your unit must end that move as close as possible to the closest enemy unit (excluding AIRCRAFT). When doing so, those models can be moved within Engagement Range of that enemy unit."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has shot. TARGET: One HERETIC ASTARTES unit from your army that lost one or more wounds as a result of those attacks. EFFECT: Your unit can make a Surge move. To do so, roll one D6: models in your unit move a number of inches up to the result, but your unit must end that move as close as possible to the closest enemy unit (excluding AIRCRAFT). When doing so, those models can be moved within Engagement Range of that enemy unit."
   },
   {
     "ability_id": "encircling-surge",
@@ -4251,7 +4251,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Remove your unit from the battlefield and place it into Strategic Reserves."
+    "raw_text": "1CP. WHEN: End of your opponent’s Fight phase. TARGET: One HERETIC ASTARTES unit (excluding MONSTERS and VEHICLES) from your army that is within 6\" of one or more battlefield edges and not within Engagement Range of one or more enemy units. EFFECT: Remove your unit from the battlefield and place it into Strategic Reserves."
   },
   {
     "ability_id": "opportunistic-raiders",
@@ -4268,7 +4268,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "If your unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to 6\" or up to 12\" if it is a MOUNTED unit. Otherwise, your unit can make a Fall Back move. It cannot embark within a TRANSPORT at the end of this move if it disembarked from a TRANSPORT this turn."
+    "raw_text": "1CP. WHEN: End of the Fight phase. TARGET: One HERETIC ASTARTES unit from your army that was eligible to fight this phase. EFFECT: If your unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to 6\" or up to 12\" if it is a MOUNTED unit. Otherwise, your unit can make a Fall Back move. It cannot embark within a TRANSPORT at the end of this move if it disembarked from a TRANSPORT this turn."
   },
   {
     "ability_id": "reavers-haste",
@@ -4285,7 +4285,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, your unit is eligible to declare a charge in a turn in which it Advanced. If you select one or more units within range of an objective marker as a target of that charge, add 1 to the Charge roll."
+    "raw_text": "1CP. WHEN: Your Charge phase. TARGET: One HERETIC ASTARTES INFANTRY or HERETIC ASTARTES MOUNTED unit from your army. EFFECT: Until the end of the phase, your unit is eligible to declare a charge in a turn in which it Advanced. If you select one or more units within range of an objective marker as a target of that charge, add 1 to the Charge roll."
   },
   {
     "ability_id": "steadfast-determination",
@@ -4302,7 +4302,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, models in your unit have the Feel No Pain 5+ ability."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets. TARGET: One HERETIC ASTARTES unit from your army (excluding DAMNED units) that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, models in your unit have the Feel No Pain 5+ ability."
   },
   {
     "ability_id": "siegecraft",
@@ -4319,7 +4319,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an enemy unit selects your unit as a target of a charge, subtract 2 from the Charge roll (this is not cumulative with any other negative modifiers to that Charge roll)."
+    "raw_text": "1CP. WHEN: Start of your opponent’s Charge phase. TARGET: One HERETIC ASTARTES unit from your army. EFFECT: Until the end of the phase, each time an enemy unit selects your unit as a target of a charge, subtract 2 from the Charge roll (this is not cumulative with any other negative modifiers to that Charge roll)."
   },
   {
     "ability_id": "coils-of-deception",
@@ -4336,7 +4336,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, your unit is eligible to shoot in a turn in which it Fell Back."
+    "raw_text": "1CP. WHEN: Your Movement phase, just after a HERETIC ASTARTES unit from your army Falls Back. TARGET: That HERETIC ASTARTES unit. EFFECT: Until the end of the turn, your unit is eligible to shoot in a turn in which it Fell Back."
   },
   {
     "ability_id": "relentless-pursuit",
@@ -4353,7 +4353,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can make a Normal move of up to 6\"."
+    "raw_text": "1CP. WHEN: Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move. TARGET: One HERETIC ASTARTES INFANTRY or HERETIC ASTARTES MOUNTED unit from your army that is within 9\" of that enemy unit and not within Engagement Range of one or more enemy units. EFFECT: Your unit can make a Normal move of up to 6\"."
   },
   {
     "ability_id": "scrambled-coordinates",
@@ -4370,7 +4370,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, enemy units that are set up on the battlefield from Reserves cannot be set up within 12\" horizontally of your unit."
+    "raw_text": "1CP. WHEN: Start of the Reinforcements step of your opponent’s Movement phase. TARGET: One HERETIC ASTARTES unit from your army. EFFECT: Until the end of the phase, enemy units that are set up on the battlefield from Reserves cannot be set up within 12\" horizontally of your unit."
   },
   {
     "ability_id": "glut-of-souls",
@@ -4387,7 +4387,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, if your unit invokes its contract, each time it makes an attack that destroys an enemy model, roll one D6: on a 5+, your unit regains 1 lost wound after all of its attacks have been resolved (to a maximum of 6 wounds)."
+    "raw_text": "1CP. WHEN: Fight phase. TARGET: One HERETIC ASTARTES DAEMON VEHICLE unit from your army (excluding TITANIC units) that has not been selected to fight this phase. EFFECT: Until the end of the phase, if your unit invokes its contract, each time it makes an attack that destroys an enemy model, roll one D6: on a 5+, your unit regains 1 lost wound after all of its attacks have been resolved (to a maximum of 6 wounds)."
   },
   {
     "ability_id": "unstoppable-rampage",
@@ -4404,7 +4404,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time your unit makes a Normal, Advance or Charge move, it can move horizontally through terrain features as if they were not there."
+    "raw_text": "1CP. WHEN: Your Movement phase or your Charge phase. TARGET: One HERETIC ASTARTES VEHICLE or VASHTORR THE ARKIFANE unit from your army that has not been selected to move or charge this phase. EFFECT: Until the end of the phase, each time your unit makes a Normal, Advance or Charge move, it can move horizontally through terrain features as if they were not there."
   },
   {
     "ability_id": "predatory-pursuit",
@@ -4421,7 +4421,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can make a Normal move of up to 6\", but must end that move as close as possible to that enemy unit."
+    "raw_text": "1CP. WHEN: Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move. TARGET: One HERETIC ASTARTES VEHICLE or VASHTORR THE ARKIFANE unit from your army that is within 9\" of that enemy unit and not within Engagement Range of one or more enemy units. EFFECT: Your unit can make a Normal move of up to 6\", but must end that move as close as possible to that enemy unit."
   },
   {
     "ability_id": "feeding-frenzy",
@@ -4438,7 +4438,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an enemy unit (excluding MONSTERS and VEHICLES) that is within Engagement Range of your unit Falls Back, all models in that enemy unit must take a Desperate Escape test. When doing so, if that enemy unit is Battle-shocked, subtract 1 from each of those tests."
+    "raw_text": "1CP. WHEN: Your opponent’s Movement phase, when an enemy unit (excluding MONSTERS and VEHICLES) is selected to Fall Back. TARGET: One HERETIC ASTARTES DAEMON VEHICLE or VASHTORR THE ARKIFANE unit from your army that is within Engagement Range of that enemy unit. EFFECT: Until the end of the phase, each time an enemy unit (excluding MONSTERS and VEHICLES) that is within Engagement Range of your unit Falls Back, all models in that enemy unit must take a Desperate Escape test. When doing so, if that enemy unit is Battle-shocked, subtract 1 from each of those tests."
   },
   {
     "ability_id": "undying-hatred",
@@ -4455,7 +4455,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6: on a 4+, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play."
+    "raw_text": "1CP. WHEN: Fight phase, just after an enemy unit has selected its targets. TARGET: One HERETIC ASTARTES unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6: on a 4+, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play."
   },
   {
     "ability_id": "renegade-claim",
@@ -4472,7 +4472,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
+    "raw_text": "1CP. WHEN: Your Movement phase TARGET: One HERETIC ASTARTES unit from your army within range of an objective marker you control. EFFECT: That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
   },
   {
     "ability_id": "reavers-reaction",
@@ -4489,7 +4489,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can make a Normal move of up to D6\"."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has shot. TARGET: One HERETIC ASTARTES unit (excluding MONSTERS and VEHICLES) from your army that was hit by one or more of those attacks. EFFECT: Your unit can make a Normal move of up to D6\"."
   },
   {
     "ability_id": "relentless-terror",
@@ -4506,7 +4506,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, your unit is eligible to declare a charge in a turn in which it Fell Back."
+    "raw_text": "1CP. WHEN: Your Movement phase, just after a HERETIC ASTARTES INFANTRY unit from your army Falls Back. TARGET: That HERETIC ASTARTES INFANTRY unit. EFFECT: Until the end of the turn, your unit is eligible to declare a charge in a turn in which it Fell Back."
   },
   {
     "ability_id": "screaming-descent",
@@ -4523,7 +4523,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Set your unit up anywhere on the battlefield that is more than 6\" horizontally away from all enemy units, but until the end of the turn, it is not eligible to declare a charge. Then select one enemy INFANTRY or MOUNTED unit within 9\" of and visible to your unit: that unit must take a Battle‐shock test."
+    "raw_text": "1CP. WHEN: Reinforcements step of your Movement phase, from the second battle round onwards. TARGET: One HERETIC ASTARTES JUMP PACK unit from your army that is in Reserves. EFFECT: Set your unit up anywhere on the battlefield that is more than 6\" horizontally away from all enemy units, but until the end of the turn, it is not eligible to declare a charge. Then select one enemy INFANTRY or MOUNTED unit within 9\" of and visible to your unit: that unit must take a Battle‐shock test."
   },
   {
     "ability_id": "merciless-pursuit",
@@ -4540,7 +4540,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Select one enemy unit that Fell Back this turn and is within 6\" of your unit. Your unit can declare a charge as if it were your Charge phase. When doing so, you can only select that enemy unit as the target of that charge (and only if it is an eligible target). Note that even if this charge is successful, your unit does not receive any Charge bonus this turn."
+    "raw_text": "1CP. WHEN: End of your opponent’s Movement phase. TARGET: One HERETIC ASTARTES INFANTRY unit from your army that is not within Engagement Range of one or more enemy units. EFFECT: Select one enemy unit that Fell Back this turn and is within 6\" of your unit. Your unit can declare a charge as if it were your Charge phase. When doing so, you can only select that enemy unit as the target of that charge (and only if it is an eligible target). Note that even if this charge is successful, your unit does not receive any Charge bonus this turn."
   },
   {
     "ability_id": "selfless-demise",
@@ -4557,7 +4557,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the attacking unit has resolved all of its attacks, each time a model in your unit is destroyed, roll one D6: on a 6, the attacking unit suffers 1 mortal wound after all of its attacks have been resolved."
+    "raw_text": "1CP. WHEN: Fight phase, just after an enemy unit has selected its targets. TARGET: One DAMNED unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the attacking unit has resolved all of its attacks, each time a model in your unit is destroyed, roll one D6: on a 6, the attacking unit suffers 1 mortal wound after all of its attacks have been resolved."
   },
   {
     "ability_id": "reckless-haste",
@@ -4574,7 +4574,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, your unit is eligible to declare a charge in a turn in which it Advanced."
+    "raw_text": "1CP. WHEN: Your Charge phase. TARGET: One DAMNED unit from your army. EFFECT: Until the end of the turn, your unit is eligible to declare a charge in a turn in which it Advanced."
   },
   {
     "ability_id": "mortal-thralls",
@@ -4591,7 +4591,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, while your DAMNED unit is on the battlefield, each time your opponent would make a Wound roll for an attack that targets your HERETIC ASTARTES unit, if your DAMNED unit is visible to the attacking model and is an eligible target for that attack, no roll is made; instead, your DAMNED unit suffers a number of mortal wounds equal to the Damage characteristic of that attack."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets. TARGET: One HERETIC ASTARTES unit from your army that was selected as the target of one or more of the attacking unit’s attacks, and one friendly DAMNED unit within 3\" of your unit and visible to both your unit and the attacking unit. EFFECT: Until the end of the phase, while your DAMNED unit is on the battlefield, each time your opponent would make a Wound roll for an attack that targets your HERETIC ASTARTES unit, if your DAMNED unit is visible to the attacking model and is an eligible target for that attack, no roll is made; instead, your DAMNED unit suffers a number of mortal wounds equal to the Damage characteristic of that attack."
   },
   {
     "ability_id": "black-crusade",
@@ -4608,7 +4608,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, your unit is eligible to shoot in a turn in which it Advanced or Fell Back, and bolt pistols, boltguns and combi-bolters equipped by models in your unit have the [DEVASTATING WOUNDS] ability while your unit has not already inflicted 6 wounds this turn using that ability."
+    "raw_text": "1CP. WHEN: Your Movement phase. TARGET: One HERETIC ASTARTES INFANTRY unit or HERETIC ASTARTES MOUNTED unit from your army (excluding DAMNED units). EFFECT: Until the end of the turn, your unit is eligible to shoot in a turn in which it Advanced or Fell Back, and bolt pistols, boltguns and combi-bolters equipped by models in your unit have the [DEVASTATING WOUNDS] ability while your unit has not already inflicted 6 wounds this turn using that ability."
   },
   {
     "ability_id": "millennia-of-experience",
@@ -4625,7 +4625,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can make a Normal move of up to 6\"."
+    "raw_text": "1CP. WHEN: Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move. TARGET: One HERETIC ASTARTES INFANTRY or HERETIC ASTARTES MOUNTED unit from your army (excluding DAMNED units) that is within 9\" of that enemy unit and not within Engagement Range of one or more enemy units. EFFECT: Your unit can make a Normal move of up to 6\"."
   },
   {
     "ability_id": "malicious-surge",
@@ -4642,7 +4642,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, your unit is eligible to declare a charge in a turn in which it Advanced."
+    "raw_text": "1CP. WHEN: Your Charge phase. TARGET: One HERETIC ASTARTES INFANTRY unit from your army. EFFECT: Until the end of the phase, your unit is eligible to declare a charge in a turn in which it Advanced."
   },
   {
     "ability_id": "relentless-terror-nightmare-hunt",
@@ -4659,7 +4659,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, your unit is eligible to declare a charge in a turn in which it Fell Back."
+    "raw_text": "1CP. WHEN: Your Movement phase, just after a HERETIC ASTARTES INFANTRY unit from your army Falls Back. TARGET: That HERETIC ASTARTES INFANTRY unit. EFFECT: Until the end of the turn, your unit is eligible to declare a charge in a turn in which it Fell Back."
   },
   {
     "ability_id": "horrific-incursion",
@@ -4676,7 +4676,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Select one enemy unit (excluding MONSTER and VEHICLE units) within 12\" of and visible to your unit: that unit must take a Battle‑shock test, subtracting 1 from the result."
+    "raw_text": "1CP. WHEN: Your Movement phase. TARGET: One HERETIC ASTARTES unit from your army that arrived from Reserves this turn. EFFECT: Select one enemy unit (excluding MONSTER and VEHICLE units) within 12\" of and visible to your unit: that unit must take a Battle‑shock test, subtracting 1 from the result."
   },
   {
     "ability_id": "eternal-hate",
@@ -4693,7 +4693,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, adding 1 to the result if it is a KHORNE unit: on a 4+, do not remove it from play. That destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play."
+    "raw_text": "1CP. WHEN: Fight phase, just after an enemy unit has selected its targets. TARGET: One HERETIC ASTARTES unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, adding 1 to the result if it is a KHORNE unit: on a 4+, do not remove it from play. That destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play."
   },
   {
     "ability_id": "torpefying-refrain",
@@ -4710,7 +4710,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, your unit is eligible to declare a charge in a turn in which it Fell Back. If your unit is a SLAANESH unit, until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced or Fell Back."
+    "raw_text": "1CP. WHEN: Your Movement phase. TARGET: One HERETIC ASTARTES unit from your army. EFFECT: Until the end of the turn, your unit is eligible to declare a charge in a turn in which it Fell Back. If your unit is a SLAANESH unit, until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced or Fell Back."
   },
   {
     "ability_id": "festering-miasma",
@@ -4727,7 +4727,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, your unit has the Stealth ability. In addition, if your unit is a NURGLE unit, it can only be selected as the target of a ranged attack if the attacking model is within 18\"."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets. TARGET: One HERETIC ASTARTES unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, your unit has the Stealth ability. In addition, if your unit is a NURGLE unit, it can only be selected as the target of a ranged attack if the attacking model is within 18\"."
   },
   {
     "ability_id": "monstrous-visages",
@@ -4744,7 +4744,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. TARGET: One HERETIC ASTARTES INFANTRY unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
   },
   {
     "ability_id": "masters-are-watching",
@@ -4761,7 +4761,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, subtracting 1 from the result if it is a DAMNED unit: on a 4+, do not remove it from play. That destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play."
+    "raw_text": "1CP. WHEN: Fight phase, just after an enemy unit has selected its targets. TARGET: One HERETIC ASTARTES INFANTRY unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, subtracting 1 from the result if it is a DAMNED unit: on a 4+, do not remove it from play. That destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play."
   },
   {
     "ability_id": "diabolic-regeneration",
@@ -4778,7 +4778,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "One destroyed model (excluding CHARACTER models) is returned to your unit. If your unit is a BATTLELINE unit, D3 destroyed models (excluding CHARACTER models) are returned to your unit instead."
+    "raw_text": "1CP. WHEN: Your Command phase. TARGET: One HERETIC ASTARTES INFANTRY unit (excluding DAMNED units) from your army. EFFECT: One destroyed model (excluding CHARACTER models) is returned to your unit. If your unit is a BATTLELINE unit, D3 destroyed models (excluding CHARACTER models) are returned to your unit instead."
   },
   {
     "ability_id": "autostimulants",
@@ -4795,7 +4795,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, your unit is eligible to declare a charge in a turn in which it Advanced."
+    "raw_text": "1CP. WHEN: Start of your Charge phase. TARGET: One HERETIC ASTARTES INFANTRY unit from your army. EFFECT: Until the end of the turn, your unit is eligible to declare a charge in a turn in which it Advanced."
   },
   {
     "ability_id": "specimens-for-the-spider",
@@ -4812,7 +4812,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes a melee attack that targets a CHARACTER unit, you can re‑roll the Wound roll. After your unit has fought, if one or more enemy CHARACTER models were destroyed as a result of those attacks, select one enemy unit within 6\" of your unit. That enemy unit must take a Battle‑shock test. If the enemy WARLORD was destroyed as a result of those attacks, each enemy unit within 6\" of your unit must take a Battle‑shock test instead."
+    "raw_text": "2CP. WHEN: Fight phase. TARGET: One HERETIC ASTARTES INFANTRY unit from your army that has not been selected to fight this phase. EFFECT: Until the end of the phase, each time a model in your unit makes a melee attack that targets a CHARACTER unit, you can re‑roll the Wound roll. After your unit has fought, if one or more enemy CHARACTER models were destroyed as a result of those attacks, select one enemy unit within 6\" of your unit. That enemy unit must take a Battle‑shock test. If the enemy WARLORD was destroyed as a result of those attacks, each enemy unit within 6\" of your unit must take a Battle‑shock test instead."
   },
   {
     "ability_id": "delayed-mutations",
@@ -4829,7 +4829,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit suffers D3 mortal wounds. Then select one augmentation (see Experimental Augmentations). Until the start of your next Command phase, models in your unit have the selected augmentation in addition to any other augmentations they have."
+    "raw_text": "2CP. WHEN: Your Command phase. TARGET: One HERETIC ASTARTES INFANTRY unit (excluding DAMNED units) from your army. EFFECT: Your unit suffers D3 mortal wounds. Then select one augmentation (see Experimental Augmentations). Until the start of your next Command phase, models in your unit have the selected augmentation in addition to any other augmentations they have."
   },
   {
     "ability_id": "warpcharged-engines",
@@ -4846,7 +4846,7 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, if your unit Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in your unit."
+    "raw_text": "1CP. WHEN: Your Movement phase. TARGET: One HERETIC ASTARTES TRANSPORT or HERETIC ASTARTES MOUNTED unit from your army that has not been selected to move this phase. EFFECT: Until the end of the phase, if your unit Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in your unit."
   },
   {
     "ability_id": "detonator",
@@ -4863,6 +4863,6 @@
       "ref": "10th/json/chaos_spacemarines.json",
       "edition": "10e"
     },
-    "raw_text": "Your opponent does not roll to determine whether mortal wounds are inflicted by their model’s Deadly Demise ability. Instead, mortal wounds are automatically inflicted (if that ability inflicts a random number of mortal wounds, your opponent rolls to determine that number as normal)."
+    "raw_text": "1CP. WHEN: Any phase, just after an enemy model with the Deadly Demise ability (excluding TITANIC models) is destroyed. TARGET: One HERETIC ASTARTES CHARACTER unit from your army that was within 18\" of that enemy model when it was destroyed. EFFECT: Your opponent does not roll to determine whether mortal wounds are inflicted by their model’s Deadly Demise ability. Instead, mortal wounds are automatically inflicted (if that ability inflicts a random number of mortal wounds, your opponent rolls to determine that number as normal)."
   }
 ]

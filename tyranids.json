@@ -2004,7 +2004,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, while a friendly TYRANIDS unit is within 9\" of the selected unit, that unit is within Synapse Range of your army."
+    "raw_text": "1CP. WHEN: Command phase. TARGET: One SYNAPSE unit from your army. EFFECT: Until the end of the turn, while a friendly TYRANIDS unit is within 9\" of the selected unit, that unit is within Synapse Range of your army."
   },
   {
     "ability_id": "irresistible-will",
@@ -2021,7 +2021,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a friendly TYRANIDS model makes an attack that targets that enemy unit, if the attacking model’s unit is within 6\" of your SYNAPSE unit, re-roll a Hit roll of 1 and re-roll a Wound roll of 1."
+    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase. TARGET: One SYNAPSE unit from your army that has not been selected to shoot or fight this phase, and one enemy unit within 24\" of and visible to the SYNAPSE unit. EFFECT: Until the end of the phase, each time a friendly TYRANIDS model makes an attack that targets that enemy unit, if the attacking model’s unit is within 6\" of your SYNAPSE unit, re-roll a Hit roll of 1 and re-roll a Wound roll of 1."
   },
   {
     "ability_id": "reinforced-hive-node",
@@ -2038,7 +2038,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. TARGET: One SYNAPSE unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
   },
   {
     "ability_id": "swarm-guided-salvoes",
@@ -2055,7 +2055,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, ranged weapons equipped by models in your unit have the [IGNORES COVER] ability, and until the end of the phase each time a model in your unit makes an attack, you can ignore any or all modifiers to that model’s Ballistic Skill characteristic and any or all modifiers to the Hit roll."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One TYRANIDS MONSTER unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, ranged weapons equipped by models in your unit have the [IGNORES COVER] ability, and until the end of the phase each time a model in your unit makes an attack, you can ignore any or all modifiers to that model’s Ballistic Skill characteristic and any or all modifiers to the Hit roll."
   },
   {
     "ability_id": "rampaging-monstrosities",
@@ -2072,7 +2072,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, you can re-roll the Hit roll."
+    "raw_text": "1CP. WHEN: Fight phase. TARGET: One TYRANIDS MONSTER unit from your army that has not been selected to fight this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack, you can re-roll the Hit roll."
   },
   {
     "ability_id": "savage-roar",
@@ -2089,7 +2089,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "That enemy unit must take a Battle-shock test and, until the end of the phase, each time a model in that enemy unit makes an attack that targets your unit, subtract 1 from the Hit roll. If that Battle-shock test was failed, subtract 1 from the Wound roll as well."
+    "raw_text": "1CP. WHEN: Fight phase, just after an enemy unit has selected its targets. TARGET: One TYRANIDS MONSTER unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: That enemy unit must take a Battle-shock test and, until the end of the phase, each time a model in that enemy unit makes an attack that targets your unit, subtract 1 from the Hit roll. If that Battle-shock test was failed, subtract 1 from the Wound roll as well."
   },
   {
     "ability_id": "teeming-masses",
@@ -2106,7 +2106,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. TARGET: One ENDLESS MULTITUDE unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
   },
   {
     "ability_id": "swarming-masses",
@@ -2123,7 +2123,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, weapons equipped by models in your unit have the [SUSTAINED HITS 1] ability, and If your unit contains 15 or more models, each time a model in your unit makes an attack, an unmodified Hit roll of 5+ scores a Critical Hit."
+    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase. TARGET: One ENDLESS MULTITUDE unit from your army that has not been selected to shoot or fight this phase. EFFECT: Until the end of the phase, weapons equipped by models in your unit have the [SUSTAINED HITS 1] ability, and If your unit contains 15 or more models, each time a model in your unit makes an attack, an unmodified Hit roll of 5+ scores a Critical Hit."
   },
   {
     "ability_id": "bounding-advance",
@@ -2140,7 +2140,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time your unit Advances, do not make an Advance roll. Instead, until the end of the phase, add 6\" to the Move characteristic of models in your unit."
+    "raw_text": "1CP. WHEN: Your Movement phase. TARGET: One ENDLESS MULTITUDE unit from your army. EFFECT: Until the end of the phase, each time your unit Advances, do not make an Advance roll. Instead, until the end of the phase, add 6\" to the Move characteristic of models in your unit."
   },
   {
     "ability_id": "surprise-assault",
@@ -2157,7 +2157,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Select one enemy unit that was selected as the target of one or more of your unit’s attacks. That enemy unit must take a Battle-shock test. Until the end of the phase, each time a model in your unit makes an attack that targets that enemy unit, add 1 to the Hit roll. If the Battle-shock test was failed, add 1 to the Wound roll as well."
+    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase, just after a VANGUARD INVADER unit from your army has selected its targets. TARGET: That VANGUARD INVADER unit. EFFECT: Select one enemy unit that was selected as the target of one or more of your unit’s attacks. That enemy unit must take a Battle-shock test. Until the end of the phase, each time a model in your unit makes an attack that targets that enemy unit, add 1 to the Hit roll. If the Battle-shock test was failed, add 1 to the Wound roll as well."
   },
   {
     "ability_id": "assassin-beasts",
@@ -2174,7 +2174,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, melee weapons equipped by models in your unit have the [PRECISION] ability."
+    "raw_text": "1CP. WHEN: Fight phase. TARGET: One VANGUARD INVADER INFANTRY unit from your army that has not been selected to fight this phase. EFFECT: Until the end of the phase, melee weapons equipped by models in your unit have the [PRECISION] ability."
   },
   {
     "ability_id": "rapid-regeneration",
@@ -2191,7 +2191,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, models in your unit have the Feel No Pain 6+ ability. If your unit is within Synapse Range of your army, models in your unit have the Feel No Pain 5+ ability instead."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. TARGET: One TYRANIDS unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, models in your unit have the Feel No Pain 6+ ability. If your unit is within Synapse Range of your army, models in your unit have the Feel No Pain 5+ ability instead."
   },
   {
     "ability_id": "rapacious-hunger",
@@ -2208,7 +2208,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit immediately Regenerates (See Feed the Swarm). When doing so, if your unit is a HARVESTER unit and you choose for one model to regain up to D3 lost wounds, that model regains up to 3 lost wounds instead."
+    "raw_text": "1CP. WHEN: Your Fight phase. TARGET: One TYRANIDS unit from your army that just destroyed an enemy unit. EFFECT: Your unit immediately Regenerates (See Feed the Swarm). When doing so, if your unit is a HARVESTER unit and you choose for one model to regain up to D3 lost wounds, that model regains up to 3 lost wounds instead."
   },
   {
     "ability_id": "adrenal-surge",
@@ -2225,7 +2225,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in any of those selected units makes an attack, an unmodified Hit roll of 5+ scores a Critical Hit."
+    "raw_text": "2CP. WHEN: Fight phase. TARGET: Up to two TYRANIDS units from your army that are within Synapse Range of your army and are eligible to fight, or one other TYRANIDS unit from your army that is eligible to fight. EFFECT: Until the end of the phase, each time a model in any of those selected units makes an attack, an unmodified Hit roll of 5+ scores a Critical Hit."
   },
   {
     "ability_id": "massive-impact",
@@ -2242,7 +2242,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Select one enemy unit within Engagement Range of your model and roll six D6: for each 4+, that enemy unit suffers 1 mortal wound."
+    "raw_text": "1CP. WHEN: Your Charge phase, just after a TYRANIDS MONSTER model from your army ends a Charge move. TARGET: That TYRANIDS MONSTER model. EFFECT: Select one enemy unit within Engagement Range of your model and roll six D6: for each 4+, that enemy unit suffers 1 mortal wound."
   },
   {
     "ability_id": "broodguard-impulse",
@@ -2259,7 +2259,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the battle, each time a friendly TYRANIDS model makes an attack that targets the enemy unit that just destroyed your HARVESTER unit, add 1 to the Wound roll."
+    "raw_text": "1CP. WHEN: Any phase. TARGET: One HARVESTER unit from your army that was just destroyed. You can use this Stratagem on that unit even though it was just destroyed. EFFECT: Until the end of the battle, each time a friendly TYRANIDS model makes an attack that targets the enemy unit that just destroyed your HARVESTER unit, add 1 to the Wound roll."
   },
   {
     "ability_id": "ablative-carapace",
@@ -2276,7 +2276,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, models in your unit have the Feel No Pain 5+ ability. If your unit is within range of an objective marker you control, until the end of the phase models in your unit have the Feel No Pain 4+ ability instead."
+    "raw_text": "2CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. TARGET: One HARVESTER unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, models in your unit have the Feel No Pain 5+ ability. If your unit is within range of an objective marker you control, until the end of the phase models in your unit have the Feel No Pain 4+ ability instead."
   },
   {
     "ability_id": "the-smothering-shadow",
@@ -2293,7 +2293,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Roll six D6: for each 3+, that enemy unit suffers 1 mortal wound."
+    "raw_text": "1CP. WHEN: Any phase, just after an enemy unit fails a Battle-shock test. TARGET: One SYNAPSE unit from your army within 12\" of that enemy unit. EFFECT: Roll six D6: for each 3+, that enemy unit suffers 1 mortal wound."
   },
   {
     "ability_id": "imperative-dominance",
@@ -2310,7 +2310,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Select one Synaptic Imperative, even if you have already selected that imperative this battle. Until the start of your next Command phase, that Synaptic Imperative is active for your unit instead of any other Synaptic Imperative that is active for your army."
+    "raw_text": "1CP. WHEN: Your Command phase. TARGET: One TYRANIDS unit from your army that is within Synapse Range of your army. EFFECT: Select one Synaptic Imperative, even if you have already selected that imperative this battle. Until the start of your next Command phase, that Synaptic Imperative is active for your unit instead of any other Synaptic Imperative that is active for your army."
   },
   {
     "ability_id": "override-instincts",
@@ -2327,7 +2327,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit is eligible to shoot and declare a charge this turn."
+    "raw_text": "1CP. WHEN: Your Movement phase. TARGET: One TYRANIDS unit from your army that is within Synapse Range of your army and made a Fall Back move this phase. EFFECT: Your unit is eligible to shoot and declare a charge this turn."
   },
   {
     "ability_id": "enfilading-emergence",
@@ -2344,7 +2344,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of your next Fight phase, weapons equipped by models in your unit have the [SUSTAINED HITS 1] and [IGNORES COVER] abilities."
+    "raw_text": "1CP. WHEN: End of your Movement phase. TARGET: One TYRANIDS unit from your army that was set up as Reinforcements this turn. EFFECT: Until the end of your next Fight phase, weapons equipped by models in your unit have the [SUSTAINED HITS 1] and [IGNORES COVER] abilities."
   },
   {
     "ability_id": "tunnel-network",
@@ -2361,7 +2361,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Remove your unit from the battlefield and set it up again, wholly within 9\" of another Tunnel Marker you placed, and more than 6\" horizontally away from all enemy units."
+    "raw_text": "1CP. WHEN: End of your Movement phase. TARGET: One TYRANIDS unit from your army that is wholly within 9\" of one or more of your Tunnel Markers and not within Engagement Range of one or more enemy units. EFFECT: Remove your unit from the battlefield and set it up again, wholly within 9\" of another Tunnel Marker you placed, and more than 6\" horizontally away from all enemy units."
   },
   {
     "ability_id": "swarming-assault",
@@ -2378,7 +2378,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, friendly TYRANIDS units within 6\" of your unit can re-roll Charge rolls."
+    "raw_text": "1CP. WHEN: Your Charge phase. TARGET: One TYRANIDS MONSTER unit from your army that was set up as Reinforcements this turn. EFFECT: Until the end of the phase, friendly TYRANIDS units within 6\" of your unit can re-roll Charge rolls."
   },
   {
     "ability_id": "retreat-below",
@@ -2395,7 +2395,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Remove your unit from the battlefield and place it into Strategic Reserves."
+    "raw_text": "1CP. WHEN: End of your opponent’s Fight phase. TARGET: One TYRANIDS unit or up to two BURROWER units from your army that are not within Engagement Range of one or more enemy units. EFFECT: Remove your unit from the battlefield and place it into Strategic Reserves."
   },
   {
     "ability_id": "synaptic-amplification",
@@ -2412,7 +2412,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "If that unit is a TYRANID WARRIORS unit, select up to one ENDLESS MULTITUDE unit from your army, that is not Battle‑shocked, within 6\" of it. Until the end of the phase, each time a model in those units makes an attack, re‑roll a Wound roll of 1, and, if it is a TYRANID WARRIORS unit, re‑roll a Hit roll of 1 as well."
+    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase. TARGET: One TYRANIDS unit from your army that has not been selected to shoot or fight this phase. EFFECT: If that unit is a TYRANID WARRIORS unit, select up to one ENDLESS MULTITUDE unit from your army, that is not Battle‑shocked, within 6\" of it. Until the end of the phase, each time a model in those units makes an attack, re‑roll a Wound roll of 1, and, if it is a TYRANID WARRIORS unit, re‑roll a Hit roll of 1 as well."
   },
   {
     "ability_id": "restorative-impulse",
@@ -2429,7 +2429,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Return 1 destroyed model (excluding CHARACTER models) to your unit."
+    "raw_text": "1CP. WHEN: Your Command phase. TARGET: One TYRANID WARRIORS unit from your army that is below its Starting Strength.&x20; EFFECT: Return 1 destroyed model (excluding CHARACTER models) to your unit."
   },
   {
     "ability_id": "synaptic-micronodes",
@@ -2446,7 +2446,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Select one objective marker you control that your unit is within range of. That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
+    "raw_text": "1CP. WHEN: Your Movement phase. TARGET: One TYRANID WARRIORS unit from your army. EFFECT: Select one objective marker you control that your unit is within range of. That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
   },
   {
     "ability_id": "parasitic-payload",
@@ -2463,7 +2463,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, ranged weapons equipped by models in your unit have the [IGNORES COVER] ability. After your unit has resolved its shooting attacks this phase, select one enemy unit hit by one or more of those attacks. Until the end of the turn, models in that unit cannot have the Benefit of Cover."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One TYRANID WARRIORS WITH RANGED BIO‑WEAPONS unit from your army that has not been selected to shoot this phase.&x20; EFFECT: Until the end of the phase, ranged weapons equipped by models in your unit have the [IGNORES COVER] ability. After your unit has resolved its shooting attacks this phase, select one enemy unit hit by one or more of those attacks. Until the end of the turn, models in that unit cannot have the Benefit of Cover."
   },
   {
     "ability_id": "synaptic-shield",
@@ -2480,7 +2480,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "&x20;If that unit is a TYRANID WARRIORS unit, select up to one ENDLESS MULTITUDE unit from your army, that is not Battle‑shocked, within 6\" of it. Until the end of the phase, each time a ranged attack targets one of those units, if the Strength characteristic of that attack is greater than the Toughness characteristic of that unit, subtract 1 from the Wound roll."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets. TARGET: One TYRANID WARRIORS unit from your army that was selected as the target of one or more of the attacking unit’s attacks.&x20; EFFECT: &x20;If that unit is a TYRANID WARRIORS unit, select up to one ENDLESS MULTITUDE unit from your army, that is not Battle‑shocked, within 6\" of it. Until the end of the phase, each time a ranged attack targets one of those units, if the Strength characteristic of that attack is greater than the Toughness characteristic of that unit, subtract 1 from the Wound roll."
   },
   {
     "ability_id": "untrammelled-ferocity",
@@ -2497,7 +2497,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes a Normal, Advance or Fall Back move, it can move through models (excluding TITANIC models) and sections of terrain features that are 4\" or less in height. When doing so:\n\n■ It can move within Engagement Range of enemy models, but cannot end that move within Engagement Range of them.\n■ It can also move through sections of terrain features that are more than 4\" in height, but if it does, after its unit has moved, roll one D6: on a 1, your unit is Battle-shocked."
+    "raw_text": "1CP. WHEN: Your Movement phase. TARGET: One TYRANIDS MONSTER unit from your army that has not been selected to move this phase. EFFECT: Until the end of the phase, each time a model in your unit makes a Normal, Advance or Fall Back move, it can move through models (excluding TITANIC models) and sections of terrain features that are 4\" or less in height. When doing so:\n\n■ It can move within Engagement Range of enemy models, but cannot end that move within Engagement Range of them.\n■ It can also move through sections of terrain features that are more than 4\" in height, but if it does, after its unit has moved, roll one D6: on a 1, your unit is Battle-shocked."
   },
   {
     "ability_id": "corrosive-viscera",
@@ -2514,7 +2514,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Do not roll one D6 to determine whether mortal wounds are inflicted by your model’s Deadly Demise ability. Instead, mortal wounds are automatically inflicted."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after a TYRANIDS MONSTER model from your army with the Deadly Demise ability that cannot Fly is destroyed. TARGET: That TYRANIDS MONSTER model. You can use this Stratagem on that model even though it was just destroyed. EFFECT: Do not roll one D6 to determine whether mortal wounds are inflicted by your model’s Deadly Demise ability. Instead, mortal wounds are automatically inflicted."
   },
   {
     "ability_id": "synaptic-goading",
@@ -2531,7 +2531,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "When making that Surge move, you can re-roll the D6 to determine how far your unit moves, and your unit can end that move as close as possible to the closest objective marker (instead of as close as possible to the closest enemy unit). All other rules for making Surge moves still apply."
+    "raw_text": "1CP. WHEN: Any phase, just before an ENDLESS MULTITUDE unit from your army that is within Synapse Range of your army makes a Surge move. TARGET: That ENDLESS MULTITUDE unit EFFECT: When making that Surge move, you can re-roll the D6 to determine how far your unit moves, and your unit can end that move as close as possible to the closest objective marker (instead of as close as possible to the closest enemy unit). All other rules for making Surge moves still apply."
   },
   {
     "ability_id": "preservation-imperative",
@@ -2548,7 +2548,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, your unit is treated as containing fewer than five models for the purpose of the [BLAST] ability."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets. TARGET: One ENDLESS MULTITUDE unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, your unit is treated as containing fewer than five models for the purpose of the [BLAST] ability."
   },
   {
     "ability_id": "seeded-broods",
@@ -2565,7 +2565,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, for the purposes of setting up those selected units on the battlefield, treat the current battle round number as being one higher than it actually is."
+    "raw_text": "1CP. WHEN: Your Movement phase. TARGET: One TYRANIDS unit from your army that is in Reserves, or up to two VANGUARD INVADER units from your army that are in Reserves. EFFECT: Until the end of the phase, for the purposes of setting up those selected units on the battlefield, treat the current battle round number as being one higher than it actually is."
   },
   {
     "ability_id": "unseen-lurkers",
@@ -2582,7 +2582,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, your unit can only be selected as the target of a ranged attack if the attacking model is within 18\" or, if your unit has the Lone Operative ability, if the attacking model is within 6\". Your opponent can select new targets for the attacking unit’s attacks."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets. TARGET: One VANGUARD INVADER unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, your unit can only be selected as the target of a ranged attack if the attacking model is within 18\" or, if your unit has the Lone Operative ability, if the attacking model is within 6\". Your opponent can select new targets for the attacking unit’s attacks."
   },
   {
     "ability_id": "invisible-hunter",
@@ -2599,7 +2599,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Remove the targeted units from the battlefield and place them into Strategic Reserves."
+    "raw_text": "1CP. WHEN: End of your opponent’s Fight phase. TARGET: Up to two VANGUARD INVADER units from your army, or one TYRANIDS INFANTRY unit from your army. EFFECT: Remove the targeted units from the battlefield and place them into Strategic Reserves. RESTRICTIONS: The targeted units must be more than 3\" away from all enemy units."
   },
   {
     "ability_id": "death-frenzy",
@@ -2616,7 +2616,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6: on a 4+, do not remove it from play. The destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play."
+    "raw_text": "1CP. WHEN: Fight phase, just after an enemy unit has selected its targets. TARGET: One TYRANIDS unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6: on a 4+, do not remove it from play. The destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play."
   },
   {
     "ability_id": "overrun",
@@ -2633,7 +2633,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time your unit Consolidates, models in it can move an additional 3\" as long as your unit can end that move within Engagement Range of one or more enemy units. If your unit is within Synapse Range of your army and not within Engagement Range of any enemy units, instead of making that Consolidation move, it can make a Normal move of up to 6\"."
+    "raw_text": "1CP. WHEN: Fight phase, just before a TYRANIDS unit from your army Consolidates. TARGET: That TYRANIDS unit. EFFECT: Until the end of the phase, each time your unit Consolidates, models in it can move an additional 3\" as long as your unit can end that move within Engagement Range of one or more enemy units. If your unit is within Synapse Range of your army and not within Engagement Range of any enemy units, instead of making that Consolidation move, it can make a Normal move of up to 6\"."
   },
   {
     "ability_id": "predatory-imperative",
@@ -2650,7 +2650,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Select one Hyper-adaptation. Until the start of your next Command phase, that Hyper-adaptation is active for those selected units in addition to any other that may be active for your army."
+    "raw_text": "1CP. WHEN: Your Command phase. TARGET: Up to two TYRANIDS units from your army that are within Synapse Range of your army, or one other TYRANIDS unit from your army. EFFECT: Select one Hyper-adaptation. Until the start of your next Command phase, that Hyper-adaptation is active for those selected units in addition to any other that may be active for your army. RESTRICTIONS: You cannot select the same Hyper-adaptation you selected at the start of the first battle round."
   },
   {
     "ability_id": "endless-swarm",
@@ -2667,7 +2667,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "You can return up to D3+3 destroyed models to each of those selected units."
+    "raw_text": "1CP. WHEN: Your Command phase. TARGET: Up to two ENDLESS MULTITUDE units from your army that are within Synapse Range of your army, or one other ENDLESS MULTITUDE unit from your army. EFFECT: You can return up to D3+3 destroyed models to each of those selected units."
   },
   {
     "ability_id": "reclaim-biomass",
@@ -2684,7 +2684,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Regenerate one friendly TYRANIDS unit within 6\" of your HARVESTER unit (See Feed the Swarm)."
+    "raw_text": "1CP. WHEN: Any phase, when a TYRANIDS unit from your army is destroyed, before the last model in it is removed from play. TARGET: One HARVESTER unit from your army that is within 6\" of that destroyed unit. EFFECT: Regenerate one friendly TYRANIDS unit within 6\" of your HARVESTER unit (See Feed the Swarm)."
   },
   {
     "ability_id": "tyrannoformed",
@@ -2701,7 +2701,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
+    "raw_text": "1CP. WHEN: Command phase. TARGET: One HARVESTER unit from your army that is within range of an objective marker you control. EFFECT: That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
   },
   {
     "ability_id": "secure-biomass",
@@ -2718,7 +2718,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, melee weapons equipped by models in your unit have the [LETHAL HITS] ability. If your unit is a HARVESTER unit, each time a model in that unit makes a melee attack, a successful unmodified Hit roll of 5+ scores a Critical Hit as well."
+    "raw_text": "1CP. WHEN: Fight phase. TARGET: One TYRANIDS unit from your army that has not been selected to fight this phase. EFFECT: Until the end of the phase, melee weapons equipped by models in your unit have the [LETHAL HITS] ability. If your unit is a HARVESTER unit, each time a model in that unit makes a melee attack, a successful unmodified Hit roll of 5+ scores a Critical Hit as well."
   },
   {
     "ability_id": "unending-waves",
@@ -2735,7 +2735,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Add a new unit to your army identical to your destroyed unit, in Strategic Reserves, at its Starting Strength."
+    "raw_text": "2CP. WHEN: Any phase. TARGET: One ENDLESS MULTITUDE unit from your army that was just destroyed. You can use this Stratagem on that unit even though it was just destroyed. EFFECT: Add a new unit to your army identical to your destroyed unit, in Strategic Reserves, at its Starting Strength. RESTRICTIONS: Any destroyed CHARACTER units that were attached to your unit are not returned. You can only use this Stratagem once per battle."
   },
   {
     "ability_id": "hypersensory-scillia",
@@ -2752,7 +2752,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Those selected units can each make a Normal move of up to 6\"."
+    "raw_text": "2CP. WHEN: Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move. TARGET: Up to two VANGUARD INVADER units from your army that are within 9\" of that enemy unit, or one other TYRANIDS INFANTRY unit from your army that is within 9\" of that enemy unit. EFFECT: Those selected units can each make a Normal move of up to 6\". RESTRICTIONS: You cannot target units that are within Engagement Range of one or more enemy units."
   },
   {
     "ability_id": "adaptive-optimisation",
@@ -2769,7 +2769,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Until the start of your next Command phase, your unit has the SYNAPSE keyword."
+    "raw_text": "1CP. WHEN: Command phase. TARGET: One MAWLOC or TRYGON unit from your army. EFFECT: Until the start of your next Command phase, your unit has the SYNAPSE keyword."
   },
   {
     "ability_id": "replenishing-swarms",
@@ -2786,7 +2786,7 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "One model in your unit regains up to D3+1 lost wounds, or you can return up to D3+1 destroyed models with a Wounds characteristic of 1 to your unit, with their full wounds remaining, instead."
+    "raw_text": "1CP. WHEN: Your Movement phase. TARGET: One TYRANIDS unit from your army, wholly within 9\" of one or more Tunnel Markers you placed. EFFECT: One model in your unit regains up to D3+1 lost wounds, or you can return up to D3+1 destroyed models with a Wounds characteristic of 1 to your unit, with their full wounds remaining, instead."
   },
   {
     "ability_id": "spontaneous-hypercorrosion",
@@ -2803,6 +2803,6 @@
       "ref": "10th/json/tyranids.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, add 2 to the Strength characteristic of ranged weapons equipped by models in your unit and add 1 to the Strength characteristic of melee weapons equipped by TYRANID WARRIORS and WINGED TYRANID PRIME models in your unit."
+    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase. TARGET: &x20;One TYRANIDS unit from your army that has not been selected to shoot or fight this phase.&#x20; EFFECT: Until the end of the phase, add 2 to the Strength characteristic of ranged weapons equipped by models in your unit and add 1 to the Strength characteristic of melee weapons equipped by TYRANID WARRIORS and WINGED TYRANID PRIME models in your unit."
   }
 ]

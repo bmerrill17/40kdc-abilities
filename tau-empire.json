@@ -2265,7 +2265,7 @@
       "ref": "10th/json/tau.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit that contains 6 or more models, that attack has the [SUSTAINED HITS 1] ability. If that attack targets an enemy unit that contains 11 or more models, it has the [SUSTAINED HITS 2] ability instead."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One T’AU EMPIRE BATTLESUIT unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit that contains 6 or more models, that attack has the [SUSTAINED HITS 1] ability. If that attack targets an enemy unit that contains 11 or more models, it has the [SUSTAINED HITS 2] ability instead."
   },
   {
     "ability_id": "focused-fire",
@@ -2282,7 +2282,7 @@
       "ref": "10th/json/tau.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in either of your units makes an attack, it can only target that enemy unit (and only if it is an eligible target for that attack), and when resolving that attack, improve the Armour Penetration characteristic by 1."
+    "raw_text": "1CP. WHEN: Start of your Shooting phase. TARGET: Two T’AU EMPIRE units from your army that have not been selected to shoot this phase, and one enemy unit. EFFECT: Until the end of the phase, each time a model in either of your units makes an attack, it can only target that enemy unit (and only if it is an eligible target for that attack), and when resolving that attack, improve the Armour Penetration characteristic by 1. RESTRICTIONS: You cannot use this Stratagem during the fourth or fifth battle rounds."
   },
   {
     "ability_id": "combat-debarkation",
@@ -2299,7 +2299,7 @@
       "ref": "10th/json/tau.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack that targets the closest enemy unit, you can re-roll the Wound roll."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One T’AU EMPIRE INFANTRY unit from your army that disembarked from a TRANSPORT this turn. EFFECT: Until the end of the phase, each time a model in your unit makes an attack that targets the closest enemy unit, you can re-roll the Wound roll."
   },
   {
     "ability_id": "pinpoint-counter-offensive",
@@ -2316,7 +2316,7 @@
       "ref": "10th/json/tau.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the battle, each time a T’AU EMPIRE unit (excluding KROOT units) from your army makes an attack that targets the enemy unit that just destroyed your unit, you can re-roll the Hit roll."
+    "raw_text": "1CP. WHEN: Any phase. TARGET: One T’AU EMPIRE unit (excluding KROOT units) from your army that was just destroyed. You can use this Stratagem on that unit even though it was just destroyed. EFFECT: Until the end of the battle, each time a T’AU EMPIRE unit (excluding KROOT units) from your army makes an attack that targets the enemy unit that just destroyed your unit, you can re-roll the Hit roll."
   },
   {
     "ability_id": "aggressive-mobility",
@@ -2333,7 +2333,7 @@
       "ref": "10th/json/tau.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, if your unit Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in your unit."
+    "raw_text": "1CP. WHEN: Your Movement phase. TARGET: One T’AU EMPIRE unit from your army that has not been selected to move this phase. EFFECT: Until the end of the phase, if your unit Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in your unit."
   },
   {
     "ability_id": "a-trap-well-laid",
@@ -2350,7 +2350,7 @@
       "ref": "10th/json/tau.json",
       "edition": "10e"
     },
-    "raw_text": "After your unit has resolved its attacks this phase, select one enemy unit that was hit by one or more of those attacks. Until the end of the phase, each time a KROOT model from your army makes an attack that targets that enemy unit, unless the attacking unit is Battle-shocked, improve the Armour Penetration characteristic of that attack by 1."
+    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase. TARGET: One KROOT unit from your army that has not been selected to shoot or fight this phase. EFFECT: After your unit has resolved its attacks this phase, select one enemy unit that was hit by one or more of those attacks. Until the end of the phase, each time a KROOT model from your army makes an attack that targets that enemy unit, unless the attacking unit is Battle-shocked, improve the Armour Penetration characteristic of that attack by 1."
   },
   {
     "ability_id": "reactive-impact-dampeners",
@@ -2367,7 +2367,7 @@
       "ref": "10th/json/tau.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an attack targets your unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of your unit, subtract 1 from the Wound roll."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. TARGET: One T’AU EMPIRE BATTLESUIT unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time an attack targets your unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of your unit, subtract 1 from the Wound roll."
   },
   {
     "ability_id": "experimental-weaponry",
@@ -2384,7 +2384,7 @@
       "ref": "10th/json/tau.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time you roll one or more dice to determine the number of attacks made with a weapon equipped by a model in your unit, you can re‐roll the result."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One T’AU EMPIRE unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, each time you roll one or more dice to determine the number of attacks made with a weapon equipped by a model in your unit, you can re‐roll the result."
   },
   {
     "ability_id": "a-tempting-trap",
@@ -2401,7 +2401,7 @@
       "ref": "10th/json/tau.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes a ranged attack that targets an enemy unit within range of your Trap objective marker, add 1 to the Wound roll."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One T’AU EMPIRE unit from your army that has not been selected to shoot this phase. The first time you use this Stratagem, you must also select one objective marker that is not in your opponent’s deployment zone; until the end of the battle, this becomes your Trap objective marker. EFFECT: Until the end of the phase, each time a model in your unit makes a ranged attack that targets an enemy unit within range of your Trap objective marker, add 1 to the Wound roll. RESTRICTIONS: You cannot use this Stratagem during the first or second battle rounds."
   },
   {
     "ability_id": "point-blank-ambush",
@@ -2418,7 +2418,7 @@
       "ref": "10th/json/tau.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes a ranged attack that targets an enemy unit within 9\", improve the Armour Penetration characteristic of that attack by 1."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One T’AU EMPIRE unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, each time a model in your unit makes a ranged attack that targets an enemy unit within 9\", improve the Armour Penetration characteristic of that attack by 1. RESTRICTIONS: You cannot use this Stratagem during the first or second battle rounds."
   },
   {
     "ability_id": "coordinate-to-engage",
@@ -2435,7 +2435,7 @@
       "ref": "10th/json/tau.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack that targets their Spotted unit, improve the Ballistic Skill characteristic of that attack by 1 and, if your unit has the Markerlight keyword, that attack has the [IGNORES COVER] ability."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One T’AU EMPIRE unit from your army that has just been selected as an Observer unit (see For the Greater Good). EFFECT: Until the end of the phase, each time a model in your unit makes an attack that targets their Spotted unit, improve the Ballistic Skill characteristic of that attack by 1 and, if your unit has the Markerlight keyword, that attack has the [IGNORES COVER] ability."
   },
   {
     "ability_id": "wall-of-mirrors",
@@ -2452,7 +2452,7 @@
       "ref": "10th/json/tau.json",
       "edition": "10e"
     },
-    "raw_text": "Remove your unit from the battlefield and place it into Strategic Reserves."
+    "raw_text": "1CP. WHEN: End of your opponent’s Fight phase. TARGET: One STEALTH, GHOSTKEEL or COMMANDER SHADOWSUN unit from your army. EFFECT: Remove your unit from the battlefield and place it into Strategic Reserves. RESTRICTIONS: You cannot target a unit that is within Engagement Range of one or more enemy units."
   },
   {
     "ability_id": "multisensory-scanning",
@@ -2469,7 +2469,7 @@
       "ref": "10th/json/tau.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, re‑roll a Wound roll of 1. If it is a KROOT or VESPID STINGWINGS unit, you can re‑roll the Wound roll instead."
+    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase. TARGET: One T’AU EMPIRE unit from your army that has not been selected to shoot or fight this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack, re‑roll a Wound roll of 1. If it is a KROOT or VESPID STINGWINGS unit, you can re‑roll the Wound roll instead."
   },
   {
     "ability_id": "alien-expertise",
@@ -2486,7 +2486,7 @@
       "ref": "10th/json/tau.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, your unit is eligible to shoot in a turn in which it Advanced. If it is a KROOT or VESPID STINGWINGS unit, until the end of the turn, your unit is eligible to declare a charge in a turn in which it Advanced as well."
+    "raw_text": "1CP. WHEN: Your Movement phase. TARGET: One T’AU EMPIRE unit from your army. EFFECT: Until the end of the turn, your unit is eligible to shoot in a turn in which it Advanced. If it is a KROOT or VESPID STINGWINGS unit, until the end of the turn, your unit is eligible to declare a charge in a turn in which it Advanced as well."
   },
   {
     "ability_id": "guided-fire",
@@ -2503,7 +2503,7 @@
       "ref": "10th/json/tau.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, add 1 to the Strength characteristic of ranged weapons equipped by models in your unit. If your unit is wholly within 9\" of one or more KROOT or VESPID STINGWINGS units from your army, add 2 to the Strength characteristic of ranged weapons equipped by models in your unit instead."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One T’AU EMPIRE unit from your army (excluding KROOT and VESPID STINGWINGS units) that has not been selected to shoot this phase. EFFECT: Until the end of the phase, add 1 to the Strength characteristic of ranged weapons equipped by models in your unit. If your unit is wholly within 9\" of one or more KROOT or VESPID STINGWINGS units from your army, add 2 to the Strength characteristic of ranged weapons equipped by models in your unit instead."
   },
   {
     "ability_id": "join-the-hunt",
@@ -2520,7 +2520,7 @@
       "ref": "10th/json/tau.json",
       "edition": "10e"
     },
-    "raw_text": "Add a new unit to your army identical to your destroyed unit, in Strategic Reserves, at its Starting Strength."
+    "raw_text": "2CP. WHEN: Any phase. TARGET: One KROOT INFANTRY or KROOT HOUNDS unit from your army that was just destroyed. You can use this Stratagem on that unit even though it was just destroyed. EFFECT: Add a new unit to your army identical to your destroyed unit, in Strategic Reserves, at its Starting Strength. RESTRICTIONS: This Stratagem cannot be used to return destroyed CHARACTER units to Attached units. You can only use this Stratagem once per battle."
   },
   {
     "ability_id": "fail-safe-detonator",
@@ -2537,7 +2537,7 @@
       "ref": "10th/json/tau.json",
       "edition": "10e"
     },
-    "raw_text": "Before removing your model from play, if it has the Deadly Demise ability, do not roll for that ability; instead, you can choose whether the result of that roll is a 1 or a 6. If your model does not have the Deadly Demise ability, roll one D6 for each unit within 6\" of it: on a 4+, that unit suffers D3 mortal wounds."
+    "raw_text": "2CP. WHEN: Any phase, just after a T’AU EMPIRE BATTLESUIT model from your army is destroyed. TARGET: That destroyed model’s unit. You can use this Stratagem on that unit even if that unit was just destroyed. EFFECT: Before removing your model from play, if it has the Deadly Demise ability, do not roll for that ability; instead, you can choose whether the result of that roll is a 1 or a 6. If your model does not have the Deadly Demise ability, roll one D6 for each unit within 6\" of it: on a 4+, that unit suffers D3 mortal wounds."
   },
   {
     "ability_id": "the-torchstar-gambit",
@@ -2554,7 +2554,7 @@
       "ref": "10th/json/tau.json",
       "edition": "10e"
     },
-    "raw_text": "If your unit is not within Engagement Range of one or more enemy units, it can make a Normal move. If it does, your unit cannot declare a charge this turn."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One T’AU EMPIRE BATTLESUIT unit from your army that can FLY whose attacks have been resolved this phase. EFFECT: If your unit is not within Engagement Range of one or more enemy units, it can make a Normal move. If it does, your unit cannot declare a charge this turn."
   },
   {
     "ability_id": "grav-inhibitor-field",
@@ -2571,7 +2571,7 @@
       "ref": "10th/json/tau.json",
       "edition": "10e"
     },
-    "raw_text": "That enemy unit must immediately take a Battle-shock test and you must roll one D6 for each model in that enemy unit: for each 6, that enemy unit suffers 1 mortal wound."
+    "raw_text": "1CP. WHEN: Your opponent’s Charge phase, just after an enemy unit has declared a charge. TARGET: One T’AU EMPIRE BATTLESUIT unit from your army that was selected as a target of that charge. EFFECT: That enemy unit must immediately take a Battle-shock test and you must roll one D6 for each model in that enemy unit: for each 6, that enemy unit suffers 1 mortal wound."
   },
   {
     "ability_id": "the-grisly-feast",
@@ -2588,7 +2588,7 @@
       "ref": "10th/json/tau.json",
       "edition": "10e"
     },
-    "raw_text": "In your opponent’s next Command phase, each enemy unit within 6\" of your unit must take a Battle-shock test. If the unit taking that test is Below Half-strength, subtract 1 from that test. Enemy units affected by this Stratagem do not need to take any other Battle-shock tests in the same phase."
+    "raw_text": "1CP. WHEN: Fight phase. TARGET: One KROOT unit from your army that destroyed one or more enemy units this phase. EFFECT: In your opponent’s next Command phase, each enemy unit within 6\" of your unit must take a Battle-shock test. If the unit taking that test is Below Half-strength, subtract 1 from that test. Enemy units affected by this Stratagem do not need to take any other Battle-shock tests in the same phase."
   },
   {
     "ability_id": "guerrilla-warriors",
@@ -2605,7 +2605,7 @@
       "ref": "10th/json/tau.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, your unit is eligible to shoot and declare a charge."
+    "raw_text": "1CP. WHEN: Your Movement phase, just after a KROOT unit from your army Falls Back. TARGET: That KROOT unit. EFFECT: Until the end of the turn, your unit is eligible to shoot and declare a charge."
   },
   {
     "ability_id": "hidden-hunters",
@@ -2622,7 +2622,7 @@
       "ref": "10th/json/tau.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, your unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets. TARGET: One KROOT unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, your unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
   },
   {
     "ability_id": "automated-repair-drones",
@@ -2639,7 +2639,7 @@
       "ref": "10th/json/tau.json",
       "edition": "10e"
     },
-    "raw_text": "Select one BATTLESUIT model in your unit: that model regains up to D3+1 lost wounds."
+    "raw_text": "1CP. WHEN: Command phase. TARGET: One T’AU EMPIRE BATTLESUIT unit from your army. EFFECT: Select one BATTLESUIT model in your unit: that model regains up to D3+1 lost wounds."
   },
   {
     "ability_id": "experimental-modifications",
@@ -2656,7 +2656,7 @@
       "ref": "10th/json/tau.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, improve the Armour Penetration characteristic of weapons equipped by models in your unit by 1."
+    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase. TARGET: One KROOT or VESPID STINGWINGS unit from your army that has not been selected to shoot or fight this phase. EFFECT: Until the end of the phase, improve the Armour Penetration characteristic of weapons equipped by models in your unit by 1."
   },
   {
     "ability_id": "interlocking-manouevres",
@@ -2673,7 +2673,7 @@
       "ref": "10th/json/tau.json",
       "edition": "10e"
     },
-    "raw_text": "If your unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to 6\". Otherwise, your unit can make a Fall Back move. It cannot embark within a TRANSPORT at the end of this move if it disembarked from a TRANSPORT this turn."
+    "raw_text": "1CP. WHEN: End of the Fight phase. TARGET: One T’AU EMPIRE unit from your army that was eligible to fight this phase. EFFECT: If your unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to 6\". Otherwise, your unit can make a Fall Back move. It cannot embark within a TRANSPORT at the end of this move if it disembarked from a TRANSPORT this turn."
   },
   {
     "ability_id": "pheromone-waypoints",
@@ -2690,7 +2690,7 @@
       "ref": "10th/json/tau.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time your unit Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in your unit."
+    "raw_text": "1CP. WHEN: Your Movement phase. TARGET: One KROOT or VESPID STINGWINGS unit from your army that has not been selected to move this phase. EFFECT: Until the end of the phase, each time your unit Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in your unit."
   },
   {
     "ability_id": "the-shortened-blade",
@@ -2707,7 +2707,7 @@
       "ref": "10th/json/tau.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can be set up anywhere on the battlefield that is more than 6\" horizontally away from all enemy models."
+    "raw_text": "2CP. WHEN: Your Movement phase. TARGET: One T’AU EMPIRE BATTLESUIT unit from your army that is arriving using the Deep Strike ability this phase. EFFECT: Your unit can be set up anywhere on the battlefield that is more than 6\" horizontally away from all enemy models. RESTRICTIONS: A unit targeted with this Stratagem is not eligible to declare a charge in the same turn."
   },
   {
     "ability_id": "pulse-onslaught",
@@ -2724,7 +2724,7 @@
       "ref": "10th/json/tau.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of your opponent’s next turn, that enemy unit is shaken. While a unit is shaken, subtract 2 from its Move characteristic and subtract 2 from Advance and Charge rolls made for it."
+    "raw_text": "2CP. WHEN: Your Shooting phase. TARGET: One T’AU EMPIRE INFANTRY unit (excluding KROOT units) from your army that has just shot, and one enemy unit (excluding MONSTERS and VEHICLES) hit by one or more of those attacks. EFFECT: Until the end of your opponent’s next turn, that enemy unit is shaken. While a unit is shaken, subtract 2 from its Move characteristic and subtract 2 from Advance and Charge rolls made for it."
   },
   {
     "ability_id": "stimm-injectors",
@@ -2741,7 +2741,7 @@
       "ref": "10th/json/tau.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, models in your unit have the Feel No Pain 6+ ability."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. TARGET: One T’AU EMPIRE BATTLESUIT unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, models in your unit have the Feel No Pain 6+ ability."
   },
   {
     "ability_id": "emp-grenades",
@@ -2758,7 +2758,7 @@
       "ref": "10th/json/tau.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, worsen the Weapon Skill and Ballistic Skill characteristics of that enemy VEHICLE unit’s weapons by 1."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy VEHICLE unit is selected to shoot or fight. TARGET: One KROOT GRENADES unit from your army within 8\" of that enemy VEHICLE unit. EFFECT: Until the end of the phase, worsen the Weapon Skill and Ballistic Skill characteristics of that enemy VEHICLE unit’s weapons by 1."
   },
   {
     "ability_id": "experimental-ammunition",
@@ -2775,7 +2775,7 @@
       "ref": "10th/json/tau.json",
       "edition": "10e"
     },
-    "raw_text": "Select one of the following to apply to your unit until the end of the phase:\n\n• Improve the Strength characteristic of ranged weapons equipped by models in your unit by 1.\n• Improve the Strength and Armour Penetration characteristics of ranged weapons equipped by models in your unit by 1, and those weapons have the [HAZARDOUS] ability."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One T’AU EMPIRE unit from your army that has not been selected to shoot this phase. EFFECT: Select one of the following to apply to your unit until the end of the phase:\n\n• Improve the Strength characteristic of ranged weapons equipped by models in your unit by 1.\n• Improve the Strength and Armour Penetration characteristics of ranged weapons equipped by models in your unit by 1, and those weapons have the [HAZARDOUS] ability. RESTRICTIONS: You cannot target the same unit with the Experimental Ammunition and Threat Assessment Analyser Stratagems in the same phase."
   },
   {
     "ability_id": "threat-assessment-analyser",
@@ -2792,7 +2792,7 @@
       "ref": "10th/json/tau.json",
       "edition": "10e"
     },
-    "raw_text": "Select the [SUSTAINED HITS 1] or [LETHAL HITS] ability. Until the end of the phase, ranged weapons equipped by models in your unit have the selected ability. You can instead select the [SUSTAINED HITS 1], [LETHAL HITS] and [HAZARDOUS] abilities to apply to those weapons until the end of the phase."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One T’AU EMPIRE unit from your army that has not been selected to shoot this phase. EFFECT: Select the [SUSTAINED HITS 1] or [LETHAL HITS] ability. Until the end of the phase, ranged weapons equipped by models in your unit have the selected ability. You can instead select the [SUSTAINED HITS 1], [LETHAL HITS] and [HAZARDOUS] abilities to apply to those weapons until the end of the phase. RESTRICTIONS: You cannot target the same unit with the Experimental Ammunition and Threat Assessment Analyser Stratagems in the same phase."
   },
   {
     "ability_id": "neuroweb-system-jammer",
@@ -2809,7 +2809,7 @@
       "ref": "10th/json/tau.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, your unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets. TARGET: One T’AU EMPIRE CRISIS unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, your unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
   },
   {
     "ability_id": "combat-embarkation",
@@ -2826,7 +2826,7 @@
       "ref": "10th/json/tau.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit embarks within that TRANSPORT."
+    "raw_text": "1CP. WHEN: Your opponent’s Charge phase, just after an enemy unit has declared a charge. TARGET: One T’AU EMPIRE INFANTRY unit from your army that was selected as one of the targets of that charge, and one friendly TRANSPORT. EFFECT: Your unit embarks within that TRANSPORT. RESTRICTIONS: Every model in your INFANTRY unit must be within 3\" of that TRANSPORT and there must be sufficient transport capacity to embark the entire unit."
   },
   {
     "ability_id": "photon-grenades",
@@ -2843,7 +2843,7 @@
       "ref": "10th/json/tau.json",
       "edition": "10e"
     },
-    "raw_text": "That enemy unit must immediately take a Battle-shock test, and until the end of the phase, subtract 2 from Charge rolls made for that enemy unit."
+    "raw_text": "1CP. WHEN: Your opponent’s Charge phase, just after an enemy unit has declared a charge. TARGET: One T’AU EMPIRE GRENADES unit from your army that was selected as one of the targets of that charge. EFFECT: That enemy unit must immediately take a Battle-shock test, and until the end of the phase, subtract 2 from Charge rolls made for that enemy unit. RESTRICTIONS: You cannot target a unit that is within Engagement Range of one or more enemy units."
   },
   {
     "ability_id": "counterfire-defence-systems",
@@ -2860,6 +2860,6 @@
       "ref": "10th/json/tau.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an attack is allocated to your unit, subtract 1 from the Damage characteristic of that attack."
+    "raw_text": "2CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets. TARGET: One T’AU EMPIRE unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time an attack is allocated to your unit, subtract 1 from the Damage characteristic of that attack."
   }
 ]

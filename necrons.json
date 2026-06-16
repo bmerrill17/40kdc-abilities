@@ -2692,7 +2692,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, you can ignore any or all modifiers to the following: that attack’s Ballistic Skill or Weapon Skill characteristic; the Hit roll. If your unit has the CRYPTEK keyword, you can also ignore any or all modifiers to the Wound roll."
+    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase TARGET: One NECRONS unit from your army that has not been selected to shoot or fight this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack, you can ignore any or all modifiers to the following: that attack’s Ballistic Skill or Weapon Skill characteristic; the Hit roll. If your unit has the CRYPTEK keyword, you can also ignore any or all modifiers to the Wound roll."
   },
   {
     "ability_id": "untapped-power",
@@ -2709,7 +2709,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time your unit is selected to shoot, when selecting an ability for the Techno‑sorcerous Augmentations Detachment Rule, you can select one additional ability from those available."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One CRYPTEK unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, each time your unit is selected to shoot, when selecting an ability for the Techno‑sorcerous Augmentations Detachment Rule, you can select one additional ability from those available."
   },
   {
     "ability_id": "methodical-murder",
@@ -2726,7 +2726,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, weapons equipped by models in your unit have the [SUSTAINED HITS 1] ability."
+    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase. TARGET: One NECRONS unit (excluding MONSTERS and VEHICLES) from your army that has not been selected to shoot or fight this phase. EFFECT: Until the end of the phase, weapons equipped by models in your unit have the [SUSTAINED HITS 1] ability."
   },
   {
     "ability_id": "image-of-death",
@@ -2743,7 +2743,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. TARGET: One DESTROYER CULT unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
   },
   {
     "ability_id": "spreading-madness",
@@ -2760,7 +2760,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time your unit declares a charge, if one or more targets of that charge are within Engagement Range of one or more friendly units, add 2 to the Charge roll."
+    "raw_text": "1CP. WHEN: Your Charge phase TARGET: One NECRONS unit (excluding MONSTERS and VEHICLES) from your army that has not declared a charge this phase. EFFECT: Until the end of the phase, each time your unit declares a charge, if one or more targets of that charge are within Engagement Range of one or more friendly units, add 2 to the Charge roll."
   },
   {
     "ability_id": "pitiless-hunters",
@@ -2777,7 +2777,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes a Pile-in or Consolidation move, it can move up to 6\" instead of up to 3\"."
+    "raw_text": "1CP. WHEN: Fight phase. TARGET: One DESTROYER CULT or FLAYED ONES unit from your army that has not been selected to fight this phase. EFFECT: Until the end of the phase, each time a model in your unit makes a Pile-in or Consolidation move, it can move up to 6\" instead of up to 3\"."
   },
   {
     "ability_id": "blood-fuelled-cruelty",
@@ -2794,7 +2794,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Roll one D6: on a 2-5, that enemy unit suffers D3 mortal wounds; on a 6, that enemy unit suffers 3 mortal wounds. Your unit can then make a Normal move, but must end that move as close as possible to that enemy unit."
+    "raw_text": "1CP. WHEN: Your opponent’s Movement phase, just after an enemy unit ends a Fall Back move. TARGET: One DESTROYER CULT or FLAYED ONES unit from your army that started the phase within Engagement Range of that enemy unit. EFFECT: Roll one D6: on a 2-5, that enemy unit suffers D3 mortal wounds; on a 6, that enemy unit suffers 3 mortal wounds. Your unit can then make a Normal move, but must end that move as close as possible to that enemy unit."
   },
   {
     "ability_id": "the-spoor-of-frailty",
@@ -2811,7 +2811,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model from your unit makes an attack that targets a unit below Starting Strength, add 1 to the Hit roll. If the target is Below Half-strength, add 1 to the Wound roll as well"
+    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase. TARGET: One DESTROYER CULT or FLAYED ONES unit from your army that has not been selected to shoot or fight this phase. EFFECT: Until the end of the phase, each time a model from your unit makes an attack that targets a unit below Starting Strength, add 1 to the Hit roll. If the target is Below Half-strength, add 1 to the Wound roll as well"
   },
   {
     "ability_id": "murderous-reanimation",
@@ -2828,7 +2828,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit’s Reanimation Protocols activate."
+    "raw_text": "1CP. WHEN: Fight phase. TARGET: One DESTROYER CULT or FLAYED ONES unit from your army that has just destroyed an enemy unit, or just caused an enemy unit that was not Below Half-strength to become Below Half-strength. EFFECT: Your unit’s Reanimation Protocols activate."
   },
   {
     "ability_id": "entrophasic-aura-targeting",
@@ -2845,7 +2845,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit, re‑roll a Hit roll of 1. If the target of that attack is unravelling, re‑roll a Wound roll of 1 as well."
+    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase. TARGET: One NECRONS unit (excluding MONSTERS) from your army that has not been selected to shoot or fight this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit, re‑roll a Hit roll of 1. If the target of that attack is unravelling, re‑roll a Wound roll of 1 as well."
   },
   {
     "ability_id": "chronodistortion",
@@ -2862,7 +2862,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, adding 1 if the attacking unit is unravelling: on a 4+, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play."
+    "raw_text": "1CP. WHEN: Fight phase, just after an enemy unit has selected its targets. TARGET: One NECRONS unit from your army that was selected as the target of one or more of the attacking unit’s attacks EFFECT: Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, adding 1 if the attacking unit is unravelling: on a 4+, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play."
   },
   {
     "ability_id": "enslaved-artifice",
@@ -2879,7 +2879,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, an unmodified Hit roll of 5+ scores a Critical Hit."
+    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase. TARGET: One NECRONS unit from your army (excluding TITANIC units) that has not been selected to shoot or fight this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack, an unmodified Hit roll of 5+ scores a Critical Hit."
   },
   {
     "ability_id": "nanoassembly-protocols",
@@ -2896,7 +2896,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an attack is allocated to a model in your unit, subtract 1 from the Damage characteristic of that attack."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. TARGET: One NECRONS VEHICLE unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time an attack is allocated to a model in your unit, subtract 1 from the Damage characteristic of that attack."
   },
   {
     "ability_id": "suffer-no-rival",
@@ -2913,7 +2913,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, melee weapons equipped by models in your unit have the [PRECISION] ability."
+    "raw_text": "1CP. WHEN: Fight phase. TARGET: One LYCHGUARD or TRIARCH unit from your army that has not been selected to fight this phase. EFFECT: Until the end of the phase, melee weapons equipped by models in your unit have the [PRECISION] ability."
   },
   {
     "ability_id": "curse-of-the-cryptek",
@@ -2930,7 +2930,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the battle, each time a friendly CANOPTEK model makes an attack that targets the attacking unit, add 1 to the Hit roll and add 1 to the Wound roll."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has shot or fought. TARGET: One CRYPTEK model from your army that was destroyed by one of the attacking unit’s attacks. You can use this Stratagem on that model even though it was just destroyed. EFFECT: Until the end of the battle, each time a friendly CANOPTEK model makes an attack that targets the attacking unit, add 1 to the Hit roll and add 1 to the Wound roll."
   },
   {
     "ability_id": "protocol-of-the-hungry-void",
@@ -2947,7 +2947,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, add 1 to the Strength characteristic of melee weapons equipped by models in your unit. In addition, if a NECRONS CHARACTER is leading your unit, until the end of the phase, improve the Armour Penetration characteristic of melee weapons equipped by models in your unit by 1 (this is not cumulative with any other modifiers that improve Armour Penetration)."
+    "raw_text": "1CP. WHEN: Fight phase. TARGET: One NECRONS unit from your army that has not been selected to fight this phase. EFFECT: Until the end of the phase, add 1 to the Strength characteristic of melee weapons equipped by models in your unit. In addition, if a NECRONS CHARACTER is leading your unit, until the end of the phase, improve the Armour Penetration characteristic of melee weapons equipped by models in your unit by 1 (this is not cumulative with any other modifiers that improve Armour Penetration)."
   },
   {
     "ability_id": "protocol-of-the-conquering-tyrant",
@@ -2964,7 +2964,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack that targets a unit within half range, re-roll a Hit roll of 1. If a NECRONS CHARACTER is leading your unit, until the end of the phase, you can re-roll the Hit roll for that attack instead."
+    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One NECRONS unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack that targets a unit within half range, re-roll a Hit roll of 1. If a NECRONS CHARACTER is leading your unit, until the end of the phase, you can re-roll the Hit roll for that attack instead."
   },
   {
     "ability_id": "merciless-reclamation",
@@ -2981,7 +2981,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, if the target of that attack is within range of one or more objective markers, add 1 to the Wound roll."
+    "raw_text": "2CP. WHEN: Your Shooting phase or the Fight phase. TARGET: One NECRONS unit (excluding MONSTER and TITANIC units) from your army that has not been selected to shoot or fight this phase.&x20; EFFECT: Until the end of the phase, each time a model in your unit makes an attack, if the target of that attack is within range of one or more objective markers, add 1 to the Wound roll."
   },
   {
     "ability_id": "unyielding-forms",
@@ -2998,7 +2998,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an attack targets a model in your unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of that unit, subtract 1 from the Wound roll."
+    "raw_text": "2CP. WHEN: &x20;Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.&#x20; TARGET: One NECRONS VEHICLE or NECRONS MOUNTED unit (excluding TITANIC units) from your army that was selected as the target of one or more of the attacking unit’s attacks.&x20; EFFECT: Until the end of the phase, each time an attack targets a model in your unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of that unit, subtract 1 from the Wound roll."
   },
   {
     "ability_id": "cynosure-of-eradication",
@@ -3015,7 +3015,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, weapons equipped by CRYPTEK or CANOPTEK models in your unit have the [DEVASTATING WOUNDS] ability."
+    "raw_text": "2CP. WHEN: The start of your Shooting phase or the start of the Fight phase. TARGET: One CRYPTEK or CANOPTEK unit from your army that is wholly within your army’s Power Matrix. EFFECT: Until the end of the phase, weapons equipped by CRYPTEK or CANOPTEK models in your unit have the [DEVASTATING WOUNDS] ability."
   },
   {
     "ability_id": "disharmonisation-cascade",
@@ -3032,7 +3032,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, your model’s Deadly Demise ability inflicts mortal wounds on a D6 roll of 3+ instead of on a 6."
+    "raw_text": "1CP. WHEN: Any phase, just after a NECRONS MONSTER model from your army is destroyed, before making its Deadly Demise roll. TARGET: That NECRONS MONSTER model. You can use this Stratagem on that model even though it was just destroyed. EFFECT: Until the end of the phase, your model’s Deadly Demise ability inflicts mortal wounds on a D6 roll of 3+ instead of on a 6."
   },
   {
     "ability_id": "mass-transmogrification",
@@ -3049,7 +3049,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "If that enemy unit was unravelling at the start of the phase, your friendly unit’s Reanimation Protocols activate."
+    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase, just after a NECRONS MONSTER unit from your army destroys an enemy unit. TARGET: One friendly NECRONS unit (excluding MONSTERS) within 6\" of that Monster unit. EFFECT: If that enemy unit was unravelling at the start of the phase, your friendly unit’s Reanimation Protocols activate. RESTRICTIONS: You can only use this Stratagem once per turn."
   },
   {
     "ability_id": "your-time-is-nigh",
@@ -3066,7 +3066,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the battle, each time an enemy unit takes a Battle-shock or Leadership test, subtract 1 from the result."
+    "raw_text": "1CP. WHEN: Any phase, just after your opponent’s WARLORD is destroyed. TARGET: Your NECRONS WARLORD. EFFECT: Until the end of the battle, each time an enemy unit takes a Battle-shock or Leadership test, subtract 1 from the result."
   },
   {
     "ability_id": "sentinels-of-eternity",
@@ -3083,7 +3083,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6: on a 4+, do not remove it from play. The destroyed model can fight after the attacking model’s unit has finished making attacks, and is then removed from play."
+    "raw_text": "1CP. WHEN: Fight phase, just after an enemy unit has selected its targets. TARGET: One LYCHGUARD or TRIARCH PRAETORIANS unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6: on a 4+, do not remove it from play. The destroyed model can fight after the attacking model’s unit has finished making attacks, and is then removed from play."
   },
   {
     "ability_id": "protocol-of-the-eternal-revenant",
@@ -3100,7 +3100,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "At the end of the phase, set your model back up on the battlefield as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with half of its starting number of wounds remaining."
+    "raw_text": "1CP. WHEN: Any phase. TARGET: One NECRONS INFANTRY CHARACTER model from your army that was just destroyed. You can use this Stratagem on that model even though it was just destroyed. EFFECT: At the end of the phase, set your model back up on the battlefield as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with half of its starting number of wounds remaining. RESTRICTIONS: Each model can only be targeted with this Stratagem once per battle."
   },
   {
     "ability_id": "synergistic-empowerment",
@@ -3117,7 +3117,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Select one friendly NECRONS model (excluding MONSTERS and VEHICLES) within 12\" of a CRYPTEK model in your unit. Until the end of the phase, that friendly NECRONS model has the CRYPTEK keyword."
+    "raw_text": "1CP. WHEN: Start of your Shooting phase. TARGET: One CRYPTEK unit from your army. EFFECT: Select one friendly NECRONS model (excluding MONSTERS and VEHICLES) within 12\" of a CRYPTEK model in your unit. Until the end of the phase, that friendly NECRONS model has the CRYPTEK keyword."
   },
   {
     "ability_id": "potentiality-syphon",
@@ -3134,7 +3134,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit’s Reanimation Protocols activate. If it is a CRYPTEK unit, it reanimates an additional 1 wound."
+    "raw_text": "1CP. WHEN: Your opponent’s Command phase. TARGET: One NECRONS unit from your army within range of one or more objective markers. EFFECT: Your unit’s Reanimation Protocols activate. If it is a CRYPTEK unit, it reanimates an additional 1 wound."
   },
   {
     "ability_id": "chronoshift",
@@ -3151,7 +3151,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, if your unit Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in your unit."
+    "raw_text": "1CP. WHEN: Your Movement phase. TARGET: One NECRONS VEHICLE or NECRONS MOUNTED unit (excluding TITANIC units) from your army that has not been selected to move this phase. EFFECT: Until the end of the phase, if your unit Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in your unit."
   },
   {
     "ability_id": "dimensional-tunnel",
@@ -3168,7 +3168,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, models in your unit can move horizontally through models and terrain features."
+    "raw_text": "1CP. WHEN: Your Movement phase. TARGET: One NECRONS VEHICLE or NECRONS MOUNTED unit (excluding TITANIC units) from your army. EFFECT: Until the end of the phase, models in your unit can move horizontally through models and terrain features."
   },
   {
     "ability_id": "endless-servitude",
@@ -3185,7 +3185,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit’s Reanimation Protocols activate."
+    "raw_text": "1CP. WHEN: End of your Fight phase. TARGET: One NECRONS unit (excluding MONSTER and TITANIC units) from your army that is within range of one or more objective markers you control. EFFECT: Your unit’s Reanimation Protocols activate."
   },
   {
     "ability_id": "reactive-reposition",
@@ -3202,7 +3202,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can make a Normal move of up to D6\"."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has shot. TARGET: &x20;One NECRONS unit from your army (excluding MONSTER and TITANIC units) that was the target of one or more of the attacking unit’s attacks. EFFECT: Your unit can make a Normal move of up to D6\"."
   },
   {
     "ability_id": "mortis-protocols",
@@ -3219,7 +3219,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "The friendly unit’s Reanimation Protocols activate."
+    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase, just after the first time a DESTROYER CULT unit from your army destroys an enemy unit this turn. TARGET: One friendly NECRONS unit (excluding MONSTERS and VEHICLES) within 9\" of that DESTROYER CULT unit. EFFECT: The friendly unit’s Reanimation Protocols activate."
   },
   {
     "ability_id": "driven-to-butchery",
@@ -3236,7 +3236,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced."
+    "raw_text": "1CP. WHEN: Your Shooting phase or your Charge phase. TARGET: One DESTROYER CULT unit from your army. EFFECT: Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced. RESTRICTIONS: You can only use this Stratagem once per turn."
   },
   {
     "ability_id": "insanitys-ire",
@@ -3253,7 +3253,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can make a Normal move, but must end that move as close as possible to that enemy unit."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has shot. TARGET: One DESTROYER CULT or FLAYED ONES unit from your army that had one or more of its models destroyed by the attacking unit’s attacks. EFFECT: Your unit can make a Normal move, but must end that move as close as possible to that enemy unit."
   },
   {
     "ability_id": "masks-of-death",
@@ -3270,7 +3270,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. TARGET: One DESTROYER CULT or FLAYED ONES unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
   },
   {
     "ability_id": "reanimation-crypts",
@@ -3287,7 +3287,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "For each of your NECRONS units in Reserves, that Reserves unit’s Reanimation Protocols activate."
+    "raw_text": "1CP. WHEN: Your Command phase. TARGET: Your NECRONS WARLORD. EFFECT: For each of your NECRONS units in Reserves, that Reserves unit’s Reanimation Protocols activate."
   },
   {
     "ability_id": "cosmic-precision",
@@ -3304,7 +3304,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can be set up anywhere on the battlefield that is more than 6\" horizontally away from all enemy models."
+    "raw_text": "1CP. WHEN: Your Movement phase. TARGET: One NECRONS unit from your army (excluding MONSTER units) that is arriving using the Deep Strike or Hyperphasing abilities this phase. EFFECT: Your unit can be set up anywhere on the battlefield that is more than 6\" horizontally away from all enemy models. RESTRICTIONS: A unit targeted with this Stratagem is not eligible to declare a charge in the same turn."
   },
   {
     "ability_id": "molecular-erosion",
@@ -3321,7 +3321,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Select one unravelling enemy unit visible to your unit. That enemy unit must take a Battle‑shock test. When doing so, subtract 1 from the result. If that test is failed, that enemy unit suffers D3+1 mortal wounds."
+    "raw_text": "1CP. WHEN: Command phase. TARGET: One NECRONS MONSTER unit from your army. EFFECT: Select one unravelling enemy unit visible to your unit. That enemy unit must take a Battle‑shock test. When doing so, subtract 1 from the result. If that test is failed, that enemy unit suffers D3+1 mortal wounds. RESTRICTIONS: You can only use this Stratagem once per battle round."
   },
   {
     "ability_id": "phase-melding",
@@ -3338,7 +3338,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "When that enemy unit Falls Back, all models in that enemy unit must take a Desperate Escape test. When doing so, if that enemy unit is Battle‑shocked, subtract 1 from each of those tests."
+    "raw_text": "1CP. WHEN: Your opponent’s Movement phase, when an unravelling enemy unit is selected to Fall Back. TARGET: One NECRONS unit from your army that is within Engagement Range of that enemy unit EFFECT: When that enemy unit Falls Back, all models in that enemy unit must take a Desperate Escape test. When doing so, if that enemy unit is Battle‑shocked, subtract 1 from each of those tests."
   },
   {
     "ability_id": "territorial-obsession",
@@ -3355,7 +3355,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the start of your next Command phase, add 1 to the Objective Control characteristic of models in your unit. If your unit has the VEHICLE keyword, add 3 to the Objective Control characteristic instead."
+    "raw_text": "1CP. WHEN: Your Command phase. TARGET: One LYCHGUARD or TRIARCH unit from your army. EFFECT: Until the start of your next Command phase, add 1 to the Objective Control characteristic of models in your unit. If your unit has the VEHICLE keyword, add 3 to the Objective Control characteristic instead."
   },
   {
     "ability_id": "solar-pulse",
@@ -3372,7 +3372,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Select one objective marker within 18\" of your CRYPTEK model. Until the end of the phase, weapons equipped by friendly NECRONS models have the [IGNORES COVER] ability while targeting units within range of that objective marker."
+    "raw_text": "1CP. WHEN: Start of your Shooting phase. TARGET: One CRYPTEK model from your army. EFFECT: Select one objective marker within 18\" of your CRYPTEK model. Until the end of the phase, weapons equipped by friendly NECRONS models have the [IGNORES COVER] ability while targeting units within range of that objective marker."
   },
   {
     "ability_id": "reactive-subroutines",
@@ -3389,7 +3389,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can make a Normal move of up to 6\"."
+    "raw_text": "1CP. WHEN: Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move. TARGET: One CANOPTEK unit from your army that is within 9\" of that enemy unit. EFFECT: Your unit can make a Normal move of up to 6\"."
   },
   {
     "ability_id": "countertemporal-shift",
@@ -3406,7 +3406,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, your unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets. TARGET: One CANOPTEK unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, your unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
   },
   {
     "ability_id": "suboptimal-facade",
@@ -3423,7 +3423,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit’s Reanimation Protocols activate."
+    "raw_text": "1CP. WHEN: Your opponent’s Charge phase, just after an enemy unit has declared a charge. TARGET: One CANOPTEK unit from your army that was selected as a target of that charge and is wholly within your army’s Power Matrix. EFFECT: Your unit’s Reanimation Protocols activate."
   },
   {
     "ability_id": "protocol-of-the-undying-legions",
@@ -3440,7 +3440,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit activates its Reanimation Protocols and reanimates D3 wounds (or D3+1 wounds if a NECRONS CHARACTER is leading your unit)."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has resolved its attacks. TARGET: One NECRONS unit from your army that had one or more of its models destroyed as a result of the attacking unit’s attacks. EFFECT: Your unit activates its Reanimation Protocols and reanimates D3 wounds (or D3+1 wounds if a NECRONS CHARACTER is leading your unit)."
   },
   {
     "ability_id": "protocol-of-the-sudden-storm",
@@ -3457,7 +3457,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, ranged weapons equipped by models in your unit have the [ASSAULT] ability. In addition, if a NECRONS CHARACTER is leading your unit, until the end of the phase, you can re-roll Advance rolls made for your unit."
+    "raw_text": "1CP. WHEN: Your Movement phase. TARGET: One NECRONS unit from your army. EFFECT: Until the end of the turn, ranged weapons equipped by models in your unit have the [ASSAULT] ability. In addition, if a NECRONS CHARACTER is leading your unit, until the end of the phase, you can re-roll Advance rolls made for your unit."
   },
   {
     "ability_id": "unnatural-aggression",
@@ -3474,7 +3474,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit now declares a charge that only targets one or more of those enemy units, and you resolve that charge. Note that even if this charge is successful, your unit does not receive any Charge bonus this turn."
+    "raw_text": "2CP. WHEN: End of your opponent’s Charge phase. TARGET: One NECRONS unit (excluding MONSTERS and VEHICLES) from your army that is within 6\" of one or more enemy units and would be eligible to declare a charge against one or more of those enemy units if it were your Charge phase EFFECT: Your unit now declares a charge that only targets one or more of those enemy units, and you resolve that charge. Note that even if this charge is successful, your unit does not receive any Charge bonus this turn."
   },
   {
     "ability_id": "hyperphasic-recall",
@@ -3491,7 +3491,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Remove your INFANTRY unit from the battlefield and then set it back up anywhere on the battlefield that is wholly within 6\" of your MONOLITH model and not within Engagement Range of one or more enemy units."
+    "raw_text": "2CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has shot or fought. TARGET: One NECRONS INFANTRY unit from your army that had one or more of its models destroyed as a result of the attacking unit’s attacks and one friendly MONOLITH model. EFFECT: Remove your INFANTRY unit from the battlefield and then set it back up anywhere on the battlefield that is wholly within 6\" of your MONOLITH model and not within Engagement Range of one or more enemy units."
   },
   {
     "ability_id": "dimensional-corridor",
@@ -3508,7 +3508,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit is eligible to charge this phase."
+    "raw_text": "2CP. WHEN: Your Charge phase. TARGET: One NECRONS unit from your army that was set up on the battlefield this turn using the Eternity Gate ability of a MONOLITH model that started the turn on the battlefield. EFFECT: Your unit is eligible to charge this phase."
   },
   {
     "ability_id": "protocol-of-the-vengeful-stars",
@@ -3525,7 +3525,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "After the attacking unit has resolved its attacks, your unit can shoot as if it were your Shooting phase, but it must target only that enemy unit when doing so, and can only do so if that enemy unit is an eligible target."
+    "raw_text": "2CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit destroys a NECRONS unit from your army. TARGET: One NECRONS CHARACTER unit from your army that was within 6\" of that NECRONS unit when it was destroyed. EFFECT: After the attacking unit has resolved its attacks, your unit can shoot as if it were your Shooting phase, but it must target only that enemy unit when doing so, and can only do so if that enemy unit is an eligible target."
   },
   {
     "ability_id": "microscarab-swarm",
@@ -3542,7 +3542,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "If your unit has the NECRON WARRIORS keyword, until the end of the phase, models in your unit have a 5+ invulnerable save. If your unit has the IMMORTALS keyword, until the end of the phase, models in your unit have a 4+ invulnerable save."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. TARGET: One CRYPTEK INFANTRY unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: If your unit has the NECRON WARRIORS keyword, until the end of the phase, models in your unit have a 5+ invulnerable save. If your unit has the IMMORTALS keyword, until the end of the phase, models in your unit have a 4+ invulnerable save."
   },
   {
     "ability_id": "animus-curse",
@@ -3559,7 +3559,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the battle, each time a friendly NECRONS model makes an attack that targets the attacking unit, you can re‑roll the Hit roll."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has shot or fought TARGET: One CRYPTEK model from your army that was destroyed by one of the attacking unit’s attacks. You can use this Stratagem on that model even though it was just destroyed EFFECT: Until the end of the battle, each time a friendly NECRONS model makes an attack that targets the attacking unit, you can re‑roll the Hit roll."
   },
   {
     "ability_id": "quantum-deflection",
@@ -3576,7 +3576,7 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, models in your unit have a 4+ invulnerable save."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. TARGET: One NECRONS VEHICLE unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, models in your unit have a 4+ invulnerable save."
   },
   {
     "ability_id": "entropic-damping",
@@ -3593,6 +3593,6 @@
       "ref": "10th/json/necrons.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, weapons equipped by models in the attacking unit have the [HAZARDOUS] ability."
+    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets. TARGET: One TITANIC model from your army that was selected as the target of one or more of the attacking unit’s attacks and is within 18\" of the attacking unit. EFFECT: Until the end of the phase, weapons equipped by models in the attacking unit have the [HAZARDOUS] ability."
   }
 ]
