@@ -1198,7 +1198,7 @@
     "raw_text": "Each time this model makes a ranged attack that targets a unit that cannot Fly, add 1 to the Hit roll."
   },
   {
-    "ability_id": "exhibition-of-slaughter-acrobatic-display",
+    "ability_id": "acrobatic-display-exhibition-of-slaughter",
     "name": "Acrobatic Display",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1212,10 +1212,12 @@
       "ref": "10th/json/drukhari.json",
       "edition": "10e"
     },
-    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets. TARGET: One WYCH CULT unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, models in your unit have a 5+ invulnerable save."
+    "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
+    "target": "One WYCH CULT unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the end of the phase, models in your unit have a 5+ invulnerable save."
   },
   {
-    "ability_id": "exhibition-of-slaughter-periapt-of-torments",
+    "ability_id": "periapt-of-torments-exhibition-of-slaughter",
     "name": "Periapt of Torments",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1232,7 +1234,7 @@
     "raw_text": "SUCCUBUS model only. Enemy units cannot use the Fire Overwatch Stratagem to shoot at the bearer’s unit."
   },
   {
-    "ability_id": "kabalite-agonysts-towering-arrogance",
+    "ability_id": "towering-arrogance-kabalite-agonysts",
     "name": "Towering Arrogance",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1249,7 +1251,7 @@
     "raw_text": "ARCHON model only. While the bearer is leading a unit, improve the Leadership and Objective Control characteristics of models in that unit by 1."
   },
   {
-    "ability_id": "phantasmal-smoke",
+    "ability_id": "phantasmal-smoke-skysplinter-assault",
     "name": "Phantasmal Smoke",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1266,7 +1268,7 @@
     "raw_text": "DRUKHARI model only. While the bearer’s unit is wholly within 6\" of a friendly DRUKHARI TRANSPORT:\n\n■ Models in the bearer’s unit have the Stealth ability.\n■ Each time a ranged attack targets the bearer’s unit, models in that unit have the Benefit of Cover against that attack."
   },
   {
-    "ability_id": "dark-vitality",
+    "ability_id": "dark-vitality-realspace-raiders",
     "name": "Dark Vitality",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1283,7 +1285,7 @@
     "raw_text": "DRUKHARI model only. The bearer’s unit is always Empowered – you do not need to spend any Pain tokens to activate that unit’s Pain abilities."
   },
   {
-    "ability_id": "sadistic-fulcrum",
+    "ability_id": "sadistic-fulcrum-skysplinter-assault",
     "name": "Sadistic Fulcrum",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1300,7 +1302,7 @@
     "raw_text": "DRUKHARI model only. Each time you spend 1 Pain token to Empower the bearer’s unit in the Shooting phase, select one friendly DRUKHARI TRANSPORT within 6\" of the bearer’s unit; until the end of the phase, each time that TRANSPORT makes an attack, you can re‑roll the Hit roll."
   },
   {
-    "ability_id": "labyrinthine-cunning",
+    "ability_id": "labyrinthine-cunning-realspace-raiders",
     "name": "Labyrinthine Cunning",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1317,7 +1319,7 @@
     "raw_text": "ARCHON model only. At the start of your Command phase, if the bearer is on the battlefield, you can do one of the following:\n\n■ Spend 1 Pain token and gain 1CP.\n■ Roll one D6: on a 4+, you gain 1CP."
   },
   {
-    "ability_id": "spiteful-raider",
+    "ability_id": "spiteful-raider-skysplinter-assault",
     "name": "Spiteful Raider",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1334,7 +1336,7 @@
     "raw_text": "DRUKHARI model only. Each time the bearer’s unit destroys an enemy unit in the Fight phase, if that enemy unit was within range of one or more objective markers when the bearer’s unit was selected to fight, you gain 1 additional Pain token."
   },
   {
-    "ability_id": "eye-of-spite",
+    "ability_id": "eye-of-spite-realspace-raiders",
     "name": "Eye of Spite",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1351,7 +1353,7 @@
     "raw_text": "SUCCUBUS model only. Improve the Attacks and Armour Penetration characteristics of the bearer’s melee weapons by 1. Each time the bearer’s unit is selected to fight, you can spend 1 Pain token; if you do, until the end of the phase, improve the Attacks and Armour Penetration characteristics of the bearer’s melee weapons by 2 instead."
   },
   {
-    "ability_id": "nightmare-shroud",
+    "ability_id": "nightmare-shroud-skysplinter-assault",
     "name": "Nightmare Shroud",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1368,7 +1370,7 @@
     "raw_text": "DRUKHARI model only. Each time the bearer’s unit disembarks from a TRANSPORT, until the end of the turn, enemy units cannot use the Fire Overwatch Stratagem to shoot at the bearer’s unit."
   },
   {
-    "ability_id": "crucible-of-malediction",
+    "ability_id": "crucible-of-malediction-realspace-raiders",
     "name": "Crucible of Malediction",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1385,7 +1387,7 @@
     "raw_text": "HAEMONCULUS model only. Once per battle, in your Shooting phase, the bearer can use this Enhancement. If it does, you can spend 1 Pain token. Then, each enemy unit within 12\" of the bearer must take a Battle‑shock test, subtracting 1 from that test if you spent 1 Pain token. Each time a PSYKER unit fails that test, it suffers 3 mortal wounds."
   },
   {
-    "ability_id": "archraider",
+    "ability_id": "archraider-reapers-wager",
     "name": "Archraider",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1402,7 +1404,7 @@
     "raw_text": "HARLEQUINS or DRUKHARI model only. In the Declare Battle Formations step, if the bearer starts the battle embarked within a DEDICATED TRANSPORT, that DEDICATED TRANSPORT has the Scouts 9\" ability."
   },
   {
-    "ability_id": "webway-walker",
+    "ability_id": "webway-walker-reapers-wager",
     "name": "Webway Walker",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1419,7 +1421,7 @@
     "raw_text": "HARLEQUINS or DRUKHARI model only. Models in the bearer’s unit have the Deep Strike ability. Each time the bearer’s unit is set up on the battlefield using the Deep Strike ability, if that unit is currently losing the wager, until the end of the turn, you can re‑roll Charge rolls made for that unit."
   },
   {
-    "ability_id": "reapers-cowl",
+    "ability_id": "reapers-cowl-reapers-wager",
     "name": "Reaper’s Cowl",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1436,7 +1438,7 @@
     "raw_text": "HARLEQUINS model only. Models in the bearer’s unit have the Stealth and Infiltrators abilities."
   },
   {
-    "ability_id": "conductor-of-torment",
+    "ability_id": "conductor-of-torment-reapers-wager",
     "name": "Conductor of Torment",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1453,7 +1455,7 @@
     "raw_text": "DRUKHARI model only. In your Command phase, you can do one of the following:\n\n■ If your DRUKHARI units are currently losing the wager, you can gain 1 Pain token. If you do, DRUKHARI units from your army are now winning the wager.\n■ If your DRUKHARI units are currently winning the wager, you can discard 1 Pain token. If you do, HARLEQUINS units from your army are now winning the wager."
   },
   {
-    "ability_id": "pharmacophex",
+    "ability_id": "pharmacophex-spectacle-of-spite",
     "name": "Pharmacophex",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1470,7 +1472,7 @@
     "raw_text": "SUCCUBUS model only. At the start of your Command phase, after selecting which Combat Drugs will be active for your army, roll one D6 and consult the Combat Drugs list (see Detachment Rule). The result rolled applies to the bearer’s unit until the start of your next Command phase in addition to any other Combat Drugs that are active for your army. If you randomly select one that is already active for your army, it has no additional effect."
   },
   {
-    "ability_id": "chronoshard",
+    "ability_id": "chronoshard-spectacle-of-spite",
     "name": "Chronoshard",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1487,7 +1489,7 @@
     "raw_text": "SUCCUBUS model only. Once per battle, at the start of the Fight phase, the bearer can use this Enhancement. If it does, until the end of the phase, models in the bearer’s unit have the Fights First ability."
   },
   {
-    "ability_id": "periapt-of-torments",
+    "ability_id": "periapt-of-torments-spectacle-of-spite",
     "name": "Periapt of Torments",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1504,7 +1506,7 @@
     "raw_text": "SUCCUBUS model only. Enemy units cannot use the Fire Overwatch Stratagem to shoot at the bearer’s unit."
   },
   {
-    "ability_id": "morghennas-curse",
+    "ability_id": "morghennas-curse-spectacle-of-spite",
     "name": "Morghenna’s Curse",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1521,7 +1523,7 @@
     "raw_text": "SUCCUBUS model only. Improve the Armour Penetration and Damage characteristics of the bearer’s melee weapons by 1."
   },
   {
-    "ability_id": "master-regenesist",
+    "ability_id": "master-regenesist-covenite-coterie",
     "name": "Master Regenesist",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1538,7 +1540,7 @@
     "raw_text": "HAEMONCULUS model only. Each time the bearer uses its Fleshcraft ability, you can return up to D3+3 destroyed Bodyguard models to the bearer’s unit instead of D3+1."
   },
   {
-    "ability_id": "master-nemesine",
+    "ability_id": "master-nemesine-covenite-coterie",
     "name": "Master Nemesine",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1555,7 +1557,7 @@
     "raw_text": "HAEMONCULUS model only. The bearer’s weapons have the [ANTI‑BEAST 2+] and [ANTI‑MONSTER 4+] abilities."
   },
   {
-    "ability_id": "master-artisan",
+    "ability_id": "master-artisan-covenite-coterie",
     "name": "Master Artisan",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1572,7 +1574,7 @@
     "raw_text": "HAEMONCULUS model only. Add 1 to the bearer’s Wounds characteristic and add 1 to the Toughness characteristic of models in the bearer’s unit."
   },
   {
-    "ability_id": "master-repugnomancer-aura",
+    "ability_id": "master-repugnomancer-aura-covenite-coterie",
     "name": "Master Repugnomancer (Aura)",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1589,7 +1591,7 @@
     "raw_text": "HAEMONCULUS model only. Add 3\" to the range of the bearer’s Fear Incarnate ability, and each time a friendly DRUKHARI unit within 9\" of the bearer fails a Battle‑shock test or is destroyed, roll one D6: on a 4+, you gain 1 Pain token."
   },
   {
-    "ability_id": "leechbite-plate",
+    "ability_id": "leechbite-plate-kabalite-cartel",
     "name": "Leechbite Plate",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1606,7 +1608,7 @@
     "raw_text": "ARCHON model only. The bearer has a Save characteristic of 3+. At the start of either player’s Command phase, you can spend 1 Pain token: if you do, the bearer regains all of its lost wounds."
   },
   {
-    "ability_id": "webway-awl",
+    "ability_id": "webway-awl-kabalite-cartel",
     "name": "Webway Awl",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1623,7 +1625,7 @@
     "raw_text": "ARCHON model only. Models in the bearer’s unit have the Deep Strike ability, and you can target the bearer’s unit with the Rapid Ingress Stratagem for 0CP."
   },
   {
-    "ability_id": "informant-network",
+    "ability_id": "informant-network-kabalite-cartel",
     "name": "Informant Network",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1640,7 +1642,7 @@
     "raw_text": "ARCHON model only. At the start of the Declare Battle Formations step, select up to three KABALITE WARRIORS and/or HAND OF THE ARCHON units from your army; those units gain the Infiltrators ability."
   },
   {
-    "ability_id": "towering-arrogance",
+    "ability_id": "towering-arrogance-kabalite-cartel",
     "name": "Towering Arrogance",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1657,7 +1659,7 @@
     "raw_text": "ARCHON model only. While the bearer is leading a unit, improve the Leadership and Objective Control characteristics of models in that unit by 1."
   },
   {
-    "ability_id": "deadly-debut",
+    "ability_id": "deadly-debut-spectacle-of-spite",
     "name": "DEADLY DEBUT",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1671,10 +1673,12 @@
       "ref": "10th/json/drukhari.json",
       "edition": "10e"
     },
-    "raw_text": "1CP. WHEN: Fight phase. TARGET: One DRUKHARI unit from your army that made a Charge move this turn and has not been selected to fight this phase. EFFECT: Until the end of the phase, melee weapons equipped by models in your unit have the [LETHAL HITS] ability. If your unit is a WYCHES unit, until the end of the phase, improve the Armour Penetration characteristic of melee weapons equipped by models in your unit by 1 as well."
+    "when": "Fight phase.",
+    "target": "One DRUKHARI unit from your army that made a Charge move this turn and has not been selected to fight this phase.",
+    "effect": "Until the end of the phase, melee weapons equipped by models in your unit have the [LETHAL HITS] ability. If your unit is a WYCHES unit, until the end of the phase, improve the Armour Penetration characteristic of melee weapons equipped by models in your unit by 1 as well."
   },
   {
-    "ability_id": "acrobatic-display",
+    "ability_id": "acrobatic-display-spectacle-of-spite",
     "name": "ACROBATIC DISPLAY",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1688,10 +1692,12 @@
       "ref": "10th/json/drukhari.json",
       "edition": "10e"
     },
-    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets. TARGET: One WYCH CULT unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, models in your unit have a 5+ invulnerable save."
+    "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
+    "target": "One WYCH CULT unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the end of the phase, models in your unit have a 5+ invulnerable save."
   },
   {
-    "ability_id": "taken-alive",
+    "ability_id": "taken-alive-kabalite-cartel",
     "name": "TAKEN ALIVE",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1705,10 +1711,12 @@
       "ref": "10th/json/drukhari.json",
       "edition": "10e"
     },
-    "raw_text": "1CP. WHEN: Fight phase. TARGET: One DRUKHARI unit from your army that has not been selected to fight this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack, add 1 to the Hit roll. If your Contract unit is destroyed as a result of those attacks, every unit in your opponent’s army must take a Battle‑shock test. You cannot gain more than 3 Pain tokens as a result of failed Battle‑shock tests caused by this Stratagem."
+    "when": "Fight phase.",
+    "target": "One DRUKHARI unit from your army that has not been selected to fight this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack, add 1 to the Hit roll. If your Contract unit is destroyed as a result of those attacks, every unit in your opponent’s army must take a Battle‑shock test. You cannot gain more than 3 Pain tokens as a result of failed Battle‑shock tests caused by this Stratagem."
   },
   {
-    "ability_id": "making-a-point",
+    "ability_id": "making-a-point-kabalite-cartel",
     "name": "MAKING A POINT",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1722,10 +1730,12 @@
       "ref": "10th/json/drukhari.json",
       "edition": "10e"
     },
-    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One KABALITE WARRIORS or HAND OF THE ARCHON unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, improve the Ballistic Skill and Armour Penetration characteristics of ranged weapons equipped by models in your unit by 1."
+    "when": "Your Shooting phase.",
+    "target": "One KABALITE WARRIORS or HAND OF THE ARCHON unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, improve the Ballistic Skill and Armour Penetration characteristics of ranged weapons equipped by models in your unit by 1."
   },
   {
-    "ability_id": "skyborne-annihilation",
+    "ability_id": "skyborne-annihilation-skysplinter-assault",
     "name": "SKYBORNE ANNIHILATION",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1739,10 +1749,12 @@
       "ref": "10th/json/drukhari.json",
       "edition": "10e"
     },
-    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One DRUKHARI unit from your army that has not been selected to shoot this phase and that disembarked from a TRANSPORT this turn. EFFECT: Until the end of the phase, ranged weapons equipped by models in your unit have the [SUSTAINED HITS 1] ability, or the [SUSTAINED HITS 2] ability if your unit is a KABALITE WARRIORS or HAND OF THE ARCHON unit."
+    "when": "Your Shooting phase.",
+    "target": "One DRUKHARI unit from your army that has not been selected to shoot this phase and that disembarked from a TRANSPORT this turn.",
+    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the [SUSTAINED HITS 1] ability, or the [SUSTAINED HITS 2] ability if your unit is a KABALITE WARRIORS or HAND OF THE ARCHON unit."
   },
   {
-    "ability_id": "malicious-frenzy",
+    "ability_id": "malicious-frenzy-reapers-wager",
     "name": "MALICIOUS FRENZY",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1756,10 +1768,12 @@
       "ref": "10th/json/drukhari.json",
       "edition": "10e"
     },
-    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase. TARGET: One DRUKHARI or HARLEQUINS unit from your army that has not been selected to shoot or fight this phase. EFFECT: Select [LETHAL HITS] or [SUSTAINED HITS 1]. Until the end of the phase, weapons equipped by models in your unit have the selected ability."
+    "when": "Your Shooting phase or the Fight phase.",
+    "target": "One DRUKHARI or HARLEQUINS unit from your army that has not been selected to shoot or fight this phase.",
+    "effect": "Select [LETHAL HITS] or [SUSTAINED HITS 1]. Until the end of the phase, weapons equipped by models in your unit have the selected ability."
   },
   {
-    "ability_id": "murderers-circus",
+    "ability_id": "murderers-circus-reapers-wager",
     "name": "MURDERER’S CIRCUS",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1773,10 +1787,12 @@
       "ref": "10th/json/drukhari.json",
       "edition": "10e"
     },
-    "raw_text": "1CP. WHEN: Fight phase, just after an enemy unit has selected its targets. TARGET: One DRUKHARI or HARLEQUINS unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
+    "when": "Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One DRUKHARI or HARLEQUINS unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
   },
   {
-    "ability_id": "fighting-shadows",
+    "ability_id": "fighting-shadows-realspace-raiders",
     "name": "FIGHTING SHADOWS",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1790,10 +1806,12 @@
       "ref": "10th/json/drukhari.json",
       "edition": "10e"
     },
-    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. TARGET: One DRUKHARI unit from your army (excluding HAEMONCULUS COVENS units) that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One DRUKHARI unit from your army (excluding HAEMONCULUS COVENS units) that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
   },
   {
-    "ability_id": "instinctive-spite",
+    "ability_id": "instinctive-spite-realspace-raiders",
     "name": "INSTINCTIVE SPITE",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1807,10 +1825,12 @@
       "ref": "10th/json/drukhari.json",
       "edition": "10e"
     },
-    "raw_text": "1CP. WHEN: Start of your Shooting phase or the start of the Fight phase. TARGET: Up to two DRUKHARI BATTLELINE units from your army, or one other DRUKHARI unit from your army. EFFECT: You can spend 1 Pain token. Until the end of the phase, each time a model in each of those units makes an attack that targets an enemy unit that is Below Half‑strength, add 1 to the Hit roll. If you spent 1 Pain token, add 1 to the Wound roll as well."
+    "when": "Start of your Shooting phase or the start of the Fight phase.",
+    "target": "Up to two DRUKHARI BATTLELINE units from your army, or one other DRUKHARI unit from your army.",
+    "effect": "You can spend 1 Pain token. Until the end of the phase, each time a model in each of those units makes an attack that targets an enemy unit that is Below Half‑strength, add 1 to the Hit roll. If you spent 1 Pain token, add 1 to the Wound roll as well."
   },
   {
-    "ability_id": "eager-for-the-kill",
+    "ability_id": "eager-for-the-kill-realspace-raiders",
     "name": "EAGER FOR THE KILL",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1824,10 +1844,12 @@
       "ref": "10th/json/drukhari.json",
       "edition": "10e"
     },
-    "raw_text": "1CP. WHEN: Start of your Movement phase. TARGET: Up to two WYCHES units from your army, or one other DRUKHARI unit from your army, that have not been selected to move this phase. EFFECT: Until the end of the phase, each time one of those units Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in that unit (this is not cumulative with the REAVERS’ Matchless Swiftness ability)."
+    "when": "Start of your Movement phase.",
+    "target": "Up to two WYCHES units from your army, or one other DRUKHARI unit from your army, that have not been selected to move this phase.",
+    "effect": "Until the end of the phase, each time one of those units Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in that unit (this is not cumulative with the REAVERS’ Matchless Swiftness ability)."
   },
   {
-    "ability_id": "connoisseurs-of-pain",
+    "ability_id": "connoisseurs-of-pain-covenite-coterie",
     "name": "CONNOISSEURS OF PAIN",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1841,10 +1863,12 @@
       "ref": "10th/json/drukhari.json",
       "edition": "10e"
     },
-    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. TARGET: One DRUKHARI unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Spend 1 Pain token. Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1. At the end of the phase, if your unit is still on the battlefield and it is a HAEMONCULUS COVENS unit, you gain 1 Pain token."
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One DRUKHARI unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Spend 1 Pain token. Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1. At the end of the phase, if your unit is still on the battlefield and it is a HAEMONCULUS COVENS unit, you gain 1 Pain token."
   },
   {
-    "ability_id": "a-challenge-met",
+    "ability_id": "a-challenge-met-spectacle-of-spite",
     "name": "A CHALLENGE MET",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1858,10 +1882,13 @@
       "ref": "10th/json/drukhari.json",
       "edition": "10e"
     },
-    "raw_text": "2CP. WHEN: End of your opponent’s Movement phase. TARGET: One WYCH CULT unit from your army that would be able to declare a charge if it were your Charge phase. EFFECT: Select one enemy unit within 9\" of your unit that was set up on the battlefield this phase or that ended a Normal or Advance move this phase. Your unit now declares a charge that targets only that enemy unit, and you resolve that charge. RESTRICTIONS: Even if that charge is successful, your unit does not receive any Charge bonus this turn."
+    "when": "End of your opponent’s Movement phase.",
+    "target": "One WYCH CULT unit from your army that would be able to declare a charge if it were your Charge phase.",
+    "effect": "Select one enemy unit within 9\" of your unit that was set up on the battlefield this phase or that ended a Normal or Advance move this phase. Your unit now declares a charge that targets only that enemy unit, and you resolve that charge.",
+    "restrictions": "Even if that charge is successful, your unit does not receive any Charge bonus this turn."
   },
   {
-    "ability_id": "insensible-to-pain",
+    "ability_id": "insensible-to-pain-realspace-raiders",
     "name": "INSENSIBLE TO PAIN",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1875,10 +1902,12 @@
       "ref": "10th/json/drukhari.json",
       "edition": "10e"
     },
-    "raw_text": "2CP. WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. TARGET: One HAEMONCULUS COVENS unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time an attack is allocated to a model in your unit, subtract 1 from the Damage characteristic of that attack."
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One HAEMONCULUS COVENS unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the end of the phase, each time an attack is allocated to a model in your unit, subtract 1 from the Damage characteristic of that attack."
   },
   {
-    "ability_id": "tailored-toxins",
+    "ability_id": "tailored-toxins-kabalite-cartel",
     "name": "TAILORED TOXINS",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1892,10 +1921,12 @@
       "ref": "10th/json/drukhari.json",
       "edition": "10e"
     },
-    "raw_text": "1CP. WHEN: Your Shooting phase or the Fight phase. TARGET: One KABAL or BLADES FOR HIRE unit from your army that has not been selected to shoot or fight this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack that targets your Contract unit, an unmodified Hit roll of 5+ scores a Critical Hit."
+    "when": "Your Shooting phase or the Fight phase.",
+    "target": "One KABAL or BLADES FOR HIRE unit from your army that has not been selected to shoot or fight this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets your Contract unit, an unmodified Hit roll of 5+ scores a Critical Hit."
   },
   {
-    "ability_id": "enemies-without-number",
+    "ability_id": "enemies-without-number-kabalite-cartel",
     "name": "ENEMIES WITHOUT NUMBER",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1909,10 +1940,12 @@
       "ref": "10th/json/drukhari.json",
       "edition": "10e"
     },
-    "raw_text": "1CP. WHEN: Your Command phase, just after you complete a Contract (see Murderous Agenda Detachment rule). TARGET: One ARCHON WARLORD from your army. EFFECT: Select one new Contract from those listed in the Murderous Agenda Detachment rule (this can be one you have already completed), then select one unit from your opponent’s army that is on the battlefield and matches the ‘Contract’ description in that Contract. Until that Contract is completed, that unit is your Contract unit and the Murderous Agenda Detachment rule applies as normal."
+    "when": "Your Command phase, just after you complete a Contract (see Murderous Agenda Detachment rule).",
+    "target": "One ARCHON WARLORD from your army.",
+    "effect": "Select one new Contract from those listed in the Murderous Agenda Detachment rule (this can be one you have already completed), then select one unit from your opponent’s army that is on the battlefield and matches the ‘Contract’ description in that Contract. Until that Contract is completed, that unit is your Contract unit and the Murderous Agenda Detachment rule applies as normal."
   },
   {
-    "ability_id": "postmortality",
+    "ability_id": "postmortality-covenite-coterie",
     "name": "POSTMORTALITY",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1926,10 +1959,13 @@
       "ref": "10th/json/drukhari.json",
       "edition": "10e"
     },
-    "raw_text": "1CP. WHEN: Any phase. TARGET: One HAEMONCULUS model from your army that was just destroyed. You can use this Stratagem on that model even though it was just destroyed. EFFECT: Spend 1‑3 Pain tokens. At the end of the phase, set the destroyed model back up on the battlefield, as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with a number of wounds remaining equal to the number of Pain tokens you just spent. RESTRICTIONS: You cannot use this Stratagem if you have 0 Pain tokens, and you cannot target the same HAEMONCULUS model with this Stratagem more than once per battle."
+    "when": "Any phase.",
+    "target": "One HAEMONCULUS model from your army that was just destroyed. You can use this Stratagem on that model even though it was just destroyed.",
+    "effect": "Spend 1‑3 Pain tokens. At the end of the phase, set the destroyed model back up on the battlefield, as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with a number of wounds remaining equal to the number of Pain tokens you just spent.",
+    "restrictions": "You cannot use this Stratagem if you have 0 Pain tokens, and you cannot target the same HAEMONCULUS model with this Stratagem more than once per battle."
   },
   {
-    "ability_id": "symphony-of-suffering",
+    "ability_id": "symphony-of-suffering-covenite-coterie",
     "name": "SYMPHONY OF SUFFERING",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1943,10 +1979,12 @@
       "ref": "10th/json/drukhari.json",
       "edition": "10e"
     },
-    "raw_text": "1CP. WHEN: Fight phase, just after a DRUKHARI unit from your army destroys an enemy unit. TARGET: That DRUKHARI unit. EFFECT: Each enemy unit within 9\" of and visible to your unit must take a Battle‑shock test, subtracting 1 from that test if your unit is a HAEMONCULUS COVENS unit."
+    "when": "Fight phase, just after a DRUKHARI unit from your army destroys an enemy unit.",
+    "target": "That DRUKHARI unit.",
+    "effect": "Each enemy unit within 9\" of and visible to your unit must take a Battle‑shock test, subtracting 1 from that test if your unit is a HAEMONCULUS COVENS unit."
   },
   {
-    "ability_id": "poisoners-art",
+    "ability_id": "poisoners-art-covenite-coterie",
     "name": "POISONER’S ART",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1960,10 +1998,12 @@
       "ref": "10th/json/drukhari.json",
       "edition": "10e"
     },
-    "raw_text": "1CP. WHEN: Fight phase, just after a HAEMONCULUS COVENS unit from your army has fought. TARGET: That HAEMONCULUS COVENS unit. EFFECT: Select one enemy unit (excluding VEHICLES) hit by one or more of your unit’s attacks this phase. Until the end of the battle, that enemy unit is poisoned. At the start of each Command phase, roll one D6 for each poisoned unit on the battlefield: on a 4+, that unit suffers D3 mortal wounds."
+    "when": "Fight phase, just after a HAEMONCULUS COVENS unit from your army has fought.",
+    "target": "That HAEMONCULUS COVENS unit.",
+    "effect": "Select one enemy unit (excluding VEHICLES) hit by one or more of your unit’s attacks this phase. Until the end of the battle, that enemy unit is poisoned. At the start of each Command phase, roll one D6 for each poisoned unit on the battlefield: on a 4+, that unit suffers D3 mortal wounds."
   },
   {
-    "ability_id": "feigned-weakness",
+    "ability_id": "feigned-weakness-spectacle-of-spite",
     "name": "FEIGNED WEAKNESS",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1977,10 +2017,12 @@
       "ref": "10th/json/drukhari.json",
       "edition": "10e"
     },
-    "raw_text": "1CP. WHEN: Your Movement phase, just after a DRUKHARI unit from your army Falls Back. TARGET: That DRUKHARI unit. EFFECT: Until the end of the turn, your unit is eligible to shoot and declare a charge in turn in which it Fell Back."
+    "when": "Your Movement phase, just after a DRUKHARI unit from your army Falls Back.",
+    "target": "That DRUKHARI unit.",
+    "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in turn in which it Fell Back."
   },
   {
-    "ability_id": "preternatural-agility",
+    "ability_id": "preternatural-agility-spectacle-of-spite",
     "name": "PRETERNATURAL AGILITY",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -1994,10 +2036,12 @@
       "ref": "10th/json/drukhari.json",
       "edition": "10e"
     },
-    "raw_text": "1CP. WHEN: Start of your Movement or Charge phase. TARGET: One WYCH CULT unit from your army. EFFECT: Until the end of the phase, each time your unit makes a Normal, Advance or Charge move, you can ignore any or all modifiers to its Move characteristic and to Advance and Charge rolls made for it and, until the end of the turn, each time a model in your unit makes such a move, it can move horizontally through models (when doing so, such a model can move within Engagement Range of such models but cannot end a Normal or Advance move within Engagement Range of them)."
+    "when": "Start of your Movement or Charge phase.",
+    "target": "One WYCH CULT unit from your army.",
+    "effect": "Until the end of the phase, each time your unit makes a Normal, Advance or Charge move, you can ignore any or all modifiers to its Move characteristic and to Advance and Charge rolls made for it and, until the end of the turn, each time a model in your unit makes such a move, it can move horizontally through models (when doing so, such a model can move within Engagement Range of such models but cannot end a Normal or Advance move within Engagement Range of them)."
   },
   {
-    "ability_id": "double-cross",
+    "ability_id": "double-cross-kabalite-cartel",
     "name": "DOUBLE-CROSS",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -2011,10 +2055,12 @@
       "ref": "10th/json/drukhari.json",
       "edition": "10e"
     },
-    "raw_text": "1CP. WHEN: Fight phase, just after an enemy unit has selected its targets. TARGET: One KABAL or BLADES FOR HIRE unit from your army that was selected as the target of one or more of the attacking unit’s attacks, and one friendly DRUKHARI unit (excluding VEHICLES). EFFECT: Until the end of the phase, each time you would allocate an attack to a model in your KABAL or BLADES FOR HIRE unit, if your DRUKHARI unit is within Engagement Range of the attacking model, no saving throw is made for that attack; instead, your DRUKHARI unit suffers a number of mortal wounds equal to the Damage characteristic of that attack."
+    "when": "Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One KABAL or BLADES FOR HIRE unit from your army that was selected as the target of one or more of the attacking unit’s attacks, and one friendly DRUKHARI unit (excluding VEHICLES).",
+    "effect": "Until the end of the phase, each time you would allocate an attack to a model in your KABAL or BLADES FOR HIRE unit, if your DRUKHARI unit is within Engagement Range of the attacking model, no saving throw is made for that attack; instead, your DRUKHARI unit suffers a number of mortal wounds equal to the Damage characteristic of that attack."
   },
   {
-    "ability_id": "deadly-deceivers",
+    "ability_id": "deadly-deceivers-kabalite-cartel",
     "name": "DEADLY DECEIVERS",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -2028,10 +2074,12 @@
       "ref": "10th/json/drukhari.json",
       "edition": "10e"
     },
-    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets. TARGET: One KABAL or BLADES FOR HIRE unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, your unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
+    "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
+    "target": "One KABAL or BLADES FOR HIRE unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the end of the phase, your unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
   },
   {
-    "ability_id": "vicious-blades",
+    "ability_id": "vicious-blades-skysplinter-assault",
     "name": "VICIOUS BLADES",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -2045,10 +2093,12 @@
       "ref": "10th/json/drukhari.json",
       "edition": "10e"
     },
-    "raw_text": "1CP. WHEN: Fight phase, just after a DRUKHARI TRANSPORT from your army has selected its targets. TARGET: That TRANSPORT. EFFECT: After your TRANSPORT has fought, select one enemy unit that was the target of one or more of those attacks and roll one D6 for each model embarked within your TRANSPORT, adding 1 to the result if that embarked model is a WRACKS model: for each 5+, that enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds)."
+    "when": "Fight phase, just after a DRUKHARI TRANSPORT from your army has selected its targets.",
+    "target": "That TRANSPORT.",
+    "effect": "After your TRANSPORT has fought, select one enemy unit that was the target of one or more of those attacks and roll one D6 for each model embarked within your TRANSPORT, adding 1 to the result if that embarked model is a WRACKS model: for each 5+, that enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds)."
   },
   {
-    "ability_id": "wraithlike-retreat",
+    "ability_id": "wraithlike-retreat-skysplinter-assault",
     "name": "WRAITHLIKE RETREAT",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -2062,10 +2112,12 @@
       "ref": "10th/json/drukhari.json",
       "edition": "10e"
     },
-    "raw_text": "1CP. WHEN: End of the Fight phase. TARGET: One DRUKHARI INFANTRY unit from your army that fought this phase. EFFECT: Your unit can make a Normal or Fall Back move, but unless it is a WYCHES unit, it must end that move wholly within 3\" horizontally and 5\" vertically of a friendly DRUKHARI TRANSPORT and must embark within that TRANSPORT at the end of that move (otherwise, it cannot make that move)."
+    "when": "End of the Fight phase.",
+    "target": "One DRUKHARI INFANTRY unit from your army that fought this phase.",
+    "effect": "Your unit can make a Normal or Fall Back move, but unless it is a WYCHES unit, it must end that move wholly within 3\" horizontally and 5\" vertically of a friendly DRUKHARI TRANSPORT and must embark within that TRANSPORT at the end of that move (otherwise, it cannot make that move)."
   },
   {
-    "ability_id": "pounce-on-the-prey",
+    "ability_id": "pounce-on-the-prey-skysplinter-assault",
     "name": "POUNCE ON THE PREY",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -2079,10 +2131,12 @@
       "ref": "10th/json/drukhari.json",
       "edition": "10e"
     },
-    "raw_text": "1CP. WHEN: Your Movement phase, just after a DRUKHARI INFANTRY unit from your army disembarks from a TRANSPORT that made a Normal move this phase. TARGET: That INFANTRY unit. EFFECT: Until the end of the turn, your unit is eligible to declare a charge."
+    "when": "Your Movement phase, just after a DRUKHARI INFANTRY unit from your army disembarks from a TRANSPORT that made a Normal move this phase.",
+    "target": "That INFANTRY unit.",
+    "effect": "Until the end of the turn, your unit is eligible to declare a charge."
   },
   {
-    "ability_id": "swooping-mockery",
+    "ability_id": "swooping-mockery-skysplinter-assault",
     "name": "SWOOPING MOCKERY",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -2096,10 +2150,12 @@
       "ref": "10th/json/drukhari.json",
       "edition": "10e"
     },
-    "raw_text": "1CP. WHEN: Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move. TARGET: One DRUKHARI TRANSPORT from your army that is within 9\" of that enemy unit. EFFECT: Your TRANSPORT can make a Normal move of up to 6\"."
+    "when": "Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.",
+    "target": "One DRUKHARI TRANSPORT from your army that is within 9\" of that enemy unit.",
+    "effect": "Your TRANSPORT can make a Normal move of up to 6\"."
   },
   {
-    "ability_id": "shorten-the-odds",
+    "ability_id": "shorten-the-odds-reapers-wager",
     "name": "SHORTEN THE ODDS",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -2113,10 +2169,12 @@
       "ref": "10th/json/drukhari.json",
       "edition": "10e"
     },
-    "raw_text": "1CP. WHEN: Your Movement phase, just after a DRUKHARI or HARLEQUINS unit from your army has Advanced. TARGET: That unit. EFFECT: Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced."
+    "when": "Your Movement phase, just after a DRUKHARI or HARLEQUINS unit from your army has Advanced.",
+    "target": "That unit.",
+    "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced."
   },
   {
-    "ability_id": "scintillating-tempo",
+    "ability_id": "scintillating-tempo-reapers-wager",
     "name": "SCINTILLATING TEMPO",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -2130,10 +2188,12 @@
       "ref": "10th/json/drukhari.json",
       "edition": "10e"
     },
-    "raw_text": "1CP. WHEN: Your Movement phase or your Charge phase, just after a DRUKHARI or HARLEQUINS unit from your army is selected to make a Normal, Advance or Fall Back move, is set up on the battlefield, or declares a charge. TARGET: That unit. EFFECT: Until the end of the turn, enemy units cannot use the Fire Overwatch Stratagem to shoot at your unit."
+    "when": "Your Movement phase or your Charge phase, just after a DRUKHARI or HARLEQUINS unit from your army is selected to make a Normal, Advance or Fall Back move, is set up on the battlefield, or declares a charge.",
+    "target": "That unit.",
+    "effect": "Until the end of the turn, enemy units cannot use the Fire Overwatch Stratagem to shoot at your unit."
   },
   {
-    "ability_id": "fateful-role",
+    "ability_id": "fateful-role-reapers-wager",
     "name": "FATEFUL ROLE",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -2147,10 +2207,12 @@
       "ref": "10th/json/drukhari.json",
       "edition": "10e"
     },
-    "raw_text": "1CP. WHEN: Fight phase, just after an enemy unit has selected its targets. TARGET: One DRUKHARI or HARLEQUINS unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, adding 1 to the result if that unit is losing the wager: on a 4+, do not remove it from play. That destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play."
+    "when": "Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One DRUKHARI or HARLEQUINS unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, adding 1 to the result if that unit is losing the wager: on a 4+, do not remove it from play. That destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play."
   },
   {
-    "ability_id": "dark-harvest",
+    "ability_id": "dark-harvest-realspace-raiders",
     "name": "DARK HARVEST",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -2164,10 +2226,12 @@
       "ref": "10th/json/drukhari.json",
       "edition": "10e"
     },
-    "raw_text": "1CP. WHEN: Start of the Fight phase. TARGET: Up to two WRACKS units from your army, or one other DRUKHARI unit from your army. EFFECT: Until the end of the phase, melee weapons equipped by models in each of those units have the [LETHAL HITS] ability."
+    "when": "Start of the Fight phase.",
+    "target": "Up to two WRACKS units from your army, or one other DRUKHARI unit from your army.",
+    "effect": "Until the end of the phase, melee weapons equipped by models in each of those units have the [LETHAL HITS] ability."
   },
   {
-    "ability_id": "enfolding-nightmare",
+    "ability_id": "enfolding-nightmare-covenite-coterie",
     "name": "ENFOLDING NIGHTMARE",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -2181,10 +2245,12 @@
       "ref": "10th/json/drukhari.json",
       "edition": "10e"
     },
-    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has shot. TARGET: One HAEMONCULUS COVENS unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Roll one D6: your unit can be moved a number of inches up to the result, but it must end that move as close as possible to the closest enemy unit (excluding AIRCRAFT). When doing so, those models can be moved within Engagement Range of that enemy unit."
+    "when": "Your opponent’s Shooting phase, just after an enemy unit has shot.",
+    "target": "One HAEMONCULUS COVENS unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Roll one D6: your unit can be moved a number of inches up to the result, but it must end that move as close as possible to the closest enemy unit (excluding AIRCRAFT). When doing so, those models can be moved within Engagement Range of that enemy unit."
   },
   {
-    "ability_id": "berserk-fugue",
+    "ability_id": "berserk-fugue-spectacle-of-spite",
     "name": "BERSERK FUGUE",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -2198,10 +2264,12 @@
       "ref": "10th/json/drukhari.json",
       "edition": "10e"
     },
-    "raw_text": "2CP. WHEN: Fight phase, just after an enemy unit has selected its targets. TARGET: One WYCH CULT unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, do not remove it from play. The destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play."
+    "when": "Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One WYCH CULT unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, do not remove it from play. The destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play."
   },
   {
-    "ability_id": "dance-macabre",
+    "ability_id": "dance-macabre-reapers-wager",
     "name": "DANCE MACABRE",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -2215,10 +2283,12 @@
       "ref": "10th/json/drukhari.json",
       "edition": "10e"
     },
-    "raw_text": "2CP. WHEN: Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move. TARGET: One DRUKHARI INFANTRY or HARLEQUINS INFANTRY unit from your army that is within 9\" of that enemy unit. EFFECT: Your unit can make a Normal move of up to D6\". If your unit is currently losing the wager, it can make a Normal move of up to 6\" instead."
+    "when": "Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.",
+    "target": "One DRUKHARI INFANTRY or HARLEQUINS INFANTRY unit from your army that is within 9\" of that enemy unit.",
+    "effect": "Your unit can make a Normal move of up to D6\". If your unit is currently losing the wager, it can make a Normal move of up to 6\" instead."
   },
   {
-    "ability_id": "raid-and-fade",
+    "ability_id": "raid-and-fade-realspace-raiders",
     "name": "RAID AND FADE",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -2232,10 +2302,13 @@
       "ref": "10th/json/drukhari.json",
       "edition": "10e"
     },
-    "raw_text": "2CP. WHEN: End of your Shooting phase. TARGET: Up to two KABALITE WARRIORS units from your army, or one other DRUKHARI unit from your army (excluding SCOURGES and AIRCRAFT). EFFECT: Each of those units can make a Normal move of up to 6\". RESTRICTIONS: You cannot select units that are within Engagement Range of one or more enemy units. Until the end of the turn, those units are not eligible to declare a charge."
+    "when": "End of your Shooting phase.",
+    "target": "Up to two KABALITE WARRIORS units from your army, or one other DRUKHARI unit from your army (excluding SCOURGES and AIRCRAFT).",
+    "effect": "Each of those units can make a Normal move of up to 6\".",
+    "restrictions": "You cannot select units that are within Engagement Range of one or more enemy units. Until the end of the turn, those units are not eligible to declare a charge."
   },
   {
-    "ability_id": "distillers-of-fear",
+    "ability_id": "distillers-of-fear-covenite-coterie",
     "name": "DISTILLERS OF FEAR",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -2249,10 +2322,12 @@
       "ref": "10th/json/drukhari.json",
       "edition": "10e"
     },
-    "raw_text": "2CP. WHEN: Fight phase. TARGET: One HAEMONCULUS COVENS unit from your army that has not been selected to fight this phase. EFFECT: Until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit that is Battle‑shocked, that attack has the [DEVASTATING WOUNDS] ability."
+    "when": "Fight phase.",
+    "target": "One HAEMONCULUS COVENS unit from your army that has not been selected to fight this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit that is Battle‑shocked, that attack has the [DEVASTATING WOUNDS] ability."
   },
   {
-    "ability_id": "night-shield",
+    "ability_id": "night-shield-skysplinter-assault",
     "name": "NIGHT SHIELD",
     "faction_id": "drukhari",
     "unit_ids": [],
@@ -2266,6 +2341,8 @@
       "ref": "10th/json/drukhari.json",
       "edition": "10e"
     },
-    "raw_text": "1CP. WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets. TARGET: One DRUKHARI VEHICLE unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, models in your unit have a 4+ invulnerable save."
+    "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
+    "target": "One DRUKHARI VEHICLE unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the end of the phase, models in your unit have a 4+ invulnerable save."
   }
 ]
