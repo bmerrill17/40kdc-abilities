@@ -1943,5 +1943,719 @@
       "edition": "10e"
     },
     "raw_text": "That unit is split into separate units, each containing one model. These new units each have a Starting Strength of 1."
+  },
+  {
+    "ability_id": "radiant-mantle",
+    "name": "Radiant Mantle",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "ADEPTUS CUSTODES model only. Each time an attack targets the bearer’s unit, if the attacking model is within 12\", subtract 1 from the Hit roll."
+  },
+  {
+    "ability_id": "gift-of-terran-artifice",
+    "name": "Gift of Terran Artifice",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "ADEPTUS CUSTODES model only. Each time the bearer makes a melee attack, add 1 to the Wound roll."
+  },
+  {
+    "ability_id": "champion-of-the-imperium",
+    "name": "Champion of the Imperium",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "ADEPTUS CUSTODES model only. The range of the bearer’s Null Aegis or Deadly Unity ability is increased to 9\"."
+  },
+  {
+    "ability_id": "aegis-projector",
+    "name": "Aegis Projector",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "ADEPTUS CUSTODES model only. Once per turn, the first time a saving throw is failed for the bearer’s unit, change the Damage characteristic of that attack to 0."
+  },
+  {
+    "ability_id": "from-the-hall-of-armouries",
+    "name": "From the Hall of Armouries",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "SHIELD‑CAPTAIN model only. Add 1 to the Strength and Damage characteristics of the bearer’s melee weapons."
+  },
+  {
+    "ability_id": "castellans-mark",
+    "name": "Castellan’s Mark",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "SHIELD‑CAPTAIN model only. After both players have deployed their armies, you can select up to two ADEPTUS CUSTODES units from your army (excluding ANATHEMA PSYKANA units) and redeploy all of those units. When doing so, any of those units can be placed into Strategic Reserves, regardless of how many units are already in Strategic Reserves."
+  },
+  {
+    "ability_id": "auric-mantle",
+    "name": "Auric Mantle",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "SHIELD‑CAPTAIN or BLADE CHAMPION model only. Add 2 to the bearer’s Wounds characteristic."
+  },
+  {
+    "ability_id": "panoptispex",
+    "name": "Panoptispex",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "SHIELD‑CAPTAIN or BLADE CHAMPION model only. While the bearer is leading a unit, ranged weapons equipped by models in that unit have the [IGNORES COVER] ability."
+  },
+  {
+    "ability_id": "raptor-blade",
+    "name": "Raptor Blade",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "ANATHEMA PSYKANA model only. Add 1 to the Attacks, Strength and Damage characteristics of the bearer’s melee weapons. While the bearer is within Engagement Range of one or more enemy PSYKER units that are Battle‑shocked, add 2 to the Attacks, Strength and Damage characteristics of the bearer’s melee weapons instead."
+  },
+  {
+    "ability_id": "enhanced-voidsheen-cloak",
+    "name": "Enhanced Voidsheen Cloak",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "ANATHEMA PSYKANA model only. Each time an attack is allocated to the bearer, subtract 1 from the Damage characteristic of that attack. If that attack was made by a PSYKER or Battle‑shocked model, change the Damage characteristic of that attack to 1 instead."
+  },
+  {
+    "ability_id": "huntress-eye",
+    "name": "Huntress’ Eye",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "ANATHEMA PSYKANA model only. In your Command phase, select one enemy unit within 12\" of the bearer. That unit must take a Battle‑shock test."
+  },
+  {
+    "ability_id": "oblivion-knight",
+    "name": "Oblivion Knight",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "ANATHEMA PSYKANA model only. While the bearer is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll. If that attack targeted an enemy PSYKER unit, add 1 to the Wound roll as well."
+  },
+  {
+    "ability_id": "blade-imperator",
+    "name": "Blade Imperator",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "ADEPTUS CUSTODES model only. Each time the bearer’s unit ends a Charge move, select one enemy unit within Engagement Range of the bearer and roll one D6: on a 4+, that enemy unit suffers D3 mortal wounds. Once per battle, after the bearer’s unit ends a Charge move, all enemy units within 6\" of the bearer must take a Battle‑shock test."
+  },
+  {
+    "ability_id": "inspirational-exemplar",
+    "name": "Inspirational Exemplar",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "ADEPTUS CUSTODES model only. The bearer has a Leadership characteristic of 5+. Once per battle, at the start of any phase, you can select one friendly ADEPTUS CUSTODES unit that is Battle‑shocked and within 12\" of the bearer; that unit is no longer Battle‑shocked."
+  },
+  {
+    "ability_id": "veiled-blade",
+    "name": "Veiled Blade",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "ADEPTUS CUSTODES model only. Add 2 to the Attacks characteristic of the bearer’s melee weapons. Once per battle, at the start of any Command phase, triple the bearer’s Objective Control characteristic until the end of the turn."
+  },
+  {
+    "ability_id": "martial-philosopher",
+    "name": "Martial Philosopher",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "ADEPTUS CUSTODES model only. The bearer’s unit is eligible to shoot and/or declare a charge in a turn in which it Fell Back. Once per battle, when an enemy unit ends a Normal, Advance or Fall Back move within 9\" of the bearer, if the bearer’s unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to 6\"."
+  },
+  {
+    "ability_id": "honoured-fallen-aura",
+    "name": "Honoured Fallen (Aura)",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "ADEPTUS CUSTODES VEHICLE model only. While a friendly ADEPTUS CUSTODES INFANTRY or ADEPTUS CUSTODES MOUNTED unit is within 6\" of the bearer, each time a model in that unit makes an attack, re‑roll a Hit roll of 1."
+  },
+  {
+    "ability_id": "flawless-construction",
+    "name": "FLAWLESS CONSTRUCTION",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time an attack targets a model in your unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of your unit, subtract 1 from the Wound roll.&x20;"
+  },
+  {
+    "ability_id": "arcane-genetic-alchemy",
+    "name": "ARCANE GENETIC ALCHEMY",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, models in your unit have the Feel No Pain 4+ ability against mortal wounds."
+  },
+  {
+    "ability_id": "witch-hunters",
+    "name": "WITCH HUNTERS",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "Select either the [LETHAL HITS] or [SUSTAINED HITS 1] ability. Until the end of the phase, weapons equipped by models in your unit have the selected ability, but models in your unit can only target PSYKER units with their attacks."
+  },
+  {
+    "ability_id": "anathema-blademastery",
+    "name": "ANATHEMA BLADEMASTERY",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in your unit makes a melee attack, you can re‑roll the Hit roll. If the target of that attack is Battle‑shocked or a PSYKER, you can re‑roll the Wound roll as well."
+  },
+  {
+    "ability_id": "purgation-sweep",
+    "name": "PURGATION SWEEP",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, add 1 to the Attacks characteristic of Torrent weapons equipped by models in your unit. If such a weapon targets a PSYKER or Battle‑shocked unit this phase, add 2 to its Attacks characteristic instead."
+  },
+  {
+    "ability_id": "talons-interlocked",
+    "name": "TALONS INTERLOCKED",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, your units can only target that enemy unit, but each time a model in one of your units makes a ranged attack, improve the Strength and Armour Penetration characteristics of that attack by 1."
+  },
+  {
+    "ability_id": "empyric-severance",
+    "name": "EMPYRIC SEVERANCE",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, your unit has the Feel No Pain 4+ ability against Psychic attacks and mortal wounds."
+  },
+  {
+    "ability_id": "taloned-pincer",
+    "name": "TALONED PINCER",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "Your units can make a Normal move of up to 6\"."
+  },
+  {
+    "ability_id": "emperors-executioners",
+    "name": "EMPEROR’S EXECUTIONERS",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in one of your units targets an enemy unit that is below its Starting Strength, add 1 to the Wound roll."
+  },
+  {
+    "ability_id": "slayer-of-champions",
+    "name": "SLAYER OF CHAMPIONS",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "Select one enemy unit on the battlefield. Until the start of your next Command phase, each time an ADEPTUS CUSTODES CHARACTER model from your army makes an attack that target that enemy unit, add 1 to the Wound roll. In addition, if the destroyed unit was a CHARACTER unit, gain 1CP."
+  },
+  {
+    "ability_id": "the-emperors-auspice",
+    "name": "THE EMPEROR’S AUSPICE",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, CHARACTER models in your unit have the Feel No Pain 4+ ability."
+  },
+  {
+    "ability_id": "earning-of-a-name",
+    "name": "EARNING OF A NAME",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a CHARACTER model in either of your units makes an attack that targets a MONSTER or VEHICLE unit, you can re‑roll the Hit roll and you can re‑roll the Wound roll."
+  },
+  {
+    "ability_id": "shoulder-the-mantle",
+    "name": "SHOULDER THE MANTLE",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "Select one friendly unit (excluding Battle-shocked and Attached units) within 2\" horizontally and 5\" vertically of your model that it could lead (as described in the Leader section of its datasheet). Your model attaches to that unit as a Leader. Change that unit’s Starting Strength accordingly."
+  },
+  {
+    "ability_id": "shield-of-honour",
+    "name": "SHIELD OF HONOUR",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, any attack that targets your ANATHEMA PSYKANA unit must instead target your other ADEPTUS CUSTODES unit (unless it is not an eligible target)."
+  },
+  {
+    "ability_id": "superhuman-reserves",
+    "name": "SUPERHUMAN RESERVES",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "Your model can use its ‘Once per battle’ ability one additional time during this battle (but not in the same phase)."
+  },
+  {
+    "ability_id": "vigil-unending",
+    "name": "VIGIL UNENDING",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "Do not remove your destroyed model from play. The destroyed model can fight after the attacking unit has finished making attacks, and is then removed from play."
+  },
+  {
+    "ability_id": "avenge-the-fallen",
+    "name": "AVENGE THE FALLEN",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, add 1 to the Attacks characteristic of melee weapons equipped by models in your unit. If your unit is Below Half-strength, until the end of the phase, add 2 to the Attacks characteristic of those melee weapons instead."
+  },
+  {
+    "ability_id": "unwavering-sentinels",
+    "name": "UNWAVERING SENTINELS",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a melee attack targets your unit, subtract 1 from the Hit roll."
+  },
+  {
+    "ability_id": "multipotentiality",
+    "name": "MULTIPOTENTIALITY",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of your turn, that unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
+  },
+  {
+    "ability_id": "vigilance-eternal",
+    "name": "VIGILANCE ETERNAL",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
+  },
+  {
+    "ability_id": "desperations-price",
+    "name": "DESPERATION’S PRICE",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "That enemy PSYKER unit must take a Leadership test. If the test is passed, that PSYKER unit is Battle‑shocked; if the test is failed that PSYKER unit suffers 3 mortal wounds and is Battle‑shocked."
+  },
+  {
+    "ability_id": "psy-chaff-volley",
+    "name": "PSY-CHAFF VOLLEY",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "Select one enemy unit hit by one or more of those attacks. Until the start of your next turn, while your unit is on the battlefield, that enemy unit is prosecuted. While a unit is prosecuted, each time an ANATHEMA PSYKANA model makes an attack against that unit, improve the Armour Penetration characteristic of that attack by 1. While a PSYKER or Battle‑shocked unit is prosecuted, each time a model in that unit makes an attack, subtract 1 from the Hit roll."
+  },
+  {
+    "ability_id": "psychic-abominations",
+    "name": "PSYCHIC ABOMINATIONS",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, your unit has the Stealth ability, and Battle‑shocked and PSYKER models can only select your unit as a target of a ranged attack if they are within 12\"."
+  },
+  {
+    "ability_id": "hunt-as-one",
+    "name": "HUNT AS ONE",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the turn, your units are eligible to shoot and/or declare a charge in a turn in which they Fell Back."
+  },
+  {
+    "ability_id": "archeotech-munitions",
+    "name": "ARCHEOTECH MUNITIONS",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "Select either the [LETHAL HITS] or [SUSTAINED HITS 1] ability. Until the end of the phase, ranged weapons equipped by models in your unit have the selected ability."
   }
 ]

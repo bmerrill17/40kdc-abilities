@@ -2232,5 +2232,838 @@
       "edition": "10e"
     },
     "raw_text": "If a model from your army with the Leader ability can be attached to a Skitarii Vanguard unit, it can be attached to this unit instead."
+  },
+  {
+    "ability_id": "radial-suffusion",
+    "name": "Radial Suffusion",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "ADEPTUS MECHANICUS model only. From the second battle round onwards, when resolving the Fallout effect of the Rad-bombardment Detachment rule, if the bearer is on the battlefield, roll one D6 for each enemy unit within 6\" of your opponent’s deployment zone, in addition to those that are within your opponent’s deployment zone."
+  },
+  {
+    "ability_id": "malphonic-susurrus",
+    "name": "Malphonic Susurrus",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "ADEPTUS MECHANICUS model only. While the bearer is leading a unit, models in that unit have the Stealth ability."
+  },
+  {
+    "ability_id": "peerless-eradicator",
+    "name": "Peerless Eradicator",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "ADEPTUS MECHANICUS model only. While the bearer is leading a unit, ranged weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability."
+  },
+  {
+    "ability_id": "autoclavic-denunciation",
+    "name": "Autoclavic Denunciation",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "ADEPTUS MECHANICUS model only. Ranged weapons equipped by the bearer have the [ANTI-INFANTRY 2+] and [ANTI-MONSTER 4+] abilities."
+  },
+  {
+    "ability_id": "cantic-thrallnet",
+    "name": "Cantic Thrallnet",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "SKITARII MARSHAL model only. At the start of the battle round, you can select one friendly SKITARII unit within 12\" of the bearer. Until the start of the next battle round, the Protector Imperative and the Conqueror Imperative are both active for that unit."
+  },
+  {
+    "ability_id": "clandestine-infiltrator",
+    "name": "Clandestine Infiltrator",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "SKITARII model only. The bearer, and models in any unit they are leading, have the Infiltrators and Scouts 6\" abilities."
+  },
+  {
+    "ability_id": "battle-sphere-uplink",
+    "name": "Battle-sphere Uplink",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "SKITARII model only. In your Shooting phase, after the bearer’s unit has shot, if it is not within Engagement Range of one or more enemy units, that unit can make a Normal move of up to 6\". If it does, until the end of the turn, that unit is not eligible to declare a charge."
+  },
+  {
+    "ability_id": "mechanicus-locum",
+    "name": "Mechanicus Locum",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "TECH-PRIEST model only. The bearer has a Leadership characteristic of 6+ and, once per battle, at the start of any phase, you can select one friendly CULT MECHANICUS unit that is Battle-shocked and within 12\" of the bearer. That unit is no longer Battle-shocked."
+  },
+  {
+    "ability_id": "mantle-of-the-gnosticarch",
+    "name": "Mantle of the Gnosticarch",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "TECH-PRIEST model only. Each time an attack is allocated to the bearer, change the Damage characteristic of that attack to 1."
+  },
+  {
+    "ability_id": "data-blessed-autosermon",
+    "name": "Data-blessed Autosermon",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "TECH-PRIEST model only. Once per battle, at the start of your Command phase, you can select the Benediction of the Omnissiah you did not select at the start of the first battle round. Until the start of your next Command phase, that Benediction of the Omnissiah is active for the bearer’s unit in addition to the one that is currently active for your army."
+  },
+  {
+    "ability_id": "temporcopia",
+    "name": "Temporcopia",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "TECH-PRIEST model only. The bearer’s unit has the Fights First ability."
+  },
+  {
+    "ability_id": "magos",
+    "name": "Magos",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "TECH-PRIEST model only. At the end of your Command phase, if the bearer is within range of your Acquisition objective marker, roll one D6: on a 4+, you gain 1CP."
+  },
+  {
+    "ability_id": "genetor",
+    "name": "Genetor",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "TECH-PRIEST model only. While the bearer is leading a unit that is within range of your Acquisition objective marker, models in that unit have a 4+ invulnerable save."
+  },
+  {
+    "ability_id": "logis",
+    "name": "Logis",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "TECH-PRIEST model only. While the bearer is leading a unit, each time a model in that unit makes an attack that targets a unit within range of your Acquisition objective marker, add 1 to the Hit roll."
+  },
+  {
+    "ability_id": "artisan",
+    "name": "Artisan",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "TECH-PRIEST model only. While the bearer is leading a unit that is within range of your Acquisition objective marker, once per phase, you can change the result of one Hit roll, one Wound roll or one saving throw made for that unit to an unmodified 6."
+  },
+  {
+    "ability_id": "necromechanic",
+    "name": "Necromechanic",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "TECH-PRIEST model only. Once per battle round, when a saving throw made for a friendly LEGIO CYBERNETICA or ADEPTUS MECHANICUS VEHICLE model within 12\" of the bearer is failed, the bearer can use this Enhancement. If they do, change the Damage characteristic of that attack to 0."
+  },
+  {
+    "ability_id": "lord-of-machines",
+    "name": "Lord of Machines",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "TECH-PRIEST model only. Once per turn, at the start of your opponent’s Shooting phase, select one enemy VEHICLE unit within 12\" of and visible to the bearer. That unit must take a Leadership test: if that test is passed, until the end of the phase, each time a model in that unit makes an attack, subtract 1 from the Hit roll; if that test is failed, that unit is not eligible to shoot this phase."
+  },
+  {
+    "ability_id": "emotionless-clarity",
+    "name": "Emotionless Clarity",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "TECH-PRIEST model only. Once per turn, when a friendly LEGIO CYBERNETICA or ADEPTUS MECHANICUS VEHICLE model with the Deadly Demise ability that is within 12\" of the bearer is destroyed, the bearer can use this Enhancement. If it does, do not roll to determine whether any mortal wounds are inflicted as a result of that model’s Deadly Demise ability. Instead, mortal wounds are automatically inflicted."
+  },
+  {
+    "ability_id": "arch-negator",
+    "name": "Arch-negator",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "TECH-PRIEST model only. Ranged weapons equipped by the bearer have the [ANTI-VEHICLE 4+] ability."
+  },
+  {
+    "ability_id": "motive-imperative",
+    "name": "MOTIVE IMPERATIVE",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the start of your next Command phase, add 3\" to the Move characteristic of models in your unit and add 1 to Advance and Charge rolls made for it."
+  },
+  {
+    "ability_id": "auto-divinatory-targeting",
+    "name": "AUTO-DIVINATORY TARGETING",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the start of your next Command phase, ranged weapons equipped by models in your unit have a Ballistic Skill characteristic of 3+ and the [IGNORES COVER] ability, but they can only target units within range of the selected objective marker."
+  },
+  {
+    "ability_id": "benevolence-of-the-omnissiah",
+    "name": "BENEVOLENCE OF THE OMNISSIAH",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the start of your next Command phase, models in your unit have the Feel No Pain 6+ ability, which is improved to Feel No Pain 5+ against mortal wounds."
+  },
+  {
+    "ability_id": "incantation-of-the-iron-soul",
+    "name": "INCANTATION OF THE IRON SOUL",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, CULT MECHANICUS models in your unit have the Feel No Pain 4+ ability against mortal wounds."
+  },
+  {
+    "ability_id": "chant-of-the-remorseless-fist",
+    "name": "CHANT OF THE REMORSELESS FIST",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a CULT MECHANICUS model in your unit makes a melee attack, add 1 to the Wound roll."
+  },
+  {
+    "ability_id": "luminescent-blessing",
+    "name": "LUMINESCENT BLESSING",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, CULT MECHANICUS models in your unit have a 4+ invulnerable save."
+  },
+  {
+    "ability_id": "priority-reclamation",
+    "name": "PRIORITY RECLAMATION",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in your unit makes a Consolidation move, it can move up to 6\" instead of up to 3\", provided your unit ends that Consolidation move within range of your Acquisition objective marker."
+  },
+  {
+    "ability_id": "aggressor-imperative",
+    "name": "AGGRESSOR IMPERATIVE",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time one of those units Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in that unit."
+  },
+  {
+    "ability_id": "pre-calibrated-purge-solution",
+    "name": "PRE-CALIBRATED PURGE SOLUTION",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in one of those units makes a ranged attack, if the target of that attack is within your opponent’s deployment zone, you can re-roll the Hit roll."
+  },
+  {
+    "ability_id": "auto-oracular-retrieval",
+    "name": "AUTO-ORACULAR RETRIEVAL",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in your unit makes a ranged attack that targets an enemy unit within range of your Acquisition objective marker, add 1 to the Wound roll."
+  },
+  {
+    "ability_id": "baleful-halo",
+    "name": "BALEFUL HALO",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time an attack targets one of those units from your army, subtract 1 from the Wound roll."
+  },
+  {
+    "ability_id": "bulwark-imperative",
+    "name": "BULWARK IMPERATIVE",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, models in those units from your army have a 4+ invulnerable save."
+  },
+  {
+    "ability_id": "machine-spirit-resurgent",
+    "name": "MACHINE SPIRIT RESURGENT",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the start of your next Command phase, each time a model in your unit makes an attack, you can re-roll the Hit roll. If your unit is Below Half-strength, you can re-roll the Wound roll as well."
+  },
+  {
+    "ability_id": "machine-superiority",
+    "name": "MACHINE SUPERIORITY",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the turn, your unit is eligible to shoot in a turn in which it Fell Back and you can ignore any or all modifiers to its characteristics and/or to any roll or test made for it (excluding modifiers to saving throws)."
+  },
+  {
+    "ability_id": "cached-acquisition",
+    "name": "CACHED ACQUISITION",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
+  },
+  {
+    "ability_id": "transcendent-cogitation",
+    "name": "TRANSCENDENT COGITATION",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the start of your next Command phase, the Conqueror Imperative and Protector Imperative are both active for your unit."
+  },
+  {
+    "ability_id": "isolate-and-destroy",
+    "name": "ISOLATE AND DESTROY",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, if there are no other enemy units within 6\" of the unit targeted by that attack, add 1 to the Wound roll."
+  },
+  {
+    "ability_id": "shroud-protocols",
+    "name": "SHROUD PROTOCOLS",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, your unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
+  },
+  {
+    "ability_id": "programmed-withdrawal",
+    "name": "PROGRAMMED WITHDRAWAL",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "Remove those units from the battlefield and place them into Strategic Reserves."
+  },
+  {
+    "ability_id": "bionic-endurance",
+    "name": "BIONIC ENDURANCE",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, models in your unit have the Feel No Pain 5+ ability."
+  },
+  {
+    "ability_id": "expedited-purge-protocol",
+    "name": "EXPEDITED PURGE PROTOCOL",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, your unit is eligible to declare a charge in a turn in which it Advanced."
+  },
+  {
+    "ability_id": "verse-of-vengeance",
+    "name": "VERSE OF VENGEANCE",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a CULT MECHANICUS model in your unit is destroyed, if that model has not fought this phase, roll one D6: on a 4+, do not remove it from play. The destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play."
+  },
+  {
+    "ability_id": "tribute-of-emphatic-veneration",
+    "name": "TRIBUTE OF EMPHATIC VENERATION",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "That enemy unit must take a Battle-shock test. If that test is failed, until the start of your next Command phase, each time a model in that enemy unit makes an attack, subtract 1 from the Hit roll."
+  },
+  {
+    "ability_id": "litany-of-the-electromancer",
+    "name": "LITANY OF THE ELECTROMANCER",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "Roll one D6 for each enemy unit within 6\" of one or more Cult Mechanicus models in your unit, adding 1 to the result if that model is an ELECTRO-PRIEST. On a 5+, that enemy unit suffers D3 mortal wounds."
+  },
+  {
+    "ability_id": "reactive-safeguard",
+    "name": "REACTIVE SAFEGUARD",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "Your unit can embark within that TRANSPORT."
+  },
+  {
+    "ability_id": "extinction-order",
+    "name": "EXTINCTION ORDER",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "Roll one D6 for each enemy unit within range of that objective marker. On a 4+, that unit suffers 1 mortal wound and must take a Battle-shock test."
+  },
+  {
+    "ability_id": "binharic-offence",
+    "name": "BINHARIC OFFENCE",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, improve the Armour Penetration characteristic of weapons equipped by models in both of your units by 1."
+  },
+  {
+    "ability_id": "infoslave-skull",
+    "name": "INFOSLAVE SKULL",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the start of your next Command phase, that objective marker is also considered to be one of your Acquisition objective markers for all rules purposes."
+  },
+  {
+    "ability_id": "incense-exhausts",
+    "name": "INCENSE EXHAUSTS",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, both of those units have the Stealth ability and the Benefit of Cover."
+  },
+  {
+    "ability_id": "lethal-dosage",
+    "name": "LETHAL DOSAGE",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptusmechanicus.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, ranged weapons equipped by models in your unit have the [LETHAL HITS] ability."
   }
 ]

@@ -2132,5 +2132,1467 @@
       "edition": "10e"
     },
     "raw_text": "This model cannot be given Enhancements."
+  },
+  {
+    "ability_id": "veil-of-darkness",
+    "name": "Veil of Darkness",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "NECRONS model only. Once per battle, at the end of your opponent’s turn, if the bearer’s unit is not within Engagement Range of one or more enemy units, the bearer can use this Enhancement. If it does, remove that unit from the battlefield. Then, in the Reinforcements step of your next Movement phase, set up that unit anywhere on the battlefield that is more than 9\" horizontally away from all enemy models."
+  },
+  {
+    "ability_id": "nether-realm-casket",
+    "name": "Nether-realm Casket",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "NECRONS model only. While the bearer is leading a unit, models in that unit have the Stealth ability."
+  },
+  {
+    "ability_id": "phasal-subjugator-aura",
+    "name": "Phasal Subjugator (Aura)",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "NECRONS model only. While a friendly NECRONS unit (excluding CHARACTER units) is within 6\" of the bearer, each time a model in that unit makes an attack, add 1 to the Hit roll."
+  },
+  {
+    "ability_id": "enaegic-dermal-bond",
+    "name": "Enaegic Dermal Bond",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "NECRONS model only. The bearer has the Feel No Pain 4+ ability"
+  },
+  {
+    "ability_id": "eternal-madness",
+    "name": "Eternal Madness",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "NECRONS model only. In the Fight phase, each time a model in the bearer’s unit is destroyed, if that model has not fought this phase, roll one D6: on a 4+, do not remove the destroyed model from play; it can fight after the attacking model’s unit has finished making its attacks, and is then removed from play."
+  },
+  {
+    "ability_id": "ingrained-superiority",
+    "name": "Ingrained Superiority",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "NECRONS model only. Each time a model in the bearer’s unit makes an attack, on a Critical Wound, improve the Armour Penetration characteristic of that attack by 1."
+  },
+  {
+    "ability_id": "soulless-reaper",
+    "name": "Soulless Reaper",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "DESTROYER CULT model only. Each time an enemy unit within Engagement Range of the bearer’s unit is selected to Fall Back, roll one D6: on a 3+, that unit cannot Fall Back this phase and must Remain Stationary."
+  },
+  {
+    "ability_id": "eldritch-nightmare",
+    "name": "Eldritch Nightmare",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "DESTROYER CULT model only. At the start of the Fight phase, each enemy unit within Engagement Range of the bearer must take a Battle-shock test."
+  },
+  {
+    "ability_id": "dimensional-sanctum",
+    "name": "Dimensional Sanctum",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "CRYPTEK model only. Models in the bearer’s unit have the Infiltrators ability."
+  },
+  {
+    "ability_id": "hyperphasic-fulcrum",
+    "name": "Hyperphasic Fulcrum",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "CRYPTEK model only. While the bearer is leading a unit, if that unit is wholly within your army’s Power Matrix, each time a model in that unit makes an attack, re-roll a Wound roll of 1."
+  },
+  {
+    "ability_id": "autodivinator",
+    "name": "Autodivinator",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "CRYPTEK model only. Each time your opponent gains a CP as the result of an ability, roll one D6: on a 2+, you also gain 1CP"
+  },
+  {
+    "ability_id": "metalodermal-tesla-weave",
+    "name": "Metalodermal Tesla Weave",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "CRYPTEK model only. Once per phase, when an enemy unit selects the bearer’s unit as a target of a charge, roll one D6: on a 2-5, that enemy unit suffers D3 mortal wounds; on a 6, that enemy unit suffers 3 mortal wounds."
+  },
+  {
+    "ability_id": "honourable-combatant",
+    "name": "Honourable Combatant",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "OVERLORD model only. Each time the bearer’s unit destroys an enemy CHARACTER unit, your opponent loses 1CP if they have any."
+  },
+  {
+    "ability_id": "unflinching-will",
+    "name": "Unflinching Will",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "OVERLORD model only. The bearer’s melee weapons have the [PRECISION] and [ANTI-INFANTRY 5+] abilities."
+  },
+  {
+    "ability_id": "warrior-noble",
+    "name": "Warrior Noble",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "OVERLORD model only. Each time a melee attack targets the bearer’s unit, subtract 1 from the Hit roll."
+  },
+  {
+    "ability_id": "eternal-conqueror",
+    "name": "Eternal Conqueror",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "OVERLORD model only. Each time a model in the bearer’s unit makes an attack that targets an enemy unit within range of an objective marker, you can re-roll the Hit roll."
+  },
+  {
+    "ability_id": "dimensional-overseer",
+    "name": "Dimensional Overseer",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "NECRONS model only. While the bearer is on the battlefield or in Strategic Reserves, add one to the number of units from your army that you can select for the Hyperphasing rule."
+  },
+  {
+    "ability_id": "arisen-tyrant",
+    "name": "Arisen Tyrant",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "NECRONS model only. Each time a model in the bearer’s unit makes an attack, re-roll a Hit roll of 1. If the bearer’s unit was set up on the battlefield this turn, you can re-roll the Hit roll instead."
+  },
+  {
+    "ability_id": "hyperspatial-transfer-node",
+    "name": "Hyperspatial Transfer Node",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "NECRONS model only. Each time the bearer’s unit Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in the bearer’s unit."
+  },
+  {
+    "ability_id": "osteoclave-fulcrum",
+    "name": "Osteoclave Fulcrum",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "NECRONS model only. Models in the bearer’s unit have the Deep Strike ability."
+  },
+  {
+    "ability_id": "dread-majesty-aura",
+    "name": "Dread Majesty (Aura)",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "OVERLORD or CATACOMB COMMAND BARGE model only. While a friendly NECRONS unit (excluding MONSTER and TITANIC units) is within 6\" of the bearer, each time a model in that unit makes an attack, re‑roll a Hit roll of 1 and re‑roll a Wound roll of 1."
+  },
+  {
+    "ability_id": "miniaturised-nebuloscope",
+    "name": "Miniaturised Nebuloscope",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "NECRONS model only. Ranged weapons equipped by models in the bearer’s unit have the [IGNORES COVER] ability."
+  },
+  {
+    "ability_id": "demanding-leader",
+    "name": "Demanding Leader",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "NECRONS model only. In your Command phase, select one friendly NECRONS VEHICLE or NECRONS MOUNTED unit (excluding TITANIC units) within 6\" of the bearer. Until the start of your next Command phase, that unit is eligible to shoot in a turn in which it Fell Back."
+  },
+  {
+    "ability_id": "chrono-impedance-fields",
+    "name": "Chrono-impedance Fields",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "NECRONS model only. In your Command phase, select one friendly NECRONS VEHICLE or NECRONS MOUNTED unit (excluding TITANIC units) within 6\" of the bearer. Until the start of your next Command phase, each time an attack is allocated to a model in that unit, subtract 1 from the Damage characteristic of that attack."
+  },
+  {
+    "ability_id": "destroyer-ankh",
+    "name": "Destroyer Ankh",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "CATACOMB COMMAND BARGE or OVERLORD model only. The bearer has the DESTROYER CULT keyword. Add 2\" to the Move characteristic of models in the bearer’s unit and add 2 to the Attacks characteristic of melee weapons equipped by the bearer."
+  },
+  {
+    "ability_id": "murdermind",
+    "name": "Murdermind",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "CRYPTEK model only. The bearer has the DESTROYER CULT keyword and during the Declare Battle Formations step, the bearer can be attached to a DESTROYER CULT unit (excluding CHARACTER units). If you do, the bearer’s unit cannot contain any models without the DESTROYER CULT keyword. Add 3\" to the Move characteristic of the bearer."
+  },
+  {
+    "ability_id": "mask-of-the-nekrosor",
+    "name": "Mask of the Nekrosor",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "DESTROYER CULT model only. Each time a model in the bearer’s unit makes an attack, add 1 to the Hit roll."
+  },
+  {
+    "ability_id": "cursed-circlet",
+    "name": "Cursed Circlet",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "DESTROYER CULT model only. Each time an enemy unit is selected to shoot, after that unit has shot, if any models from the bearer’s unit were destroyed as a result of those attacks, the bearer’s unit can make a Surge move. To do so, roll one D6: the bearer’s unit can be moved a number of inches up to the result, but the bearer’s unit must finish that move as close as possible to the closest enemy unit (excluding AIRCRAFT). When doing so, those models can be moved within Engagement Range of that enemy unit. A unit cannot make a Surge move while it is Battle‑shocked."
+  },
+  {
+    "ability_id": "quantum-abacus",
+    "name": "Quantum Abacus",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "NECRONS model only. Each time you select the bearer’s unit as the target of a Stratagem, roll one D6, adding 1 if it is within range of one or more objectives: on a 4+, you gain 1CP."
+  },
+  {
+    "ability_id": "atomic-disintegrators",
+    "name": "Atomic Disintegrators",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "CRYPTEK model only. In your Shooting phase, each time the bearer’s unit is selected to shoot, when selecting an ability for the Technosorcerous Augmentations Detachment rule, you can also select from the following abilities: [ANTI‑MONSTER 5+], [ANTI‑VEHICLE 5+]."
+  },
+  {
+    "ability_id": "gauntlet-of-compression",
+    "name": "Gauntlet of Compression",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "NECRONS model only. Add 6\" to the Range characteristic of ranged weapons equipped by models in the bearer’s unit."
+  },
+  {
+    "ability_id": "gravitic-bolas",
+    "name": "Gravitic Bolas",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "CRYPTEK model only. In your Shooting phase, after the bearer has shot, select one enemy unit hit by one or more of those attacks (excluding TITANIC units); until the start of your next turn, that enemy unit is pinned. While a unit is pinned, subtract 2 from that unit’s Move characteristic and subtract 2 from Charge rolls made for that unit."
+  },
+  {
+    "ability_id": "molecular-targeting",
+    "name": "MOLECULAR TARGETING",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, you can ignore any or all modifiers to the following: that attack’s Ballistic Skill or Weapon Skill characteristic; the Hit roll. If your unit has the CRYPTEK keyword, you can also ignore any or all modifiers to the Wound roll."
+  },
+  {
+    "ability_id": "untapped-power",
+    "name": "UNTAPPED POWER",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time your unit is selected to shoot, when selecting an ability for the Techno‑sorcerous Augmentations Detachment Rule, you can select one additional ability from those available."
+  },
+  {
+    "ability_id": "methodical-murder",
+    "name": "METHODICAL MURDER",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, weapons equipped by models in your unit have the [SUSTAINED HITS 1] ability."
+  },
+  {
+    "ability_id": "image-of-death",
+    "name": "IMAGE OF DEATH",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
+  },
+  {
+    "ability_id": "spreading-madness",
+    "name": "SPREADING MADNESS",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time your unit declares a charge, if one or more targets of that charge are within Engagement Range of one or more friendly units, add 2 to the Charge roll."
+  },
+  {
+    "ability_id": "pitiless-hunters",
+    "name": "PITILESS HUNTERS",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in your unit makes a Pile-in or Consolidation move, it can move up to 6\" instead of up to 3\"."
+  },
+  {
+    "ability_id": "blood-fuelled-cruelty",
+    "name": "BLOOD-FUELLED CRUELTY",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Roll one D6: on a 2-5, that enemy unit suffers D3 mortal wounds; on a 6, that enemy unit suffers 3 mortal wounds. Your unit can then make a Normal move, but must end that move as close as possible to that enemy unit."
+  },
+  {
+    "ability_id": "the-spoor-of-frailty",
+    "name": "THE SPOOR OF FRAILTY",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model from your unit makes an attack that targets a unit below Starting Strength, add 1 to the Hit roll. If the target is Below Half-strength, add 1 to the Wound roll as well"
+  },
+  {
+    "ability_id": "murderous-reanimation",
+    "name": "MURDEROUS REANIMATION",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Your unit’s Reanimation Protocols activate."
+  },
+  {
+    "ability_id": "entrophasic-aura-targeting",
+    "name": "ENTROPHASIC AURA TARGETING",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit, re‑roll a Hit roll of 1. If the target of that attack is unravelling, re‑roll a Wound roll of 1 as well."
+  },
+  {
+    "ability_id": "chronodistortion",
+    "name": "CHRONODISTORTION",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, adding 1 if the attacking unit is unravelling: on a 4+, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play."
+  },
+  {
+    "ability_id": "enslaved-artifice",
+    "name": "ENSLAVED ARTIFICE",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, an unmodified Hit roll of 5+ scores a Critical Hit."
+  },
+  {
+    "ability_id": "nanoassembly-protocols",
+    "name": "NANOASSEMBLY PROTOCOLS",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time an attack is allocated to a model in your unit, subtract 1 from the Damage characteristic of that attack."
+  },
+  {
+    "ability_id": "suffer-no-rival",
+    "name": "SUFFER NO RIVAL",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, melee weapons equipped by models in your unit have the [PRECISION] ability."
+  },
+  {
+    "ability_id": "curse-of-the-cryptek",
+    "name": "CURSE OF THE CRYPTEK",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the battle, each time a friendly CANOPTEK model makes an attack that targets the attacking unit, add 1 to the Hit roll and add 1 to the Wound roll."
+  },
+  {
+    "ability_id": "protocol-of-the-hungry-void",
+    "name": "PROTOCOL OF THE HUNGRY VOID",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, add 1 to the Strength characteristic of melee weapons equipped by models in your unit. In addition, if a NECRONS CHARACTER is leading your unit, until the end of the phase, improve the Armour Penetration characteristic of melee weapons equipped by models in your unit by 1 (this is not cumulative with any other modifiers that improve Armour Penetration)."
+  },
+  {
+    "ability_id": "protocol-of-the-conquering-tyrant",
+    "name": "PROTOCOL OF THE CONQUERING TYRANT",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack that targets a unit within half range, re-roll a Hit roll of 1. If a NECRONS CHARACTER is leading your unit, until the end of the phase, you can re-roll the Hit roll for that attack instead."
+  },
+  {
+    "ability_id": "merciless-reclamation",
+    "name": "MERCILESS RECLAMATION",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, if the target of that attack is within range of one or more objective markers, add 1 to the Wound roll."
+  },
+  {
+    "ability_id": "unyielding-forms",
+    "name": "UNYIELDING FORMS",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time an attack targets a model in your unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of that unit, subtract 1 from the Wound roll."
+  },
+  {
+    "ability_id": "cynosure-of-eradication",
+    "name": "CYNOSURE OF ERADICATION",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, weapons equipped by CRYPTEK or CANOPTEK models in your unit have the [DEVASTATING WOUNDS] ability."
+  },
+  {
+    "ability_id": "disharmonisation-cascade",
+    "name": "DISHARMONISATION CASCADE",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, your model’s Deadly Demise ability inflicts mortal wounds on a D6 roll of 3+ instead of on a 6."
+  },
+  {
+    "ability_id": "mass-transmogrification",
+    "name": "MASS TRANSMOGRIFICATION",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "If that enemy unit was unravelling at the start of the phase, your friendly unit’s Reanimation Protocols activate."
+  },
+  {
+    "ability_id": "your-time-is-nigh",
+    "name": "YOUR TIME IS NIGH",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the battle, each time an enemy unit takes a Battle-shock or Leadership test, subtract 1 from the result."
+  },
+  {
+    "ability_id": "sentinels-of-eternity",
+    "name": "SENTINELS OF ETERNITY",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6: on a 4+, do not remove it from play. The destroyed model can fight after the attacking model’s unit has finished making attacks, and is then removed from play."
+  },
+  {
+    "ability_id": "protocol-of-the-eternal-revenant",
+    "name": "PROTOCOL OF THE ETERNAL REVENANT",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the end of the phase, set your model back up on the battlefield as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with half of its starting number of wounds remaining."
+  },
+  {
+    "ability_id": "synergistic-empowerment",
+    "name": "SYNERGISTIC EMPOWERMENT",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Select one friendly NECRONS model (excluding MONSTERS and VEHICLES) within 12\" of a CRYPTEK model in your unit. Until the end of the phase, that friendly NECRONS model has the CRYPTEK keyword."
+  },
+  {
+    "ability_id": "potentiality-syphon",
+    "name": "POTENTIALITY SYPHON",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Your unit’s Reanimation Protocols activate. If it is a CRYPTEK unit, it reanimates an additional 1 wound."
+  },
+  {
+    "ability_id": "chronoshift",
+    "name": "CHRONOSHIFT",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, if your unit Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in your unit."
+  },
+  {
+    "ability_id": "dimensional-tunnel",
+    "name": "DIMENSIONAL TUNNEL",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, models in your unit can move horizontally through models and terrain features."
+  },
+  {
+    "ability_id": "endless-servitude",
+    "name": "ENDLESS SERVITUDE",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Your unit’s Reanimation Protocols activate."
+  },
+  {
+    "ability_id": "reactive-reposition",
+    "name": "REACTIVE REPOSITION",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Your unit can make a Normal move of up to D6\"."
+  },
+  {
+    "ability_id": "mortis-protocols",
+    "name": "MORTIS PROTOCOLS",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "The friendly unit’s Reanimation Protocols activate."
+  },
+  {
+    "ability_id": "driven-to-butchery",
+    "name": "DRIVEN TO BUTCHERY",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced."
+  },
+  {
+    "ability_id": "insanitys-ire",
+    "name": "INSANITY’S IRE",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Your unit can make a Normal move, but must end that move as close as possible to that enemy unit."
+  },
+  {
+    "ability_id": "masks-of-death",
+    "name": "MASKS OF DEATH",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
+  },
+  {
+    "ability_id": "reanimation-crypts",
+    "name": "REANIMATION CRYPTS",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "For each of your NECRONS units in Reserves, that Reserves unit’s Reanimation Protocols activate."
+  },
+  {
+    "ability_id": "cosmic-precision",
+    "name": "COSMIC PRECISION",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Your unit can be set up anywhere on the battlefield that is more than 6\" horizontally away from all enemy models."
+  },
+  {
+    "ability_id": "molecular-erosion",
+    "name": "MOLECULAR EROSION",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Select one unravelling enemy unit visible to your unit. That enemy unit must take a Battle‑shock test. When doing so, subtract 1 from the result. If that test is failed, that enemy unit suffers D3+1 mortal wounds."
+  },
+  {
+    "ability_id": "phase-melding",
+    "name": "PHASE MELDING",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "When that enemy unit Falls Back, all models in that enemy unit must take a Desperate Escape test. When doing so, if that enemy unit is Battle‑shocked, subtract 1 from each of those tests."
+  },
+  {
+    "ability_id": "territorial-obsession",
+    "name": "TERRITORIAL OBSESSION",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the start of your next Command phase, add 1 to the Objective Control characteristic of models in your unit. If your unit has the VEHICLE keyword, add 3 to the Objective Control characteristic instead."
+  },
+  {
+    "ability_id": "solar-pulse",
+    "name": "SOLAR PULSE",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Select one objective marker within 18\" of your CRYPTEK model. Until the end of the phase, weapons equipped by friendly NECRONS models have the [IGNORES COVER] ability while targeting units within range of that objective marker."
+  },
+  {
+    "ability_id": "reactive-subroutines",
+    "name": "REACTIVE SUBROUTINES",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Your unit can make a Normal move of up to 6\"."
+  },
+  {
+    "ability_id": "countertemporal-shift",
+    "name": "COUNTERTEMPORAL SHIFT",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, your unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
+  },
+  {
+    "ability_id": "suboptimal-facade",
+    "name": "SUBOPTIMAL FACADE",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Your unit’s Reanimation Protocols activate."
+  },
+  {
+    "ability_id": "protocol-of-the-undying-legions",
+    "name": "PROTOCOL OF THE UNDYING LEGIONS",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Your unit activates its Reanimation Protocols and reanimates D3 wounds (or D3+1 wounds if a NECRONS CHARACTER is leading your unit)."
+  },
+  {
+    "ability_id": "protocol-of-the-sudden-storm",
+    "name": "PROTOCOL OF THE SUDDEN STORM",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the turn, ranged weapons equipped by models in your unit have the [ASSAULT] ability. In addition, if a NECRONS CHARACTER is leading your unit, until the end of the phase, you can re-roll Advance rolls made for your unit."
+  },
+  {
+    "ability_id": "unnatural-aggression",
+    "name": "UNNATURAL AGGRESSION",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Your unit now declares a charge that only targets one or more of those enemy units, and you resolve that charge. Note that even if this charge is successful, your unit does not receive any Charge bonus this turn."
+  },
+  {
+    "ability_id": "hyperphasic-recall",
+    "name": "HYPERPHASIC RECALL",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Remove your INFANTRY unit from the battlefield and then set it back up anywhere on the battlefield that is wholly within 6\" of your MONOLITH model and not within Engagement Range of one or more enemy units."
+  },
+  {
+    "ability_id": "dimensional-corridor",
+    "name": "DIMENSIONAL CORRIDOR",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Your unit is eligible to charge this phase."
+  },
+  {
+    "ability_id": "protocol-of-the-vengeful-stars",
+    "name": "PROTOCOL OF THE VENGEFUL STARS",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "After the attacking unit has resolved its attacks, your unit can shoot as if it were your Shooting phase, but it must target only that enemy unit when doing so, and can only do so if that enemy unit is an eligible target."
+  },
+  {
+    "ability_id": "microscarab-swarm",
+    "name": "MICROSCARAB SWARM",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "If your unit has the NECRON WARRIORS keyword, until the end of the phase, models in your unit have a 5+ invulnerable save. If your unit has the IMMORTALS keyword, until the end of the phase, models in your unit have a 4+ invulnerable save."
+  },
+  {
+    "ability_id": "animus-curse",
+    "name": "ANIMUS CURSE",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the battle, each time a friendly NECRONS model makes an attack that targets the attacking unit, you can re‑roll the Hit roll."
+  },
+  {
+    "ability_id": "quantum-deflection",
+    "name": "QUANTUM DEFLECTION",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, models in your unit have a 4+ invulnerable save."
+  },
+  {
+    "ability_id": "entropic-damping",
+    "name": "ENTROPIC DAMPING",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Until the end of the phase, weapons equipped by models in the attacking unit have the [HAZARDOUS] ability."
   }
 ]
