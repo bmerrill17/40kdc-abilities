@@ -3171,5 +3171,22 @@
     "when": "Your Shooting phase.",
     "target": "One ADEPTUS MECHANICUS unit from your army that has not been selected to shoot this phase.",
     "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the [LETHAL HITS] ability."
+  },
+  {
+    "ability_id": "stealth-screened-cybercanids-cohort-acquisitus",
+    "name": "Stealth-Screened Cybercanids",
+    "faction_id": "adeptus-mechanicus",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "SERBERYS RAIDERS unit only. This unit has Lone Operative 15\"."
   }
 ]

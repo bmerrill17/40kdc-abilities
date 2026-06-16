@@ -214,11 +214,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/spacewolves.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_space_wolves-secweiq0m1-z9ayyyugii.pdf",
+      "edition": "11e"
     },
-    "raw_text": "ADEPTUS ASTARTES TERMINATOR CAPTAIN model only. Once per battle round, from the second battle round onwards, you can target the bearer’s unit with the Rapid Ingress or Heroic Intervention Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this turn.\n\nIn the Declare Battle Formations step, the bearer can be attached to a WOLF GUARD TERMINATORS unit."
+    "raw_text": "At the start of your Command phase, Adeptus Astartes Terminator Captain model only. you can select one of the Hunting Packs Once per battle round, you can target this unit with listed below. Until the start of your next"
   },
   {
     "ability_id": "howlmaw-saga-of-the-great-wolf",
@@ -1474,13 +1474,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/spacewolves.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_space_wolves-secweiq0m1-z9ayyyugii.pdf",
+      "edition": "11e"
     },
-    "when": "End of your Command phase.",
-    "target": "One ADEPTUS ASTARTES INFANTRY or ADEPTUS ASTARTES WALKER unit from your army.",
-    "effect": "Select one objective marker you control that your unit is within range of. That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
+    "when": "End of your Movement phase.",
+    "target": "One friendly ADEPTUS ASTARTES INFANTRY CHARACTER unit.",
+    "effect": "Select one objective your unit is controlling. That objective is secured. 1CP"
   },
   {
     "ability_id": "the-foe-foreseen-saga-of-the-great-wolf",
@@ -1493,13 +1493,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/spacewolves.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_space_wolves-secweiq0m1-z9ayyyugii.pdf",
+      "edition": "11e"
     },
-    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One ADEPTUS ASTARTES unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
-    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+    "when": "Your opponent's Shooting phase or the 1CP Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One Adeptus Astartes unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
+    "effect": "Until the end of the phase, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
   },
   {
     "ability_id": "unrelenting-hunters-saga-of-the-great-wolf",
@@ -1512,13 +1512,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/spacewolves.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_space_wolves-secweiq0m1-z9ayyyugii.pdf",
+      "edition": "11e"
     },
     "when": "Your Movement phase.",
-    "target": "One ADEPTUS ASTARTES unit from your army that has not been selected to move this phase.",
-    "effect": "Until the end of the turn, your unit is eligible to declare a charge in a turn in which it Fell Back. If your unit is a SPACE WOLVES unit, until the end of the turn, it is eligible to declare a charge in a turn in which it Advanced or Fell Back."
+    "target": "One Adeptus Astartes unit from your army that has not been selected to move this phase.",
+    "effect": "Until the end of the turn, your unit is eligible to declare a charge in a turn in which it Fell Back. If your unit is a Space Wolves unit, until the end of the turn, it is eligible to declare a charge in a turn in which it Advanced or Fell Back. 1CP"
   },
   {
     "ability_id": "grimnars-command-saga-of-the-great-wolf",
@@ -1531,12 +1531,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/spacewolves.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_space_wolves-secweiq0m1-z9ayyyugii.pdf",
+      "edition": "11e"
     },
     "when": "Your Command phase.",
-    "target": "One ADEPTUS ASTARTES unit from your army.",
+    "target": "One Adeptus Astartes unit from your army.",
     "effect": "Select one Hunting Pack from the Master of Wolves Detachment rule. Until the start of your next Command phase, that Hunting Pack is active for your unit instead of any other Hunting Pack that is active, even if you have already selected that Hunting Pack this battle."
   },
   {
@@ -1550,12 +1550,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/spacewolves.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_space_wolves-secweiq0m1-z9ayyyugii.pdf",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One ADEPTUS ASTARTES unit from your army that has not been selected to shoot this phase.",
+    "target": "One Adeptus Astartes unit from your army that has not been selected to shoot this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes an attack, you can add 1 to the Wound roll."
   },
   {
@@ -1569,13 +1569,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/spacewolves.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_space_wolves-secweiq0m1-z9ayyyugii.pdf",
+      "edition": "11e"
     },
-    "when": "Your opponent’s Shooting phase, just after an enemy unit has shot.",
-    "target": "One SPACE WOLVES unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
-    "effect": "Your unit can make a Normal move of up to D6\"."
+    "when": "Your opponent's Shooting phase, just after an enemy unit has shot.",
+    "target": "One Space Wolves unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
+    "effect": "Your unit can make a Normal move of up to D6\". 6"
   },
   {
     "ability_id": "fenrisian-ferocity-saga-of-the-great-wolf",
@@ -1588,13 +1588,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/spacewolves.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_space_wolves-secweiq0m1-z9ayyyugii.pdf",
+      "edition": "11e"
     },
-    "when": "Your Movement phase or your Charge phase.",
-    "target": "One ADEPTUS ASTARTES MOUNTED or ADEPTUS ASTARTES WALKER unit from your army that has not been selected to move or charge this phase.",
-    "effect": "Until the end of the phase, each time a model in your unit makes a Normal, Advance, Fall Back or Charge move, it can move horizontally through models (excluding TITANIC models) and terrain features. When doing so, it can move within Engagement Range of enemy models, but cannot end a Normal, Advance or Fall Back move within Engagement Range of them."
+    "when": "Your Movement phase or your Charge phase. 1CP",
+    "target": "One Adeptus Astartes Mounted or Adeptus Astartes Walker unit from your army that has not been selected to move or charge this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes a Normal, Advance, Fall Back or Charge move, it can move horizontally through models (excluding Titanic models) and terrain features. When doing so, it can move within Engagement Range of enemy models, but cannot end a Normal, Advance or Fall Back move within Engagement Range of them."
   },
   {
     "ability_id": "chilling-howl-legends-of-saga-and-song",
@@ -1607,13 +1607,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/spacewolves.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_space_wolves-secweiq0m1-z9ayyyugii.pdf",
+      "edition": "11e"
     },
-    "when": "Your opponent’s Command phase.",
-    "target": "One ADEPTUS ASTARTES TERMINATOR unit from your army.",
-    "effect": "Each enemy unit within 6\" of your unit must take a Battle‑shock test, subtracting 1 from that test if that unit is Below Half‑strength."
+    "when": "Your opponent's Command phase.",
+    "target": "One friendly WOLF GUARD TERMINATORS unit.",
+    "effect": "Select one enemy unit within 6\" of your unit. That enemy unit makes a battleshock roll, with 1 to that battleshock roll if that enemy unit is at or below halfstrength."
   },
   {
     "ability_id": "armour-of-contempt-1st-company-task-force",
@@ -2797,5 +2797,240 @@
     "when": "Your opponent’s Shooting phase, just after an enemy unit has shot.",
     "target": "One TANK ACE unit from your army (excluding units containing one or more models with a Wounds characteristic of 16+) that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Your unit can shoot as if it were your Shooting phase, but must target only that enemy unit when doing so, and can only do so if that enemy unit is visible and an eligible target."
+  },
+  {
+    "ability_id": "wolf-totems-champions-of-fenris",
+    "name": "Wolf Totems",
+    "faction_id": "space-wolves",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_space_wolves-secweiq0m1-z9ayyyugii.pdf",
+      "edition": "11e"
+    },
+    "when": "Any phase, when a friendly ADEPTUS ASTARTES INFANTRY CHARACTER unit suffers a mortal wound.",
+    "target": "That ADEPTUS ASTARTES INFANTRY CHARACTER unit.",
+    "effect": "Your unit has Feel No Pain 5+ against mortal wounds. 1CP"
+  },
+  {
+    "ability_id": "stalk-between-worlds-champions-of-fenris",
+    "name": "Stalk Between Worlds",
+    "faction_id": "space-wolves",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_space_wolves-secweiq0m1-z9ayyyugii.pdf",
+      "edition": "11e"
+    },
+    "when": "Your opponent's Shooting phase, when an enemy unit targets a friendly ADEPTUS ASTARTES INFANTRY CHARACTER unit.",
+    "target": "That ADEPTUS ASTARTES INFANTRY CHARACTER unit.",
+    "effect": "Your unit has Stealth. 1CP"
+  },
+  {
+    "ability_id": "fangs-of-the-pack-legends-of-saga-and-song",
+    "name": "Fangs Of The Pack",
+    "faction_id": "space-wolves",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_space_wolves-secweiq0m1-z9ayyyugii.pdf",
+      "edition": "11e"
+    },
+    "when": "Fight phase, when a friendly ADEPTUS ASTARTES TERMINATOR unit is selected to fight.",
+    "target": "That ADEPTUS ASTARTES TERMINATOR unit.",
+    "effect": "Your unit's melee attacks have [PRECISION]. 1CP"
+  },
+  {
+    "ability_id": "wings-of-the-blizzard-legends-of-saga-and-song",
+    "name": "Wings Of The Blizzard",
+    "faction_id": "space-wolves",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_space_wolves-secweiq0m1-z9ayyyugii.pdf",
+      "edition": "11e"
+    },
+    "when": "End of your opponent's Fight phase.",
+    "target": "One friendly unengaged ADEPTUS ASTARTES TERMINATOR unit.",
+    "effect": "Place your unit in strategic reserves. 1CP"
+  },
+  {
+    "ability_id": "grizzled-killers-veterans-of-the-fang",
+    "name": "Grizzled Killers",
+    "faction_id": "space-wolves",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_space_wolves-secweiq0m1-z9ayyyugii.pdf",
+      "edition": "11e"
+    },
+    "when": "Fight phase, when a friendly GREY HUNTERS unit is selected to fight.",
+    "target": "That GREY HUNTERS unit.",
+    "effect": "Your unit's melee attacks have: [SUSTAINED HITS 1]. OR: [LETHAL HITS]. 1CP"
+  },
+  {
+    "ability_id": "icy-calm-veterans-of-the-fang",
+    "name": "Icy Calm",
+    "faction_id": "space-wolves",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_space_wolves-secweiq0m1-z9ayyyugii.pdf",
+      "edition": "11e"
+    },
+    "when": "Your Movement phase, when a friendly GREY HUNTERS unit is selected to make an advance/fall-back move.",
+    "target": "That GREY HUNTERS unit.",
+    "effect": "That move does not prevent your unit from being eligible to start an action."
+  },
+  {
+    "ability_id": "blade-keen-senses-veterans-of-the-fang",
+    "name": "Blade-Keen Senses",
+    "faction_id": "space-wolves",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_space_wolves-secweiq0m1-z9ayyyugii.pdf",
+      "edition": "11e"
+    },
+    "when": "Start of your Shooting phase.",
+    "target": "One friendly unengaged GREY HUNTERS unit.",
+    "effect": "Select one visible enemy unit within 24\" of your unit. That enemy unit has +6\" detection range. 1CP"
+  },
+  {
+    "ability_id": "a-giant-amongst-giants-champions-of-fenris",
+    "name": "A Giant Amongst Giants",
+    "faction_id": "space-wolves",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_space_wolves-secweiq0m1-z9ayyyugii.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "ADEPTUS ASTARTES INFANTRY model only. This model has +2 W. This model's melee attacks have +1 S."
+  },
+  {
+    "ability_id": "preyslayer-champions-of-fenris",
+    "name": "Preyslayer",
+    "faction_id": "space-wolves",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_space_wolves-secweiq0m1-z9ayyyugii.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "ADEPTUS ASTARTES INFANTRY model only. This unit can reroll advance rolls and countercharge rolls."
+  },
+  {
+    "ability_id": "thirst-for-glory-legends-of-saga-and-song",
+    "name": "Thirst For Glory",
+    "faction_id": "space-wolves",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_space_wolves-secweiq0m1-z9ayyyugii.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "ADEPTUS ASTARTES TERMINATOR model only. This unit has +1 OC."
+  },
+  {
+    "ability_id": "fierce-example-legends-of-saga-and-song",
+    "name": "Fierce Example",
+    "faction_id": "space-wolves",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_space_wolves-secweiq0m1-z9ayyyugii.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "WOLF GUARD TERMINATORS unit only. This unit has +1 T."
+  },
+  {
+    "ability_id": "eye-of-the-hunter-veterans-of-the-fang",
+    "name": "Eye Of The Hunter",
+    "faction_id": "space-wolves",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_space_wolves-secweiq0m1-z9ayyyugii.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "WOLF GUARD BATTLE LEADER model only. This unit's ranged attacks have: [ASSAULT]. [IGNORES COVER]. +1 AP."
+  },
+  {
+    "ability_id": "weaver-of-sagas-veterans-of-the-fang",
+    "name": "Weaver Of Sagas",
+    "faction_id": "space-wolves",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_space_wolves-secweiq0m1-z9ayyyugii.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "WOLF PRIEST model only. (Once per battle-round, per army) In your Movement phase, at the start or end of this unit's move, you can: Select one friendly ADEPTUS ASTARTES unit within 6\" of this unit. That unit is no longer battle-shocked. O r: Select one friendly GREY HUNTERS unit within 18\" of this unit. That unit is no longer battle-shocked."
   }
 ]

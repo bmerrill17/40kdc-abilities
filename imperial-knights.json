@@ -1584,13 +1584,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/imperialknights.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights-uoieohputz-totyd7mvs6.pdf",
+      "edition": "11e"
     },
     "when": "Your Movement phase.",
-    "target": "One IMPERIAL KNIGHTS unit from your army that has not been selected to move this phase.",
-    "effect": "Until the end of the phase, add 2\" to the Move characteristic of your models and add 2 to Advance rolls made for those model’s units."
+    "target": "One Imperial Knights unit from your army.",
+    "effect": "Until the end of the phase, if your unit Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in your unit, or 9\" instead if your unit is an Armiger or Destrier unit."
   },
   {
     "ability_id": "omnissian-champion-questor-forgepact",
@@ -2408,5 +2408,39 @@
     "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
     "target": "One IMPERIAL KNIGHTS unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the end of the phase, models in your unit have a 4+ invulnerable save."
+  },
+  {
+    "ability_id": "gyro-optimised-actuators-throne-bonded-outriders",
+    "name": "Gyro-Optimised Actuators",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights-uoieohputz-totyd7mvs6.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "ARMIGER unit only. This unit has MOBILE."
+  },
+  {
+    "ability_id": "ancestral-overbleed-throne-bonded-outriders",
+    "name": "Ancestral Overbleed",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_imperial_knights-uoieohputz-totyd7mvs6.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "Though it requires additional work by the Sacristans, when Armigers are to be used like hunting hounds amidst dense terrain, it is considered worthwhile to enhance their steeds' agility. ARMIGER unit only. When you target this unit with the Fire Overwatch/Heroic Intervention stratagem, that use is 1 CP."
   }
 ]

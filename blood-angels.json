@@ -146,11 +146,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/bloodangels.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_blood_angels-iinnedwcaa-bsyp1349et.pdf",
+      "edition": "11e"
     },
-    "raw_text": "ADEPTUS ASTARTES model only. Models in the bearer’s unit have the Scouts 6\" ability."
+    "raw_text": "Adeptus Astartes model only. Models in the bearer's unit have the Scouts 6\" ability."
   },
   {
     "ability_id": "troubling-visions-angelic-inheritors",
@@ -163,11 +163,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/bloodangels.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_blood_angels-iinnedwcaa-bsyp1349et.pdf",
+      "edition": "11e"
     },
-    "raw_text": "ADEPTUS ASTARTES model only. Once per battle, in your Command phase, the bearer can use this Enhancement. When it does, until the start of your next Command phase, all Angelic Legacy abilities (see Legacy of the Angel Detachment Rule) are active for the bearer’s unit, instead of only two of them."
+    "raw_text": "Adeptus Astartes model only. Once per battle, in your Command phase, the bearer can use this Enhancement. When it does, until the start of your next Command phase, all Angelic Legacy abilities (see left) are active for the bearer's unit, instead of only two of them."
   },
   {
     "ability_id": "blazing-icon-angelic-inheritors",
@@ -180,11 +180,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/bloodangels.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_blood_angels-iinnedwcaa-bsyp1349et.pdf",
+      "edition": "11e"
     },
-    "raw_text": "ADEPTUS ASTARTES INFANTRY model only. Enemy units cannot use the Fire Overwatch Stratagem to shoot at the bearer’s unit."
+    "raw_text": "Their Appointed Hour: You can reroll Advance and Charge rolls made for this unit. Adeptus Astartes Infantry model only. Enemy units cannot use the Fire Overwatch Stratagem to shoot at the bearer's unit."
   },
   {
     "ability_id": "ordained-sacrifice-angelic-inheritors",
@@ -197,11 +197,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/bloodangels.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_blood_angels-iinnedwcaa-bsyp1349et.pdf",
+      "edition": "11e"
     },
-    "raw_text": "ADEPTUS ASTARTES model only. The first time the bearer is destroyed, roll one D6 at the end of the phase: on a 2+, set the bearer back up on the battlefield as close as possible to where it was destroyed and not within Engagement Range of one or more enemy units, with 3 wounds remaining."
+    "raw_text": "Adeptus Astartes model only. The first time the bearer is destroyed, roll one D6 at the end of the phase: on a 2+, set the bearer back up on the battlefield as close as possible to where it was destroyed and not within Engagement Range of one or more enemy units, with 3 wounds remaining. 5"
   },
   {
     "ability_id": "carmine-reliquary-rage-cursed-onslaught",
@@ -214,11 +214,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/bloodangels.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_blood_angels-iinnedwcaa-bsyp1349et.pdf",
+      "edition": "11e"
     },
-    "raw_text": "CHAPLAIN model only. Models in the bearer’s unit have the Scouts 6\" ability. Each time you take a Battle-shock test for an ADEPTUS ASTARTES unit within 6\" of the bearer, you can re-roll the result."
+    "raw_text": "Chaplain model only. Models in the bearer's unit have the Scouts 6\" ability. Each time you take a Battle-shock test for an Adeptus Astartes unit within 6\" of the bearer, you can re-roll the result.."
   },
   {
     "ability_id": "master-of-the-red-thirst-rage-cursed-onslaught",
@@ -231,11 +231,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/bloodangels.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_blood_angels-iinnedwcaa-bsyp1349et.pdf",
+      "edition": "11e"
     },
-    "raw_text": "ADEPTUS ASTARTES model only. Once per battle, at the start of the Fight phase, the bearer can use this Enhancement. If it does, until the end of the phase, models in the bearer’s unit have the Fights First ability."
+    "raw_text": "Adeptus Astartes model only. Once per battle, at the start of the Fight phase, the bearer can use this Enhancement. If it does, until the end of the phase, models in the bearer's unit have the Fights First ability."
   },
   {
     "ability_id": "sanguinary-tear-aura-rage-cursed-onslaught",
@@ -248,11 +248,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/bloodangels.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_blood_angels-iinnedwcaa-bsyp1349et.pdf",
+      "edition": "11e"
     },
-    "raw_text": "ADEPTUS ASTARTES model only. While a friendly DEATH COMPANY unit is within 6\" of the bearer, add 1 to the Strength characteristic of weapons equipped by models in that unit."
+    "raw_text": "Adeptus Astartes model only. While a friendly Death Company unit is within 6\" of the bearer, add 1 to the Strength characteristic of weapons equipped by models in that unit."
   },
   {
     "ability_id": "angels-fang-rage-cursed-onslaught",
@@ -265,11 +265,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/bloodangels.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_blood_angels-iinnedwcaa-bsyp1349et.pdf",
+      "edition": "11e"
     },
-    "raw_text": "ADEPTUS ASTARTES model only. Each time the bearer makes a melee attack that targets a CHARACTER, MONSTER or VEHICLE unit, that attack has the [SUSTAINED HITS 2] ability."
+    "raw_text": "Adeptus Astartes model only. Each time the bearer makes a melee attack that targets a Character, Monster or Vehicle unit, that attack has the [SUSTAINED HITS 2] ability. 7"
   },
   {
     "ability_id": "speed-of-the-primarch-liberator-assault-group",
@@ -1200,12 +1200,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/bloodangels.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_blood_angels-iinnedwcaa-bsyp1349et.pdf",
+      "edition": "11e"
     },
-    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One ADEPTUS ASTARTES unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One Adeptus Astartes unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
     "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
   },
   {
@@ -1410,12 +1410,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/bloodangels.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_blood_angels-iinnedwcaa-bsyp1349et.pdf",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One ADEPTUS ASTARTES unit from your army that has not been selected to shoot this phase.",
+    "target": "One Adeptus Astartes unit from your army that has not been selected to shoot this phase.",
     "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the [SUSTAINED HITS 1] ability."
   },
   {
@@ -1429,13 +1429,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/bloodangels.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_blood_angels-iinnedwcaa-bsyp1349et.pdf",
+      "edition": "11e"
     },
     "when": "Fight phase.",
-    "target": "One ADEPTUS ASTARTES unit from your army that has not been selected to fight this phase.",
-    "effect": "Until the end of the phase, melee weapons equipped by models in your unit have the [LETHAL HITS] ability. If your unit is a CHARACTER unit, until the end of the phase, those weapons have the [LANCE] ability as well."
+    "target": "One Adeptus Astartes unit from your army that has not been selected to fight this phase.",
+    "effect": "Until the end of the phase, melee weapons equipped by models in your unit have the [LETHAL HITS] ability. If your unit is a Character unit, until the end of the phase, those weapons have the [LANCE] ability as well."
   },
   {
     "ability_id": "in-the-shadow-of-great-wings-angelic-inheritors",
@@ -1448,13 +1448,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/bloodangels.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_blood_angels-iinnedwcaa-bsyp1349et.pdf",
+      "edition": "11e"
     },
-    "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
-    "target": "One ADEPTUS ASTARTES CHARACTER unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
-    "effect": "Until the end of the phase, your unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
+    "when": "Your opponent's Shooting phase, just after an enemy unit has selected its targets.",
+    "target": "One Adeptus Astartes Character unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
+    "effect": "Until the end of the phase, your unit can only be selected as the target of a ranged attack if the attacking model is within 18\". 1CP"
   },
   {
     "ability_id": "unto-the-burning-skies-angelic-inheritors",
@@ -1467,13 +1467,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/bloodangels.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_blood_angels-iinnedwcaa-bsyp1349et.pdf",
+      "edition": "11e"
     },
-    "when": "End of your opponent’s Fight phase.",
-    "target": "One ADEPTUS ASTARTES JUMP PACK unit from your army. You cannot target a unit that is within Engagement Range of one or more enemy units, unless it is THE SANGUINOR.",
-    "effect": "Remove your unit from the battlefield and place it into Strategic Reserves.&x20;"
+    "when": "End of your opponent's Fight phase.",
+    "target": "One Adeptus Astartes Jump Pack unit from your army. You cannot target a unit that is within Engagement Range of one or more enemy units, unless it is The Sanguinor.",
+    "effect": "Remove your unit from the battlefield and place it into Strategic Reserves. 6"
   },
   {
     "ability_id": "instant-of-grace-angelic-inheritors",
@@ -1486,13 +1486,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/bloodangels.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_blood_angels-iinnedwcaa-bsyp1349et.pdf",
+      "edition": "11e"
     },
     "when": "Your Command phase.",
-    "target": "One ADEPTUS ASTARTES INFANTRY unit from your army.",
-    "effect": "Select one non‑CHARACTER model in your unit. Until the start of your next Command phase, your model has the CHARACTER keyword. Designer’s Note: While in effect, your model’s unit is therefore a CHARACTER unit, meaning it can interact with the Legacy of the Angel Detachment rule, in addition to other rules that interact with CHARACTER units."
+    "target": "One Adeptus Astartes Infantry unit from your army.",
+    "effect": "Select one nonCharacter model in your unit. Until the start of your next Command phase, your model has the Character keyword. Designer's Note: While in effect, your model's unit is therefore a Character unit, meaning it can interact with the Legacy of the Angel Detachment rule, in addition to other rules that interact with Character units. 1CP"
   },
   {
     "ability_id": "a-grim-warning-rage-cursed-onslaught",
@@ -1505,13 +1505,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/bloodangels.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_blood_angels-iinnedwcaa-bsyp1349et.pdf",
+      "edition": "11e"
     },
     "when": "Any phase.",
-    "target": "One BLOOD ANGELS unit from your army that was just destroyed while it was within range of one or more objective markers you controlled at the end of the previous phase. You can use this Stratagem on that unit even though it was just destroyed.",
-    "effect": "Select one of those objective markers. That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
+    "target": "One Blood Angels unit from your army that was just destroyed while it was within range of one or more objective markers you controlled at the end of the previous phase. You can use this Stratagem on that unit even though it was just destroyed.",
+    "effect": "Select one of those objective markers. That objective marker remains under your control until your opponent's Level of Control over that objective marker is greater than yours at the end of a phase."
   },
   {
     "ability_id": "limb-from-limb-rage-cursed-onslaught",
@@ -1524,13 +1524,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/bloodangels.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_blood_angels-iinnedwcaa-bsyp1349et.pdf",
+      "edition": "11e"
     },
     "when": "Fight phase.",
-    "target": "One ADEPTUS ASTARTES unit from your army that made a Charge move this turn.",
-    "effect": "Select either the Strength or Armour Penetration characteristic of melee weapons equipped by models in your unit. Until the end of the phase, add 1 to the selected characteristic. You can instead choose for your unit to give in to the Red Thirst; if it does, it becomes Battle‑shocked (but the effects of this Stratagem still apply to it), and until the end of the phase, add 1 to the Strength and Armour Penetration characteristics of melee weapons equipped by models in your unit."
+    "target": "One Adeptus Astartes unit from your army that made a Charge move this turn.",
+    "effect": "Select either the Strength or Armour Penetration characteristic of melee weapons equipped by models in your unit. Until the end of the phase, add 1 to the selected characteristic. You can instead choose for your unit to give in to the Red Thirst; if it does, it becomes Battleshocked (but the effects of this Stratagem still apply to it), and until the end of the phase, add 1 to the Strength and Armour Penetration characteristics of melee weapons equipped by models in your unit. 2CP"
   },
   {
     "ability_id": "deathless-duty-rage-cursed-onslaught",
@@ -1543,12 +1543,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/bloodangels.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_blood_angels-iinnedwcaa-bsyp1349et.pdf",
+      "edition": "11e"
     },
     "when": "Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One DEATH COMPANY unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "target": "One Death Company unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
     "effect": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, do not remove it from play. The destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play."
   },
   {
@@ -1562,13 +1562,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/bloodangels.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_blood_angels-iinnedwcaa-bsyp1349et.pdf",
+      "edition": "11e"
     },
-    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One DEATH COMPANY unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
-    "effect": "Until the end of the phase, models in your unit have the Feel No Pain 5+ ability."
+    "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One Death Company unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
+    "effect": "Until the end of the phase, models in your unit have the Feel No Pain 5+ ability. 1CP"
   },
   {
     "ability_id": "red-wrath-rage-cursed-onslaught",
@@ -1581,13 +1581,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/bloodangels.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_blood_angels-iinnedwcaa-bsyp1349et.pdf",
+      "edition": "11e"
     },
-    "when": "Your Movement phase, just after an ADEPTUS ASTARTES unit from your army Advances.",
-    "target": "That ADEPTUS ASTARTES unit.",
-    "effect": "Until the end of the turn, your unit is eligible to either shoot or declare a charge in a turn in which it Advanced. You can instead choose for your unit to give in to the Red Thirst; if it does, it becomes Battle-shocked (but the effects of this Stratagem still apply to it), and until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced."
+    "when": "Your Movement phase, just after an Adeptus Astartes unit from your army Advances.",
+    "target": "That Adeptus Astartes unit.",
+    "effect": "Until the end of the turn, your unit is eligible to either shoot or declare a charge in a turn in which it Advanced. You can instead choose for your unit to give in to the Red Thirst; if it does, it becomes Battle-shocked (but the effects of this Stratagem still apply to it), and until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced. 8"
   },
   {
     "ability_id": "savage-echoes-liberator-assault-group",
@@ -2847,5 +2847,223 @@
     "when": "Your opponent’s Shooting phase, just after an enemy unit has shot.",
     "target": "One TANK ACE unit from your army (excluding units containing one or more models with a Wounds characteristic of 16+) that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Your unit can shoot as if it were your Shooting phase, but must target only that enemy unit when doing so, and can only do so if that enemy unit is visible and an eligible target."
+  },
+  {
+    "ability_id": "martial-paragon-legacy-of-grace",
+    "name": "Martial Paragon",
+    "faction_id": "blood-angels",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_blood_angels-iinnedwcaa-bsyp1349et.pdf",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase or the Fight phase, when a friendly ADEPTUS ASTARTES CHARACTER unit is selected to attack.",
+    "target": "That ADEPTUS ASTARTES CHARACTER unit.",
+    "effect": "Your unit's attacks have: [LETHAL HITS]. OR: [SUSTAINED HITS 1]. 1CP"
+  },
+  {
+    "ability_id": "aura-of-the-angels-grace-legacy-of-grace",
+    "name": "Aura Of The Angel'S Grace",
+    "faction_id": "blood-angels",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_blood_angels-iinnedwcaa-bsyp1349et.pdf",
+      "edition": "11e"
+    },
+    "when": "Your opponent's Shooting phase, when an enemy unit targets a friendly ADEPTUS ASTARTES CHARACTER unit.",
+    "target": "That CHARACTER unit.",
+    "effect": "Your unit has 5+ InSv. 1CP"
+  },
+  {
+    "ability_id": "judgement-of-the-golden-host-encarmine-speartip",
+    "name": "Judgement Of The Golden Host",
+    "faction_id": "blood-angels",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_blood_angels-iinnedwcaa-bsyp1349et.pdf",
+      "edition": "11e"
+    },
+    "when": "Your Charge phase, when a friendly SANGUINARY GUARD unit from your army ends a charge move.",
+    "target": "That SANGUINARY GUARD unit.",
+    "effect": "Select one enemy unit engaged with your unit. Roll one D6 for each model in your unit engaged with that enemy unit: For each 3+, that enemy unit suffers 1 mortal wound. 1CP"
+  },
+  {
+    "ability_id": "inexorable-valour-encarmine-speartip",
+    "name": "Inexorable Valour",
+    "faction_id": "blood-angels",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_blood_angels-iinnedwcaa-bsyp1349et.pdf",
+      "edition": "11e"
+    },
+    "when": "Your opponent's Movement phase, when an enemy unit that was engaged with a friendly SANGUINARY GUARD unit ends a fallback move, if that SANGUINARY GUARD unit is unengaged.",
+    "target": "That SANGUINARY GUARD unit.",
+    "effect": "Your unit can make a normal move of up to D3+3\"."
+  },
+  {
+    "ability_id": "blinding-blurs-of-vengeance-encarmine-speartip",
+    "name": "Blinding Blurs Of Vengeance",
+    "faction_id": "blood-angels",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_blood_angels-iinnedwcaa-bsyp1349et.pdf",
+      "edition": "11e"
+    },
+    "when": "Your opponent's Shooting phase, when an enemy unit targets a friendly SANGUINARY GUARD unit.",
+    "target": "That SANGUINARY GUARD unit.",
+    "effect": "Your unit has Stealth. UNIQUE: DOOMED"
+  },
+  {
+    "ability_id": "death-begets-vengeance-wrath-of-the-doomed",
+    "name": "Death Begets Vengeance",
+    "faction_id": "blood-angels",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_blood_angels-iinnedwcaa-bsyp1349et.pdf",
+      "edition": "11e"
+    },
+    "when": "Any phase, when a friendly DEATH COMPANY unit is destroyed by an enemy unit.",
+    "target": "That enemy unit.",
+    "effect": "That enemy unit is hated until the end of the battle: W hile a unit is hated, friendly DEATH COMPANY units' attacks that target that unit have +1 to wound rolls."
+  },
+  {
+    "ability_id": "no-barrier-to-retribution-wrath-of-the-doomed",
+    "name": "No Barrier To Retribution",
+    "faction_id": "blood-angels",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_blood_angels-iinnedwcaa-bsyp1349et.pdf",
+      "edition": "11e"
+    },
+    "when": "Your Movement or your Charge phase, when a friendly DEATH COMPANY DREADNOUGHT unit is selected to make a normal/advance/ charge move.",
+    "target": "That DEATH COMPANY DREADNOUGHT unit.",
+    "effect": "Your unit has MOBILE."
+  },
+  {
+    "ability_id": "blood-boil-legacy-of-grace",
+    "name": "Blood Boil",
+    "faction_id": "blood-angels",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_blood_angels-iinnedwcaa-bsyp1349et.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "ADEPTUS ASTARTES PSYKER model only. This model's [PSYCHIC] attacks: Have [ANTI: nonMONSTER/VEHICLE 5+]. Can reroll damage rolls."
+  },
+  {
+    "ability_id": "aureole-of-the-angel-legacy-of-grace",
+    "name": "Aureole Of The Angel",
+    "faction_id": "blood-angels",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_blood_angels-iinnedwcaa-bsyp1349et.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "ADEPTUS ASTARTES model only. This unit has 3\" detection range."
+  },
+  {
+    "ability_id": "angelic-executioner-encarmine-speartip",
+    "name": "Angelic Executioner",
+    "faction_id": "blood-angels",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_blood_angels-iinnedwcaa-bsyp1349et.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "ADEPTUS ASTARTES JUMP PACK model only. When this unit is selected to fight, this unit's melee attacks have: [ LETHAL HITS]. Or: [SUSTAINED HITS 1]."
+  },
+  {
+    "ability_id": "shadow-of-abomination-encarmine-speartip",
+    "name": "Shadow Of Abomination",
+    "faction_id": "blood-angels",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_blood_angels-iinnedwcaa-bsyp1349et.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "ADEPTUS ASTARTES JUMP PACK model only. (Once per battle, per army) When this unit is selected to fight you can use this ability. If you do, this model's melee attacks have +1 D."
+  },
+  {
+    "ability_id": "instinctive-interception-wrath-of-the-doomed",
+    "name": "Instinctive Interception",
+    "faction_id": "blood-angels",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_blood_angels-iinnedwcaa-bsyp1349et.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "DEATH COMPANY model only. When you target this unit with the Heroic Intervention stratagem, that use is 1 CP."
   }
 ]

@@ -4549,11 +4549,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_astra_militarum-etf9ihpodv-mbqdsa1bfv.pdf",
+      "edition": "11e"
     },
-    "raw_text": "Each time this model makes a ranged attack with its volcano cannon that targets a MONSTER or VEHICLE unit, that attack has the [DEVASTATING WOUNDS] ability."
+    "raw_text": "Astra Militarum Titanic Character model only. Each time the bearer makes a ranged attack, you can reroll the Damage roll."
   },
   {
     "ability_id": "grand-strategist-armoured-infantry",

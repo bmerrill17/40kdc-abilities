@@ -2462,11 +2462,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
-    "raw_text": "HERETIC ASTARTES model only (excluding KHORNE models). The bearer gains the PSYKER keyword"
+    "raw_text": "HERETIC ASTARTES model only (excluding KHORNE models). T his model has PSYKER. This model's weapons have [PSYCHIC]."
   },
   {
     "ability_id": "undying-hatred-devotees-of-destruction",
@@ -2479,13 +2479,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
-    "when": "Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One HERETIC ASTARTES unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
-    "effect": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6: on a 4+, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play."
+    "when": "Your opponent's Shooting phase, when an enemy unit targets a friendly HAVOCS/OBLITERATORS unit.",
+    "target": "That HAVOCS/OBLITERATORS unit.",
+    "effect": "Attacks that target your unit with a S greater than your unit's T have -1 to wound rolls. UNIQUE: NIGHTMARE"
   },
   {
     "ability_id": "prey-on-the-weak-raiders",
@@ -2515,11 +2515,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
-    "raw_text": "HERETIC ASTARTES model only (excluding DAMNED models). Once per battle, you can target the bearer’s unit with the Rapid Ingress Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this phase."
+    "raw_text": "Heretic Astartes model only (excluding Damned models). Once per battle, you can target the bearer's unit with the Rapid Ingress Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this phase."
   },
   {
     "ability_id": "eye-of-the-warp-warpstrike-champions",
@@ -2532,11 +2532,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
-    "raw_text": "HERETIC ASTARTES model with the Deep Strike ability only. Each time the bearer’s unit is set up on the battlefield, until the end of the turn, you can re-roll Charge rolls made for that unit."
+    "raw_text": "Heretic Astartes model with the Deep Strike ability only. Each time the bearer's unit is set up on the battlefield, until the end of the turn, you can reroll Charge rolls made for that unit."
   },
   {
     "ability_id": "akshurs-binding-runes-warpstrike-champions",
@@ -2549,11 +2549,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
-    "raw_text": "HERETIC ASTARTES model with the Deep Strike ability only. The bearer’s unit can be set up using the Deep Strike ability in the Reinforcements step of your first, second or third Movement phase, regardless of any mission rules."
+    "raw_text": "Living runes that crawl from an ancient tome onto living skin, these sigils anchor their host to realspace even when they are immersed in the Empyrean. Heretic Astartes model with the Deep Strike ability only. The bearer's unit can be set up using the Deep Strike ability in the Reinforcements step of your first, second or third Movement phase, regardless of any mission rules."
   },
   {
     "ability_id": "tzagulla-warpstrike-champions",
@@ -2566,11 +2566,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
-    "raw_text": "HERETIC ASTARTES model with the Deep Strike ability only. Improve the Attacks, Strength and Armour Penetration characteristics of the bearer’s weapons by 1. In addition, each time the bearer’s unit is set up on the battlefield from Reserves, until the end of the turn, improve the Damage characteristic of the bearer’s weapons by 1."
+    "raw_text": "only. Improve the Attacks, Strength and Armour Penetration characteristics of the bearer's weapons by 1. In addition, each time the bearer's unit is set up on the battlefield from Reserves, until the end of"
   },
   {
     "ability_id": "empyric-dislocation-warpstrike-champions",
@@ -2583,14 +2583,14 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
-    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One HERETIC ASTARTES unit from your army (excluding DAMNED units) that was selected as the target of one or more of the attacking unit’s attacks.",
+    "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One Heretic Astartes unit from your army (excluding Damned units) that was selected as the target of one or more of the attacking unit's attacks.",
     "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1.",
-    "restrictions": "You cannot target the same unit with the Empyric Dislocation and Armour of Corruption Stratagems in the same phase."
+    "restrictions": "You cannot target the same unit with the Empyric Dislocation and Armour of Corruption Stratagems in the same phase. 2CP"
   },
   {
     "ability_id": "warp-tainted-warpstrike-champions",
@@ -2622,13 +2622,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "Up to two HERETIC ASTARTES units from your army that were set up using the Deep Strike ability this turn and have not been selected to shoot this phase.",
-    "effect": "Until the end of the phase, ranged weapons equipped by models in your units have the [IGNORES COVER] ability."
+    "target": "Up to two Heretic Astartes units from your army that were set up using the Deep Strike ability this turn and have not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, ranged weapons equipped by models in your units have the [IGNORES COVER] ability. 1CP"
   },
   {
     "ability_id": "armour-of-corruption-warpstrike-champions",
@@ -2641,14 +2641,14 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
     "when": "Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One HERETIC ASTARTES TERMINATOR, OBLITERATORS or MUTILATORS unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "target": "One Heretic Astartes Terminator, Obliterators or Mutilators unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
     "effect": "Until the end of the turn, each time an attack is allocated to a model in your unit, subtract 1 from the Damage characteristic of that attack.",
-    "restrictions": "You cannot target the same unit with the Armour of Corruption and Empyric Dislocation Stratagems in the same phase."
+    "restrictions": "You cannot target the same unit with the Armour of Corruption and Empyric Dislocation Stratagems in the same phase. 1CP"
   },
   {
     "ability_id": "warp-flicker-warpstrike-champions",
@@ -2661,13 +2661,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
     "when": "Your Movement phase.",
-    "target": "One HERETIC ASTARTES TERMINATOR, OBLITERATORS or MUTILATORS unit from your army.",
-    "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced."
+    "target": "One Heretic Astartes Terminator, Obliterators or Mutilators unit from your army.",
+    "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced. 1CP"
   },
   {
     "ability_id": "portal-of-spite-warpstrike-champions",
@@ -2680,13 +2680,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
     "when": "Your Charge phase.",
-    "target": "One HERETIC ASTARTES unit from your army that was set up using the Deep Strike ability this turn and has not declared a charge this phase.",
-    "effect": "Until the end of the phase, each time your unit declares a charge, if the closest eligible enemy unit is selected as one of the targets of that charge, add 2 to the Charge roll."
+    "target": "One Heretic Astartes unit from your army that was set up using the Deep Strike ability this turn and has not declared a charge this phase.",
+    "effect": "Your unit has +2 to charge rolls. 6"
   },
   {
     "ability_id": "wyredjinn-cult-of-the-arkifane",
@@ -2699,11 +2699,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
-    "raw_text": "HERETIC ASTARTES model only (excluding DAMNED models). At the start of your Command phase, if the bearer is on the battlefield, roll one D6, adding 1 to the result if the bearer is within range of an objective marker you control: on a 4+, you gain 1CP."
+    "raw_text": "Heretic Astartes model only (excluding Damned models). At the start of your Command phase, if the bearer is on the battlefield, roll one D6, adding 1 to the result if the bearer is within range of an objective marker you control: on a 4+, you gain 1CP."
   },
   {
     "ability_id": "cybinfernal-font-cult-of-the-arkifane",
@@ -2716,11 +2716,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
-    "raw_text": "HERETIC ASTARTES model only (excluding DAMNED models). Models in the bearer’s unit have the SOUL FORGE keyword."
+    "raw_text": "Heretic Astartes model only (excluding Damned models). Models in the bearer's unit have the Soul Forge keyword."
   },
   {
     "ability_id": "mark-of-the-soul-forges-cult-of-the-arkifane",
@@ -2733,11 +2733,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
-    "raw_text": "HERETIC ASTARTES model only (excluding DAMNED models). Each time the bearer makes an attack, an unmodified Hit roll of 5+ scores a Critical Hit."
+    "raw_text": "Heretic Astartes model only (excluding Damned models). Each time the bearer makes an attack, an unmodified Hit roll of 5+ scores a Critical Hit."
   },
   {
     "ability_id": "crown-of-worms-cult-of-the-arkifane",
@@ -2750,11 +2750,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
-    "raw_text": "&x20;WARPSMITH model only. Add 3” to the range of the bearer’s Warpsmith, Master of Mechanisms and Enrage Machine Spirits abilities"
+    "raw_text": "Warpsmith model only. Add 3\" to the range of the bearer's Warpsmith, Master of Mechanisms and Enrage Machine Spirits abilities. 7"
   },
   {
     "ability_id": "touch-of-the-arkifane-cult-of-the-arkifane",
@@ -2767,13 +2767,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
     "when": "Any phase.",
-    "target": "One HERETIC ASTARTES unit from your army (excluding DAMNED units) that has not been selected to shoot or fight this phase.",
-    "effect": "Until the end of the phase, if your unit is selected to make a Dark Pact, you can select both abilities for that unit’s weapons to gain."
+    "target": "One Heretic Astartes unit from your army (excluding Damned units) that has not been selected to shoot or fight this phase.",
+    "effect": "Until the end of the phase, if your unit is selected to make a Dark Pact, you can select both abilities for that unit's weapons to gain. 1CP"
   },
   {
     "ability_id": "balefire-boon-cult-of-the-arkifane",
@@ -2786,12 +2786,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
     "when": "Your Shooting phase or the Fight phase.",
-    "target": "One SOUL FORGE unit from your army that has not been selected to shoot or fight this phase.",
+    "target": "One Soul Forge unit from your army that has not been selected to shoot or fight this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes an attack, improve the Armour Penetration characteristic of that attack by 1."
   },
   {
@@ -2805,13 +2805,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
     "when": "Your Command phase.",
-    "target": "One HERETIC ASTARTES unit from your army (excluding DAMNED units).",
-    "effect": "One model in your unit regains up to D3 lost wounds. If your unit has the SOUL FORGE keyword, one model in your unit regains up to 3 lost wounds instead."
+    "target": "One Heretic Astartes unit from your army (excluding Damned units).",
+    "effect": "One model in your unit regains up to D3 lost wounds. If your unit has the Soul Forge keyword, one model in your unit regains up to 3 lost wounds instead. 1CP"
   },
   {
     "ability_id": "forge-fire-surge-cult-of-the-arkifane",
@@ -2843,13 +2843,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
-    "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
-    "target": "One SOUL FORGE unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
-    "effect": "Until the end of the phase, add 1 to the Toughness characteristic of models in your unit."
+    "when": "Your opponent's Shooting phase, just after an enemy unit has selected its targets.",
+    "target": "One Soul Forge unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
+    "effect": "Until the end of the phase, add 1 to the Toughenss characteristic of models in your unit. 8"
   },
   {
     "ability_id": "warmasters-gift-veterans-of-the-long-war",
@@ -3168,11 +3168,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
-    "raw_text": "JUMP PACK CHAOS LORD model only. At the end of your opponent’s turn, if the bearer’s unit is not within Engagement Range of one or more enemy units, you can remove the bearer’s unit from the battlefield and place it into Strategic Reserves."
+    "raw_text": "Chaos Lord Jump Pack model only. At the end of your opponent's Fight phase, if the bearer's unit is not within Engagement Range of one or more enemy units, you can remove the bearer's unit from the battlefield and place it into Strategic Reserves."
   },
   {
     "ability_id": "eater-of-dread-dread-talons",
@@ -3406,11 +3406,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
-    "raw_text": "HERETIC ASTARTES model (excluding DAMNED models) only. The bearer’s melee weapons have the [PRECISION] ability."
+    "raw_text": "A student of Fabius Bile's dread craft, this champion of Chaos wields their weapons with the same precision a master chirurgeon would wield a scalpel. Heretic Astartes model (excluding Damned models) only. The bearer's melee weapons have the [PRECISION] ability."
   },
   {
     "ability_id": "living-carapace-creations-of-bile",
@@ -3423,11 +3423,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
-    "raw_text": "CHAOS LORD model only. Add 1 to the bearer’s Wounds characteristic and the bearer has the Feel No Pain 5+ ability."
+    "raw_text": "Chaos Lord model only. Add 1 to the bearer's Wounds characteristic and the bearer has the Feel No Pain 5+ ability."
   },
   {
     "ability_id": "helm-of-all-seeing-creations-of-bile",
@@ -3457,11 +3457,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
-    "raw_text": "HERETIC ASTARTES INFANTRY model (excluding DAMNED models) only. Add 1 to the Damage characteristic of melee weapons equipped by the bearer. Each time the bearer makes a melee attack, you can re‑roll the Hit roll."
+    "raw_text": "Heretic Astartes Infantry model (excluding Damned models) only. Add 1 to the Damage characteristic of melee weapons equipped by the bearer. Each time the bearer makes a melee attack, you can reroll the Hit roll. Ophthalmic Enhancement: Improve the Ballistic Skill characteristic of ranged weapons 9"
   },
   {
     "ability_id": "greyveil-hex-nightmare-hunt",
@@ -3474,11 +3474,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
-    "raw_text": "CHAOS LORD model only. Models in the bearer’s unit have the Stealth ability.\n\nWhile the bearer’s unit is within range of one or more objective markers you control, that unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
+    "raw_text": "Chaos Lord model only. Models in the bearer's unit have the Stealth ability. In the Battleshock step of your opponent's Command phase, if an enemy unit that is below its Starting Strength is within 12\" of one or more Heretic Astartes units from your army, that enemy unit must take a Battleshock test, subtracting 1 from the result. Enemy units affected by this Detachment rule do not need to take any other Battleshock tests in the same phase. Each time a Heretic astartes model from your army makes an attack that targets a unit that is Below Halfstrength, add 1 to the Hit roll. Each time an attack targets a Heretic astartes unit from your army, if the attacking model is Battle-shocked, subtract 1 from the Hit roll. Each time a Heretic astartes model from your army makes an attack that targets a Battle-shocked unit, add 1 to the Wound roll. While the bearer's unit is within range of one or more objective markers you control, that unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
   },
   {
     "ability_id": "warp-fuelled-thrusters-nightmare-hunt",
@@ -3508,11 +3508,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
-    "raw_text": "HERETIC ASTARTES model only. At the start of the Fight phase, each enemy unit within Engagement Range of the bearer must take a Battle‑shock test, subtracting 1 from the result."
+    "raw_text": "Heretic Astartes model only. At the start of the Fight phase, each enemy unit within Engagement Range of the bearer must take a Battleshock test, subtracting 1 from the result."
   },
   {
     "ability_id": "sorrowscent-vulture-nightmare-hunt",
@@ -3525,11 +3525,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
-    "raw_text": "CHAOS LORD JUMP PACK model only. Models in the bearer’s unit have the Scouts 6\" ability.\n\nIn the Declare Battle Formations step, the bearer can be attached to a WARP TALONS unit."
+    "raw_text": "Chaos Lord Jump Pack model only. Models in the bearer's unit have the Scouts 6\" ability. 11 In the Declare Battle Formations step, the bearer can be attached to a Warp Talons unit."
   },
   {
     "ability_id": "voice-of-the-tyrant-hurons-marauders",
@@ -3542,11 +3542,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
-    "raw_text": "HERETIC ASTARTES model only (excluding DAMNED models). The bearer’s unit has both abilities from the Tyrannical Motivation Detachment rule."
+    "raw_text": "Heretic Astartes model only (excluding Damned models). The bearer's unit has both abilities from the Tyrannical Motivation Detachment rule."
   },
   {
     "ability_id": "raid-leader-hurons-marauders",
@@ -3559,11 +3559,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
-    "raw_text": "HERETIC ASTARTES model only (excluding DAMNED models). Each time the bearer’s unit is set up after disembarking from a TRANSPORT that has made a Normal move this turn, the bearer’s unit is still eligible to declare a charge."
+    "raw_text": "Heretic Astartes model only (excluding Damned models). Each time the bearer's unit is set up after disembarking from a Transport that has made a Normal move this turn, the bearer's unit is still eligible to declare a charge."
   },
   {
     "ability_id": "dread-reputation-hurons-marauders",
@@ -3576,11 +3576,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
-    "raw_text": "HERETIC ASTARTES model only (excluding DAMNED models). Each time the bearer’s unit is set up on the battlefield, each enemy unit within 6\" of the bearer’s unit (or within 12\" if the bearer’s unit was set up using the Deep Strike ability) takes a Battle‑shock test."
+    "raw_text": "Heretic Astartes model only (excluding Damned models). Each time the bearer's unit is set up on the battlefield, each enemy unit within 6\" of the bearer's unit (or within 12\" if the bearer's unit was set up using the Deep Strike ability) takes a Battleshock test. This unit is eligible to shoot and declare a charge in a turn in which it Fell Back. Designer's Note: If a unit is gaining eligibility to shoot and declare a charge in a turn in which it Fell Back as a result of being visible to Huron Blackheart, but after making a Fall Back move it is no longer visible to Huron Blackheart, that unit will not be eligible to shoot in your Shooting phase or to declare a charge in your Charge phase unless it is visible again at the start of the respective phase."
   },
   {
     "ability_id": "eager-for-bloodshed-hurons-marauders",
@@ -3593,11 +3593,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
-    "raw_text": "Heretic Astartes model only. The bearer has the Infiltrators ability."
+    "raw_text": "Heretic Astartes model only. The bearer has the Infiltrators ability. 13"
   },
   {
     "ability_id": "weaponised-hatred-renegade-warband",
@@ -3610,11 +3610,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
-    "raw_text": "HERETIC ASTARTES model only. Once per battle round, after your Vendetta target is destroyed, if the bearer is on the battlefield, you can select one enemy unit visible to the bearer. That enemy unit becomes your Vendetta target until you select a new one."
+    "raw_text": "When mustering your army, you cannot use the Cults of the Dark Gods rule."
   },
   {
     "ability_id": "eyes-of-the-hunter-renegade-warband",
@@ -3627,11 +3627,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
-    "raw_text": "HERETIC ASTARTES model only. Ranged weapons equipped by models in the bearer’s unit have the [IGNORES COVER] ability."
+    "raw_text": "Heretic Astartes model only. Ranged weapons equipped by models in the bearer's unit have the [IGNORES COVER] ability."
   },
   {
     "ability_id": "fratricidal-trophies-renegade-warband",
@@ -3644,11 +3644,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
-    "raw_text": "HERETIC ASTARTES TERMINATOR model only. In a turn in which the bearer’s unit chose to Default to Doctrine, until the end of the turn, each time a model in this unit makes an attack, you can re‑roll the Hit roll."
+    "raw_text": "Heretic Astartes Terminator model only. In a turn in which the bearer's unit chose to Default to Doctrine, until the end of the turn, each time a model in this unit makes an attack, you can reroll the Hit roll."
   },
   {
     "ability_id": "empyric-symbiote-renegade-warband",
@@ -3661,11 +3661,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
-    "raw_text": "HERETIC ASTARTES model only. Add 1 to Advance and Charge rolls made for the bearer’s unit."
+    "raw_text": "Heretic Astartes model only. Add 1 to Advance and Charge rolls made for the bearer's unit. U ntil the end of the turn, this unit is eligible to shoot and declare a charge in a turn in which it Fell Back. 15"
   },
   {
     "ability_id": "hardened-killers-hurons-marauders",
@@ -3678,13 +3678,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
     "when": "Your Command phase.",
-    "target": "One DAMNED unit from your army.",
-    "effect": "Select one of the following effects: • Improve the Ballistic Skill characteristic of ranged weapons equipped by models in this unit by 1. • Improve the Attacks characteristic of Rapid Fire weapons equipped by models in this unit by 1. • Improve the Save characteristic of models in this unit by 1. Until the start of your next turn, your unit has the benefit of that effect."
+    "target": "One Damned unit from your army.",
+    "effect": "Select one of the following effects: � Improve the Ballistic Skill characteristic of ranged weapons equipped by models in this unit by 1. � Improve the Attacks characteristic of Rapid Fire weapons equipped by models in this unit by 1. � Improve the Save characteristic of models in this unit by 1. Until the start of your next turn, your unit has the benefit of that effect. 1CP"
   },
   {
     "ability_id": "seize-the-prize-hurons-marauders",
@@ -3697,13 +3697,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
-    "when": "Your Movement phase, just after a HERETIC ASTARTES unit (excluding MONSTERS and VEHICLES) from your army has been selected to Advance.",
-    "target": "That HERETIC ASTARTES unit.",
-    "effect": "Do not make an Advance roll for your unit. Instead, until the end of the phase add 6\" to the Move characteristic of models in your unit."
+    "when": "Your Movement phase, just after a Heretic Astartes unit (excluding Monsters and Vehicles) from your army has been selected to Advance.",
+    "target": "That Heretic Astartes unit.",
+    "effect": "Do not make an Advance roll for your unit. Instead, until the end of the phase add 6\" to the Move characteristic of models in your unit. 1CP"
   },
   {
     "ability_id": "reavers-flurry-hurons-marauders",
@@ -3716,12 +3716,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
     "when": "Your Fight phase.",
-    "target": "One HERETIC ASTARTES unit from your army that made a Charge move this turn.",
+    "target": "One Heretic Astartes unit from your army that made a Charge move this turn.",
     "effect": "Until the end of the phase, add 1 to the Attacks characteristics of melee weapons equipped by models in your unit."
   },
   {
@@ -3906,13 +3906,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
-    "when": "Your Shooting phase or the Fight phase.",
-    "target": "One HERETIC ASTARTES INFANTRY (excluding DAMNED units) or HERETIC ASTARTES MOUNTED unit from your army that has not been selected to shoot or fight this phase.",
-    "effect": "Until the end of the phase, each time your unit makes an attack that targets your Vendetta target, add 1 to the Wound roll."
+    "when": "Your Shooting phase or the Fight phase. 1CP",
+    "target": "One Heretic Astartes Infantry (excluding Damned units) or Heretic Astartes Mounted unit from your army that has not been selected to shoot or fight this phase.",
+    "effect": "Until the end of the phase, each time your unit makes an attack that targets your Vendetta target, add 1 to the Wound roll. 1CP"
   },
   {
     "ability_id": "corrupted-munitions-renegade-warband",
@@ -3925,13 +3925,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
     "when": "Your Shooting phase",
-    "target": "One HERETIC ASTARTES unit in your army that has just been selected to shoot.",
-    "effect": "Until the end of the phase, each time a model in this unit makes a ranged attack, improve the Armour Penetration of that attack by 1."
+    "target": "One Heretic Astartes unit in your army that has just been selected to shoot.",
+    "effect": "Until the end of the phase, each time a model in this unit makes a ranged attack, improve the Armour Penetration of that attack by 1. 1CP"
   },
   {
     "ability_id": "depthless-cruelty-dread-talons",
@@ -4077,13 +4077,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
     "when": "Your Shooting phase or the Fight phase.",
-    "target": "One HERETIC ASTARTES INFANTRY unit from your army that has not been selected to shoot or fight this phase.",
-    "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets a unit that is Battle‑shocked and/or Below Half‑strength, improve the Armour Penetration characteristic of that attack by 1."
+    "target": "One Heretic Astartes Infantry unit from 1CP your army that has not been selected to shoot or fight this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets a unit that is Battleshocked and/or Below Halfstrength, improve the Armour Penetration characteristic of that attack by 1."
   },
   {
     "ability_id": "prey-on-the-weak-nightmare-hunt",
@@ -4096,13 +4096,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
-    "when": "Your Shooting phase or the Fight phase.",
-    "target": "One HERETIC ASTARTES INFANTRY unit from your army that has not been selected to shoot or fight this phase.",
-    "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets a unit that is Battle‑shocked and/or Below Half‑strength, you can re‑roll the Hit roll."
+    "when": "Your Shooting phase or the Fight phase. 1CP",
+    "target": "One Heretic Astartes Infantry unit from your army that has not been selected to shoot or fight this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets a unit that is Battleshocked and/or Below Halfstrength, you can reroll the Hit roll."
   },
   {
     "ability_id": "sadistic-display-nightmare-hunt",
@@ -4115,13 +4115,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
-    "when": "Fight phase, just after a HERETIC ASTARTES unit from your army destroys an enemy unit.",
-    "target": "That HERETIC ASTARTES unit.",
-    "effect": "Each enemy unit within 6\" of and visible to your unit (excluding MONSTER and VEHICLE units) must take a Battle‑shock test."
+    "when": "Fight phase, just after a Heretic Astartes unit from your army destroys an enemy unit.",
+    "target": "That Heretic Astartes unit.",
+    "effect": "Each enemy unit within 6\" of and visible to your unit (excluding Monster and Vehicle units) must take a Battleshock test."
   },
   {
     "ability_id": "profane-zeal-pactbound-zealots",
@@ -4191,12 +4191,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
     "when": "Your Shooting phase or the Fight phase.",
-    "target": "One HERETIC ASTARTES unit from your army that has just been selected to shoot or fight.",
+    "target": "One Heretic Astartes unit from your army that has just been selected to shoot or fight.",
     "effect": "Select either the [LETHAL HITS] or [SUSTAINED HITS 1] ability. Until the end of the phase, weapons equipped by models in your unit have the selected ability."
   },
   {
@@ -4305,13 +4305,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
     "when": "Your Movement phase.",
-    "target": "One HERETIC ASTARTES unit (excluding MONSTERS and VEHICLES) from your army.",
-    "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced."
+    "target": "One Heretic Astartes unit (excluding Monsters and Vehicles) from your army.",
+    "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced. 1CP"
   },
   {
     "ability_id": "to-the-favoured-the-spoils-hurons-marauders",
@@ -4324,13 +4324,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
-    "when": "Your opponent’s Shooting phase, just after an enemy unit has shot.",
-    "target": "One HERETIC ASTARTES unit from your army that lost one or more wounds as a result of those attacks.",
-    "effect": "Your unit can make a Surge move. To do so, roll one D6: models in your unit move a number of inches up to the result, but your unit must end that move as close as possible to the closest enemy unit (excluding AIRCRAFT). When doing so, those models can be moved within Engagement Range of that enemy unit."
+    "when": "Your opponent's Shooting phase, just after an enemy unit has shot.",
+    "target": "One Heretic Astartes unit from your army that lost one or more wounds as a result of those attacks.",
+    "effect": "Your unit can make a surge move of up to D6\". 1CP"
   },
   {
     "ability_id": "encircling-surge-hurons-marauders",
@@ -4343,13 +4343,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
-    "when": "End of your opponent’s Fight phase.",
-    "target": "One HERETIC ASTARTES unit (excluding MONSTERS and VEHICLES) from your army that is within 6\" of one or more battlefield edges and not within Engagement Range of one or more enemy units.",
-    "effect": "Remove your unit from the battlefield and place it into Strategic Reserves."
+    "when": "End of your opponent's Fight phase.",
+    "target": "One Heretic Astartes unit (excluding Monsters and Vehicles) from your army that is within 6\" of one or more battlefield edges and not within Engagement Range of one or more enemy units.",
+    "effect": "Remove your unit from the battlefield and place it into Strategic Reserves. 14"
   },
   {
     "ability_id": "opportunistic-raiders-renegade-raiders",
@@ -4571,13 +4571,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
     "when": "Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One HERETIC ASTARTES unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
-    "effect": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6: on a 4+, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play."
+    "target": "One Heretic Astartes unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
+    "effect": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6: on a 4+, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play. 1CP"
   },
   {
     "ability_id": "renegade-claim-renegade-warband",
@@ -4590,13 +4590,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
     "when": "Your Movement phase",
-    "target": "One HERETIC ASTARTES unit from your army within range of an objective marker you control.",
-    "effect": "That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
+    "target": "One Heretic Astartes unit from your army within range of an objective marker you control.",
+    "effect": "That objective marker remains under your control until your opponent's Level of Control over that objective marker is greater than yours at the end of a phase."
   },
   {
     "ability_id": "reavers-reaction-renegade-warband",
@@ -4609,13 +4609,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
-    "when": "Your opponent’s Shooting phase, just after an enemy unit has shot.",
-    "target": "One HERETIC ASTARTES unit (excluding MONSTERS and VEHICLES) from your army that was hit by one or more of those attacks.",
-    "effect": "Your unit can make a Normal move of up to D6\"."
+    "when": "Your opponent's Shooting phase, just after an enemy unit has shot.",
+    "target": "One Heretic Astartes unit (excluding Monsters and Vehicles) from your army that was hit by one or more of those attacks.",
+    "effect": "Your unit can make a Normal move of up to D6\". 16"
   },
   {
     "ability_id": "relentless-terror-dread-talons",
@@ -4780,12 +4780,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
     "when": "Your Charge phase.",
-    "target": "One HERETIC ASTARTES INFANTRY unit from your army.",
+    "target": "One Heretic Astartes Infantry unit from your army.",
     "effect": "Until the end of the phase, your unit is eligible to declare a charge in a turn in which it Advanced."
   },
   {
@@ -4799,13 +4799,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
-    "when": "Your Movement phase, just after a HERETIC ASTARTES INFANTRY unit from your army Falls Back.",
-    "target": "That HERETIC ASTARTES INFANTRY unit.",
-    "effect": "Until the end of the turn, your unit is eligible to declare a charge in a turn in which it Fell Back."
+    "when": "Your Movement phase, just after a Heretic Astartes Infantry unit from your army Falls Back.",
+    "target": "That Heretic Astartes unit.",
+    "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
   },
   {
     "ability_id": "horrific-incursion-nightmare-hunt",
@@ -4818,13 +4818,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
     "when": "Your Movement phase.",
-    "target": "One HERETIC ASTARTES unit from your army that arrived from Reserves this turn.",
-    "effect": "Select one enemy unit (excluding MONSTER and VEHICLE units) within 12\" of and visible to your unit: that unit must take a Battle‑shock test, subtracting 1 from the result."
+    "target": "One Heretic Astartes unit from your army that arrived from Reserves this turn.",
+    "effect": "Select one enemy unit (excluding Monster and Vehicle units) within 12\" of and visible to your unit: that unit must take a Battleshock test, subtracting 1 from the result. 12"
   },
   {
     "ability_id": "eternal-hate-pactbound-zealots",
@@ -4894,12 +4894,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
-    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One HERETIC ASTARTES INFANTRY unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One Heretic Astartes Infantry unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
     "effect": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
   },
   {
@@ -4913,13 +4913,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
     "when": "Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One HERETIC ASTARTES INFANTRY unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
-    "effect": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, subtracting 1 from the result if it is a DAMNED unit: on a 4+, do not remove it from play. That destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play."
+    "target": "One Heretic Astartes Infantry unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
+    "effect": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, subtracting 1 from the result if it is a Damned unit: on a 4+, do not remove it from play. That destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play."
   },
   {
     "ability_id": "diabolic-regeneration-creations-of-bile",
@@ -4932,13 +4932,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
     "when": "Your Command phase.",
-    "target": "One HERETIC ASTARTES INFANTRY unit (excluding DAMNED units) from your army.",
-    "effect": "One destroyed model (excluding CHARACTER models) is returned to your unit. If your unit is a BATTLELINE unit, D3 destroyed models (excluding CHARACTER models) are returned to your unit instead."
+    "target": "One Heretic Astartes Infantry unit (excluding Damned units) from your army.",
+    "effect": "One destroyed model (excluding Character models) is returned to your unit. If your unit is a Battleline unit, D3 destroyed models (excluding Character models) are returned to your unit instead. 1CP"
   },
   {
     "ability_id": "autostimulants-creations-of-bile",
@@ -4951,13 +4951,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
     "when": "Start of your Charge phase.",
-    "target": "One HERETIC ASTARTES INFANTRY unit from your army.",
-    "effect": "Until the end of the turn, your unit is eligible to declare a charge in a turn in which it Advanced."
+    "target": "One Heretic Astartes Infantry unit from your army.",
+    "effect": "Until the end of the turn, your unit is eligible to declare a charge in a turn in which it Advanced. 10"
   },
   {
     "ability_id": "specimens-for-the-spider-creations-of-bile",
@@ -4970,13 +4970,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
     "when": "Fight phase.",
-    "target": "One HERETIC ASTARTES INFANTRY unit from your army that has not been selected to fight this phase.",
-    "effect": "Until the end of the phase, each time a model in your unit makes a melee attack that targets a CHARACTER unit, you can re‑roll the Wound roll. After your unit has fought, if one or more enemy CHARACTER models were destroyed as a result of those attacks, select one enemy unit within 6\" of your unit. That enemy unit must take a Battle‑shock test. If the enemy WARLORD was destroyed as a result of those attacks, each enemy unit within 6\" of your unit must take a Battle‑shock test instead."
+    "target": "One Heretic Astartes Infantry unit from your army that has not been selected to fight this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes a melee attack that targets a Character unit, you can reroll the Wound roll. After your unit has fought, if one or more enemy Character models were destroyed as a result of those attacks, select one enemy unit within 6\" of your unit. That enemy unit must take a Battleshock test. If the enemy Warlord was destroyed as a result of those attacks, each enemy unit within 6\" of your unit must take a Battleshock test instead. 2CP"
   },
   {
     "ability_id": "delayed-mutations-creations-of-bile",
@@ -4989,13 +4989,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
     },
     "when": "Your Command phase.",
-    "target": "One HERETIC ASTARTES INFANTRY unit (excluding DAMNED units) from your army.",
-    "effect": "Your unit suffers D3 mortal wounds. Then select one augmentation (see Experimental Augmentations). Until the start of your next Command phase, models in your unit have the selected augmentation in addition to any other augmentations they have."
+    "target": "One Heretic Astartes Infantry unit (excluding Damned units) from your army.",
+    "effect": "Your unit suffers D3 mortal wounds. Then select one augmentation (see Experimental Augmentations). Until the start of your next Command phase, models in your unit have the selected augmentation in addition to any other augmentations they have. 1CP"
   },
   {
     "ability_id": "warpcharged-engines-renegade-raiders",
@@ -5034,5 +5034,242 @@
     "when": "Any phase, just after an enemy model with the Deadly Demise ability (excluding TITANIC models) is destroyed.",
     "target": "One HERETIC ASTARTES CHARACTER unit from your army that was within 18\" of that enemy model when it was destroyed.",
     "effect": "Your opponent does not roll to determine whether mortal wounds are inflicted by their model’s Deadly Demise ability. Instead, mortal wounds are automatically inflicted (if that ability inflicts a random number of mortal wounds, your opponent rolls to determine that number as normal)."
+  },
+  {
+    "ability_id": "infernal-vigour-cabal-of-chaos",
+    "name": "Infernal Vigour",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
+    },
+    "when": "Your Command phase.",
+    "target": "One friendly HERETIC ASTARTES PSYKER/DAEMON unit (excluding KHORNE units).",
+    "effect": "Your unit heals D3+1 wounds."
+  },
+  {
+    "ability_id": "fleshy-curse-cabal-of-chaos",
+    "name": "Fleshy Curse",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
+    },
+    "when": "Start of your Shooting phase.",
+    "target": "One friendly HERETIC ASTARTES PSYKER unit.",
+    "effect": "Select one visible enemy unit within 12\" of your unit. Roll one D6: On a 1, that enemy unit suffers 1 mortal wound. On a 24, that enemy unit suffers D3 mortal wounds. On a 56, that enemy unit suffers 2D3 mortal wounds. These mortal wounds are inflicted by a psychic attack."
+  },
+  {
+    "ability_id": "wreathed-in-warpflame-cabal-of-chaos",
+    "name": "Wreathed In Warpflame",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase, when a friendly HERETIC ASTARTES PSYKER unit is selected to shoot.",
+    "target": "That HERETIC ASTARTES PSYKER unit.",
+    "effect": "Your unit's ranged attacks have [IGNORES COVER]. 1CP"
+  },
+  {
+    "ability_id": "ruinations-bounty-devotees-of-destruction",
+    "name": "Ruination'S Bounty",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase, when a friendly HAVOCS/OBLITERATORS unit is selected to shoot.",
+    "target": "That HAVOCS/OBLITERATORS unit.",
+    "effect": "When your unit uses the Dark Pacts ability, your unit's ranged attacks have: [LETHAL HITS]. [SUSTAINED HITS 1]. 1CP"
+  },
+  {
+    "ability_id": "snare-of-fire-devotees-of-destruction",
+    "name": "Snare Of Fire",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
+    },
+    "when": "Your opponent's Movement phase, when an enemy unit ends a move within 8\" of a friendly unengaged HAVOCS unit.",
+    "target": "That HAVOCS unit.",
+    "effect": "Your unit can make a normal move of up to D3+3\"."
+  },
+  {
+    "ability_id": "plunging-talons-murdertalon-raiders",
+    "name": "Plunging Talons",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
+    },
+    "when": "Fight phase, when a friendly HERETIC ASTARTES INFANTRY FLY unit that made a charge move this turn is selected to fight.",
+    "target": "That HERETIC ASTARTES INFANTRY FLY unit.",
+    "effect": "Your unit's melee attacks have [LANCE]."
+  },
+  {
+    "ability_id": "raking-pass-murdertalon-raiders",
+    "name": "Raking Pass",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
+    },
+    "when": "Your Movement phase, when a friendly HERETIC ASTARTES INFANTRY FLY unit is selected to make a fall-back move.",
+    "target": "That HERETIC ASTARTES INFANTRY FLY unit.",
+    "effect": "That move does not prevent your unit from being eligible to declare a charge."
+  },
+  {
+    "ability_id": "warp-twisted-terrors-murdertalon-raiders",
+    "name": "Warp-Twisted Terrors",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
+    },
+    "when": "Your Movement phase, when a friendly WARP TALONS unit ends a move.",
+    "target": "That WARP TALONS unit.",
+    "effect": "Select one visible enemy unit (excluding MONSTER/VEHICLE units) within 9\" of your unit. That enemy unit makes a battle-shock roll, with -1 to that battle-shock roll. 1CP"
+  },
+  {
+    "ability_id": "conduit-of-chaos-cabal-of-chaos",
+    "name": "Conduit Of Chaos",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "HERETIC ASTARTES DAEMON model only (excluding KHORNE models). This model's melee attacks have [LANCE]."
+  },
+  {
+    "ability_id": "pact-of-destruction-devotees-of-destruction",
+    "name": "Pact Of Destruction",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "WARPSMITH model only. W hen this unit uses its Dark Pacts ability, this unit can reroll Leadership rolls. In your Shooting phase, when this unit has shot, if this unit used its Dark Pacts ability and if those attacks destroyed an enemy model, this unit heals 3 wounds."
+  },
+  {
+    "ability_id": "eye-of-oblivion-devotees-of-destruction",
+    "name": "Eye Of Oblivion",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "WARPSMITH model only. When this unit is selected to shoot, select one enemy unit within 24\" of this unit. That enemy unit has +6\" detection range until this unit has shot."
+  },
+  {
+    "ability_id": "shadowcowl-talisman-murdertalon-raiders",
+    "name": "Shadowcowl Talisman",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "CHAOS LORD WITH JUMP PACK model only. This unit has 5+ InSv."
+  },
+  {
+    "ability_id": "pact-of-cursed-pinions-murdertalon-raiders",
+    "name": "Pact Of Cursed Pinions",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_chaos_space_marines-h16lkqvvnq-bcejav0qap.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "CHAOS LORD WITH JUMP PACK model only. T his model has DAEMON. This model's melee attacks have +1 A."
   }
 ]

@@ -1149,11 +1149,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/worldeaters.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_world_eaters-az7rivdn6x-d9rvbncqvt.pdf",
+      "edition": "11e"
     },
-    "raw_text": "WORLD EATERS model only. Improve the Armour Penetration characteristic of melee weapons equipped by the bearer by 1. While the bearer is a VESSEL OF WRATH, improve the Damage characteristic of those weapons by 1 as well."
+    "raw_text": "WORLD EATERS model only. (Once per battle, per army) In your Command phase, you can use this ability. If you do, every Blessing of Khorne is active for this unit until the start of your next turn."
   },
   {
     "ability_id": "gateways-to-glory-vessels-of-wrath",
@@ -1166,11 +1166,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/worldeaters.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_world_eaters-az7rivdn6x-d9rvbncqvt.pdf",
+      "edition": "11e"
     },
-    "raw_text": "WORLD EATERS DAEMON PRINCE or WORLD EATERS MOUNTED model only. Each time the bearer makes a Normal, Advance or Charge move, it can move horizontally through models and terrain features. When doing so, it can move within Engagement Range of such models but cannot end a Normal or Advance move within Engagement Range of them."
+    "raw_text": "WORLD EATERS DAEMON PRINCE model only. This model has: M OBILE. +1 to charge rolls."
   },
   {
     "ability_id": "hack-and-slash-berzerker-warband",
@@ -1758,13 +1758,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/worldeaters.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_world_eaters-az7rivdn6x-d9rvbncqvt.pdf",
+      "edition": "11e"
     },
-    "when": "Fight phase.",
-    "target": "One KHORNE BERZERKERS or JAKHALS unit from your army that has not been selected to fight this phase and is within 8\" of one or more friendly WORLD EATERS CHARACTER models.",
-    "effect": "Until the end of the phase, improve the Strength and Armour Penetration characteristics of melee weapons equipped by non‑CHARACTER models in your unit by 1."
+    "when": "Fight phase, when a friendly WORLD EATERS CHARACTER unit (excluding EPIC HERO units) is selected to fight.",
+    "target": "That WORLD EATERS CHARACTER unit.",
+    "effect": "Your unit's CHARACTER models' melee attacks have: +1 A. +2 S. 1CP"
   },
   {
     "ability_id": "punish-the-craven-vessels-of-wrath",
@@ -1777,12 +1777,213 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/worldeaters.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_world_eaters-az7rivdn6x-d9rvbncqvt.pdf",
+      "edition": "11e"
     },
-    "when": "Your opponent’s Movement phase, just after an enemy unit (excluding MONSTERS and VEHICLES) is selected to Fall Back.",
-    "target": "One WORLD EATERS INFANTRY or WORLD EATERS DAEMON PRINCE unit from your army within Engagement Range of that enemy unit.",
-    "effect": "When that enemy unit Falls Back, all models in that enemy unit must take a Desperate Escape test. When doing so, if your unit is a VESSEL OF WRATH unit, subtract 1 from each of those tests."
+    "when": "Your opponent's Movement phase, when a unit is selected to make a fall-back move, if that unit is engaged with a friendly WORLD EATERS CHARACTER unit.",
+    "target": "That WORLD EATERS CHARACTER unit.",
+    "effect": "When an enemy unit engaged with your unit is selected to make a fall-back move, that enemy unit must use the desperate escape mode. If that enemy unit is battle-shocked, -1 from those hazard rolls."
+  },
+  {
+    "ability_id": "apoplectic-clarity-brazen-engines",
+    "name": "Apoplectic Clarity",
+    "faction_id": "world-eaters",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_world_eaters-az7rivdn6x-d9rvbncqvt.pdf",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase or the Fight phase, when a friendly DAEMON VEHICLE unit is selected to attack.",
+    "target": "That DAEMON VEHICLE unit.",
+    "effect": "Your unit's attacks can ignore modifiers to: BS. WS. Hit rolls and wound rolls. 1CP"
+  },
+  {
+    "ability_id": "trail-of-destruction-brazen-engines",
+    "name": "Trail Of Destruction",
+    "faction_id": "world-eaters",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_world_eaters-az7rivdn6x-d9rvbncqvt.pdf",
+      "edition": "11e"
+    },
+    "when": "Your Movement phase, when a friendly DAEMON VEHICLE unit is selected to move.",
+    "target": "That DAEMON VEHICLE unit.",
+    "effect": "Your unit has MOBILE."
+  },
+  {
+    "ability_id": "goaded-to-fury-brazen-engines",
+    "name": "Goaded To Fury",
+    "faction_id": "world-eaters",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_world_eaters-az7rivdn6x-d9rvbncqvt.pdf",
+      "edition": "11e"
+    },
+    "when": "Your opponent's Shooting phase, when an enemy unit that targeted a friendly unengaged DAEMON VEHICLE unit (excluding TITANIC units) has shot.",
+    "target": "That DAEMON VEHICLE unit.",
+    "effect": "Your unit can make a surge move of up to D6\". 1CP"
+  },
+  {
+    "ability_id": "focused-ferocity-butchers-of-khorne",
+    "name": "Focused Ferocity",
+    "faction_id": "world-eaters",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_world_eaters-az7rivdn6x-d9rvbncqvt.pdf",
+      "edition": "11e"
+    },
+    "when": "Fight phase, when a friendly TERMINATOR SQUAD unit is selected to fight.",
+    "target": "That TERMINATOR SQUAD unit.",
+    "effect": "Your unit's melee attacks have +1 A."
+  },
+  {
+    "ability_id": "a-trophy-for-the-throne-butchers-of-khorne",
+    "name": "A Trophy For The Throne",
+    "faction_id": "world-eaters",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_world_eaters-az7rivdn6x-d9rvbncqvt.pdf",
+      "edition": "11e"
+    },
+    "when": "Fight phase, when a friendly TERMINATOR SQUAD unit is selected to fight.",
+    "target": "That TERMINATOR SQUAD unit.",
+    "effect": "Your unit's attacks that target a MONSTER/VEHICLE unit have +1 to wound rolls. 1CP"
+  },
+  {
+    "ability_id": "wrath-beyond-reason-butchers-of-khorne",
+    "name": "Wrath Beyond Reason",
+    "faction_id": "world-eaters",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_world_eaters-az7rivdn6x-d9rvbncqvt.pdf",
+      "edition": "11e"
+    },
+    "when": "Your opponent's Shooting Phase, when an enemy unit targets a friendly TERMINATOR SQUAD unit.",
+    "target": "That TERMINATOR SQUAD unit.",
+    "effect": "Ranged attacks that target your unit have -1 D until that enemy unit has attacked."
+  },
+  {
+    "ability_id": "scorn-the-witch-vessels-of-wrath",
+    "name": "Scorn The Witch",
+    "faction_id": "world-eaters",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_world_eaters-az7rivdn6x-d9rvbncqvt.pdf",
+      "edition": "11e"
+    },
+    "when": "Any phase, when a friendly WORLD EATERS CHARACTER unit (excluding EPIC HERO units) suffers a mortal wound.",
+    "target": "That WORLD EATERS CHARACTER unit.",
+    "effect": "Your unit has Feel No Pain 4+ against mortal wounds."
+  },
+  {
+    "ability_id": "talons-of-butchery-brazen-engines",
+    "name": "Talons Of Butchery",
+    "faction_id": "world-eaters",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_world_eaters-az7rivdn6x-d9rvbncqvt.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "MAULERFIEND unit only. This unit's Maulerfiend Fists have [CLEAVE 2]."
+  },
+  {
+    "ability_id": "murder-forged-entity-brazen-engines",
+    "name": "Murder-Forged Entity",
+    "faction_id": "world-eaters",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_world_eaters-az7rivdn6x-d9rvbncqvt.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "WORLD EATERS VEHICLE unit only. This unit has DAEMON."
+  },
+  {
+    "ability_id": "sanctified-in-slaughter-butchers-of-khorne",
+    "name": "Sanctified In Slaughter",
+    "faction_id": "world-eaters",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_world_eaters-az7rivdn6x-d9rvbncqvt.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "TERMINATOR SQUAD unit only. This unit has +1 OC."
+  },
+  {
+    "ability_id": "gore-stained-veterans-butchers-of-khorne",
+    "name": "Gore-Stained Veterans",
+    "faction_id": "world-eaters",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_10-06_warhammer40000_faction_pack_world_eaters-az7rivdn6x-d9rvbncqvt.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "TERMINATOR SQUAD unit only. This unit's melee attacks have +1 WS."
   }
 ]

@@ -1300,11 +1300,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_genestealer_cults-ee2tg004ty-lfbh6g1gr7.pdf",
+      "edition": "11e"
     },
-    "raw_text": "TYRANIDS model only. Each time the bearer would regain one or more lost wounds from the Psionic Parasitism Detachment rule, it regains up to twice that number of lost wounds instead."
+    "raw_text": "Tyranids model only. Each time the bearer would regain one or more lost wounds from the Psionic Parasitism Detachment rule, it regains up to twice that number of lost wounds instead."
   },
   {
     "ability_id": "enraptured-damnation-final-day",
@@ -1317,11 +1317,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_genestealer_cults-ee2tg004ty-lfbh6g1gr7.pdf",
+      "edition": "11e"
     },
-    "raw_text": "GENESTEALER CULTS model only. Enemy units cannot use the Fire Overwatch Stratagem to shoot at the bearer’s unit."
+    "raw_text": "Genestealer Cults model only. Enemy units cannot use the Fire Overwatch Stratagem to shoot at the bearer's unit."
   },
   {
     "ability_id": "vanguard-tyrant-final-day",
@@ -1334,11 +1334,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_genestealer_cults-ee2tg004ty-lfbh6g1gr7.pdf",
+      "edition": "11e"
     },
-    "raw_text": "WINGED HIVE TYRANT model only. Improve the Strength and Armour Penetration characteristics of melee weapons equipped by the bearer by 1."
+    "raw_text": "Winged Hive Tyrant model only. Improve the Strength and Armour Penetration characteristics of melee weapons equipped by the bearer by 1."
   },
   {
     "ability_id": "inhuman-integration-final-day",
@@ -1351,11 +1351,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_genestealer_cults-ee2tg004ty-lfbh6g1gr7.pdf",
+      "edition": "11e"
     },
-    "raw_text": "GENESTEALER CULTS model only. Weapons equipped by models in the bearer’s unit have the [SUSTAINED HITS 1] ability while targeting an enemy unit within 6\" of one or more friendly TYRANIDS units."
+    "raw_text": "Genestealer Cults model only. Weapons equipped by models in the bearer's unit have the [SUSTAINED HITS 1] ability while targeting an enemy unit within 6\" of one or more friendly Tyranids units. 5 No Tyranids models from your army can be your Warlord."
   },
   {
     "ability_id": "symbiotic-destruction-brood-brothers-auxilia",
@@ -1501,13 +1501,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_genestealer_cults-ee2tg004ty-lfbh6g1gr7.pdf",
+      "edition": "11e"
     },
     "when": "Fight phase.",
-    "target": "One GENESTEALER CULTS unit from your army that has not been selected to fight this phase.",
-    "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit, re‑roll a Wound roll of 1. If one or more friendly TYRANIDS units are within 6\" of that enemy unit, you can re‑roll the Wound roll instead."
+    "target": "One Genestealer Cults unit from your army that has not been selected to fight this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit, reroll a Wound roll of 1. If one or more friendly Tyranids units are within 6\" of that enemy unit, you can reroll the Wound roll instead."
   },
   {
     "ability_id": "avenge-the-star-children-final-day",
@@ -1520,13 +1520,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_genestealer_cults-ee2tg004ty-lfbh6g1gr7.pdf",
+      "edition": "11e"
     },
-    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has shot or fought.",
-    "target": "One TYRANIDS CHARACTER unit from your army that was destroyed by that enemy unit this phase. You can use this Stratagem on that unit even though it was just destroyed.",
-    "effect": "Until the end of the battle, each time a GENESTEALER CULTS model from your army makes an attack that targets that enemy unit, add 1 to the Hit roll and add 1 to the Wound roll."
+    "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has shot or fought. 1CP",
+    "target": "One Tyranids Character unit from your army that was destroyed by that enemy unit this phase. You can use this Stratagem on that unit even though it was just destroyed.",
+    "effect": "Until the end of the battle, each time a Genestealer Cults model from your army makes an attack that targets that enemy unit, add 1 to the Hit roll and add 1 to the Wound roll. 1CP"
   },
   {
     "ability_id": "divine-imperative-final-day",
@@ -1539,13 +1539,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_genestealer_cults-ee2tg004ty-lfbh6g1gr7.pdf",
+      "edition": "11e"
     },
-    "when": "Your Charge phase.",
-    "target": "One GENESTEALER CULTS unit from your army that has not declared a charge this phase.",
-    "effect": "Select one enemy unit within Engagement Range of one or more TYRANIDS units from your army. Until the end of the phase, each time your GENESTEALER CULTS unit declares a charge, if that enemy unit is one of the targets of that charge, add 1 to Charge rolls made for your unit and you can re‑roll the Charge roll."
+    "when": "Your Charge phase, when a friendly Genestealer Cults unit within 12\" of a friendly engaged Tyranids unit declares a charge.",
+    "target": "That Genestealer Cults unit.",
+    "effect": "� Your unit has +1 to charge rolls. � You can use this part of this stratagem. If you do: � Your unit can re-roll charge rolls. � Y our unit must end that charge move engaged with an enemy unit engaged with that friendly Tyranids unit. 1CP"
   },
   {
     "ability_id": "frenzied-devotion-xenocreed-congregation",
@@ -1825,13 +1825,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_genestealer_cults-ee2tg004ty-lfbh6g1gr7.pdf",
+      "edition": "11e"
     },
     "when": "Start of any phase.",
-    "target": "One TYRANIDS unit from your army.",
-    "effect": "Until the start of your next Command phase, increase the range of your unit’s Catalyst ability by 3.",
+    "target": "One Tyranids unit from your army.",
+    "effect": "Until the start of your next Command phase, increase the range of your unit's Catalyst ability by 3\".",
     "restrictions": "Each time you use this Stratagem, until the end of your next Command phase, you cannot use this Stratagem again."
   },
   {
@@ -1845,13 +1845,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_genestealer_cults-ee2tg004ty-lfbh6g1gr7.pdf",
+      "edition": "11e"
     },
     "when": "Your Shooting phase or your Charge phase.",
-    "target": "One TYRANIDS unit from your army.",
-    "effect": "Until the end of the phase, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
+    "target": "One Tyranids unit from your army.",
+    "effect": "Until the end of the phase, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back. 1CP"
   },
   {
     "ability_id": "resistance-tunnels-final-day",
@@ -1864,13 +1864,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_genestealer_cults-ee2tg004ty-lfbh6g1gr7.pdf",
+      "edition": "11e"
     },
-    "when": "End of your opponent’s Fight phase.",
-    "target": "One GENESTEALER CULTS or TYRANIDS unit from your army that is not within Engagement Range of one or more enemy units.",
-    "effect": "Remove your unit from the battlefield and place it into Strategic Reserves."
+    "when": "End of your opponent's Fight phase.",
+    "target": "One Genestealer Cults or Tyranids unit from your army that is not within Engagement Range of one or more enemy units.",
+    "effect": "Remove your unit from the battlefield and place it into Strategic Reserves. 6"
   },
   {
     "ability_id": "tireless-fervour-xenocreed-congregation",
@@ -2043,5 +2043,278 @@
     "when": "End of the Reinforcements step of your opponent’s Movement phase.",
     "target": "One ACOLYTE HYBRIDS, HYBRID METAMORPHS or NEOPHYTE HYBRIDS unit from your army in Cult Ambush.",
     "effect": "Until the end of the phase, you can set up your unit on the battlefield without using a Cult Ambush marker. When doing so, set up your unit anywhere on the battlefield that is more than 6\" horizontally away from all enemy units."
+  },
+  {
+    "ability_id": "living-up-to-legend-heroes-of-the-uprising",
+    "name": "Living Up To Legend",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_genestealer_cults-ee2tg004ty-lfbh6g1gr7.pdf",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase or the Fight phase, when a friendly KILLER unit has attacked, if those attacks destroyed an enemy unit or an enemy CHARACTER model.",
+    "target": "That KILLER unit.",
+    "effect": "Each visible friendly battle-shocked GENESTEALER CULTS unit within 12\" of your unit is no longer battle-shocked. 1CP"
+  },
+  {
+    "ability_id": "surging-broodworship-heroes-of-the-uprising",
+    "name": "Surging Broodworship",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_genestealer_cults-ee2tg004ty-lfbh6g1gr7.pdf",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase or the Fight phase, when a friendly KILLER unit is selected to attack.",
+    "target": "That KILLER unit.",
+    "effect": "Attacks made by KILLER models in your unit have [DEVASTATING WOUNDS]."
+  },
+  {
+    "ability_id": "loyal-to-the-end-heroes-of-the-uprising",
+    "name": "Loyal To The End",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_genestealer_cults-ee2tg004ty-lfbh6g1gr7.pdf",
+      "edition": "11e"
+    },
+    "when": "Fight phase, when an enemy unit targets a friendly KILLER unit.",
+    "target": "That KILLER unit.",
+    "effect": "When a KILLER model in your unit is destroyed, if your unit has not been selected to fight this phase, roll one D6: On a 1, that enemy unit suffers 1 mortal wound. On a 2+, do not remove that model from the battlefield. When your unit has fought, or at the end of the phase (whichever comes first), that model is removed from the battlefield. UNIQUE: PURESTRAIN"
+  },
+  {
+    "ability_id": "lurk-and-strike-purestrain-broodswarm",
+    "name": "Lurk And Strike",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_genestealer_cults-ee2tg004ty-lfbh6g1gr7.pdf",
+      "edition": "11e"
+    },
+    "when": "Your Movement phase, when a friendly PURESTRAIN GENESTEALERS unit is selected to make a fallback move.",
+    "target": "That PURESTRAIN GENESTEALERS unit.",
+    "effect": "That move does not prevent your unit from being eligible to declare a charge."
+  },
+  {
+    "ability_id": "crawling-horror-purestrain-broodswarm",
+    "name": "Crawling Horror",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_genestealer_cults-ee2tg004ty-lfbh6g1gr7.pdf",
+      "edition": "11e"
+    },
+    "when": "Start of your opponent's Movement phase.",
+    "target": "One friendly PURESTRAIN GENESTEALERS unit.",
+    "effect": "Your unit has 6\" detection range until the end of the turn. 1CP"
+  },
+  {
+    "ability_id": "inhuman-reactions-purestrain-broodswarm",
+    "name": "Inhuman Reactions",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_genestealer_cults-ee2tg004ty-lfbh6g1gr7.pdf",
+      "edition": "11e"
+    },
+    "when": "Your opponent's Movement phase, when an enemy unit ends a move within 8\" of a friendly unengaged PURESTRAIN GENESTEALERS unit.",
+    "target": "That PURESTRAIN GENESTEALERS unit.",
+    "effect": "Your unit can make a normal move of up to D3+3\". 1CP UNIQUE: HOSTS"
+  },
+  {
+    "ability_id": "eyes-of-the-cult-xenocult-masses",
+    "name": "Eyes Of The Cult",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_genestealer_cults-ee2tg004ty-lfbh6g1gr7.pdf",
+      "edition": "11e"
+    },
+    "when": "Start of your Shooting phase.",
+    "target": "One friendly NEOPHYTE HYBRIDS unit within a terrain area.",
+    "effect": "Enemy units within that terrain area have +6\" detection range."
+  },
+  {
+    "ability_id": "fanatical-hail-xenocult-masses",
+    "name": "Fanatical Hail",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_genestealer_cults-ee2tg004ty-lfbh6g1gr7.pdf",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase, when a friendly NEOPHYTE HYBRIDS unit is selected to shoot.",
+    "target": "That NEOPHYTE HYBRIDS unit.",
+    "effect": "Select one enemy unit. Your unit's ranged attacks that target that enemy unit can reroll hit rolls."
+  },
+  {
+    "ability_id": "slunk-from-the-underbelly-xenocult-masses",
+    "name": "Slunk From The Underbelly",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_genestealer_cults-ee2tg004ty-lfbh6g1gr7.pdf",
+      "edition": "11e"
+    },
+    "when": "Your opponent's Shooting phase, when an enemy unit targets a friendly NEOPHYTE HYBRIDS unit with every model within a terrain area.",
+    "target": "That NEOPHYTE HYBRIDS unit.",
+    "effect": "Ranged attacks that target your unit have -1 AP until that unit has attacked. 1CP"
+  },
+  {
+    "ability_id": "gene-tailored-toxins-heroes-of-the-uprising",
+    "name": "Gene-Tailored Toxins",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_genestealer_cults-ee2tg004ty-lfbh6g1gr7.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "LOCUS/SANCTUS model only. This model's attacks have +1 D."
+  },
+  {
+    "ability_id": "contraband-munitions-heroes-of-the-uprising",
+    "name": "Contraband Munitions",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_genestealer_cults-ee2tg004ty-lfbh6g1gr7.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "KELERMORPH/REDUCTUS SABOTEUR model only. This unit's ranged attacks have +2 S."
+  },
+  {
+    "ability_id": "mark-of-the-star-children-purestrain-broodswarm",
+    "name": "Mark Of The Star Children",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_genestealer_cults-ee2tg004ty-lfbh6g1gr7.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "PURESTRAIN GENESTEALERS unit only. This unit has: +1 T. 4 + Sv. This unit's melee attacks have +1 S."
+  },
+  {
+    "ability_id": "talons-of-the-sire-purestrain-broodswarm",
+    "name": "Talons Of The Sire",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_genestealer_cults-ee2tg004ty-lfbh6g1gr7.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "PATRIARCH model only. This unit's attacks can reroll wound rolls of 1."
+  },
+  {
+    "ability_id": "inspired-to-greatness-xenocult-masses",
+    "name": "Inspired To Greatness",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_genestealer_cults-ee2tg004ty-lfbh6g1gr7.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "MAGUS/PRIMUS model only. This unit's attacks can reroll damage rolls."
+  },
+  {
+    "ability_id": "devious-disguises-xenocult-masses",
+    "name": "Devious Disguises",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_genestealer_cults-ee2tg004ty-lfbh6g1gr7.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "NEOPHYTE HYBRIDS unit only. This unit has -3\" detection range."
   }
 ]

@@ -1881,11 +1881,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/tyranids.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_tyranids-avhhzmcte8-j0kseag7td.pdf",
+      "edition": "11e"
     },
-    "raw_text": "TYRANID PRIME WITH LASH WHIP or WINGED TYRANID PRIME model only. Each time a model in the bearer’s unit makes an attack, add 1 to the Hit roll."
+    "raw_text": "WINGED TYRANID PRIME/TYRANID PRIME WITH LASH WHIP model only. This unit's melee attacks have +1 to hit rolls."
   },
   {
     "ability_id": "sensory-assimilation-warrior-bioform-onslaught",
@@ -1915,11 +1915,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/tyranids.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_tyranids-avhhzmcte8-j0kseag7td.pdf",
+      "edition": "11e"
     },
-    "raw_text": "TYRANIDS model only. The bearer’s unit is eligible to declare a charge in a turn in which it Advanced."
+    "raw_text": "WINGED TYRANID PRIME/TYRANID PRIME WITH LASH WHIP model only. This model's melee attacks: Can re-roll wound rolls. Have +1 AP."
   },
   {
     "ability_id": "synaptic-strategy-subterranean-assault",
@@ -1932,11 +1932,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/tyranids.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_tyranids-avhhzmcte8-j0kseag7td.pdf",
+      "edition": "11e"
     },
-    "raw_text": "TYRANIDS model only. Once per battle, you can target the bearer’s unit with the Rapid Ingress stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this phase."
+    "raw_text": "Burrowing Tyranid bioforms burst from Possessing an exceptionally acute connection to the hive the ground in all their horror. mind, this creature benefits from a constant influx of sensory data, enabling it to traverse the battlefield and"
   },
   {
     "ability_id": "tremor-senses-subterranean-assault",
@@ -1949,11 +1949,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/tyranids.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_tyranids-avhhzmcte8-j0kseag7td.pdf",
+      "edition": "11e"
     },
-    "raw_text": "TYRANIDS model only. After both players have deployed their armies, select up to three friendly TYRANIDS units from your army and redeploy them. When doing so, you can set those units up in Strategic Reserves, regardless of how many units are already in Strategic Reserves."
+    "raw_text": "within 1\" of that unit and more than 3\" From its concealed position beneath the battlefield, this horizontally away from all enemy units. bioform picks up on subtle traces of movement from the enemy force, impelling its fellow organisms to reposition"
   },
   {
     "ability_id": "vanguard-intellect-subterranean-assault",
@@ -1966,11 +1966,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/tyranids.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_tyranids-avhhzmcte8-j0kseag7td.pdf",
+      "edition": "11e"
     },
-    "raw_text": "TYRANIDS model with the Deep Strike ability only. The bearer’s unit can be set up using the Deep Strike ability in the Reinforcements step of your first, second or third Movement phase, regardless of any mission rules."
+    "raw_text": "is removed from the battlefield. This bioform uses its own keen senses and predatory intellect to burrow into position and strike before the enemy can react."
   },
   {
     "ability_id": "trygon-prime-subterranean-assault",
@@ -1983,11 +1983,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/tyranids.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_tyranids-avhhzmcte8-j0kseag7td.pdf",
+      "edition": "11e"
     },
-    "raw_text": "TRYGON model only. The bearer gains the SYNAPSE keyword. Improve the Strength and Weapon Skill characteristics of melee weapons equipped by the bearer by 1."
+    "raw_text": "Character keyword. Only rarely manifested by the hive fleets, the Trygon Prime possesses a greatly enhanced synaptic network Designer's Note: This means that within its neural cortex, enabling it to more precisely"
   },
   {
     "ability_id": "synaptic-channelling-synaptic-nexus",
@@ -2380,13 +2380,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/tyranids.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_tyranids-avhhzmcte8-j0kseag7td.pdf",
+      "edition": "11e"
     },
     "when": "End of your Movement phase.",
-    "target": "One TYRANIDS unit from your army that was set up as Reinforcements this turn.",
-    "effect": "Until the end of your next Fight phase, weapons equipped by models in your unit have the [SUSTAINED HITS 1] and [IGNORES COVER] abilities."
+    "target": "One Tyranids unit from your army that was set up as Reinforcements this turn.",
+    "effect": "Until the end of your next Fight phase, weapons equipped by models in your unit have the [SUSTAINED HITS 1] and [IGNORES COVER] abilities. 1CP"
   },
   {
     "ability_id": "tunnel-network-subterranean-assault",
@@ -2399,13 +2399,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/tyranids.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_tyranids-avhhzmcte8-j0kseag7td.pdf",
+      "edition": "11e"
     },
     "when": "End of your Movement phase.",
-    "target": "One TYRANIDS unit from your army that is wholly within 9\" of one or more of your Tunnel Markers and not within Engagement Range of one or more enemy units.",
-    "effect": "Remove your unit from the battlefield and set it up again, wholly within 9\" of another Tunnel Marker you placed, and more than 6\" horizontally away from all enemy units."
+    "target": "One Tyranids unit from your army that is wholly within 9\" of one or more of your Tunnel Markers and not within Engagement Range of one or more enemy units.",
+    "effect": "Remove your unit from the battlefield and set it up again, wholly within 9\" of another Tunnel Marker you placed, and more than 6\" horizontally away from all enemy units. 1CP"
   },
   {
     "ability_id": "swarming-assault-subterranean-assault",
@@ -2418,13 +2418,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/tyranids.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_tyranids-avhhzmcte8-j0kseag7td.pdf",
+      "edition": "11e"
     },
     "when": "Your Charge phase.",
-    "target": "One TYRANIDS MONSTER unit from your army that was set up as Reinforcements this turn.",
-    "effect": "Until the end of the phase, friendly TYRANIDS units within 6\" of your unit can re-roll Charge rolls."
+    "target": "One Tyranids Monster unit from your army that was set up as Reinforcements this turn.",
+    "effect": "Until the end of the phase, friendly Tyranids units within 6\" of your unit can re-roll Charge rolls. 1CP"
   },
   {
     "ability_id": "retreat-below-subterranean-assault",
@@ -2437,13 +2437,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/tyranids.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_tyranids-avhhzmcte8-j0kseag7td.pdf",
+      "edition": "11e"
     },
-    "when": "End of your opponent’s Fight phase.",
-    "target": "One TYRANIDS unit or up to two BURROWER units from your army that are not within Engagement Range of one or more enemy units.",
-    "effect": "Remove your unit from the battlefield and place it into Strategic Reserves."
+    "when": "End of your opponent's Fight phase.",
+    "target": "One Tyranids unit or up to two Burrower units from your army that are not within Engagement Range of one or more enemy units.",
+    "effect": "Remove your unit from the battlefield and place it into Strategic Reserves. 6"
   },
   {
     "ability_id": "synaptic-amplification-warrior-bioform-onslaught",
@@ -2494,13 +2494,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/tyranids.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_tyranids-avhhzmcte8-j0kseag7td.pdf",
+      "edition": "11e"
     },
-    "when": "Your Movement phase.",
-    "target": "One TYRANID WARRIORS unit from your army.",
-    "effect": "Select one objective marker you control that your unit is within range of. That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
+    "when": "End of your Movement phase.",
+    "target": "One friendly TYRANID WARRIORS unit.",
+    "effect": "Select one objective your unit is controlling. That objective is secured. 1CP"
   },
   {
     "ability_id": "parasitic-payload-warrior-bioform-onslaught",
@@ -2513,13 +2513,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/tyranids.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_tyranids-avhhzmcte8-j0kseag7td.pdf",
+      "edition": "11e"
     },
-    "when": "Your Shooting phase.",
-    "target": "One TYRANID WARRIORS WITH RANGED BIO‑WEAPONS unit from your army that has not been selected to shoot this phase.&x20;",
-    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the [IGNORES COVER] ability. After your unit has resolved its shooting attacks this phase, select one enemy unit hit by one or more of those attacks. Until the end of the turn, models in that unit cannot have the Benefit of Cover."
+    "when": "Your Shooting phase, when a friendly TYRANID WARRIORS unit is selected to shoot.",
+    "target": "That TYRANID WARRIORS unit.",
+    "effect": "Your unit's ranged attacks have [IGNORE COVER]."
   },
   {
     "ability_id": "synaptic-shield-warrior-bioform-onslaught",
@@ -2859,13 +2859,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/tyranids.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_tyranids-avhhzmcte8-j0kseag7td.pdf",
+      "edition": "11e"
     },
     "when": "Command phase.",
-    "target": "One MAWLOC or TRYGON unit from your army.",
-    "effect": "Until the start of your next Command phase, your unit has the SYNAPSE keyword."
+    "target": "One Mawloc or Trygon unit from your army.",
+    "effect": "Until the start of your next Command phase, your unit has the Synapse keyword."
   },
   {
     "ability_id": "replenishing-swarms-subterranean-assault",
@@ -2878,12 +2878,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/tyranids.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_tyranids-avhhzmcte8-j0kseag7td.pdf",
+      "edition": "11e"
     },
     "when": "Your Movement phase.",
-    "target": "One TYRANIDS unit from your army, wholly within 9\" of one or more Tunnel Markers you placed.",
+    "target": "One Tyranids unit from your army, wholly within 9\" of one or more Tunnel Markers you placed.",
     "effect": "One model in your unit regains up to D3+1 lost wounds, or you can return up to D3+1 destroyed models with a Wounds characteristic of 1 to your unit, with their full wounds remaining, instead."
   },
   {
@@ -2904,5 +2904,187 @@
     "when": "Your Shooting phase or the Fight phase.",
     "target": "&x20;One TYRANIDS unit from your army that has not been selected to shoot or fight this phase.&#x20;",
     "effect": "Until the end of the phase, add 2 to the Strength characteristic of ranged weapons equipped by models in your unit and add 1 to the Strength characteristic of melee weapons equipped by TYRANID WARRIORS and WINGED TYRANID PRIME models in your unit."
+  },
+  {
+    "ability_id": "counterpredation-ambush-predators",
+    "name": "Counterpredation",
+    "faction_id": "tyranids",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_tyranids-avhhzmcte8-j0kseag7td.pdf",
+      "edition": "11e"
+    },
+    "when": "Fight phase, when a friendly DEATHLEAPER/LICTOR/ NEUROLICTOR/VON RYAN'S LEAPERS unit is selected to fight.",
+    "target": "That DEATHLEAPER/LICTOR/NEUROLICTOR/VON RYAN'S LEAPERS unit.",
+    "effect": "Your unit's attacks that target a hidden unit have +1 S and AP. 1CP"
+  },
+  {
+    "ability_id": "hypersensory-adaptations-ambush-predators",
+    "name": "Hypersensory Adaptations",
+    "faction_id": "tyranids",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_tyranids-avhhzmcte8-j0kseag7td.pdf",
+      "edition": "11e"
+    },
+    "when": "Start of your Shooting phase.",
+    "target": "One friendly DEATHLEAPER/LICTOR/NEUROLICTOR/VON RYAN'S LEAPERS unit.",
+    "effect": "Select one visible enemy unit within 12\" of your unit. That enemy unit has +6\" detection range. 1CP"
+  },
+  {
+    "ability_id": "scanner-gheist-ambush-predators",
+    "name": "Scanner Gheist",
+    "faction_id": "tyranids",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_tyranids-avhhzmcte8-j0kseag7td.pdf",
+      "edition": "11e"
+    },
+    "when": "End of your opponent's Fight phase.",
+    "target": "One friendly unengaged DEATHLEAPER/LICTOR/ NEUROLICTOR unit.",
+    "effect": "Place your unit in strategic reserves. 1CP"
+  },
+  {
+    "ability_id": "catalytic-biofortification-talons-of-the-norn-queen",
+    "name": "Catalytic Biofortification",
+    "faction_id": "tyranids",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_tyranids-avhhzmcte8-j0kseag7td.pdf",
+      "edition": "11e"
+    },
+    "when": "Any phase, when a friendly NORN ASSIMILATOR unit suffers a mortal wound.",
+    "target": "That NORN ASSIMILATOR unit.",
+    "effect": "Your unit has Feel No Pain 4+ against mortal wounds."
+  },
+  {
+    "ability_id": "lesser-prey-talons-of-the-norn-queen",
+    "name": "Lesser Prey",
+    "faction_id": "tyranids",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_tyranids-avhhzmcte8-j0kseag7td.pdf",
+      "edition": "11e"
+    },
+    "when": "Fight phase, when a friendly NORN ASSIMILATOR/NORN EMISSARY unit is selected to fight.",
+    "target": "That NORN ASSIMILATOR/NORN EMISSARY unit.",
+    "effect": "Your unit's melee attacks have +2 S. 1CP"
+  },
+  {
+    "ability_id": "tanglestrike-rounds-talons-of-the-norn-queen",
+    "name": "Tanglestrike Rounds",
+    "faction_id": "tyranids",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_tyranids-avhhzmcte8-j0kseag7td.pdf",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase, when a friendly NORN ASSIMILATOR unit has shot.",
+    "target": "That NORN ASSIMILATOR unit.",
+    "effect": "Select one enemy unit hit by those attacks. That enemy unit is tethered until the start of your next Command phase: While a unit is tethered, that unit has 2\" M. 1CP"
+  },
+  {
+    "ability_id": "encircling-horrors-ambush-predators",
+    "name": "Encircling Horrors",
+    "faction_id": "tyranids",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_tyranids-avhhzmcte8-j0kseag7td.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "NEUROLICTOR/LICTOR/VON RYAN'S LEAPERS unit only. In your opponent's Movement phase, when an enemy unit ends a move within 8\" of this unit, this unit can make a normal move of up to D3+3\"."
+  },
+  {
+    "ability_id": "cryptophotaic-camouflage-ambush-predators",
+    "name": "Cryptophotaic Camouflage",
+    "faction_id": "tyranids",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_tyranids-avhhzmcte8-j0kseag7td.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "VON RYAN'S LEAPERS unit only. This unit has 3\" detection range."
+  },
+  {
+    "ability_id": "destabilising-predation-talons-of-the-norn-queen",
+    "name": "Destabilising Predation",
+    "faction_id": "tyranids",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_tyranids-avhhzmcte8-j0kseag7td.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "NORN EMISSARY unit only. This unit's ranged attacks have [ANTICHARACTER 2+]."
+  },
+  {
+    "ability_id": "synaptoprescience-talons-of-the-norn-queen",
+    "name": "Synaptoprescience",
+    "faction_id": "tyranids",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_tyranids-avhhzmcte8-j0kseag7td.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "NORN ASSIMILATOR unit only. This unit has 4+ InSv."
   }
 ]

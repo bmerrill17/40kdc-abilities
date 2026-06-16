@@ -1981,13 +1981,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptuscustodes.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes-dntocqoxie-fpdm060c9y.pdf",
+      "edition": "11e"
     },
     "when": "Your Command phase.",
-    "target": "One ALLARUS CUSTODIANS or AQUILON CUSTODIANS unit from your army that is on the battlefield.",
-    "effect": "That unit is split into separate units, each containing one model. These new units each have a Starting Strength of 1."
+    "target": "One friendly ALLARUS CUSTODIANS/AQUILON CUSTODIANS unit that is on the battlefield.",
+    "effect": "Your unit is split into separate units, each containing one model. These new units each have a starting strength of 1."
   },
   {
     "ability_id": "radiant-mantle-talons-of-the-emperor",
@@ -2272,11 +2272,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptuscustodes.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes-dntocqoxie-fpdm060c9y.pdf",
+      "edition": "11e"
     },
-    "raw_text": "ADEPTUS CUSTODES VEHICLE model only. While a friendly ADEPTUS CUSTODES INFANTRY or ADEPTUS CUSTODES MOUNTED unit is within 6\" of the bearer, each time a model in that unit makes an attack, re‑roll a Hit roll of 1."
+    "raw_text": "Adeptus Custodes Vehicle model only. While a friendly Adeptus Custodes Infantry or Adeptus Custodes Mounted unit is within 6\" of the bearer, each time a model in that unit makes an attack, reroll a Hit roll of 1."
   },
   {
     "ability_id": "flawless-construction-solar-spearhead",
@@ -2289,13 +2289,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptuscustodes.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes-dntocqoxie-fpdm060c9y.pdf",
+      "edition": "11e"
     },
-    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One ADEPTUS CUSTODES VEHICLE unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
-    "effect": "Until the end of the phase, each time an attack targets a model in your unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of your unit, subtract 1 from the Wound roll.&x20;"
+    "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One Adeptus Custodes Vehicle unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
+    "effect": "Until the end of the phase, each time an attack targets a model in your unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of your unit, subtract 1 from the Wound roll."
   },
   {
     "ability_id": "arcane-genetic-alchemy-shield-host",
@@ -2757,5 +2757,75 @@
     "when": "Your Shooting phase.",
     "target": "One ADEPTUS CUSTODES unit from your army (excluding ANATHEMA PSYKANA units) that has not been selected to shoot this phase.",
     "effect": "Select either the [LETHAL HITS] or [SUSTAINED HITS 1] ability. Until the end of the phase, ranged weapons equipped by models in your unit have the selected ability."
+  },
+  {
+    "ability_id": "prioritised-eradication-might-of-the-moritoi",
+    "name": "Prioritised Eradication",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes-dntocqoxie-fpdm060c9y.pdf",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase, when a friendly TELEMON HEAVY DREADNOUGHT unit is selected to shoot.",
+    "target": "That TELEMON HEAVY DREADNOUGHT unit.",
+    "effect": "Your unit's: Arachnus Storm Cannon weapons have [RAPID FIRE 6]. Iliastus Accelerator Culverin weapons have [RAPID FIRE 2]. 1CP"
+  },
+  {
+    "ability_id": "interred-expertise-might-of-the-moritoi",
+    "name": "Interred Expertise",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes-dntocqoxie-fpdm060c9y.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "ADEPTUS CUSTODES WALKER unit only. This unit's attacks can: R eroll hit rolls of 1. Reroll wound rolls of 1."
+  },
+  {
+    "ability_id": "auramite-sarcophagus-might-of-the-moritoi",
+    "name": "Auramite Sarcophagus",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes-dntocqoxie-fpdm060c9y.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "ADEPTUS CUSTODES WALKER unit only. When you target this unit with the Crushing Impact stratagem, that use is -1 CP."
+  },
+  {
+    "ability_id": "psyk-out-grenades-silent-hunters",
+    "name": "Psyk-Out Grenades",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_custodes-dntocqoxie-fpdm060c9y.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "ANATHEMA PSYKANA unit only. T his unit has EXPLOSIVES. When you target this unit with the Explosives stratagem, if you select an enemy PSYKER unit, you can re-roll rolls to determine whether that enemy unit suffers a mortal wound."
   }
 ]

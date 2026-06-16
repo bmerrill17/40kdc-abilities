@@ -2737,5 +2737,24 @@
     "when": "Fight phase, just after an enemy unit has selected its targets.",
     "target": "One ADEPTA SORORITAS unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, do not remove it from play. The destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play."
+  },
+  {
+    "ability_id": "inspirational-battle-canticles-chorus-of-condemnation",
+    "name": "Inspirational Battle Canticles",
+    "faction_id": "adepta-sororitas",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_11-06_warhammer40000_faction_pack_adepta_sororitas-ktlklgb0t5-knvswx9kyw.pdf",
+      "edition": "11e"
+    },
+    "when": "Start of the Command phase.",
+    "target": "One friendly ADEPTA SORORITAS INFANTRY FLY unit or one friendly EXORCIST unit.",
+    "effect": "Select one friendly battleshocked ADEPTA SORORITAS unit within 6\" of your unit. That unit is no longer battleshocked. 1CP"
   }
 ]

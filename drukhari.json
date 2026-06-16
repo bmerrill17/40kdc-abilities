@@ -1208,13 +1208,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/drukhari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_drukhari-wp9pdv8x9l-dhoh0i94sx.pdf",
+      "edition": "11e"
     },
-    "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
-    "target": "One WYCH CULT unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
-    "effect": "Until the end of the phase, models in your unit have a 5+ invulnerable save."
+    "when": "Your opponent's Shooting phase, when an enemy unit targets a friendly WYCH CULT unit.",
+    "target": "That WYCH CULT unit.",
+    "effect": "Your unit has 5+ InSv. 1CP UNIQUE: KABAL"
   },
   {
     "ability_id": "periapt-of-torments-exhibition-of-slaughter",
@@ -1397,11 +1397,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/drukhari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_drukhari-wp9pdv8x9l-dhoh0i94sx.pdf",
+      "edition": "11e"
     },
-    "raw_text": "HARLEQUINS or DRUKHARI model only. In the Declare Battle Formations step, if the bearer starts the battle embarked within a DEDICATED TRANSPORT, that DEDICATED TRANSPORT has the Scouts 9\" ability."
+    "raw_text": "At the start of the battle, Drukhari units Harlequins or Drukhari model only. In the Declare from your army are winning the wager. Battle Formations step, if the bearer starts the battle embarked within a Dedicated Transport, that"
   },
   {
     "ability_id": "webway-walker-reapers-wager",
@@ -1414,11 +1414,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/drukhari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_drukhari-wp9pdv8x9l-dhoh0i94sx.pdf",
+      "edition": "11e"
     },
-    "raw_text": "HARLEQUINS or DRUKHARI model only. Models in the bearer’s unit have the Deep Strike ability. Each time the bearer’s unit is set up on the battlefield using the Deep Strike ability, if that unit is currently losing the wager, until the end of the turn, you can re‑roll Charge rolls made for that unit."
+    "raw_text": "Each time a Harlequins unit from your this dreadful performance."
   },
   {
     "ability_id": "reapers-cowl-reapers-wager",
@@ -1431,11 +1431,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/drukhari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_drukhari-wp9pdv8x9l-dhoh0i94sx.pdf",
+      "edition": "11e"
     },
-    "raw_text": "HARLEQUINS model only. Models in the bearer’s unit have the Stealth and Infiltrators abilities."
+    "raw_text": "Each time a Drukhari or Harlequins This ebon cloak contains a shadow field generator, model from your army makes an attack, which shrouds the bearer in a field of umbral darkness. if that model's unit is winning the wager,"
   },
   {
     "ability_id": "conductor-of-torment-reapers-wager",
@@ -1448,11 +1448,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/drukhari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_drukhari-wp9pdv8x9l-dhoh0i94sx.pdf",
+      "edition": "11e"
     },
-    "raw_text": "DRUKHARI model only. In your Command phase, you can do one of the following:\n\n■ If your DRUKHARI units are currently losing the wager, you can gain 1 Pain token. If you do, DRUKHARI units from your army are now winning the wager.\n■ If your DRUKHARI units are currently winning the wager, you can discard 1 Pain token. If you do, HARLEQUINS units from your army are now winning the wager."
+    "raw_text": "This cruel champion of Commorragh seeks only to"
   },
   {
     "ability_id": "pharmacophex-spectacle-of-spite",
@@ -1499,11 +1499,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/drukhari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_drukhari-wp9pdv8x9l-dhoh0i94sx.pdf",
+      "edition": "11e"
     },
-    "raw_text": "SUCCUBUS model only. Enemy units cannot use the Fire Overwatch Stratagem to shoot at the bearer’s unit."
+    "raw_text": "SUCCUBUS model only. Enemy units cannot target this unit with snap shooting attacks."
   },
   {
     "ability_id": "morghennas-curse-spectacle-of-spite",
@@ -1652,11 +1652,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/drukhari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_drukhari-wp9pdv8x9l-dhoh0i94sx.pdf",
+      "edition": "11e"
     },
-    "raw_text": "ARCHON model only. While the bearer is leading a unit, improve the Leadership and Objective Control characteristics of models in that unit by 1."
+    "raw_text": "ARCHON model only. This unit has: +1 Ld and OC."
   },
   {
     "ability_id": "deadly-debut-spectacle-of-spite",
@@ -1764,12 +1764,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/drukhari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_drukhari-wp9pdv8x9l-dhoh0i94sx.pdf",
+      "edition": "11e"
     },
     "when": "Your Shooting phase or the Fight phase.",
-    "target": "One DRUKHARI or HARLEQUINS unit from your army that has not been selected to shoot or fight this phase.",
+    "target": "One Drukhari or Harlequins unit from your army that has not been selected to shoot or fight this phase.",
     "effect": "Select [LETHAL HITS] or [SUSTAINED HITS 1]. Until the end of the phase, weapons equipped by models in your unit have the selected ability."
   },
   {
@@ -1783,13 +1783,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/drukhari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_drukhari-wp9pdv8x9l-dhoh0i94sx.pdf",
+      "edition": "11e"
     },
     "when": "Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One DRUKHARI or HARLEQUINS unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
-    "effect": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
+    "target": "One Drukhari or Harlequins unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
+    "effect": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll. 1CP"
   },
   {
     "ability_id": "fighting-shadows-realspace-raiders",
@@ -2165,13 +2165,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/drukhari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_drukhari-wp9pdv8x9l-dhoh0i94sx.pdf",
+      "edition": "11e"
     },
-    "when": "Your Movement phase, just after a DRUKHARI or HARLEQUINS unit from your army has Advanced.",
+    "when": "Your Movement phase, just after a Drukhari or Harlequins unit from your army has Advanced.",
     "target": "That unit.",
-    "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced."
+    "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced. 1CP"
   },
   {
     "ability_id": "scintillating-tempo-reapers-wager",
@@ -2184,13 +2184,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/drukhari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_drukhari-wp9pdv8x9l-dhoh0i94sx.pdf",
+      "edition": "11e"
     },
-    "when": "Your Movement phase or your Charge phase, just after a DRUKHARI or HARLEQUINS unit from your army is selected to make a Normal, Advance or Fall Back move, is set up on the battlefield, or declares a charge.",
+    "when": "Your Movement phase or your Charge phase, just after a Drukhari or Harlequins unit from your army is selected to make a Normal, Advance or Fall Back move, is set up on the battlefield, or declares a charge.",
     "target": "That unit.",
-    "effect": "Until the end of the turn, enemy units cannot use the Fire Overwatch Stratagem to shoot at your unit."
+    "effect": "Until the end of the turn, enemy units cannot use the Fire Overwatch Stratagem to shoot at your unit. 2CP"
   },
   {
     "ability_id": "fateful-role-reapers-wager",
@@ -2203,13 +2203,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/drukhari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_drukhari-wp9pdv8x9l-dhoh0i94sx.pdf",
+      "edition": "11e"
     },
     "when": "Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One DRUKHARI or HARLEQUINS unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
-    "effect": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, adding 1 to the result if that unit is losing the wager: on a 4+, do not remove it from play. That destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play."
+    "target": "One Drukhari or Harlequins unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
+    "effect": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, adding 1 to the result if that unit is losing the wager: on a 4+, do not remove it from play. That destroyed model can fight after the attacking model's unit has finished making its attacks, and is then removed from play."
   },
   {
     "ability_id": "dark-harvest-realspace-raiders",
@@ -2279,13 +2279,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/drukhari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_drukhari-wp9pdv8x9l-dhoh0i94sx.pdf",
+      "edition": "11e"
     },
-    "when": "Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.",
-    "target": "One DRUKHARI INFANTRY or HARLEQUINS INFANTRY unit from your army that is within 9\" of that enemy unit.",
-    "effect": "Your unit can make a Normal move of up to D6\". If your unit is currently losing the wager, it can make a Normal move of up to 6\" instead."
+    "when": "Your opponent's Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.",
+    "target": "One Drukhari Infantry or Harlequins Infantry unit from your army that is within 8\" of that enemy unit.",
+    "effect": "Your unit can make a Normal move of up to D6\". If your unit is currently losing the wager, it can make a Normal move of up to 6\" instead. 6"
   },
   {
     "ability_id": "raid-and-fade-realspace-raiders",
@@ -2344,5 +2344,225 @@
     "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
     "target": "One DRUKHARI VEHICLE unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the end of the phase, models in your unit have a 4+ invulnerable save."
+  },
+  {
+    "ability_id": "planned-strikes-exhibition-of-slaughter",
+    "name": "Planned Strikes",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_drukhari-wp9pdv8x9l-dhoh0i94sx.pdf",
+      "edition": "11e"
+    },
+    "when": "Fight phase, when a friendly WYCH CULT unit is selected to fight.",
+    "target": "That WYCH CULT unit.",
+    "effect": "Your unit's melee attacks have [LETHAL HITS]. 1CP"
+  },
+  {
+    "ability_id": "sculpting-the-stage-exhibition-of-slaughter",
+    "name": "Sculpting The Stage",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_drukhari-wp9pdv8x9l-dhoh0i94sx.pdf",
+      "edition": "11e"
+    },
+    "when": "Your Movement phase, when a friendly WYCH CULT unit is selected to make an advance/fall-back move.",
+    "target": "That WYCH CULT unit.",
+    "effect": "That move does not prevent your unit from being eligible to start an action."
+  },
+  {
+    "ability_id": "prioritised-victim-kabalite-agonysts",
+    "name": "Prioritised Victim",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_drukhari-wp9pdv8x9l-dhoh0i94sx.pdf",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase or the Fight phase, when a friendly BLADES FOR HIRE/KABAL unit targets a CHARACTER unit.",
+    "target": "That BLADES FOR HIRE/KABAL unit.",
+    "effect": "Your unit's attacks that target a CHARACTER unit can: Reroll hit rolls of 1. Reroll wound rolls of 1. 1CP"
+  },
+  {
+    "ability_id": "shadows-reach-kabalite-agonysts",
+    "name": "Shadows' Reach",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_drukhari-wp9pdv8x9l-dhoh0i94sx.pdf",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase, when a friendly BLADES FOR HIRE/ KABAL unit has shot.",
+    "target": "That BLADES FOR HIRE/KABAL unit.",
+    "effect": "Those attacks do not prevent your unit from being hidden."
+  },
+  {
+    "ability_id": "killers-from-the-dark-spires-kabalite-agonysts",
+    "name": "Killers From The Dark Spires",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_drukhari-wp9pdv8x9l-dhoh0i94sx.pdf",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase, when a friendly KABALITE WARRIORS unit is selected to shoot.",
+    "target": "That KABALITE WARRIORS unit.",
+    "effect": "Your unit's ranged attacks have [IGNORES COVER]. 1CP UNIQUE: COVENS"
+  },
+  {
+    "ability_id": "salting-the-wound-tools-of-torment",
+    "name": "Salting The Wound",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_drukhari-wp9pdv8x9l-dhoh0i94sx.pdf",
+      "edition": "11e"
+    },
+    "when": "Fight phase, when a friendly CRONOS/TALOS unit is selected to fight.",
+    "target": "That CRONOS/TALOS unit.",
+    "effect": "Your unit's attacks that target a battleshocked unit have [DEVASTATING WOUNDS]. 1CP"
+  },
+  {
+    "ability_id": "dividends-of-agony-tools-of-torment",
+    "name": "Dividends Of Agony",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_drukhari-wp9pdv8x9l-dhoh0i94sx.pdf",
+      "edition": "11e"
+    },
+    "when": "Fight phase, when a friendly HAEMONCULUS COVENS unit destroys an enemy unit.",
+    "target": "That HAEMONCULUS COVENS unit.",
+    "effect": "Select one visible enemy unit within 12\" of your unit. That enemy unit makes a battleshock roll, with -1 to that battleshock roll."
+  },
+  {
+    "ability_id": "urgent-metamorphosis-tools-of-torment",
+    "name": "Urgent Metamorphosis",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_drukhari-wp9pdv8x9l-dhoh0i94sx.pdf",
+      "edition": "11e"
+    },
+    "when": "Your Movement phase, when a friendly HAEMONCULUS COVENS unit is selected to make a fallback move.",
+    "target": "That HAEMONCULUS COVENS unit.",
+    "effect": "That move does not prevent your unit from being eligible to declare a charge."
+  },
+  {
+    "ability_id": "hyperstimm-trafficker-exhibition-of-slaughter",
+    "name": "Hyperstimm Trafficker",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_drukhari-wp9pdv8x9l-dhoh0i94sx.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "SUCCUBUS model only. This unit has +1 T."
+  },
+  {
+    "ability_id": "contempt-for-rivals-kabalite-agonysts",
+    "name": "Contempt For Rivals",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_drukhari-wp9pdv8x9l-dhoh0i94sx.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "ARCHON model only. This unit's attacks have [PRECISION]."
+  },
+  {
+    "ability_id": "gnarlskin-experimentor-tools-of-torment",
+    "name": "Gnarlskin Experimentor",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_drukhari-wp9pdv8x9l-dhoh0i94sx.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "HAEMONCULUS model only. Attacks that target this unit with a S greater than your unit's T have -1 to wound rolls."
+  },
+  {
+    "ability_id": "elixir-of-the-corpse-courts-tools-of-torment",
+    "name": "Elixir Of The Corpse Courts",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_drukhari-wp9pdv8x9l-dhoh0i94sx.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "CRONOS/TALOS unit only. This unit has 5+ InSv."
   }
 ]

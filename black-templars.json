@@ -214,11 +214,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/blacktemplar.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_black_templars-3rhveur6zi-dsptpcxpkh.pdf",
+      "edition": "11e"
     },
-    "raw_text": "CHAPLAIN model only. The bearer’s melee weapons have the [DEVASTATING WOUNDS] ability."
+    "raw_text": "CHAPLAIN model only. This model's melee attacks have [DEVASTATING WOUNDS]."
   },
   {
     "ability_id": "the-imperiums-sword-1st-company-task-force",
@@ -1427,13 +1427,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/blacktemplar.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_black_templars-3rhveur6zi-dsptpcxpkh.pdf",
+      "edition": "11e"
     },
-    "when": "Fight phase.",
-    "target": "One ADEPTUS ASTARTES unit from your army that has not been selected to fight this phase.",
-    "effect": "Until the end of the phase, melee weapons equipped by models in your unit have the [PRECISION] ability."
+    "when": "Fight phase, when a friendly CHAPLAIN unit is selected to fight.",
+    "target": "That CHAPLAIN unit.",
+    "effect": "Your unit's melee attacks have [PRECISION]."
   },
   {
     "ability_id": "armour-of-contempt-1st-company-task-force",
@@ -2617,5 +2617,168 @@
     "when": "Your opponent’s Shooting phase, just after an enemy unit has shot.",
     "target": "One TANK ACE unit from your army (excluding units containing one or more models with a Wounds characteristic of 16+) that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Your unit can shoot as if it were your Shooting phase, but must target only that enemy unit when doing so, and can only do so if that enemy unit is visible and an eligible target."
+  },
+  {
+    "ability_id": "slayers-of-abominations-marshals-household",
+    "name": "Slayers Of Abominations",
+    "faction_id": "black-templars",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_black_templars-3rhveur6zi-dsptpcxpkh.pdf",
+      "edition": "11e"
+    },
+    "when": "Fight phase, when a friendly SWORD BRETHREN SQUAD unit is selected to fight.",
+    "target": "That SWORD BRETHREN SQUAD unit.",
+    "effect": "Your unit's melee attacks that target a MONSTER/VEHICLE unit have +2 S."
+  },
+  {
+    "ability_id": "blade-of-detestation-marshals-household",
+    "name": "Blade Of Detestation",
+    "faction_id": "black-templars",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_black_templars-3rhveur6zi-dsptpcxpkh.pdf",
+      "edition": "11e"
+    },
+    "when": "Your Charge phase, when a friendly SWORD BRETHREN SQUAD unit ends a charge move.",
+    "target": "That SWORD BRETHREN SQUAD unit.",
+    "effect": "Select one enemy unit engaged with your unit. Roll one D6 for each model in your unit engaged with that enemy unit: For each 4+, that enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds). 1CP"
+  },
+  {
+    "ability_id": "unsparing-execution-marshals-household",
+    "name": "Unsparing Execution",
+    "faction_id": "black-templars",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_black_templars-3rhveur6zi-dsptpcxpkh.pdf",
+      "edition": "11e"
+    },
+    "when": "Your opponent's Movement phase, when a unit is selected to make a fallback move, if that unit is engaged with a friendly SWORD BRETHREN SQUAD unit.",
+    "target": "That SWORD BRETHREN SQUAD unit.",
+    "effect": "When an enemy unit engaged with your unit is selected to make a fallback move, that enemy unit must use the desperate escape mode, with 1 to those hazard rolls if that enemy unit is battleshocked."
+  },
+  {
+    "ability_id": "fuelled-by-faith-wrathful-procession",
+    "name": "Fuelled By Faith",
+    "faction_id": "black-templars",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_black_templars-3rhveur6zi-dsptpcxpkh.pdf",
+      "edition": "11e"
+    },
+    "when": "Any phase, when a friendly CHAPLAIN unit suffers a mortal wound.",
+    "target": "That CHAPLAIN unit.",
+    "effect": "Your unit has Feel No Pain 4+ against mortal wounds. 1CP"
+  },
+  {
+    "ability_id": "rite-of-perfervid-wrath-wrathful-procession",
+    "name": "Rite Of Perfervid Wrath",
+    "faction_id": "black-templars",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_black_templars-3rhveur6zi-dsptpcxpkh.pdf",
+      "edition": "11e"
+    },
+    "when": "Fight phase, when a friendly CHAPLAIN unit is selected to fight.",
+    "target": "That CHAPLAIN unit.",
+    "effect": "Your unit's melee attacks have +1 S. 1CP"
+  },
+  {
+    "ability_id": "fervent-exemplars-marshals-household",
+    "name": "Fervent Exemplars",
+    "faction_id": "black-templars",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_black_templars-3rhveur6zi-dsptpcxpkh.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "Paragons of their crusade's inexorable wrath, these Sword Brethren have earned a reputation for carving a path to victory through their foes, unable to rest while one enemy yet lives. SWORD BRETHREN SQUAD unit only. This unit has +1 to charge rolls."
+  },
+  {
+    "ability_id": "inheritors-of-sigismund-marshals-household",
+    "name": "Inheritors Of Sigismund",
+    "faction_id": "black-templars",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_black_templars-3rhveur6zi-dsptpcxpkh.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "SWORD BRETHREN SQUAD unit only. This unit has Fights First."
+  },
+  {
+    "ability_id": "guiding-omens-the-living-miracle",
+    "name": "Guiding Omens",
+    "faction_id": "black-templars",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_black_templars-3rhveur6zi-dsptpcxpkh.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "EMPEROR'S CHAMPION model only. At the start of the first battle round, you can select up to three of the following abilities. This model has those abilities until the end of the battle: Instrument of the GodEmperor (Once per battle, per army): In the Fight phase, when this unit is selected to fight, if this unit is engaged with an enemy CHARACTER unit, you can use this ability. If you do, this model's melee attacks have [DEVASTATING WOUNDS]. Foreseen Paths of the Unholy: This unit has 3\" detection range. Vision of Momentous Brutality: This model's melee attacks have +2 A. Augury of Retribution: Melee attacks that target this unit have [HAZARDOUS]. O men of Sacred Intervention: When you target this unit with the Heroic Intervention stratagem, that use is 1 CP. H arbinger of Judgement: When an enemy unit (excluding MONSTER/VEHICLE units) engaged with this model is selected to make a fallback move, roll one D6: On a 2+, that enemy unit suffers D6 mortal wounds."
+  },
+  {
+    "ability_id": "adaptable-executioner-wrathful-procession",
+    "name": "Adaptable Executioner",
+    "faction_id": "black-templars",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_black_templars-3rhveur6zi-dsptpcxpkh.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "EXECRATOR model only. When this unit is selected to fight, this model's melee attacks have: [ CLEAVE 1]. O r: [PRECISION]."
   }
 ]

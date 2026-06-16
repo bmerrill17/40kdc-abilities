@@ -129,11 +129,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/darkangels.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_dark_angels-fw4ot2jwtw-hplla1qiky.pdf",
+      "edition": "11e"
     },
-    "raw_text": "DEATHWING model with the Deep Strike ability only. The bearer’s unit can be set up using the Deep Strike ability in the Reinforcements step of your first, second or third Movement phase, regardless of any mission rules."
+    "raw_text": "A veteran inductee of the Inner Circle, this champion has served amongst the Deathwing for centuries and become an unmatched master of teleportarium insertions. Deathwing model with the Deep Strike ability only. The bearer's unit can be set up using the Deep Strike ability in the Reinforcements step of your first, second or third Movement phase, regardless of any mission rules."
   },
   {
     "ability_id": "calibanite-armaments-lions-blade-task-force",
@@ -146,11 +146,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/darkangels.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_dark_angels-fw4ot2jwtw-hplla1qiky.pdf",
+      "edition": "11e"
     },
-    "raw_text": "ADEPTUS ASTARTES model only. Add 1 to the Damage characteristic of the bearer’s melee weapons."
+    "raw_text": "Adeptus Astartes model only. Add 1 to the Damage characteristic of the bearer's melee weapons."
   },
   {
     "ability_id": "lord-of-the-hunt-lions-blade-task-force",
@@ -163,11 +163,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/darkangels.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_dark_angels-fw4ot2jwtw-hplla1qiky.pdf",
+      "edition": "11e"
     },
-    "raw_text": "RAVENWING model only. The bearer’s unit is eligible to shoot and declare a charge in a turn in which it Fell Back and you can re‑roll Desperate Escape tests taken for models in the bearer’s unit."
+    "raw_text": "Ravenwing model only. The bearer's unit is eligible to shoot and declare a charge in a turn in which it Fell Back and you can reroll Desperate Escape tests taken for models in the bearer's unit."
   },
   {
     "ability_id": "stalwart-champion-lions-blade-task-force",
@@ -180,11 +180,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/darkangels.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_dark_angels-fw4ot2jwtw-hplla1qiky.pdf",
+      "edition": "11e"
     },
-    "raw_text": "CAPTAIN, CHAPLAIN or LIEUTENANT model only. While the bearer’s unit is not Battle‑shocked, add 1 to the Objective Control characteristic of models in the bearer’s unit."
+    "raw_text": "Captain, Chaplain or Lieutenant model only. While the bearer's unit is not Battleshocked, add 1 to the Objective Control characteristic of models in the bearer's unit."
   },
   {
     "ability_id": "fulgus-magna-lions-blade-task-force",
@@ -197,11 +197,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/darkangels.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_dark_angels-fw4ot2jwtw-hplla1qiky.pdf",
+      "edition": "11e"
     },
-    "raw_text": "DEATHWING model only. Once per battle, at the end of your opponent’s turn, if the bearer’s unit is not within Engagement Range of one or more enemy units, the bearer can use this Enhancement. If it does, remove the bearer’s unit from the battlefield and place it into Strategic Reserves."
+    "raw_text": "Deathwing model only. Once per battle, at the end of your opponent's turn, if the bearer's unit is not within Engagement Range of one or more enemy units, the bearer can use this Enhancement. If it does, remove the bearer's unit from the battlefield and place it into Strategic Reserves. 5"
   },
   {
     "ability_id": "tempered-in-battle-aura-wrath-of-the-rock",
@@ -214,11 +214,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/darkangels.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_dark_angels-fw4ot2jwtw-hplla1qiky.pdf",
+      "edition": "11e"
     },
-    "raw_text": "ADEPTUS ASTARTES model only. While a friendly ADEPTUS ASTARTES unit is within 6\" of this model, you can re-roll Battle-shock and Leadership tests taken for that unit."
+    "raw_text": "Adeptus Astartes model only. While a friendly Adeptus Astartes unit is within 6\" of this model, you can re-roll Battle-shock and Leadership tests taken for that unit."
   },
   {
     "ability_id": "ancient-weapons-wrath-of-the-rock",
@@ -231,11 +231,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/darkangels.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_dark_angels-fw4ot2jwtw-hplla1qiky.pdf",
+      "edition": "11e"
     },
-    "raw_text": "ADEPTUS ASTARTES model only. Improve the Strength characteristic of melee weapons equipped by the bearer by 2, and improve the Armour Penetration and Damage characteristics of those weapons by 1."
+    "raw_text": "Adeptus Astartes model only. Improve the Strength characteristic of melee weapons equipped by the bearer by 2, and improve the Armour Penetration and Damage characteristics of those weapons by 1."
   },
   {
     "ability_id": "lord-of-the-ravenwing-wrath-of-the-rock",
@@ -248,11 +248,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/darkangels.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_dark_angels-fw4ot2jwtw-hplla1qiky.pdf",
+      "edition": "11e"
     },
-    "raw_text": "RAVENWING model only. You can re-roll Advance and Charge rolls made for the bearer’s unit."
+    "raw_text": "Ravenwing model only. You can re-roll Advance and Charge rolls made for the bearer's unit. 7"
   },
   {
     "ability_id": "master-crafted-weapon-company-of-hunters",
@@ -1202,12 +1202,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/darkangels.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_dark_angels-fw4ot2jwtw-hplla1qiky.pdf",
+      "edition": "11e"
     },
-    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One ADEPTUS ASTARTES unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "when": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected 1CP its targets.",
+    "target": "One Adeptus Astartes unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
     "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
   },
   {
@@ -1374,13 +1374,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/darkangels.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_dark_angels-fw4ot2jwtw-hplla1qiky.pdf",
+      "edition": "11e"
     },
     "when": "Command phase or the start of the Fight phase.",
-    "target": "One ADEPTUS ASTARTES unit from your army.",
-    "effect": "Select one enemy unit within Engagement Range of your unit. That enemy unit must take a Battle‑shock test. When doing so, if your unit has the DEATHWING or RAVENWING keyword, subtract 1 from the result.",
+    "target": "One Adeptus Astartes unit from your army.",
+    "effect": "Select one enemy unit within Engagement Range of your unit. That enemy unit must take a Battleshock test. When doing so, if your unit has the Deathwing or Ravenwing keyword, subtract 1 from the result.",
     "restrictions": "You can only use this Stratagem once per battle round."
   },
   {
@@ -1394,13 +1394,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/darkangels.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_dark_angels-fw4ot2jwtw-hplla1qiky.pdf",
+      "edition": "11e"
     },
     "when": "Your Movement phase or your Charge phase.",
-    "target": "One RAVENWING unit from your army.",
-    "effect": "Until the end of the phase, each time a model in your unit makes a Normal, Advance or Charge move, it can move horizontally through terrain features."
+    "target": "One Ravenwing unit from your army.",
+    "effect": "Until the end of the phase, each time a model in your unit makes a Normal, Advance or Charge move, it can move horizontally through terrain features. 1CP"
   },
   {
     "ability_id": "illuminating-fire-lions-blade-task-force",
@@ -1413,13 +1413,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/darkangels.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_dark_angels-fw4ot2jwtw-hplla1qiky.pdf",
+      "edition": "11e"
     },
-    "when": "Your Shooting phase, just after a RAVENWING unit from your army has selected its targets.",
-    "target": "That RAVENWING unit.",
-    "effect": "Select one enemy unit within 12\" of your unit that was selected as the target of one or more of the attacking unit’s attacks. Until the end of the phase, each time a friendly DEATHWING unit makes an attack that targets that enemy unit, add 1 to the Wound roll."
+    "when": "Your Shooting phase, just after a Ravenwing unit from your army has selected its targets.",
+    "target": "That Ravenwing unit.",
+    "effect": "Select one enemy unit within 12\" of your unit that was selected as the target of one or more of the attacking unit's attacks. Until the end of the phase, each time a friendly Deathwing unit makes an attack that targets that enemy unit, add 1 to the Wound roll. 2CP"
   },
   {
     "ability_id": "inescapable-wrath-lions-blade-task-force",
@@ -1432,14 +1432,14 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/darkangels.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_dark_angels-fw4ot2jwtw-hplla1qiky.pdf",
+      "edition": "11e"
     },
-    "when": "End of your opponent’s Charge phase.",
-    "target": "One DEATHWING INFANTRY or DEATHWING WALKER unit from your army that is within 6\" of one or more enemy units and would be eligible to declare a charge against one or more of those enemy units if it were your Charge phase.",
+    "when": "End of your opponent's Charge phase.",
+    "target": "One Deathwing Infantry or Deathwing Walker unit from your army that is within 6\" of one or more enemy units and would be eligible to declare a charge against one or more of those enemy units if it were your Charge phase.",
     "effect": "Your unit now declares a charge that only targets one or more of those enemy units, and you resolve that charge.",
-    "restrictions": "Note that even if this charge is successful, your unit does not receive any Charge bonus this turn."
+    "restrictions": "Note that even if this charge is successful, your unit does not receive any Charge bonus this turn. 6"
   },
   {
     "ability_id": "strength-in-unity-lions-blade-task-force",
@@ -1452,14 +1452,14 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/darkangels.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_dark_angels-fw4ot2jwtw-hplla1qiky.pdf",
+      "edition": "11e"
     },
     "when": "Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One ADEPTUS ASTARTES unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
-    "effect": "If that enemy unit is within Engagement Range of one or more RAVENWING units from your army, until the end of the phase, each time a model in that enemy unit makes an attack, subtract 1 from the Hit roll. If that enemy unit is within Engagement Range of one or more DEATHWING units from your army, until the end of the phase, each time a model in that enemy unit makes an attack, if the Strength characteristic of that attack is greater than the Toughness characteristic of the target, subtract 1 from the Wound roll.",
-    "restrictions": "A unit cannot be targeted by this and the Armour of Contempt Stratagem in the same phase."
+    "target": "One Adeptus Astartes unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
+    "effect": "If that enemy unit is within Engagement Range of one or more Ravenwing units from your army, until the end of the phase, each time a model in that enemy unit makes an attack, subtract 1 from the Hit roll. If that enemy unit is within Engagement Range of one or more Deathwing units from your army, until the end of the phase, each time a model in that enemy unit makes an attack, if the Strength characteristic of that attack is greater than the Toughness characteristic of the target, subtract 1 from the Wound roll.",
+    "restrictions": "A unit cannot be targeted by this and the Armour of Contempt Stratagem in the same phase. 1CP"
   },
   {
     "ability_id": "inescapable-justice-wrath-of-the-rock",
@@ -1472,12 +1472,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/darkangels.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_dark_angels-fw4ot2jwtw-hplla1qiky.pdf",
+      "edition": "11e"
     },
     "when": "Any phase, just after your Oath of Moment target is destroyed.",
-    "target": "One ADEPTUS ASTARTES CHARACTER unit that is on the battlefield.",
+    "target": "One Adeptus Astartes Character unit that is on the battlefield.",
     "effect": "Select one enemy unit within 12\" and visible to your unit. That enemy unit becomes your Oath of Moment target until the start of your next Command phase."
   },
   {
@@ -1491,13 +1491,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/darkangels.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_dark_angels-fw4ot2jwtw-hplla1qiky.pdf",
+      "edition": "11e"
     },
     "when": "Your Movement phase.",
-    "target": "One ADEPTUS ASTARTES unit from your army.",
-    "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced. If your unit has the RAVENWING keyword, it is also eligible to shoot and declare a charge in a turn in which it Fell Back."
+    "target": "One Adeptus Astartes unit from your army.",
+    "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced. If your unit has the Ravenwing keyword, it is also eligible to shoot and declare a charge in a turn in which it Fell Back. 1CP"
   },
   {
     "ability_id": "lions-will-wrath-of-the-rock",
@@ -1510,13 +1510,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/darkangels.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_dark_angels-fw4ot2jwtw-hplla1qiky.pdf",
+      "edition": "11e"
     },
     "when": "Command phase.",
-    "target": "One ADEPTUS ASTARTES unit from your army that is within Engagement Range of one or more enemy units.",
-    "effect": "Until the start of your next Command phase, add 1 to the Objective Control characteristic of models in your unit. In addition, until the end of the turn, if your unit does not have the DEATHWING, RAVENWING or VEHICLE keyword, each time a model in your unit makes an attack, add 1 to the Hit roll."
+    "target": "One Adeptus Astartes unit from your army that is within Engagement Range of one or more enemy units.",
+    "effect": "Until the start of your next Command phase, add 1 to the Objective Control characteristic of models in your unit. In addition, until the end of the turn, if your unit does not have the Deathwing, Ravenwing or Vehicle keyword, each time a model in your unit makes an attack, add 1 to the Hit roll."
   },
   {
     "ability_id": "relics-of-the-dark-age-wrath-of-the-rock",
@@ -1529,13 +1529,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/darkangels.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_dark_angels-fw4ot2jwtw-hplla1qiky.pdf",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One ADEPTUS ASTARTES INFANTRY or ADEPTUS ASTARTES MOUNTED unit from your army that has not been selected to shoot this phase.",
-    "effect": "Until the end of the phase, add 2 to the Strength characteristic of ranged weapons equipped by models in your unit."
+    "target": "One Adeptus Astartes Infantry or Adeptus Astartes Mounted unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, add 2 to the Strength characteristic of ranged weapons equipped by models in your unit. 1CP"
   },
   {
     "ability_id": "leonine-aggression-wrath-of-the-rock",
@@ -1548,14 +1548,14 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/darkangels.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_dark_angels-fw4ot2jwtw-hplla1qiky.pdf",
+      "edition": "11e"
     },
-    "when": "End of your opponent’s Charge phase.",
-    "target": "One ADEPTUS ASTARTES unit from your army within 3\" of one or more enemy units, or one Deathwing unit from your army within 6\" of one or more enemy units.",
+    "when": "End of your opponent's Charge phase.",
+    "target": "One Adeptus Astartes unit from your army within 3\" of one or more enemy units, or one Deathwing unit from your army within 6\" of one or more enemy units.",
     "effect": "Your unit now declares a charge that only targets one or more of those enemy units, and you resolve that charge.",
-    "restrictions": "Note that even if this charge is successful, your unit does not receive any Charge bonus this turn."
+    "restrictions": "Note that even if this charge is successful, your unit does not receive any Charge bonus this turn. 8"
   },
   {
     "ability_id": "death-on-the-wind-company-of-hunters",
@@ -2815,5 +2815,278 @@
     "when": "Your opponent’s Shooting phase, just after an enemy unit has shot.",
     "target": "One TANK ACE unit from your army (excluding units containing one or more models with a Wounds characteristic of 16+) that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Your unit can shoot as if it were your Shooting phase, but must target only that enemy unit when doing so, and can only do so if that enemy unit is visible and an eligible target."
+  },
+  {
+    "ability_id": "searing-bursts-dark-age-arsenal",
+    "name": "Searing Bursts",
+    "faction_id": "dark-angels",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_dark_angels-fw4ot2jwtw-hplla1qiky.pdf",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase, when a friendly HELLBLASTER SQUAD unit has shot.",
+    "target": "That HELLBLASTER SQUAD unit.",
+    "effect": "Select one enemy unit hit by your unit's plasma ranged attacks. That enemy unit is seared until the start of your next turn: While a unit is seared, that unit has 2\" M. 1CP"
+  },
+  {
+    "ability_id": "no-sacrifice-too-great-dark-age-arsenal",
+    "name": "No Sacrifice Too Great",
+    "faction_id": "dark-angels",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_dark_angels-fw4ot2jwtw-hplla1qiky.pdf",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase, when a friendly ADEPTUS ASTARTES unit is selected to shoot.",
+    "target": "That ADEPTUS ASTARTES unit.",
+    "effect": "Your unit's [HAZARDOUS] plasma ranged attacks have +1 S. 1CP"
+  },
+  {
+    "ability_id": "revelation-of-guilt-dark-age-arsenal",
+    "name": "Revelation Of Guilt",
+    "faction_id": "dark-angels",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_dark_angels-fw4ot2jwtw-hplla1qiky.pdf",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase, when a friendly ADEPTUS ASTARTES unit is selected to shoot.",
+    "target": "That ADEPTUS ASTARTES unit.",
+    "effect": "Your unit's plasma ranged attacks have +1 to hit rolls. 1CP"
+  },
+  {
+    "ability_id": "skyborne-surveillance-darkflight-pursuit",
+    "name": "Skyborne Surveillance",
+    "faction_id": "dark-angels",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_dark_angels-fw4ot2jwtw-hplla1qiky.pdf",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase, when a friendly RAVENWING FLY unit has shot.",
+    "target": "That RAVENWING FLY unit.",
+    "effect": "Visible enemy units within 6\" of your unit have +3\" detection range. 1CP"
+  },
+  {
+    "ability_id": "wings-of-shadow-darkflight-pursuit",
+    "name": "Wings Of Shadow",
+    "faction_id": "dark-angels",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_dark_angels-fw4ot2jwtw-hplla1qiky.pdf",
+      "edition": "11e"
+    },
+    "when": "Your opponent's Shooting phase, when an enemy unit targets a friendly RAVENWING FLY unit.",
+    "target": "That RAVENWING FLY unit.",
+    "effect": "Your unit has Stealth."
+  },
+  {
+    "ability_id": "we-are-vengeance-darkflight-pursuit",
+    "name": "We Are Vengeance",
+    "faction_id": "dark-angels",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_dark_angels-fw4ot2jwtw-hplla1qiky.pdf",
+      "edition": "11e"
+    },
+    "when": "Your opponent's Shooting phase, when an enemy unit that targeted a friendly unengaged RAVENWING FLY unit has shot.",
+    "target": "That RAVENWING FLY unit.",
+    "effect": "Your unit can make a normal move of up to D3+3\". 1CP"
+  },
+  {
+    "ability_id": "exacting-punishment-interrogation-conclave",
+    "name": "Exacting Punishment",
+    "faction_id": "dark-angels",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_dark_angels-fw4ot2jwtw-hplla1qiky.pdf",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase or the Fight phase, when a friendly CHAPLAIN unit is selected to attack.",
+    "target": "That CHAPLAIN unit.",
+    "effect": "Your unit's attacks have [PRECISION]. 1CP"
+  },
+  {
+    "ability_id": "terrifying-zeal-interrogation-conclave",
+    "name": "Terrifying Zeal",
+    "faction_id": "dark-angels",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_dark_angels-fw4ot2jwtw-hplla1qiky.pdf",
+      "edition": "11e"
+    },
+    "when": "Your Charge phase, when a friendly CHAPLAIN unit ends a charge move.",
+    "target": "That CHAPLAIN unit.",
+    "effect": "Select one enemy unit (excluding MONSTER/VEHICLE units) engaged with your unit. That enemy unit makes a leadership roll: If that leadership roll fails, that enemy unit's attacks have -1 to hit rolls until the end of the turn."
+  },
+  {
+    "ability_id": "wages-of-cowardice-interrogation-conclave",
+    "name": "Wages Of Cowardice",
+    "faction_id": "dark-angels",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_dark_angels-fw4ot2jwtw-hplla1qiky.pdf",
+      "edition": "11e"
+    },
+    "when": "Your opponent's Movement phase, when an enemy unit that was engaged with a friendly CHAPLAIN unit ends a fallback move, if that CHAPLAIN unit is unengaged.",
+    "target": "That CHAPLAIN unit.",
+    "effect": "Your unit can make a normal move of up to D3+3\"."
+  },
+  {
+    "ability_id": "petition-of-stability-dark-age-arsenal",
+    "name": "Petition Of Stability",
+    "faction_id": "dark-angels",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_dark_angels-fw4ot2jwtw-hplla1qiky.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "ADEPTUS ASTARTES unit only. This unit's plasma attacks have +6\" R."
+  },
+  {
+    "ability_id": "entreaty-of-perpetual-ardour-dark-age-arsenal",
+    "name": "Entreaty Of Perpetual Ardour",
+    "faction_id": "dark-angels",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_dark_angels-fw4ot2jwtw-hplla1qiky.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "HELLBLASTER SQUAD only. This unit's snap shooting attacks hit on unmodified hit rolls of 5+."
+  },
+  {
+    "ability_id": "thundercowl-turbines-darkflight-pursuit",
+    "name": "Thundercowl Turbines",
+    "faction_id": "dark-angels",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_dark_angels-fw4ot2jwtw-hplla1qiky.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "RAVENWING FLY unit only. In your first Movement phase, this unit can make an ingress move."
+  },
+  {
+    "ability_id": "nightforged-battery-darkflight-pursuit",
+    "name": "Nightforged Battery",
+    "faction_id": "dark-angels",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_dark_angels-fw4ot2jwtw-hplla1qiky.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "Use of these relic plasma storm batteries is granted only by dispensation of the Master of the Rock. They unleash devastating toroids of searing plasma, while their venting subsystems are known to be especially vigilant. LAND SPEEDER VENGEANCE unit only. This unit can reroll: R olls to determine the A of a weapon. Hazard rolls."
+  },
+  {
+    "ability_id": "limitless-zeal-interrogation-conclave",
+    "name": "Limitless Zeal",
+    "faction_id": "dark-angels",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_dark_angels-fw4ot2jwtw-hplla1qiky.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "CHAPLAIN model only. This unit has +1 to charge rolls."
+  },
+  {
+    "ability_id": "inescapable-interrogation-interrogation-conclave",
+    "name": "Inescapable Interrogation",
+    "faction_id": "dark-angels",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_08-06_warhammer40000_faction_pack_dark_angels-fw4ot2jwtw-hplla1qiky.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "CHAPLAIN model only. This unit's ranged attacks have [IGNORES COVER]."
   }
 ]

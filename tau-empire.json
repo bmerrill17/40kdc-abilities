@@ -2125,11 +2125,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/tau.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_tau_empire-avmkx2gg8i-jezqgeb55k.pdf",
+      "edition": "11e"
     },
-    "raw_text": "KROOT SHAPER model only. In the Declare Battle Formations step, you can select up to three KROOT CARNIVORES or KROOT FARSTALKERS units from your army. Models in those units have the Deep Strike ability."
+    "raw_text": "KROOT SHAPER model only. In the Declare Battle Formations step, you can select up to three friendly KROOT CARNIVORES/FARSTALKERS units. Those units have Deep Strike."
   },
   {
     "ability_id": "admired-leader-auxiliary-cadre",
@@ -2142,11 +2142,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/tau.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_tau_empire-avmkx2gg8i-jezqgeb55k.pdf",
+      "edition": "11e"
     },
-    "raw_text": "T’AU EMPIRE model (excluding KROOT models) only. In your Command phase, you can select one KROOT or VESPID STINGWINGS unit within 12\" of the bearer. If you do, until the start of your next Command phase, improve the Leadership characteristic of models in that unit by 1, and while such a unit is not Battle‑shocked, add 1 to the Objective Control characteristic of models in that unit."
+    "raw_text": "T'AU EMPIRE model only (excluding KROOT models). In your Command phase, you can select one KROOT/VESPID STINGWINGS unit within 12\" of this model. If you do, that unit has +1 Ld and OC until the start of your next Command phase."
   },
   {
     "ability_id": "fanatical-convert-auxiliary-cadre",
@@ -2193,11 +2193,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/tau.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_tau_empire-avmkx2gg8i-jezqgeb55k.pdf",
+      "edition": "11e"
     },
-    "raw_text": "T’AU EMPIRE model only. Select one airbursting fragmentation projector equipped by the bearer. Improve the Strength characteristic of that weapon by 3, and improve the Armour Penetration and Damage characteristics of that weapon by 1."
+    "raw_text": "BATTLESUIT model only. In the Declare Battle Formations step, select one of this model's Airbursting Fragmentation Projector weapons. That weapon's attacks have: +3 S +1 AP and D."
   },
   {
     "ability_id": "thermoneutronic-projector-experimental-prototype-cadre",
@@ -2210,11 +2210,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/tau.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_tau_empire-avmkx2gg8i-jezqgeb55k.pdf",
+      "edition": "11e"
     },
-    "raw_text": "T’AU EMPIRE model only. Select one T’au flamer equipped by the bearer. Improve the Strength characteristic of that weapon by 2, and improve the Armour Penetration and Damage characteristics of that weapon by 1."
+    "raw_text": "BATTLESUIT model only. In the Declare Battle Formations step, select one of this model's T'au Flamer weapons. That weapon's attacks have: + 2 S +1 AP and D."
   },
   {
     "ability_id": "plasma-accelerator-rifle-experimental-prototype-cadre",
@@ -2227,11 +2227,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/tau.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_tau_empire-avmkx2gg8i-jezqgeb55k.pdf",
+      "edition": "11e"
     },
-    "raw_text": "T’AU EMPIRE model only. Select one plasma rifle equipped by the bearer. Improve the Strength characteristic of that weapon by 2, and improve the Attacks, Armour Penetration and Damage characteristics of that weapon by 1."
+    "raw_text": "BATTLESUIT model only. In the Declare Battle Formations step, select one of this model's Plasma Rifle weapons. That weapon's attacks have: +2 S + 1 A, AP and D."
   },
   {
     "ability_id": "fusion-blades-experimental-prototype-cadre",
@@ -2512,13 +2512,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/tau.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_tau_empire-avmkx2gg8i-jezqgeb55k.pdf",
+      "edition": "11e"
     },
-    "when": "Your Movement phase.",
-    "target": "One T’AU EMPIRE unit from your army.",
-    "effect": "Until the end of the turn, your unit is eligible to shoot in a turn in which it Advanced. If it is a KROOT or VESPID STINGWINGS unit, until the end of the turn, your unit is eligible to declare a charge in a turn in which it Advanced as well."
+    "when": "Your Movement phase, when a friendly KROOT/VESPID STINGWINGS unit is selected to make an advance move.",
+    "target": "That KROOT/VESPID STINGWINGS unit.",
+    "effect": "That move does not prevent your unit from being eligible to declare a charge."
   },
   {
     "ability_id": "guided-fire-auxiliary-cadre",
@@ -2703,13 +2703,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/tau.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_tau_empire-avmkx2gg8i-jezqgeb55k.pdf",
+      "edition": "11e"
     },
-    "when": "Your Shooting phase or the Fight phase.",
-    "target": "One KROOT or VESPID STINGWINGS unit from your army that has not been selected to shoot or fight this phase.",
-    "effect": "Until the end of the phase, improve the Armour Penetration characteristic of weapons equipped by models in your unit by 1."
+    "when": "Your Shooting phase or the Fight phase, when a friendly KROOT/VESPID STINGWINGS unit is selected to attack.",
+    "target": "That KROOT/VESPID STINGWINGS unit.",
+    "effect": "Your unit's attacks have +1 AP."
   },
   {
     "ability_id": "interlocking-manouevres-auxiliary-cadre",
@@ -2837,13 +2837,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/tau.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_tau_empire-avmkx2gg8i-jezqgeb55k.pdf",
+      "edition": "11e"
     },
-    "when": "Your Shooting phase.",
-    "target": "One T’AU EMPIRE unit from your army that has not been selected to shoot this phase.",
-    "effect": "Select one of the following to apply to your unit until the end of the phase: • Improve the Strength characteristic of ranged weapons equipped by models in your unit by 1. • Improve the Strength and Armour Penetration characteristics of ranged weapons equipped by models in your unit by 1, and those weapons have the [HAZARDOUS] ability.",
+    "when": "Your Shooting phase, when a friendly BATTLESUIT CHARACTER unit is selected to shoot.",
+    "target": "That BATTLESUIT CHARACTER unit.",
+    "effect": "Your unit's ranged attacks have: +1 S. OR: +1 S, AP and [HAZARDOUS].",
     "restrictions": "You cannot target the same unit with the Experimental Ammunition and Threat Assessment Analyser Stratagems in the same phase."
   },
   {
@@ -2943,5 +2943,96 @@
     "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
     "target": "One T’AU EMPIRE unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the end of the phase, each time an attack is allocated to your unit, subtract 1 from the Damage characteristic of that attack."
+  },
+  {
+    "ability_id": "marker-beacon-advanced-acquisition-cadre",
+    "name": "Marker Beacon",
+    "faction_id": "tau-empire",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_tau_empire-avmkx2gg8i-jezqgeb55k.pdf",
+      "edition": "11e"
+    },
+    "when": "End of your Movement phase.",
+    "target": "One friendly PATHFINDER TEAM/STEALTH BATTLESUITS unit.",
+    "effect": "Select one objective your unit is controlling. That objective is secured. 1CP"
+  },
+  {
+    "ability_id": "microdrone-support-advanced-acquisition-cadre",
+    "name": "Microdrone Support",
+    "faction_id": "tau-empire",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_tau_empire-avmkx2gg8i-jezqgeb55k.pdf",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase, when a friendly PATHFINDER TEAM/ STEALTH BATTLESUITS unit starts an action.",
+    "target": "That PATHFINDER TEAM/STEALTH BATTLESUITS unit.",
+    "effect": "That action does not prevent your unit from being eligible to shoot. 1CP"
+  },
+  {
+    "ability_id": "autoreactive-camouflage-advanced-acquisition-cadre",
+    "name": "Autoreactive Camouflage",
+    "faction_id": "tau-empire",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_tau_empire-avmkx2gg8i-jezqgeb55k.pdf",
+      "edition": "11e"
+    },
+    "when": "Your opponent's Shooting phase, when an enemy unit targets a friendly PATHFINDER TEAM/ STEALTH BATTLESUITS unit, if that friendly unit is hidden.",
+    "target": "That PATHFINDER TEAM/STEALTH BATTLESUITS unit.",
+    "effect": "Your unit has +1 Sv. 1CP UNIQUE: AUXILIARIES"
+  },
+  {
+    "ability_id": "negation-emitters-advanced-acquisition-cadre",
+    "name": "Negation Emitters",
+    "faction_id": "tau-empire",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_tau_empire-avmkx2gg8i-jezqgeb55k.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "STEALTH BATTLESUITS unit only. This unit has -3\" detection range."
+  },
+  {
+    "ability_id": "unmasking-suite-advanced-acquisition-cadre",
+    "name": "Unmasking Suite",
+    "faction_id": "tau-empire",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_tau_empire-avmkx2gg8i-jezqgeb55k.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "GHOSTKEEL BATTLESUIT/PATHFINDER TEAM/STEALTH BATTLESUITS unit only. When this unit is selected to shoot, you can select one enemy unit within 24\" of this unit. That enemy unit has +9\" detection range until this unit has shot."
   }
 ]
