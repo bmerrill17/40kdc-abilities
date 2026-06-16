@@ -2722,5 +2722,107 @@
     "when": "Your Shooting phase.",
     "target": "One BIOLOGUS PUTRIFIER unit from your army that is not within Engagement Range of one or more enemy units and has not been selected to shoot this phase.",
     "effect": "Select one enemy unit (excluding VEHICLES) that is within 8\" of and visible to your unit. Until the start of your next turn, that unit has the effect of all Plagues (see Nurgle’s Gift)."
+  },
+  {
+    "ability_id": "worldblight",
+    "name": "Worldblight",
+    "faction_id": "death-guard",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/deathguard.json",
+      "edition": "10e"
+    },
+    "raw_text": "If you control an objective marker at the end of your Command phase and a DEATH GUARD unit from your army (excluding Battle-shocked units) is within range of that objective marker, that objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase. In addition, until you lose control of that objective marker, it has the Nurgle’s Gift ability as if it were a DEATH GUARD model from your army."
+  },
+  {
+    "ability_id": "reverberant-rancidity",
+    "name": "Reverberant Rancidity",
+    "faction_id": "death-guard",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/deathguard.json",
+      "edition": "10e"
+    },
+    "raw_text": "While a PLAGUE LEGIONS unit from your army is within 7\" of one or more DEATH GUARD units from your army, that PLAGUE LEGIONS unit has the Nurgle’s Gift ability. While a DEATH GUARD unit from your army is within 7\" of one or more PLAGUE LEGIONS units from your army, add 3\" to that DEATH GUARD unit’s Contagion Range."
+  },
+  {
+    "ability_id": "manifold-maladies",
+    "name": "Manifold Maladies",
+    "faction_id": "death-guard",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/deathguard.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of the battle round, you can select one of the Plagues listed in Nurgle’s Gift. Until the end of the battle, that is your chosen Plague instead of any previously chosen Plague."
+  },
+  {
+    "ability_id": "miasmic-bombardment",
+    "name": "Miasmic Bombardment",
+    "faction_id": "death-guard",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/deathguard.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of the battle round, select a number of enemy units more than 12\" away from every model from your army that is on the battlefield. Until the end of the battle round, those enemy units are Afflicted. The maximum number of units you can select in this way depends on the battle size, as shown below. -"
+  },
+  {
+    "ability_id": "numberless-horde",
+    "name": "Numberless Horde",
+    "faction_id": "death-guard",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/deathguard.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Command phase in each of the following battle rounds, depending on your chosen battle size, add a new POXWALKERS unit with a Starting Strength of 10 to your army, in Strategic Reserves. -"
+  },
+  {
+    "ability_id": "deadly-vectors",
+    "name": "Deadly Vectors",
+    "faction_id": "death-guard",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/deathguard.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your opponent’s Command phase, roll 2D6 for each Afflicted enemy unit, subtracting 1 from the result if that unit is Below Half-strength. If the result is 6 or less, that enemy unit suffers D3 mortal wounds."
   }
 ]

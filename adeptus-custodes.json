@@ -2827,5 +2827,73 @@
       "edition": "11e"
     },
     "raw_text": "ANATHEMA PSYKANA unit only. T his unit has EXPLOSIVES. When you target this unit with the Explosives stratagem, if you select an enemy PSYKER unit, you can re-roll rolls to determine whether that enemy unit suffers a mortal wound."
+  },
+  {
+    "ability_id": "assemblage-of-might",
+    "name": "Assemblage Of Might",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of your Command phase, select one unit from your opponent’s army. Until the start of your next Command phase, each time a model in an ADEPTUS CUSTODES CHARACTER unit from your army makes an attack that targets that enemy unit, add 1 to the Wound roll."
+  },
+  {
+    "ability_id": "martial-mastery",
+    "name": "Martial Mastery",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of the battle round, you can select one of the bullet points below. If you do, until the start of the next battle round, that bullet point’s effects apply. Each time an ADEPTUS CUSTODES model from your army with the Martial Ka’tah ability makes a melee attack, a successful unmodified Hit roll of 5+ scores a Critical Hit. Improve the Armour Penetration characteristic of melee weapons equipped by ADEPTUS CUSTODES models from your army with the Martial Ka’tah ability by 1."
+  },
+  {
+    "ability_id": "creeping-dread-aura",
+    "name": "Creeping Dread (Aura)",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "In the Battle-shock step of your opponent’s Command phase, if an enemy unit that is either a PSYKER unit or below its Starting Strength is within 12\" of one or more ANATHEMA PSYKANA models from your army, that enemy unit must take a Battle-shock test. If that unit is Below Half-strength, it must subtract 1 from its Battle-shock test this phase instead. Designer’s Note: *This means that all enemy PSYKER units within range of this Aura ability and all enemy units within range of this Aura ability that have lost one or more models must take a Battle-shock test in your opponent’s Command phase, not just those that are Below Half-strength.*"
+  },
+  {
+    "ability_id": "revered-companions",
+    "name": "Revered Companions",
+    "faction_id": "adeptus-custodes",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptuscustodes.json",
+      "edition": "10e"
+    },
+    "raw_text": "ANATHEMA PSYKANA units from your army gain the following the ability: Null Aegis (Aura): While an ADEPTUS CUSTODES unit is within 6\" of this unit, models in that unit have the Feel No Pain 5+ ability against Psychic Attacks and mortal wounds. All other ADEPTUS CUSTODES units from your army gain the following ability: Deadly Unity (Aura): While an ANATHEMA PSYKANA unit is within 6\" of this unit, each time a model in that ANATHEMA PSYKANA unit makes an attack, add 1 to the Hit roll."
   }
 ]

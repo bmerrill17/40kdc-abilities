@@ -2763,5 +2763,39 @@
     "when": "Start of the Command phase.",
     "target": "One friendly ADEPTA SORORITAS INFANTRY FLY unit or one friendly EXORCIST unit.",
     "effect": "Select one friendly battleshocked ADEPTA SORORITAS unit within 6\" of your unit. That unit is no longer battleshocked. 1CP"
+  },
+  {
+    "ability_id": "the-blood-of-martyrs",
+    "name": "The Blood Of Martyrs",
+    "faction_id": "adepta-sororitas",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptasororitas.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time an ADEPTA SORORITAS model from your army makes an attack, add 1 to the Hit roll if that model’s unit is below its Starting Strength, and add 1 to the Wound roll as well if that model’s unit is Below Half-strength."
+  },
+  {
+    "ability_id": "sacred-rites",
+    "name": "Sacred Rites",
+    "faction_id": "adepta-sororitas",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/adeptasororitas.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each ADEPTA SORORITAS unit from your army can perform up to two Acts of Faith per phase, instead of just one."
   }
 ]

@@ -8134,5 +8134,243 @@
       "edition": "11e"
     },
     "raw_text": "INFANTRY PHOBOS unit only. This unit's attacks that target a hidden unit have +1 to hit rolls."
+  },
+  {
+    "ability_id": "extremis-level-threat",
+    "name": "Extremis-Level Threat",
+    "faction_id": "adeptus-astartes",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/space_marines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per battle, in your Command phase, you can use this ability. If you do, until the start of your next Command phase, each time a model from your army with the Oath of Moment ability makes an attack that targets your Oath of Moment target, you can re-roll the Wound roll as well."
+  },
+  {
+    "ability_id": "combat-doctrines",
+    "name": "Combat Doctrines",
+    "faction_id": "adeptus-astartes",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/space_marines.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of your Command phase, you can select one of the Combat Doctrines listed below. Until the start of your next Command phase, that Combat Doctrine is active and its effects apply to all ADEPTUS ASTARTES units from your army. You can only select each Combat Doctrine once per battle. DEVASTATOR DOCTRINE This unit is eligible to shoot in a turn in which it Advanced. TACTICAL DOCTRINE This unit is eligible to shoot and declare a charge in a turn in which it Fell Back. ASSAULT DOCTRINE This unit is eligible to declare a charge in a turn in which it Advanced."
+  },
+  {
+    "ability_id": "lightning-assault",
+    "name": "Lightning Assault",
+    "faction_id": "adeptus-astartes",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/space_marines.json",
+      "edition": "10e"
+    },
+    "raw_text": "ADEPTUS ASTARTES units from your army are eligible to declare a charge in a turn in which they Advanced or Fell Back."
+  },
+  {
+    "ability_id": "psychic-disciplines",
+    "name": "Psychic Disciplines",
+    "faction_id": "adeptus-astartes",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/space_marines.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of the battle round, select one of the following Psychic Disciplines. Until the end of the battle round, that Psychic Discipline is active and its effects apply to all ADEPTUS ASTARTES PSYKER units from your army. Biomancy Discipline Add 2\" to the Move characteristic of models in this unit. Divination Discipline Each time a model in this unit makes an attack, re-roll a Hit roll of 1 and re-roll a Wound roll of 1. Pyromancy Discipline Each time a ranged attack made by a model in this unit targets an enemy unit within 12\", improve the Armour Penetration characteristic of that attack by 1. Telekinesis Discipline Each time a ranged attack targets this unit, subtract 1 from the Strength characteristic of that attack. Telepathy Discipline Each time a model in this unit makes an attack, you can ignore any or all modifiers to that attack’s Weapon Skill or Ballistic Skill characteristics and/or any or all modifiers to the Hit roll."
+  },
+  {
+    "ability_id": "shadow-masters",
+    "name": "Shadow Masters",
+    "faction_id": "adeptus-astartes",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/space_marines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a ranged attack targets an ADEPTUS ASTARTES unit from your army, unless the attacking model is within 12\", subtract 1 from the Hit roll and the target has the Benefit of Cover against that attack."
+  },
+  {
+    "ability_id": "rapid-drop-deployment",
+    "name": "Rapid-Drop Deployment",
+    "faction_id": "adeptus-astartes",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/space_marines.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of the Declare Battle Formations step, select a number of ADEPTUS ASTARTES units (excluding TITANIC units) from your army based on the battle size, as shown below. Models in those units have the Deep Strike ability. - Each time an ADEPTUS ASTARTES model from your army makes an attack, if it was set up on the battlefield this turn, re-roll a Wound roll of 1. If it disembarked from a DROP POD this turn, re-roll a Hit roll of 1 as well."
+  },
+  {
+    "ability_id": "shield-of-the-imperium",
+    "name": "Shield Of The Imperium",
+    "faction_id": "adeptus-astartes",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/space_marines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Ranged weapons equipped by ADEPTUS ASTARTES models from your army have the [HEAVY] ability. If such a weapon already has this ability, each time an attack is made with that weapon, if the attacking model’s unit Remained Stationary this turn, add 1 to the Wound roll."
+  },
+  {
+    "ability_id": "close-range-eradication",
+    "name": "Close-Range Eradication",
+    "faction_id": "adeptus-astartes",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/space_marines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Ranged weapons equipped by ADEPTUS ASTARTES models from your army have the [ASSAULT] ability, and each time an attack made with such a weapon targets a unit within 12\", add 1 to the Strength characteristic of that attack."
+  },
+  {
+    "ability_id": "armoured-wrath",
+    "name": "Armoured Wrath",
+    "faction_id": "adeptus-astartes",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/space_marines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Once per phase for each ADEPTUS ASTARTES unit in your army, you can re-roll one Hit roll, one Wound roll or one Damage roll made for a model in that unit."
+  },
+  {
+    "ability_id": "rapid-deployment",
+    "name": "Rapid Deployment",
+    "faction_id": "adeptus-astartes",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/space_marines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time an ADEPTUS ASTARTES unit from your army disembarks from a TRANSPORT (excluding FLY) that made a Normal or Advance move this phase (excluding those that arrived from Strategic Reserves), that disembarked unit can make a Normal move of up to D6\", or a Normal move of up to D3+3\" instead if that TRANSPORT is a HEAVY TRANSPORT (see Keywords)."
+  },
+  {
+    "ability_id": "interlocking-tactics",
+    "name": "Interlocking Tactics",
+    "faction_id": "adeptus-astartes",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/space_marines.json",
+      "edition": "10e"
+    },
+    "raw_text": "ADEPTUS ASTARTES BATTLELINE units from your army: Are eligible to shoot and declare a charge in a turn in which they Advanced or Fell Back. Are eligible to start to perform an Action in a turn in which they Advanced or Fell Back. Each time an ADEPTUS ASTARTES BATTLELINE unit from your army is selected to attack, after resolving those attacks, select one enemy unit hit by one or more of those attacks. Until the end of the turn, that enemy unit is auspex scanned. Each time an ADEPTUS ASTARTES model from your army makes an attack that targets an auspex scanned unit, re-roll a Hit roll of 1."
+  },
+  {
+    "ability_id": "adaptive-defence",
+    "name": "Adaptive Defence",
+    "faction_id": "adeptus-astartes",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/space_marines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time an ADEPTUS ASTARTES model from your army makes an attack, if that model’s unit is within a terrain feature, re-roll a Hit roll of 1 and re-roll a Wound roll of 1. ADEPTUS ASTARTES units from your army gain the ENTRENCHED keyword while all of the following are true: That unit is within a terrain feature. That unit was not set up on the battlefield this turn. No model in that unit has moved more than 3” this turn."
+  },
+  {
+    "ability_id": "target-sighted",
+    "name": "Target Sighted",
+    "faction_id": "adeptus-astartes",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/space_marines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a TANK ACE unit from your army (see Keywords) Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in that unit. Each time a TANK ACE unit from your army shoots in your Shooting phase, if that unit did not Advance this turn, you can re-roll the Damage roll"
+  },
+  {
+    "ability_id": "skystrike",
+    "name": "Skystrike",
+    "faction_id": "adeptus-astartes",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "edition": "11e",
+      "ref": "eng_08-06_warhammer40000_faction_pack_space-marines-nd2ezs5yzn-wxe2nf2ckk.pdf"
+    },
+    "raw_text": "Friendly LAND SPEEDER/STORM SPEEDER HAILSTRIKE/STORM SPEEDER HAMMERSTRIKE/STORM SPEEDER THUNDERSTRIKE units have SPEEDER. In your first Movement phase, friendly SPEEDER units can make an ingress move."
   }
 ]
