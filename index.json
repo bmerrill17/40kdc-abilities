@@ -19036,10 +19036,6 @@
     "target": "One ADEPTUS ASTARTES unit from your army.",
     "effect": "Until the end of the turn, your unit is eligible to shoot in a turn in which it Advanced or Fell Back."
   },
-  "hunters-instincts-spearpoint-task-force": {
-    "faction": "white-scars",
-    "raw_text": "ADEPTUS ASTARTES MOUNTED model only. If the bearer’s unit is in Strategic Reserves, for the purposes of setting up that unit on the battlefield, treat the current battle round number as being one higher than it actually is."
-  },
   "legendary-killer": {
     "faction": "world-eaters",
     "raw_text": "While this model is leading a unit, each time a model in that unit makes a melee attack, re-roll a Hit roll of 1 and re-roll a Wound roll of 1."

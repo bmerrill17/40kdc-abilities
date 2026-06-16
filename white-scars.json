@@ -2144,22 +2144,5 @@
     "when": "Your opponent’s Shooting phase, just after an enemy unit has shot.",
     "target": "One TANK ACE unit from your army (excluding units containing one or more models with a Wounds characteristic of 16+) that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Your unit can shoot as if it were your Shooting phase, but must target only that enemy unit when doing so, and can only do so if that enemy unit is visible and an eligible target."
-  },
-  {
-    "ability_id": "hunters-instincts-spearpoint-task-force",
-    "name": "Hunter’s Instincts",
-    "faction_id": "white-scars",
-    "unit_ids": [],
-    "ability_type": "stratagem",
-    "game_version": {
-      "edition": "11th",
-      "dataslate": "pre-launch-provisional"
-    },
-    "source": {
-      "kind": "pdf",
-      "edition": "11e",
-      "ref": "manual"
-    },
-    "raw_text": "ADEPTUS ASTARTES MOUNTED model only. If the bearer’s unit is in Strategic Reserves, for the purposes of setting up that unit on the battlefield, treat the current battle round number as being one higher than it actually is."
   }
 ]
