@@ -3904,5 +3904,22 @@
     "when": "Your Shooting phase.",
     "target": "One ORKS WALKER or GROTS VEHICLE unit from your army that has not been selected to shoot this phase.",
     "effect": "Each time you use this Stratagem, you can choose to push it. Until the end of the phase, each time a model in your unit makes an attack, re‑roll a Hit roll of 1. If you chose to push it, you can re‑roll the Hit roll instead and, until the end of the phase, ranged weapons equipped by models in your unit have the [HAZARDOUS] ability as well."
+  },
+  {
+    "ability_id": "dakka-dakka-dakka-more-dakka",
+    "name": "Dakka! Dakka! Dakka!",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "edition": "11e",
+      "ref": "manual"
+    },
+    "raw_text": "Friendly ORKS INFANTRY units' ranged attacks have [ASSAULT]. In your Shooting phase, if the Waaagh! is active for your army, friendly ORKS INFANTRY units' ranged attacks have [SUSTAINED HITS 1]."
   }
 ]
