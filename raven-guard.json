@@ -1,6 +1,6 @@
 [
   {
-    "ability_id": "blackwing-shroud",
+    "ability_id": "blackwing-shroud-shadowmark-talon",
     "name": "Blackwing Shroud",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -17,7 +17,7 @@
     "raw_text": "ADEPTUS ASTARTES INFANTRY model only. While the bearer is leading a unit, models in that unit have the Infiltrators ability."
   },
   {
-    "ability_id": "coronal-susurrant",
+    "ability_id": "coronal-susurrant-shadowmark-talon",
     "name": "Coronal Susurrant",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -34,7 +34,7 @@
     "raw_text": "PHOBOS model only. The bearer has the following ability:\n\nLord of Deceit (Aura): Each time your opponent targets a unit from their army with a Stratagem, if that unit is within 12\" of this model, increase the cost of that usage of that Stratagem by 1CP."
   },
   {
-    "ability_id": "umbral-raptor",
+    "ability_id": "umbral-raptor-shadowmark-talon",
     "name": "Umbral Raptor",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -51,7 +51,7 @@
     "raw_text": "ADEPTUS ASTARTES model only. The bearer has the Stealth and Lone Operative abilities."
   },
   {
-    "ability_id": "hunters-instincts",
+    "ability_id": "hunters-instincts-shadowmark-talon",
     "name": "Hunter’s Instincts",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -68,7 +68,7 @@
     "raw_text": "ADEPTUS ASTARTES MOUNTED model only. If the bearer’s unit is in Strategic Reserves, for the purposes of setting up that unit on the battlefield, treat the current battle round number as being one higher than it actually is."
   },
   {
-    "ability_id": "the-imperiums-sword",
+    "ability_id": "the-imperiums-sword-1st-company-task-force",
     "name": "The Imperium’s Sword",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -85,7 +85,7 @@
     "raw_text": "ADEPTUS ASTARTES model only. Add 1 to the Attacks characteristic of the bearer’s melee weapons. Once per battle, at the start of any phase, the bearer can use this Enhancement. If it does, until the end of the phase, add 1 to the Attacks characteristic of melee weapons equipped by all other models in the bearer’s unit as well."
   },
   {
-    "ability_id": "fear-made-manifest-aura",
+    "ability_id": "fear-made-manifest-aura-1st-company-task-force",
     "name": "Fear Made Manifest (Aura)",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -102,7 +102,7 @@
     "raw_text": "ADEPTUS ASTARTES model only. While an enemy unit (excluding MONSTERS and VEHICLES) is within 6\" of the bearer, each time that unit fails a Battle-shock test, one model in that unit is destroyed (chosen by its controlling player). Once per battle, when such an enemy unit fails a Battle-shock test, you can choose for D3 models in that unit to be destroyed in this way instead."
   },
   {
-    "ability_id": "rites-of-war",
+    "ability_id": "rites-of-war-1st-company-task-force",
     "name": "Rites of War",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -119,7 +119,7 @@
     "raw_text": "ADEPTUS ASTARTES TERMINATOR model only. Improve the Objective Control characteristic of the bearer by 1. Once per battle, at the start of any phase, the bearer can use this Enhancement. If it does, until the end of the phase, add 1 to the Objective Control characteristic of all other models in the bearer’s unit as well."
   },
   {
-    "ability_id": "iron-resolve",
+    "ability_id": "iron-resolve-1st-company-task-force",
     "name": "Iron Resolve",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -136,7 +136,7 @@
     "raw_text": "ADEPTUS ASTARTES TERMINATOR model only. The bearer has the Feel No Pain 5+ ability. Once per battle, after the bearer’s unit is selected as the target of one or more attacks, the bearer can use this Enhancement. If it does, until the end of the phase, models in the bearer’s unit have the Feel No Pain 5+ ability."
   },
   {
-    "ability_id": "artificer-armour",
+    "ability_id": "artificer-armour-gladius-task-force",
     "name": "Artificer Armour",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -153,7 +153,7 @@
     "raw_text": "ADEPTUS ASTARTES model only. The bearer has a Save characteristic of 2+ and the Feel No Pain 5+ ability."
   },
   {
-    "ability_id": "the-honour-vehement",
+    "ability_id": "the-honour-vehement-gladius-task-force",
     "name": "The Honour Vehement",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -170,7 +170,7 @@
     "raw_text": "ADEPTUS ASTARTES model only. Add 1 to the Attacks and Strength characteristics of the bearer’s melee weapons. While the bearer is under the effects of the Assault Doctrine, add 2 to the Attacks and Strength characteristics of the bearer’s melee weapons instead."
   },
   {
-    "ability_id": "adept-of-the-codex",
+    "ability_id": "adept-of-the-codex-gladius-task-force",
     "name": "Adept of the Codex",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -187,7 +187,7 @@
     "raw_text": "CAPTAIN model only. At the start of your Command phase, if the bearer is on the battlefield, instead of selecting a Combat Doctrine to be active for your army, you can select the Tactical Doctrine. If you do, until the start of your next Command phase, that Combat Doctrine is active for the bearer’s unit only, even if you have already selected that Combat Doctrine to be active for your army this battle."
   },
   {
-    "ability_id": "fire-discipline",
+    "ability_id": "fire-discipline-gladius-task-force",
     "name": "Fire Discipline",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -204,7 +204,7 @@
     "raw_text": "ADEPTUS ASTARTES model only. While the bearer is leading a unit, ranged weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability. In addition, while the bearer’s unit is under the effects of the Devastator Doctrine, you can re-roll Advance rolls made for that unit."
   },
   {
-    "ability_id": "fury-of-the-storm",
+    "ability_id": "fury-of-the-storm-stormlance-task-force",
     "name": "Fury of the Storm",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -221,7 +221,7 @@
     "raw_text": "ADEPTUS ASTARTES MOUNTED model only. Improve the Strength and Armour Penetration characteristics of the bearer’s melee weapons by 1. Each time the bearer ends a Charge move, until the end of the turn, improve the Strength and Armour Penetration characteristics of the bearer’s melee weapons by 2 instead."
   },
   {
-    "ability_id": "portents-of-wisdom",
+    "ability_id": "portents-of-wisdom-stormlance-task-force",
     "name": "Portents of Wisdom",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -238,7 +238,7 @@
     "raw_text": "ADEPTUS ASTARTES model only. While the bearer is leading a unit, you can re-roll Advance rolls made for that unit."
   },
   {
-    "ability_id": "feinting-withdrawal",
+    "ability_id": "feinting-withdrawal-stormlance-task-force",
     "name": "Feinting Withdrawal",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -255,7 +255,7 @@
     "raw_text": "ADEPTUS ASTARTES model only. While the bearer is leading a unit, that unit is eligible to shoot in a turn in which it Fell Back."
   },
   {
-    "ability_id": "celerity",
+    "ability_id": "celerity-librarius-conclave",
     "name": "Celerity",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -272,7 +272,7 @@
     "raw_text": "ADEPTUS ASTARTES PSYKER model only. The bearer’s unit is eligible to declare a charge in a turn in which it Advanced, and if the Biomancy Discipline is active for your army, it is eligible to declare a charge in a turn in which it Fell Back."
   },
   {
-    "ability_id": "prescience",
+    "ability_id": "prescience-librarius-conclave",
     "name": "Prescience",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -289,7 +289,7 @@
     "raw_text": "ADEPTUS ASTARTES PSYKER model only (excluding TERMINATOR models). Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 9\" of the bearer’s unit, the bearer’s unit can make a Normal move of up to D6\", or up to 6\" instead if the Divination Discipline is active for your army."
   },
   {
-    "ability_id": "obfuscation",
+    "ability_id": "obfuscation-librarius-conclave",
     "name": "Obfuscation",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -306,7 +306,7 @@
     "raw_text": "ADEPTUS ASTARTES PSYKER model only. Enemy units cannot use the Fire Overwatch Stratagem to shoot at the bearer’s unit, and if the Telepathy Discipline is active for your army, the bearer’s unit cannot be targeted by ranged attacks unless the attacking model is within 18\"."
   },
   {
-    "ability_id": "fusillade",
+    "ability_id": "fusillade-librarius-conclave",
     "name": "Fusillade",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -323,7 +323,7 @@
     "raw_text": "ADEPTUS ASTARTES PSYKER model only. Ranged weapons equipped by models in the bearer’s unit have the [ANTI‑MONSTER 5+] and [ANTI‑VEHICLE 5+] abilities, and:\n\n■ The [SUSTAINED HITS 1] ability if the Pyromancy Discipline is active for your army.\n■ Add 6\" to the Range characteristic of those weapons if the Telekinesis Discipline is active for your army."
   },
   {
-    "ability_id": "the-blade-driven-deep",
+    "ability_id": "the-blade-driven-deep-vanguard-spearhead",
     "name": "The Blade Driven Deep",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -340,7 +340,7 @@
     "raw_text": "ADEPTUS ASTARTES INFANTRY model only. While the bearer is leading a unit, models in that unit have the Infiltrators ability."
   },
   {
-    "ability_id": "ghostweave-cloak",
+    "ability_id": "ghostweave-cloak-vanguard-spearhead",
     "name": "Ghostweave Cloak",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -357,7 +357,7 @@
     "raw_text": "ADEPTUS ASTARTES model only. The bearer has the Stealth and Lone Operative abilities."
   },
   {
-    "ability_id": "execute-and-redeploy",
+    "ability_id": "execute-and-redeploy-vanguard-spearhead",
     "name": "Execute and Redeploy",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -374,7 +374,7 @@
     "raw_text": "PHOBOS model only. In your Shooting phase, after the bearer’s unit has shot, if that unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to 6\". If it does, until the end of the turn, that unit is not eligible to declare a charge. This cannot allow the bearer’s unit to move more than once in your Shooting phase."
   },
   {
-    "ability_id": "shadow-war-veteran",
+    "ability_id": "shadow-war-veteran-vanguard-spearhead",
     "name": "Shadow War Veteran",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -391,7 +391,7 @@
     "raw_text": "PHOBOS model only. The bearer has the following ability:\n\nLord of Deceit (Aura): Each time your opponent targets a unit from their army with a Stratagem, if that unit is within 12\" of this model, increase the cost of that use of that Stratagem by 1CP."
   },
   {
-    "ability_id": "laurels-of-thunder",
+    "ability_id": "laurels-of-thunder-orbital-assault-force",
     "name": "Laurels of Thunder",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -408,7 +408,7 @@
     "raw_text": "ADEPTUS ASTARTES model only. You can re‑roll Charge rolls made for the bearer’s unit in a turn in which it was set up on the battlefield."
   },
   {
-    "ability_id": "veteran-of-the-vanguard",
+    "ability_id": "veteran-of-the-vanguard-orbital-assault-force",
     "name": "Veteran of the Vanguard",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -425,7 +425,7 @@
     "raw_text": "ADEPTUS ASTARTES model only. Models in the bearer’s unit have the Scouts 6\" ability."
   },
   {
-    "ability_id": "orbital-uplink-reliquary",
+    "ability_id": "orbital-uplink-reliquary-orbital-assault-force",
     "name": "Orbital Uplink Reliquary",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -442,7 +442,7 @@
     "raw_text": "ADEPTUS ASTARTES model only. After both players have deployed their armies, select up to three ADEPTUS ASTARTES units from your army and redeploy them. When doing so, you can set those units up in Strategic Reserves if you wish, regardless of how many units are already in Strategic Reserves."
   },
   {
-    "ability_id": "indomitable-fury",
+    "ability_id": "indomitable-fury-anvil-siege-force",
     "name": "Indomitable Fury",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -459,7 +459,7 @@
     "raw_text": "GRAVIS model only. The first time the bearer is destroyed, roll one D6 at the end of the phase. On a 2+, set the bearer back up on the battlefield, as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with its full wounds remaining."
   },
   {
-    "ability_id": "fleet-commander",
+    "ability_id": "fleet-commander-anvil-siege-force",
     "name": "Fleet Commander",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -476,7 +476,7 @@
     "raw_text": "CAPTAIN model only. Once per battle, at the start of your Shooting phase, you can select one point on the battlefield and place a marker on that point. At the start of your next Shooting phase, place another marker on the battlefield within 12\" of the centre of the first marker, then draw a straight line between the centre of each of these markers. Roll one D6 for each unit that line passes over or through: on a 3+, that unit suffers D3 mortal wounds. Both markers are then removed."
   },
   {
-    "ability_id": "stoic-defender",
+    "ability_id": "stoic-defender-anvil-siege-force",
     "name": "Stoic Defender",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -493,7 +493,7 @@
     "raw_text": "ADEPTUS ASTARTES model only. While the bearer is leading a unit, models in that unit have the Feel No Pain 6+ ability while they are within range of an objective marker you control and, while that unit is Battle-shocked, halve the Objective Control characteristic of models in that unit instead of changing it to 0."
   },
   {
-    "ability_id": "architect-of-war",
+    "ability_id": "architect-of-war-anvil-siege-force",
     "name": "Architect of War",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -510,7 +510,7 @@
     "raw_text": "ADEPTUS ASTARTES model only. While the bearer is leading a unit, ranged weapons equipped by models in that unit have the [IGNORES COVER] ability."
   },
   {
-    "ability_id": "champion-of-humanity",
+    "ability_id": "champion-of-humanity-firestorm-assault-force",
     "name": "Champion of Humanity",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -527,7 +527,7 @@
     "raw_text": "TACTICUS model only. While the bearer is leading a unit, models in that unit can ignore any or all modifiers to their characteristics and/or to any roll or test made for them (excluding modifiers to saving throws)."
   },
   {
-    "ability_id": "war-tempered-artifice",
+    "ability_id": "war-tempered-artifice-firestorm-assault-force",
     "name": "War-tempered Artifice",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -544,7 +544,7 @@
     "raw_text": "ADEPTUS ASTARTES INFANTRY model only. Add 3 to the Strength characteristic of the bearer’s melee weapons."
   },
   {
-    "ability_id": "forged-in-battle",
+    "ability_id": "forged-in-battle-firestorm-assault-force",
     "name": "Forged in Battle",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -561,7 +561,7 @@
     "raw_text": "ADEPTUS ASTARTES model only. While the bearer is leading a unit, once per turn, after making a Hit roll or a saving throw for a model in that unit, you can change the result of that roll to an unmodified 6."
   },
   {
-    "ability_id": "adamantine-mantle",
+    "ability_id": "adamantine-mantle-firestorm-assault-force",
     "name": "Adamantine Mantle",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -578,7 +578,7 @@
     "raw_text": "ADEPTUS ASTARTES model only. Each time an attack is allocated to the bearer, subtract 1 from the Damage characteristic of that attack. If that attack was made with a Melta or Torrent weapon, change the Damage characteristic of that attack to 1 instead."
   },
   {
-    "ability_id": "target-augury-web",
+    "ability_id": "target-augury-web-ironstorm-spearhead",
     "name": "Target Augury Web",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -595,7 +595,7 @@
     "raw_text": "TECHMARINE model only. In your Command phase, select one ADEPTUS ASTARTES VEHICLE model within 6\" of the bearer. Until the start of your next Command phase, weapons equipped by that VEHICLE model have the [LETHAL HITS] ability."
   },
   {
-    "ability_id": "the-flesh-is-weak",
+    "ability_id": "the-flesh-is-weak-ironstorm-spearhead",
     "name": "The Flesh Is Weak",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -612,7 +612,7 @@
     "raw_text": "ADEPTUS ASTARTES model only. The bearer has the Feel No Pain 4+ ability."
   },
   {
-    "ability_id": "adept-of-the-omnissiah",
+    "ability_id": "adept-of-the-omnissiah-ironstorm-spearhead",
     "name": "Adept of the Omnissiah",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -629,7 +629,7 @@
     "raw_text": "TECHMARINE model only. Once per battle round, when a saving throw is failed for a friendly ADEPTUS ASTARTES VEHICLE model within 6\" of the bearer, you can change the Damage characteristic of that attack to 0."
   },
   {
-    "ability_id": "master-of-machine-war",
+    "ability_id": "master-of-machine-war-ironstorm-spearhead",
     "name": "Master of Machine War",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -646,7 +646,7 @@
     "raw_text": "ADEPTUS ASTARTES model only. In your Command phase, select one ADEPTUS ASTARTES VEHICLE model within 6\" of the bearer. Until the start of your next Command phase, that VEHICLE is eligible to shoot even if it Fell Back or Advanced this turn."
   },
   {
-    "ability_id": "liberator",
+    "ability_id": "liberator-armoured-speartip",
     "name": "Liberator",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -663,7 +663,7 @@
     "raw_text": "ADEPTUS ASTARTES model only. If you control an objective marker at the end of your Command phase, and the bearer’s unit (or any HEAVY TRANSPORT it is embarked within) is within range of that objective marker, that objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
   },
   {
-    "ability_id": "tip-of-the-spear",
+    "ability_id": "tip-of-the-spear-armoured-speartip",
     "name": "Tip of the Spear",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -680,7 +680,7 @@
     "raw_text": "ADEPTUS ASTARTES model only. If the bearer starts the battle embarked within a TRANSPORT, that TRANSPORT has the Scouts 6\" ability."
   },
   {
-    "ability_id": "shock-deployment",
+    "ability_id": "shock-deployment-armoured-speartip",
     "name": "Shock Deployment",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -697,7 +697,7 @@
     "raw_text": "ADEPTUS ASTARTES TERMINATOR or GRAVIS model only. In your Shooting phase, each time the bearer’s unit is selected to shoot, if it disembarked from a TRANSPORT this turn, until the end of the phase, ranged weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability."
   },
   {
-    "ability_id": "armoured-commander",
+    "ability_id": "armoured-commander-armoured-speartip",
     "name": "Armoured Commander",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -714,7 +714,7 @@
     "raw_text": "ADEPTUS ASTARTES model only. Once per turn, in your Movement phase, the bearer can use this Enhancement. If it does, select one friendly ADEPTUS ASTARTES TRANSPORT that is in Strategic Reserves. Until the end of the phase, for the purposes of setting up that TRANSPORT on the battlefield, treat the current battle round number as being one higher than it actually is."
   },
   {
-    "ability_id": "eye-of-the-primarch",
+    "ability_id": "eye-of-the-primarch-bastion-task-force",
     "name": "Eye of the Primarch",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -731,7 +731,7 @@
     "raw_text": "ADEPTUS ASTARTES model only. Ranged weapons equipped by the bearer and BATTLELINE models in the bearer’s unit have the [PRECISION] ability."
   },
   {
-    "ability_id": "hero-of-the-chapter",
+    "ability_id": "hero-of-the-chapter-bastion-task-force",
     "name": "Hero of the Chapter",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -748,7 +748,7 @@
     "raw_text": "ADEPTUS ASTARTES model only. While the bearer is leading a unit, the bearer has the BATTLELINE keyword."
   },
   {
-    "ability_id": "blades-of-valour",
+    "ability_id": "blades-of-valour-bastion-task-force",
     "name": "Blades of Valour",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -765,7 +765,7 @@
     "raw_text": "ADEPTUS ASTARTES model only. Improve the Armour Penetration characteristic of melee weapons equipped by the bearer and BATTLELINE models in the bearer’s unit by 1."
   },
   {
-    "ability_id": "bombast-omnivox",
+    "ability_id": "bombast-omnivox-bastion-task-force",
     "name": "Bombast Omnivox",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -782,7 +782,7 @@
     "raw_text": "ADEPTUS ASTARTES model only. Each time you select the bearer’s unit as the target of a Stratagem, roll one D6, adding 1 if the bearer’s unit has the BATTLELINE keyword: on a 4+, you gain 1CP."
   },
   {
-    "ability_id": "honour-indefatigable",
+    "ability_id": "honour-indefatigable-ceramite-sentinels",
     "name": "Honour Indefatigable",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -799,7 +799,7 @@
     "raw_text": "GRAVIS model only. The first time the bearer is destroyed, roll one D6 at the end of the phase. On a 2+, set the bearer back up on the battlefield, as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with its full wounds remaining."
   },
   {
-    "ability_id": "castellum-omnivox",
+    "ability_id": "castellum-omnivox-ceramite-sentinels",
     "name": "Castellum Omnivox",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -816,7 +816,7 @@
     "raw_text": "ADEPTUS ASTARTES model only. Each time the bearer’s unit makes a Fall Back move, select one of the following to apply to that unit until the end of the turn:\n\n■ That unit is eligible to perform an Action in a turn in which it Fell Back.\n■ That unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
   },
   {
-    "ability_id": "defensive-mastery",
+    "ability_id": "defensive-mastery-ceramite-sentinels",
     "name": "Defensive Mastery",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -833,7 +833,7 @@
     "raw_text": "ADEPTUS ASTARTES model only. After both players have deployed their armies, select up to three ADEPTUS ASTARTES units from your army and redeploy them. When doing so, you can set those units up in Strategic Reserves, regardless of how many units are already in Strategic Reserves."
   },
   {
-    "ability_id": "redoubtable-machine-spirit",
+    "ability_id": "redoubtable-machine-spirit-headhunter-task-force",
     "name": "Redoubtable Machine Spirit",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -850,7 +850,7 @@
     "raw_text": "ADEPTUS ASTARTES VEHICLE model only. The bearer has a 5+ invulnerable save and, at the end of your Command phase, the bearer regains 1 lost wound."
   },
   {
-    "ability_id": "gunnery-honours",
+    "ability_id": "gunnery-honours-headhunter-task-force",
     "name": "Gunnery Honours",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -867,7 +867,7 @@
     "raw_text": "ADEPTUS ASTARTES VEHICLE model only. Once per phase, you can re‑roll one Hit roll, one Wound roll and one Damage roll for the bearer."
   },
   {
-    "ability_id": "firestorm-coordinators",
+    "ability_id": "firestorm-coordinators-headhunter-task-force",
     "name": "Firestorm Coordinators",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -884,7 +884,7 @@
     "raw_text": "ADEPTUS ASTARTES VEHICLE model only. Ranged weapons equipped by the bearer have the [SUSTAINED HITS 1] ability."
   },
   {
-    "ability_id": "astartes-tank-ace-aura",
+    "ability_id": "astartes-tank-ace-aura-headhunter-task-force",
     "name": "Astartes Tank Ace (aura)",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -901,7 +901,7 @@
     "raw_text": "&x20;ADEPTUS ASTARTES VEHICLE model only. In your Shooting phase, while a friendly ADEPTUS ASTARTES VEHICLE unit is within 6\" of the bearer, ranged weapons equipped by models in that unit have the [ASSAULT] ability"
   },
   {
-    "ability_id": "armour-of-contempt",
+    "ability_id": "armour-of-contempt-company-of-hunters",
     "name": "ARMOUR OF CONTEMPT",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -915,10 +915,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One ADEPTUS ASTARTES unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
   },
   {
-    "ability_id": "stunning-fusillade",
+    "ability_id": "stunning-fusillade-shadowmark-talon",
     "name": "Stunning Fusillade",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -932,10 +934,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes a ranged attack that targets an enemy unit that is more than 12\" away, improve the Ballistic Skill and Armour Penetration characteristics of that attack by 1. If one or more enemy models are destroyed as a result of those attacks, select one of those destroyed models; that destroyed model’s unit must take a Battle-shock test."
+    "when": "Your Shooting phase.&x20;",
+    "target": "One ADEPTUS ASTARTES INFANTRY unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes a ranged attack that targets an enemy unit that is more than 12\" away, improve the Ballistic Skill and Armour Penetration characteristics of that attack by 1. If one or more enemy models are destroyed as a result of those attacks, select one of those destroyed models; that destroyed model’s unit must take a Battle-shock test."
   },
   {
-    "ability_id": "lay-low-the-tyrants",
+    "ability_id": "lay-low-the-tyrants-shadowmark-talon",
     "name": "Lay Low the Tyrants",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -949,10 +953,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, melee weapons equipped by models in your unit have the [PRECISION] ability."
+    "when": "&x20;Fight phase.",
+    "target": "One ADEPTUS ASTARTES INFANTRY unit from your army that has not been selected to fight this phase.",
+    "effect": "Until the end of the phase, melee weapons equipped by models in your unit have the [PRECISION] ability."
   },
   {
-    "ability_id": "raptorial-vigilance",
+    "ability_id": "raptorial-vigilance-shadowmark-talon",
     "name": "Raptorial Vigilance",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -966,10 +972,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can make a Normal move of up to D6\", or up to 6\" instead if it is a PHOBOS or SCOUT SQUAD unit."
+    "when": "Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.&x20;",
+    "target": "One ADEPTUS ASTARTES INFANTRY or ADEPTUS ASTARTES MOUNTED unit from your army that is within 9\" of the enemy unit that just ended that move. You cannot target a unit that is within Engagement Range of one or more enemy units.",
+    "effect": "Your unit can make a Normal move of up to D6\", or up to 6\" instead if it is a PHOBOS or SCOUT SQUAD unit."
   },
   {
-    "ability_id": "feint-and-thrust",
+    "ability_id": "feint-and-thrust-shadowmark-talon",
     "name": "Feint and Thrust",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -983,10 +991,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back. If it is a PHOBOS or SCOUT SQUAD unit, it is also eligible to shoot and declare a charge in a turn in which it Advanced."
+    "when": "Your Movement phase.&x20;",
+    "target": "One ADEPTUS ASTARTES unit from your army.",
+    "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back. If it is a PHOBOS or SCOUT SQUAD unit, it is also eligible to shoot and declare a charge in a turn in which it Advanced."
   },
   {
-    "ability_id": "into-darkness",
+    "ability_id": "into-darkness-shadowmark-talon",
     "name": "Into Darkness",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1000,10 +1010,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Remove those units from the battlefield and place them into Strategic Reserves."
+    "when": "End of your opponent’s Fight phase.",
+    "target": "Up to two PHOBOS and/or SCOUT SQUAD units from your army, or one other ADEPTUS ASTARTES INFANTRY unit from your army. You cannot target a unit that is within Engagement Range of one or more enemy units.",
+    "effect": "Remove those units from the battlefield and place them into Strategic Reserves."
   },
   {
-    "ability_id": "heroes-of-the-chapter",
+    "ability_id": "heroes-of-the-chapter-1st-company-task-force",
     "name": "HEROES OF THE CHAPTER",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1017,10 +1029,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, add 1 to the Hit roll. If your unit is Below Half-strength, add 1 to the Wound roll as well."
+    "when": "Your Shooting phase or the Fight phase.",
+    "target": "One ADEPTUS ASTARTES TERMINATOR, BLADEGUARD VETERAN SQUAD, STERNGUARD VETERAN SQUAD or VANGUARD VETERAN SQUAD unit from your army that has not been selected to shoot or fight this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack, add 1 to the Hit roll. If your unit is Below Half-strength, add 1 to the Wound roll as well."
   },
   {
-    "ability_id": "legendary-fortitude",
+    "ability_id": "legendary-fortitude-1st-company-task-force",
     "name": "LEGENDARY FORTITUDE",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1034,10 +1048,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, each time an attack is allocated to a model in your unit, subtract 1 from the Damage characteristic of that attack."
+    "when": "Your opponent’s Charge phase, just after an enemy unit ends a Charge move.",
+    "target": "One ADEPTUS ASTARTES TERMINATOR, BLADEGUARD VETERAN SQUAD, STERNGUARD VETERAN SQUAD or VANGUARD VETERAN SQUAD unit from your army within Engagement Range of that enemy unit.",
+    "effect": "Until the end of the turn, each time an attack is allocated to a model in your unit, subtract 1 from the Damage characteristic of that attack."
   },
   {
-    "ability_id": "terrifying-proficiency",
+    "ability_id": "terrifying-proficiency-1st-company-task-force",
     "name": "TERRIFYING PROFICIENCY",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1051,10 +1067,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "In your opponent’s next Command phase, each enemy unit within 6\" of your unit must take a Battle-shock test. If the unit taking that test is Below Half-strength, subtract 1 from that test. Enemy units affected by this Stratagem do not need to take any other Battle-shock tests in the same phase."
+    "when": "Your Fight phase.",
+    "target": "One ADEPTUS ASTARTES TERMINATOR, BLADEGUARD VETERAN SQUAD, STERNGUARD VETERAN SQUAD or VANGUARD VETERAN SQUAD unit from your army that made a Charge move this turn and destroyed one or more enemy units this phase.",
+    "effect": "In your opponent’s next Command phase, each enemy unit within 6\" of your unit must take a Battle-shock test. If the unit taking that test is Below Half-strength, subtract 1 from that test. Enemy units affected by this Stratagem do not need to take any other Battle-shock tests in the same phase."
   },
   {
-    "ability_id": "duty-and-honour",
+    "ability_id": "duty-and-honour-1st-company-task-force",
     "name": "DUTY AND HONOUR",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1068,10 +1086,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
+    "when": "Your Movement phase.",
+    "target": "One ADEPTUS ASTARTES TERMINATOR, BLADEGUARD VETERAN SQUAD, STERNGUARD VETERAN SQUAD or VANGUARD VETERAN SQUAD unit from your army within range of an objective marker you control.",
+    "effect": "That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
   },
   {
-    "ability_id": "orbital-teleportarium",
+    "ability_id": "orbital-teleportarium-1st-company-task-force",
     "name": "ORBITAL TELEPORTARIUM",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1085,10 +1105,13 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Remove your unit from the battlefield and place it into Strategic Reserves. It will arrive back on the battlefield in the Reinforcements step of your next Movement phase using the Deep Strike ability."
+    "when": "End of your opponent’s Fight phase.",
+    "target": "One ADEPTUS ASTARTES TERMINATOR unit from your army.",
+    "effect": "Remove your unit from the battlefield and place it into Strategic Reserves. It will arrive back on the battlefield in the Reinforcements step of your next Movement phase using the Deep Strike ability.",
+    "restrictions": "You cannot select a unit that is within Engagement Range of one or more enemy units."
   },
   {
-    "ability_id": "honour-the-chapter",
+    "ability_id": "honour-the-chapter-gladius-task-force",
     "name": "HONOUR THE CHAPTER",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1102,10 +1125,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, melee weapons equipped by models in your unit have the [LANCE] ability. If your unit is under the effects of the Assault Doctrine, until the end of the phase, improve the Armour Penetration characteristic of such weapons by 1 as well."
+    "when": "Fight phase.",
+    "target": "One ADEPTUS ASTARTES unit from your army.",
+    "effect": "Until the end of the phase, melee weapons equipped by models in your unit have the [LANCE] ability. If your unit is under the effects of the Assault Doctrine, until the end of the phase, improve the Armour Penetration characteristic of such weapons by 1 as well."
   },
   {
-    "ability_id": "storm-of-fire",
+    "ability_id": "storm-of-fire-gladius-task-force",
     "name": "STORM OF FIRE",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1119,10 +1144,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, ranged weapons equipped by models in your unit have the [IGNORES COVER] ability. If your unit is under the effects of the Devastator Doctrine, until the end of the phase, improve the Armour Penetration characteristic of such weapons by 1 as well."
+    "when": "Your Shooting phase.",
+    "target": "One ADEPTUS ASTARTES unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the [IGNORES COVER] ability. If your unit is under the effects of the Devastator Doctrine, until the end of the phase, improve the Armour Penetration characteristic of such weapons by 1 as well."
   },
   {
-    "ability_id": "only-in-death-does-duty-end",
+    "ability_id": "only-in-death-does-duty-end-gladius-task-force",
     "name": "ONLY IN DEATH DOES DUTY END",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1136,10 +1163,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, do not remove it from play. The destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play."
+    "when": "Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One ADEPTUS ASTARTES unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, do not remove it from play. The destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play."
   },
   {
-    "ability_id": "adaptive-strategy",
+    "ability_id": "adaptive-strategy-gladius-task-force",
     "name": "ADAPTIVE STRATEGY",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1153,10 +1182,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Select the Devastator Doctrine, Tactical Doctrine or Assault Doctrine. Until the start of your next Command phase, that Combat Doctrine is active for that unit instead of any other Combat Doctrine that is active for your army, even if you have already selected that Combat Doctrine this battle."
+    "when": "Your Command phase.",
+    "target": "One ADEPTUS ASTARTES unit from your army.",
+    "effect": "Select the Devastator Doctrine, Tactical Doctrine or Assault Doctrine. Until the start of your next Command phase, that Combat Doctrine is active for that unit instead of any other Combat Doctrine that is active for your army, even if you have already selected that Combat Doctrine this battle."
   },
   {
-    "ability_id": "squad-tactics",
+    "ability_id": "squad-tactics-gladius-task-force",
     "name": "SQUAD TACTICS",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1170,10 +1201,13 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can make a Normal move of up to D6\", or a Normal move of up to 6\" instead if it is under the effects of the Tactical Doctrine."
+    "when": "Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.",
+    "target": "One ADEPTUS ASTARTES INFANTRY or ADEPTUS ASTARTES MOUNTED unit from your army that is within 9\" of the enemy unit that just ended that move.",
+    "effect": "Your unit can make a Normal move of up to D6\", or a Normal move of up to 6\" instead if it is under the effects of the Tactical Doctrine.",
+    "restrictions": "You cannot select a unit that is within Engagement Range of one or more enemy units."
   },
   {
-    "ability_id": "blitzing-fusillade",
+    "ability_id": "blitzing-fusillade-stormlance-task-force",
     "name": "BLITZING FUSILLADE",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1187,10 +1221,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, ranged weapons equipped by models in your unit have the [ASSAULT] ability. If such a weapon already has this ability, until the end of the phase, that weapon has the [SUSTAINED HITS 1] ability as well."
+    "when": "Your Shooting phase.",
+    "target": "One ADEPTUS ASTARTES unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the [ASSAULT] ability. If such a weapon already has this ability, until the end of the phase, that weapon has the [SUSTAINED HITS 1] ability as well."
   },
   {
-    "ability_id": "shock-assault",
+    "ability_id": "shock-assault-stormlance-task-force",
     "name": "SHOCK ASSAULT",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1204,10 +1240,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, you can re-roll Charge rolls made for your unit and melee weapons equipped by models in that unit have the [LANCE] ability."
+    "when": "Your Charge phase.",
+    "target": "One ADEPTUS ASTARTES MOUNTED unit from your army that has not declared a charge this phase.",
+    "effect": "Until the end of the turn, you can re-roll Charge rolls made for your unit and melee weapons equipped by models in that unit have the [LANCE] ability."
   },
   {
-    "ability_id": "ride-hard-ride-fast",
+    "ability_id": "ride-hard-ride-fast-stormlance-task-force",
     "name": "RIDE HARD, RIDE FAST",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1221,10 +1259,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll and subtract 1 from the Wound roll."
+    "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
+    "target": "One ADEPTUS ASTARTES MOUNTED or ADEPTUS ASTARTES FLY VEHICLE unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll and subtract 1 from the Wound roll."
   },
   {
-    "ability_id": "wind-swift-evasion",
+    "ability_id": "wind-swift-evasion-stormlance-task-force",
     "name": "WIND-SWIFT EVASION",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1238,10 +1278,13 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can make a Normal move of up to 6\"."
+    "when": "Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.",
+    "target": "One ADEPTUS ASTARTES INFANTRY or ADEPTUS ASTARTES MOUNTED unit from your army that is within 9\" of that enemy unit.",
+    "effect": "Your unit can make a Normal move of up to 6\".",
+    "restrictions": "You cannot select a unit that is within Engagement Range of one or more enemy units."
   },
   {
-    "ability_id": "full-throttle",
+    "ability_id": "full-throttle-stormlance-task-force",
     "name": "FULL THROTTLE",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1255,10 +1298,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, if your unit Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in your unit, or 9\" instead if your unit is Mounted."
+    "when": "Your Movement phase.",
+    "target": "One ADEPTUS ASTARTES MOUNTED or ADEPTUS ASTARTES VEHICLE unit (excluding WALKERS) from your army.",
+    "effect": "Until the end of the phase, if your unit Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in your unit, or 9\" instead if your unit is Mounted."
   },
   {
-    "ability_id": "strike-from-the-shadows",
+    "ability_id": "strike-from-the-shadows-vanguard-spearhead",
     "name": "STRIKE FROM THE SHADOWS",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1272,10 +1317,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes a ranged attack that targets an enemy unit that is more than 12\" away, improve the Ballistic Skill and Armour Penetration characteristics of that attack by 1. If one or more enemy models are destroyed as a result of those attacks, select one of those destroyed models; that destroyed model’s unit must take a Battle-shock test."
+    "when": "Your Shooting phase.",
+    "target": "One ADEPTUS ASTARTES INFANTRY unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes a ranged attack that targets an enemy unit that is more than 12\" away, improve the Ballistic Skill and Armour Penetration characteristics of that attack by 1. If one or more enemy models are destroyed as a result of those attacks, select one of those destroyed models; that destroyed model’s unit must take a Battle-shock test."
   },
   {
-    "ability_id": "surgical-strikes",
+    "ability_id": "surgical-strikes-vanguard-spearhead",
     "name": "SURGICAL STRIKES",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1289,10 +1336,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, melee weapons equipped by models in your unit have the [PRECISION] ability."
+    "when": "Fight phase.",
+    "target": "One ADEPTUS ASTARTES INFANTRY unit from your army that has not been selected to fight this phase.",
+    "effect": "Until the end of the phase, melee weapons equipped by models in your unit have the [PRECISION] ability."
   },
   {
-    "ability_id": "calculated-feint",
+    "ability_id": "calculated-feint-vanguard-spearhead",
     "name": "CALCULATED FEINT",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1306,10 +1355,13 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can make a Normal move of up to D6\", or up to 6\" instead if it is a PHOBOS or SCOUT SQUAD unit."
+    "when": "Your opponent’s Charge phase, just after an enemy unit declares a charge.",
+    "target": "One ADEPTUS ASTARTES INFANTRY unit from your army that was selected as a target of that charge.",
+    "effect": "Your unit can make a Normal move of up to D6\", or up to 6\" instead if it is a PHOBOS or SCOUT SQUAD unit.",
+    "restrictions": "You cannot select a unit that is within Engagement Range of one or more enemy units."
   },
   {
-    "ability_id": "guerrilla-tactics",
+    "ability_id": "guerrilla-tactics-vanguard-spearhead",
     "name": "GUERRILLA TACTICS",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1319,14 +1371,17 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "edition": "11e",
+      "ref": "manual"
     },
-    "raw_text": "At the end of your opponent’s turn, if this unit is more than 6\" away from all enemy models, you can remove this unit from the battlefield and place it into Strategic Reserves."
+    "when": "End of your opponent's Fight phase.",
+    "target": "Up to two PHOBOS and/or SCOUT SQUAD units from your army, or one other ADEPTUS ASTARTES INFANTRY unit from your army.",
+    "effect": "Remove those units from the battlefield and place them into Strategic Reserves.",
+    "restrictions": "Each unit selected for this Stratagem must be more than 3\" away from all enemy models."
   },
   {
-    "ability_id": "a-deadly-prize",
+    "ability_id": "a-deadly-prize-vanguard-spearhead",
     "name": "A DEADLY PRIZE",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1340,10 +1395,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "That objective marker is said to be Sabotaged, and remains under your control even if you have no models within range of it, until your opponent controls it at the start or end of any turn. While an objective marker is Sabotaged and under your control, each time an enemy unit ends a Normal, Advance, Fall Back or Charge move within range of that objective marker, roll one D6: on a 2+, that enemy unit suffers D3 mortal wounds."
+    "when": "Start of the Command phase.",
+    "target": "One ADEPTUS ASTARTES INFANTRY or ADEPTUS ASTARTES MOUNTED unit from your army within range of an objective marker you control.",
+    "effect": "That objective marker is said to be Sabotaged, and remains under your control even if you have no models within range of it, until your opponent controls it at the start or end of any turn. While an objective marker is Sabotaged and under your control, each time an enemy unit ends a Normal, Advance, Fall Back or Charge move within range of that objective marker, roll one D6: on a 2+, that enemy unit suffers D3 mortal wounds."
   },
   {
-    "ability_id": "suppression-strafing",
+    "ability_id": "suppression-strafing-orbital-assault-force",
     "name": "Suppression Strafing",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1357,14 +1414,17 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Select one enemy unit visible to and within 18\" of your unit. That enemy unit takes a Battle‑shock test. When doing so, subtract 1 from that test and, if that test is failed, until the start of your next turn, that enemy unit is suppressed. While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll."
+    "when": "Command phase.",
+    "target": "One ADEPTUS ASTARTES unit from your army.",
+    "effect": "Select one enemy unit visible to and within 18\" of your unit. That enemy unit takes a Battle‑shock test. When doing so, subtract 1 from that test and, if that test is failed, until the start of your next turn, that enemy unit is suppressed. While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll.",
+    "restrictions": "You cannot use this Stratagem more than once per battle round."
   },
   {
-    "ability_id": "dedicated-gunship",
+    "ability_id": "dedicated-gunship-orbital-assault-force",
     "name": "Dedicated Gunship",
     "faction_id": "raven-guard",
     "unit_ids": [],
-    "ability_type": "stratagem",
+    "ability_type": "enhancement",
     "game_version": {
       "edition": "11th",
       "dataslate": "pre-launch-provisional"
@@ -1377,7 +1437,7 @@
     "raw_text": "ADEPTUS ASTARTES TERMINATOR model only. Once per battle, at the end of your opponent’s Fight phase, if the bearer’s unit is not within Engagement Range of one or more enemy units, the bearer can use this Enhancement. If it does, remove the bearer’s unit from the battlefield and place it into Strategic Reserves."
   },
   {
-    "ability_id": "blind-screen",
+    "ability_id": "blind-screen-orbital-assault-force",
     "name": "Blind Screen",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1391,10 +1451,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, models in your units have the Stealth ability and each time a ranged attack targets one of your units, models in that unit have the Benefit of Cover against that attack."
+    "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
+    "target": "One ADEPTUS ASTARTES unit (excluding TITANIC units) from your army that was selected as the target of one or more of the attacking unit’s attacks and one friendly ADEPTUS ASTARTES SMOKE VEHICLE or DROP POD unit within 9\" of it.",
+    "effect": "Until the end of the phase, models in your units have the Stealth ability and each time a ranged attack targets one of your units, models in that unit have the Benefit of Cover against that attack."
   },
   {
-    "ability_id": "tactical-decapitation",
+    "ability_id": "tactical-decapitation-orbital-assault-force",
     "name": "Tactical Decapitation",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1408,10 +1470,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, weapons equipped by models in your unit have the [PRECISION] ability and each time a model in your unit makes an attack that targets a CHARACTER unit, add 1 to the Hit roll."
+    "when": "Your Shooting phase or the Fight phase.",
+    "target": "One ADEPTUS ASTARTES unit from your army that has not been selected to shoot or fight this phase.",
+    "effect": "Until the end of the phase, weapons equipped by models in your unit have the [PRECISION] ability and each time a model in your unit makes an attack that targets a CHARACTER unit, add 1 to the Hit roll."
   },
   {
-    "ability_id": "shock-onslaught",
+    "ability_id": "shock-onslaught-orbital-assault-force",
     "name": "Shock Onslaught",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1425,10 +1489,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes a Pile‑in or Consolidation move, it can move up to 6\" instead of up to 3\"."
+    "when": "Fight phase.",
+    "target": "One ADEPTUS ASTARTES unit from your army that has not been selected to fight this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes a Pile‑in or Consolidation move, it can move up to 6\" instead of up to 3\"."
   },
   {
-    "ability_id": "onward-for-the-emperor",
+    "ability_id": "onward-for-the-emperor-orbital-assault-force",
     "name": "Onward for the Emperor",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1442,10 +1508,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "If your ADEPTUS ASTARTES unit is wholly within 6\" of that TRANSPORT, it can embark within it."
+    "when": "End of your opponent’s Fight phase.",
+    "target": "One ADEPTUS ASTARTES INFANTRY unit from your army that was not set up on the battlefield this turn and one friendly TRANSPORT it is able to embark within.",
+    "effect": "If your ADEPTUS ASTARTES unit is wholly within 6\" of that TRANSPORT, it can embark within it."
   },
   {
-    "ability_id": "battle-drill-recall",
+    "ability_id": "battle-drill-recall-anvil-siege-force",
     "name": "BATTLE DRILL RECALL",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1459,10 +1527,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, ranged weapons equipped by models in your unit have the [SUSTAINED HITS 1] ability. If your unit Remained Stationary this turn, then until the end of the phase, each time a model in your unit makes a ranged attack, a successful unmodified Hit roll of 5+ scores a Critical Hit."
+    "when": "Your Shooting phase.",
+    "target": "One ADEPTUS ASTARTES unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the [SUSTAINED HITS 1] ability. If your unit Remained Stationary this turn, then until the end of the phase, each time a model in your unit makes a ranged attack, a successful unmodified Hit roll of 5+ scores a Critical Hit."
   },
   {
-    "ability_id": "no-threat-too-great",
+    "ability_id": "no-threat-too-great-anvil-siege-force",
     "name": "NO THREAT TOO GREAT",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1476,10 +1546,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes a ranged attack that targets a MONSTER or VEHICLE unit, you can re-roll the Wound roll."
+    "when": "Your Shooting phase.",
+    "target": "One ADEPTUS ASTARTES unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes a ranged attack that targets a MONSTER or VEHICLE unit, you can re-roll the Wound roll."
   },
   {
-    "ability_id": "rigid-discipline",
+    "ability_id": "rigid-discipline-anvil-siege-force",
     "name": "RIGID DISCIPLINE",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1493,10 +1565,13 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can immediately make a Fall Back move of up to 6\"."
+    "when": "End of the Fight phase.",
+    "target": "One ADEPTUS ASTARTES unit from your army that is within Engagement Range of one or more enemy units.",
+    "effect": "Your unit can immediately make a Fall Back move of up to 6\".",
+    "restrictions": "When making that move, your unit must end that move either wholly within your deployment zone or within range of an objective marker."
   },
   {
-    "ability_id": "not-one-backwards-step",
+    "ability_id": "not-one-backwards-step-anvil-siege-force",
     "name": "NOT ONE BACKWARDS STEP",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1510,10 +1585,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, double the Objective Control characteristic of models in your unit, but it must Remain Stationary this turn."
+    "when": "Your Command phase.",
+    "target": "One ADEPTUS ASTARTES INFANTRY unit from your army within range of an objective marker.",
+    "effect": "Until the end of the turn, double the Objective Control characteristic of models in your unit, but it must Remain Stationary this turn."
   },
   {
-    "ability_id": "hail-of-vengeance",
+    "ability_id": "hail-of-vengeance-anvil-siege-force",
     "name": "HAIL OF VENGEANCE",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1527,10 +1604,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can shoot as if it were your Shooting phase, but must target only that enemy unit when doing so, and can only do so if that enemy unit is an eligible target."
+    "when": "Your opponent’s Shooting phase, just after an enemy unit has resolved its attacks.",
+    "target": "One ADEPTUS ASTARTES unit from your army that had one or more of its models destroyed as a result of the attacking unit’s attacks.",
+    "effect": "Your unit can shoot as if it were your Shooting phase, but must target only that enemy unit when doing so, and can only do so if that enemy unit is an eligible target."
   },
   {
-    "ability_id": "crucible-of-battle",
+    "ability_id": "crucible-of-battle-firestorm-assault-force",
     "name": "CRUCIBLE OF BATTLE",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1544,10 +1623,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack that targets the closest eligible target within 6\", add 1 to the Wound roll."
+    "when": "Your Shooting phase or the Fight phase.",
+    "target": "One ADEPTUS ASTARTES INFANTRY unit from your army that has not been selected to shoot or fight this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets the closest eligible target within 6\", add 1 to the Wound roll."
   },
   {
-    "ability_id": "onslaught-of-fire",
+    "ability_id": "onslaught-of-fire-firestorm-assault-force",
     "name": "ONSLAUGHT OF FIRE",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1561,10 +1642,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes a ranged attack that targets the closest eligible target within 12\", add 1 to the Hit roll. If one or more enemy models are destroyed as the result of any of those attacks, select one of those destroyed models; that destroyed model’s unit must take a Battle-shock test."
+    "when": "Your Shooting phase.",
+    "target": "One ADEPTUS ASTARTES unit from your army that disembarked from a TRANSPORT this turn and has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes a ranged attack that targets the closest eligible target within 12\", add 1 to the Hit roll. If one or more enemy models are destroyed as the result of any of those attacks, select one of those destroyed models; that destroyed model’s unit must take a Battle-shock test."
   },
   {
-    "ability_id": "burning-vengeance",
+    "ability_id": "burning-vengeance-firestorm-assault-force",
     "name": "BURNING VENGEANCE",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1578,10 +1661,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "One unit embarked within that TRANSPORT can disembark as if it were your Movement phase, and can then shoot as if it were your Shooting phase, but must target only that enemy unit when doing so, and can only do so if that enemy unit is an eligible target."
+    "when": "Your opponent’s Shooting phase, just after an enemy unit has shot.",
+    "target": "One ADEPTUS ASTARTES TRANSPORT unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "One unit embarked within that TRANSPORT can disembark as if it were your Movement phase, and can then shoot as if it were your Shooting phase, but must target only that enemy unit when doing so, and can only do so if that enemy unit is an eligible target."
   },
   {
-    "ability_id": "immolation-protocols",
+    "ability_id": "immolation-protocols-firestorm-assault-force",
     "name": "IMMOLATION PROTOCOLS",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1595,10 +1680,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, Torrent weapons equipped by models in your unit have the [DEVASTATING WOUNDS] ability."
+    "when": "Your Shooting phase.",
+    "target": "One ADEPTUS ASTARTES unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, Torrent weapons equipped by models in your unit have the [DEVASTATING WOUNDS] ability."
   },
   {
-    "ability_id": "rapid-embarkation",
+    "ability_id": "rapid-embarkation-firestorm-assault-force",
     "name": "RAPID EMBARKATION",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1612,10 +1699,13 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Your Infantry unit can embark within that TRANSPORT."
+    "when": "End of the Fight phase.",
+    "target": "One ADEPTUS ASTARTES TRANSPORT unit from your army that has no models embarked within it, and one ADEPTUS ASTARTES INFANTRY unit from your army wholly within 6\" of that TRANSPORT.",
+    "effect": "Your Infantry unit can embark within that TRANSPORT.",
+    "restrictions": "You cannot target an INFANTRY unit that is within Engagement Range of one or more enemy units, that cannot normally embark within that TRANSPORT, or that disembarked from a TRANSPORT this turn."
   },
   {
-    "ability_id": "unbowed-conviction",
+    "ability_id": "unbowed-conviction-ironstorm-spearhead",
     "name": "UNBOWED CONVICTION",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1629,10 +1719,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, your unit can ignore any or all modifiers to its characteristics and/or to any roll or test made for it (excluding modifiers to saving throws)."
+    "when": "Command phase.",
+    "target": "One ADEPTUS ASTARTES unit from your army that is below its Starting Strength.",
+    "effect": "Until the end of the turn, your unit can ignore any or all modifiers to its characteristics and/or to any roll or test made for it (excluding modifiers to saving throws)."
   },
   {
-    "ability_id": "mercy-is-weakness",
+    "ability_id": "mercy-is-weakness-ironstorm-spearhead",
     "name": "MERCY IS WEAKNESS",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1646,10 +1738,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack that targets a unit that is below its Starting Strength, that attack has the [SUSTAINED HITS 1] ability, and when making such an attack, if the attacking model is a VEHICLE, a successful unmodified Hit roll of 5+ scores a Critical Hit."
+    "when": "Your Shooting phase or the Fight phase.",
+    "target": "One ADEPTUS ASTARTES unit from your army that has not been selected to shoot or fight this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets a unit that is below its Starting Strength, that attack has the [SUSTAINED HITS 1] ability, and when making such an attack, if the attacking model is a VEHICLE, a successful unmodified Hit roll of 5+ scores a Critical Hit."
   },
   {
-    "ability_id": "vengeful-animus",
+    "ability_id": "vengeful-animus-ironstorm-spearhead",
     "name": "VENGEFUL ANIMUS",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1663,10 +1757,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Do not roll one D6 to determine whether mortal wounds are inflicted by your model’s Deadly Demise ability. Instead, mortal wounds are automatically inflicted."
+    "when": "Any phase, just after an ADEPTUS ASTARTES VEHICLE model from your army with the Deadly Demise ability is destroyed.",
+    "target": "That ADEPTUS ASTARTES VEHICLE model. You can use this Stratagem on that model even though it was just destroyed.",
+    "effect": "Do not roll one D6 to determine whether mortal wounds are inflicted by your model’s Deadly Demise ability. Instead, mortal wounds are automatically inflicted."
   },
   {
-    "ability_id": "ancient-fury",
+    "ability_id": "ancient-fury-ironstorm-spearhead",
     "name": "ANCIENT FURY",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1680,10 +1776,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the start of your next Command phase, improve your model’s Move, Toughness, Leadership and Objective Control characteristics by 1 and each time your model makes an attack, add 1 to the Hit roll."
+    "when": "Your Command phase.",
+    "target": "One ADEPTUS ASTARTES WALKER model from your army.",
+    "effect": "Until the start of your next Command phase, improve your model’s Move, Toughness, Leadership and Objective Control characteristics by 1 and each time your model makes an attack, add 1 to the Hit roll."
   },
   {
-    "ability_id": "power-of-the-machine-spirit",
+    "ability_id": "power-of-the-machine-spirit-ironstorm-spearhead",
     "name": "POWER OF THE MACHINE SPIRIT",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1697,10 +1795,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can shoot as if it were your Shooting phase, but must target only that enemy unit when doing so, and can only do so if that enemy unit is an eligible target."
+    "when": "Your opponent’s Shooting phase, just after an enemy unit has resolved its attacks.",
+    "target": "One ADEPTUS ASTARTES VEHICLE unit from your army that was reduced to Below Half-strength as a result of the attacking unit’s attacks.",
+    "effect": "Your unit can shoot as if it were your Shooting phase, but must target only that enemy unit when doing so, and can only do so if that enemy unit is an eligible target."
   },
   {
-    "ability_id": "machine-wrath",
+    "ability_id": "machine-wrath-armoured-speartip",
     "name": "Machine Wrath",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1714,10 +1814,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can make a Normal or Fall Back move before its Deadly Demise ability is resolved, and before any embarked units perform an Emergency Disembarkation. When making this move, your unit can move through enemy models (excluding MONSTERS and VEHICLES) and can move within Engagement Range of such models, but cannot end that move within Engagement Range of them, and any Desperate Escape test is automatically passed."
+    "when": "Any phase, just after a HEAVY TRANSPORT unit from your army with the Deadly Demise ability is destroyed.",
+    "target": "That HEAVY TRANSPORT unit, if you rolled a 6 for its Deadly Demise ability. You can use this Stratagem on that unit even though it was just destroyed.",
+    "effect": "Your unit can make a Normal or Fall Back move before its Deadly Demise ability is resolved, and before any embarked units perform an Emergency Disembarkation. When making this move, your unit can move through enemy models (excluding MONSTERS and VEHICLES) and can move within Engagement Range of such models, but cannot end that move within Engagement Range of them, and any Desperate Escape test is automatically passed."
   },
   {
-    "ability_id": "ceramite-sledgehammer",
+    "ability_id": "ceramite-sledgehammer-armoured-speartip",
     "name": "Ceramite Sledgehammer",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1731,10 +1833,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time your unit makes a Normal or Advance move, it can move horizontally through terrain features. In addition, if your unit is a HEAVY TRANSPORT, when making this move, your unit can move through enemy models (excluding MONSTERS and VEHICLES) and can move within Engagement Range of such models, but cannot end that move within Engagement Range of them, and any Desperate Escape test is automatically passed."
+    "when": "Your Movement phase.&x20;",
+    "target": "One ADEPTUS ASTARTES TRANSPORT unit from your army that has not been selected to move this phase.",
+    "effect": "Until the end of the phase, each time your unit makes a Normal or Advance move, it can move horizontally through terrain features. In addition, if your unit is a HEAVY TRANSPORT, when making this move, your unit can move through enemy models (excluding MONSTERS and VEHICLES) and can move within Engagement Range of such models, but cannot end that move within Engagement Range of them, and any Desperate Escape test is automatically passed."
   },
   {
-    "ability_id": "advanced-deployment",
+    "ability_id": "advanced-deployment-armoured-speartip",
     "name": "Advanced Deployment",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1748,10 +1852,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, units can disembark from your TRANSPORT after it has Advanced. Units that do so count as having made a Normal move this phase, and cannot declare a charge in the same turn (unless your TRANSPORT has the Assault Ramp ability), but can otherwise act normally."
+    "when": "Your Movement phase.",
+    "target": "One ADEPTUS ASTARTES TRANSPORT unit from your army that has not been selected to move this phase.",
+    "effect": "Until the end of the phase, units can disembark from your TRANSPORT after it has Advanced. Units that do so count as having made a Normal move this phase, and cannot declare a charge in the same turn (unless your TRANSPORT has the Assault Ramp ability), but can otherwise act normally."
   },
   {
-    "ability_id": "purgation-doctrine",
+    "ability_id": "purgation-doctrine-armoured-speartip",
     "name": "Purgation Doctrine",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1765,10 +1871,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, add 1 to the Hit roll (if your unit disembarked from a HEAVY TRANSPORT this turn, add 1 to the Wound roll as well)."
+    "when": "Your Shooting phase.&x20;",
+    "target": "One ADEPTUS ASTARTES unit from your army that has not been selected to shoot this phase.&x20;",
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack, add 1 to the Hit roll (if your unit disembarked from a HEAVY TRANSPORT this turn, add 1 to the Wound roll as well)."
   },
   {
-    "ability_id": "codex-discipline",
+    "ability_id": "codex-discipline-bastion-task-force",
     "name": "Codex Discipline",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1782,10 +1890,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit, re‑roll a Hit roll of 1. If that target is auspex scanned, re‑roll a Wound roll of 1 as well."
+    "when": "Your Shooting phase or the Fight phase.",
+    "target": "One ADEPTUS ASTARTES unit from your army that has not been selected to shoot or fight this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit, re‑roll a Hit roll of 1. If that target is auspex scanned, re‑roll a Wound roll of 1 as well."
   },
   {
-    "ability_id": "shock-bombardment",
+    "ability_id": "shock-bombardment-bastion-task-force",
     "name": "Shock Bombardment",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1799,10 +1909,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "When an enemy unit is auspex scanned as a result of those attacks this turn, until the start of your next turn, it is suppressed. While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll."
+    "when": "Your Shooting phase or the Fight phase, just after an ADEPTUS ASTARTES BATTLELINE unit from your army finished making its attacks.",
+    "target": "That ADEPTUS ASTARTES BATTLELINE unit.",
+    "effect": "When an enemy unit is auspex scanned as a result of those attacks this turn, until the start of your next turn, it is suppressed. While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll."
   },
   {
-    "ability_id": "guided-disruption",
+    "ability_id": "guided-disruption-bastion-task-force",
     "name": "Guided Disruption",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1816,10 +1928,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "When an enemy unit is auspex scanned as a result of those attacks this turn, if that enemy unit does not have the MONSTER or VEHICLE keywords, until the start of your next turn, it is pinned. While a unit is pinned, subtract 2 from that unit’s Move characteristic and subtract 2 from Charge rolls made for that unit."
+    "when": "Your Shooting phase or the Fight phase, just after an ADEPTUS ASTARTES BATTLELINE unit from your army has finished making its attacks.",
+    "target": "That ADEPTUS ASTARTES BATTLELINE unit.",
+    "effect": "When an enemy unit is auspex scanned as a result of those attacks this turn, if that enemy unit does not have the MONSTER or VEHICLE keywords, until the start of your next turn, it is pinned. While a unit is pinned, subtract 2 from that unit’s Move characteristic and subtract 2 from Charge rolls made for that unit."
   },
   {
-    "ability_id": "angels-defiant",
+    "ability_id": "angels-defiant-bastion-task-force",
     "name": "Angels Defiant",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1833,10 +1947,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an attack targets your unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of your unit, subtract 1 from the Wound roll."
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One ADEPTUS ASTARTES BATTLELINE unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the end of the phase, each time an attack targets your unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of your unit, subtract 1 from the Wound roll."
   },
   {
-    "ability_id": "light-of-vengeance",
+    "ability_id": "light-of-vengeance-bastion-task-force",
     "name": "Light of Vengeance",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1850,10 +1966,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Select the [LETHAL HITS] or [SUSTAINED HITS 1] ability. Until the end of the phase, weapons equipped by models in your unit have that ability while targeting an auspex scanned unit or if the bearer has the BATTLELINE keyword."
+    "when": "Your Shooting phase or the Fight phase.",
+    "target": "One ADEPTUS ASTARTES unit from your army that has not been selected to shoot or fight this phase.",
+    "effect": "Select the [LETHAL HITS] or [SUSTAINED HITS 1] ability. Until the end of the phase, weapons equipped by models in your unit have that ability while targeting an auspex scanned unit or if the bearer has the BATTLELINE keyword."
   },
   {
-    "ability_id": "heresy-undone",
+    "ability_id": "heresy-undone-bastion-task-force",
     "name": "Heresy Undone",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1867,10 +1985,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, your unit is eligible to shoot and declare a charge in a turn in which it Advanced or Fell Back. If it does, every target of that charge and every target of those attacks must be an auspex scanned unit."
+    "when": "Your Shooting phase or your Charge phase.",
+    "target": "One ADEPTUS ASTARTES unit (excluding BATTLELINE units) from your army.",
+    "effect": "Until the end of the phase, your unit is eligible to shoot and declare a charge in a turn in which it Advanced or Fell Back. If it does, every target of that charge and every target of those attacks must be an auspex scanned unit."
   },
   {
-    "ability_id": "unyielding-might",
+    "ability_id": "unyielding-might-ceramite-sentinels",
     "name": "Unyielding Might",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1884,10 +2004,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the start of your next Command phase, add 1 to the Objective Control characteristics of models in your unit."
+    "when": "Command phase.",
+    "target": "One ADEPTUS ASTARTES unit from your army that is within Engagement Range of one or more enemy units.",
+    "effect": "Until the start of your next Command phase, add 1 to the Objective Control characteristics of models in your unit."
   },
   {
-    "ability_id": "stand-to-the-end",
+    "ability_id": "stand-to-the-end-ceramite-sentinels",
     "name": "Stand to the End",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1901,10 +2023,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, adding 1 to the result if it is an ENTRENCHED unit: on a 4+, do not remove it from play. That destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play."
+    "when": "Fight phase, just after an enemy unit has selected its targets.&x20;",
+    "target": "One ADEPTUS ASTARTES unit from your army that was selected as the target of one or more of the attacking unit’s attacks",
+    "effect": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, adding 1 to the result if it is an ENTRENCHED unit: on a 4+, do not remove it from play. That destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play."
   },
   {
-    "ability_id": "priority-strike",
+    "ability_id": "priority-strike-ceramite-sentinels",
     "name": "Priority Strike",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1918,10 +2042,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack that targets a CHARACTER, MONSTER or VEHICLE unit, you can re‑roll the Wound roll."
+    "when": "Your Shooting phase or the Fight phase.&x20;",
+    "target": "One ADEPTUS ASTARTES INFANTRY or ADEPTUS ASTARTES MOUNTED unit from your army that has not been selected to shoot or fight this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets a CHARACTER, MONSTER or VEHICLE unit, you can re‑roll the Wound roll."
   },
   {
-    "ability_id": "augmented-targeting",
+    "ability_id": "augmented-targeting-ceramite-sentinels",
     "name": "Augmented Targeting",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1935,10 +2061,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Select either the [SUSTAINED HITS 1] or [LETHAL HITS] abilities. Until the end of the phase, ranged weapons equipped by models in your unit have the selected ability. If your unit is Entrenched, until the end of the phase, ranged weapons equipped by models in your unit have the [SUSTAINED HITS 1] and [LETHAL HITS] abilities instead."
+    "when": "Your Shooting phase",
+    "target": "One ADEPTUS ASTARTES unit from your army that has not been selected to shoot this phase",
+    "effect": "Select either the [SUSTAINED HITS 1] or [LETHAL HITS] abilities. Until the end of the phase, ranged weapons equipped by models in your unit have the selected ability. If your unit is Entrenched, until the end of the phase, ranged weapons equipped by models in your unit have the [SUSTAINED HITS 1] and [LETHAL HITS] abilities instead."
   },
   {
-    "ability_id": "evasive-repositioning",
+    "ability_id": "evasive-repositioning-ceramite-sentinels",
     "name": "Evasive Repositioning",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1952,10 +2080,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can make a Normal move of up to D6\". If your unit is ENTRENCHED, you can re‑roll the D6 to determine how far your unit can move."
+    "when": "Your opponent’s Shooting phase, just after an enemy unit has shot.&x20;",
+    "target": "One ADEPTUS ASTARTES INFANTRY or ADEPTUS ASTARTES MOUNTED unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Your unit can make a Normal move of up to D6\". If your unit is ENTRENCHED, you can re‑roll the D6 to determine how far your unit can move."
   },
   {
-    "ability_id": "rapid-gunnery",
+    "ability_id": "rapid-gunnery-headhunter-task-force",
     "name": "Rapid Gunnery",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1969,10 +2099,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, your unit is eligible to shoot in a turn in which it Fell Back."
+    "when": "Your Shooting phase.",
+    "target": "One Adeptus Astartes unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, your unit is eligible to shoot in a turn in which it Fell Back."
   },
   {
-    "ability_id": "reactive-repositioning",
+    "ability_id": "reactive-repositioning-headhunter-task-force",
     "name": "Reactive Repositioning",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -1986,10 +2118,12 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can make a Normal move of up to D6."
+    "when": "Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.",
+    "target": "One TANK ACE unit from your army (excluding units containing one or more models with a Wounds characteristic of 16+) that is within 9\" of that enemy unit.",
+    "effect": "Your unit can make a Normal move of up to D6."
   },
   {
-    "ability_id": "target-weak-point",
+    "ability_id": "target-weak-point-headhunter-task-force",
     "name": "Target Weak Point",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -2003,10 +2137,13 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes a ranged attack that targets a MONSTER or VEHICLE unit, improve the Armour Penetration characteristic of that attack by 1.&x20;"
+    "when": "Your Shooting phase.",
+    "target": "One TANK ACE unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes a ranged attack that targets a MONSTER or VEHICLE unit, improve the Armour Penetration characteristic of that attack by 1.&x20;",
+    "restrictions": "A unit cannot be targeted with this and the Kill Shot Stratagem in the same phase."
   },
   {
-    "ability_id": "kill-shot",
+    "ability_id": "kill-shot-headhunter-task-force",
     "name": "Kill Shot",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -2020,10 +2157,13 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack that targets a MONSTER or VEHICLE unit, re-roll a Wound roll of 1. If the target unit is below its Starting Strength, you can re-roll the Wound roll instead."
+    "when": "Your Shooting phase.",
+    "target": "One TANK ACE unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets a MONSTER or VEHICLE unit, re-roll a Wound roll of 1. If the target unit is below its Starting Strength, you can re-roll the Wound roll instead.",
+    "restrictions": "&x20;A unit cannot be targeted with this and the Target Weak Point Stratagem in the same phase."
   },
   {
-    "ability_id": "machine-vengeance",
+    "ability_id": "machine-vengeance-headhunter-task-force",
     "name": "Machine Vengeance",
     "faction_id": "raven-guard",
     "unit_ids": [],
@@ -2037,6 +2177,8 @@
       "ref": "10th/json/space_marines.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can shoot as if it were your Shooting phase, but must target only that enemy unit when doing so, and can only do so if that enemy unit is visible and an eligible target."
+    "when": "Your opponent’s Shooting phase, just after an enemy unit has shot.",
+    "target": "One TANK ACE unit from your army (excluding units containing one or more models with a Wounds characteristic of 16+) that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Your unit can shoot as if it were your Shooting phase, but must target only that enemy unit when doing so, and can only do so if that enemy unit is visible and an eligible target."
   }
 ]

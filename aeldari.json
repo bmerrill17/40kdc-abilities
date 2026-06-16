@@ -2533,7 +2533,7 @@
     "raw_text": "Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 9\" of this unit, if this unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to D6\"."
   },
   {
-    "ability_id": "fateful-performance-exit-the-stage",
+    "ability_id": "exit-the-stage-fateful-performance",
     "name": "Exit the Stage",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -2543,14 +2543,16 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/aeldari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
     },
-    "raw_text": "Remove your unit from the battlefield and place it into Strategic Reserves."
+    "when": "End of your opponent's Fight phase.",
+    "target": "One friendly unengaged HARLEQUINS unit.",
+    "effect": "Place your unit in strategic reserves. 1CP"
   },
   {
-    "ability_id": "fateful-performance-heroes-fall",
+    "ability_id": "heroes-fall-fateful-performance",
     "name": "Heroes’ Fall",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -2560,14 +2562,16 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/aeldari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6. On a 4+, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play."
+    "when": "Fight phase, when an enemy unit targets a friendly HARLEQUINS unit.",
+    "target": "That HARLEQUINS unit.",
+    "effect": "When a model in your unit is destroyed, if your unit has not been selected to fight this phase, roll one D6: On a 4+, do not remove that model from the battlefield. When your unit has fought, or at the end of the phase (whichever comes first), that model is removed from the battlefield."
   },
   {
-    "ability_id": "fateful-performance-mistweave",
+    "ability_id": "mistweave-fateful-performance",
     "name": "Mistweave",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -2584,7 +2588,7 @@
     "raw_text": "SHADOWSEER model only. While the bearer is leading a unit, models in that unit have the Infiltrators ability."
   },
   {
-    "ability_id": "firstdrawn-blade",
+    "ability_id": "firstdrawn-blade-windrider-host",
     "name": "Firstdrawn Blade",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -2601,7 +2605,7 @@
     "raw_text": "ASURYANI MOUNTED model only. Models in the bearer’s unit have the Scouts 9\" ability."
   },
   {
-    "ability_id": "phoenix-gem",
+    "ability_id": "phoenix-gem-warhost",
     "name": "Phoenix Gem",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -2618,7 +2622,7 @@
     "raw_text": "ASURYANI model only. The first time the bearer is destroyed, remove it from play, then, at the end of the phase, roll one D6: on a 2+, set the bearer back up on the battlefield as close as possible to where it was destroyed and not within Engagement Range of one or more enemy units, with its full wounds remaining."
   },
   {
-    "ability_id": "mirage-field",
+    "ability_id": "mirage-field-windrider-host",
     "name": "Mirage Field",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -2635,7 +2639,7 @@
     "raw_text": "ASURYANI MOUNTED model only. Each time an attack targets the bearer’s unit, subtract 1 from the Hit roll."
   },
   {
-    "ability_id": "seersight-strike",
+    "ability_id": "seersight-strike-windrider-host",
     "name": "Seersight Strike",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -2652,7 +2656,7 @@
     "raw_text": "ASURYANI MOUNTED PSYKER model only. Psychic weapons equipped by the bearer have the [ANTI‑MONSTER 2+] and [ANTI‑VEHICLE 2+] abilities."
   },
   {
-    "ability_id": "echoes-of-ulthanesh",
+    "ability_id": "echoes-of-ulthanesh-windrider-host",
     "name": "Echoes of Ulthanesh",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -2669,7 +2673,7 @@
     "raw_text": "ASURYANI MOUNTED model only. In your Command phase, roll one D6, adding 1 to the result if the bearer is not within your deployment zone, and adding an additional 1 to the result if the bearer is within your opponent’s deployment zone: on a 5+, you gain 1CP."
   },
   {
-    "ability_id": "guiding-presence",
+    "ability_id": "guiding-presence-armoured-warhost",
     "name": "Guiding Presence",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -2679,14 +2683,14 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/aeldari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
     },
-    "raw_text": "AELDARI PSYKER model only. At the start of your Shooting phase, select one friendly AELDARI VEHICLE model within 9\" of the bearer. Until the end of the phase, each time that model makes an attack, add 1 to the Hit roll."
+    "raw_text": "AELDARI PSYKER model only. At the start of your Shooting phase, select one visible friendly AELDARI VEHICLE unit within 6\" of this model. That VEHICLE unit's ranged attacks have +1 to hit rolls."
   },
   {
-    "ability_id": "light-of-clarity",
+    "ability_id": "light-of-clarity-spirit-conclave",
     "name": "Light of Clarity",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -2703,7 +2707,7 @@
     "raw_text": "SPIRITSEER model only. In your Command phase, select one friendly WRAITH CONSTRUCT unit within 12\" of the bearer. Until the start of your next Command phase, add 1 to the Objective Control characteristic of INFANTRY models in that unit and add 3 to the Objective Control characteristic of MONSTER models in that unit."
   },
   {
-    "ability_id": "stave-of-kurnos",
+    "ability_id": "stave-of-kurnos-spirit-conclave",
     "name": "Stave of Kurnos",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -2720,7 +2724,7 @@
     "raw_text": "SPIRITSEER model only. In your Command phase, select one friendly WRAITH CONSTRUCT unit within 12\" of the bearer (excluding TITANIC units). Until the start of your next Command phase, each time a model in that unit makes an attack, on a Critical Wound, that attack has the [PRECISION] ability."
   },
   {
-    "ability_id": "harmonisation-matrix",
+    "ability_id": "harmonisation-matrix-armoured-warhost",
     "name": "Harmonisation Matrix",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -2737,7 +2741,7 @@
     "raw_text": "AELDARI model only. In your Command phase, if the bearer (or any TRANSPORT it is embarked within) is within range of an objective marker you control, roll one D6: on a 3+, you gain 1CP."
   },
   {
-    "ability_id": "rune-of-mists",
+    "ability_id": "rune-of-mists-spirit-conclave",
     "name": "Rune of Mists",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -2754,7 +2758,7 @@
     "raw_text": "SPIRITSEER model only. In your Command phase, select one friendly WRAITH CONSTRUCT unit within 12\" of the bearer. Until the start of your next Command phase, each time a ranged attack targets that unit, unless the attacking model is within 18\", models in that unit have the Benefit of Cover against that attack."
   },
   {
-    "ability_id": "spirit-stone-of-raelyth",
+    "ability_id": "spirit-stone-of-raelyth-armoured-warhost",
     "name": "Spirit Stone of Raelyth",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -2764,14 +2768,14 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/aeldari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
     },
-    "raw_text": "AELDARI PSYKER model only. While the bearer is within 3\" of one or more friendly AELDARI VEHICLE units, the bearer has the Lone Operative ability. In your Command phase, you can select one friendly AELDARI VEHICLE model within 3\" of the bearer. That model regains up to D3 lost wounds."
+    "raw_text": "AELDARI PSYKER model only. W hile this model is within 3\" of a friendly AELDARI VEHICLE unit, this model has Lone Operative. In your Movement phase, at the start or end of this unit's move, you can select one friendly AELDARI VEHICLE model within 3\" of this model. That VEHICLE model heals D3 wounds."
   },
   {
-    "ability_id": "guileful-strategist",
+    "ability_id": "guileful-strategist-armoured-warhost",
     "name": "Guileful Strategist",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -2788,7 +2792,7 @@
     "raw_text": "AELDARI model only. If your army includes the bearer, after both players have deployed their armies, select up to three AELDARI VEHICLE units from your army and redeploy them. When doing so, any of those units can be placed into Strategic Reserves, regardless of how many units are already in Strategic Reserves."
   },
   {
-    "ability_id": "higher-duty",
+    "ability_id": "higher-duty-spirit-conclave",
     "name": "Higher Duty",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -2805,7 +2809,7 @@
     "raw_text": "SPIRITSEER model only. Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 9\" of the bearer, the bearer’s unit can make a Normal move of up to 6\"."
   },
   {
-    "ability_id": "cegorachs-coil",
+    "ability_id": "cegorachs-coil-ghosts-of-the-webway",
     "name": "Cegorach’s Coil",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -2822,7 +2826,7 @@
     "raw_text": "TROUPE MASTER model only. Each time the bearer’s unit ends a Charge move, select one enemy unit within Engagement Range of the bearer’s unit, then roll one D6 for each model in the bearer’s unit that is within Engagement Range of that enemy unit: for each 4+, that enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds)."
   },
   {
-    "ability_id": "mask-of-secrets",
+    "ability_id": "mask-of-secrets-ghosts-of-the-webway",
     "name": "Mask of Secrets",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -2839,7 +2843,7 @@
     "raw_text": "HARLEQUINS model only. Each time an enemy unit (excluding MONSTERS and VEHICLES) within Engagement Range of the bearer’s unit Falls Back, all models in that enemy unit must take a Desperate Escape test. When doing so, if that enemy unit is Battle‑shocked, subtract 1 from each of those tests."
   },
   {
-    "ability_id": "murders-jest",
+    "ability_id": "murders-jest-ghosts-of-the-webway",
     "name": "Murder’s Jest",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -2856,7 +2860,7 @@
     "raw_text": "DEATH JESTER model only. Each time the bearer makes an attack that targets a unit that is Below Half‑strength, each successful Hit roll scores a Critical Hit."
   },
   {
-    "ability_id": "mistweave",
+    "ability_id": "mistweave-ghosts-of-the-webway",
     "name": "Mistweave",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -2866,14 +2870,14 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/aeldari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
     },
-    "raw_text": "SHADOWSEER model only. While the bearer is leading a unit, models in that unit have the Infiltrators ability."
+    "raw_text": "SHADOWSEER model only. This unit has Infiltrators."
   },
   {
-    "ability_id": "timeless-strategist",
+    "ability_id": "timeless-strategist-warhost",
     "name": "Timeless Strategist",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -2890,7 +2894,7 @@
     "raw_text": "ASURYANI model only. At the start of the battle round, if the bearer is on the battlefield (or any TRANSPORT it is embarked within is on the battlefield), you receive 1 additional Battle Focus token."
   },
   {
-    "ability_id": "gift-of-foresight",
+    "ability_id": "gift-of-foresight-warhost",
     "name": "Gift of Foresight",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -2907,7 +2911,7 @@
     "raw_text": "ASURYANI model only. Once per battle round, you can target the bearer’s unit with the Command Re‑roll Stratagem for 0CP."
   },
   {
-    "ability_id": "psychic-destroyer",
+    "ability_id": "psychic-destroyer-warhost",
     "name": "Psychic Destroyer",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -2924,7 +2928,7 @@
     "raw_text": "ASURYANI PSYKER model only. Add 1 to the Damage characteristic of ranged Psychic weapons equipped by the bearer."
   },
   {
-    "ability_id": "craftworlds-champion",
+    "ability_id": "craftworlds-champion-guardian-battlehost",
     "name": "Craftworld’s Champion",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -2941,7 +2945,7 @@
     "raw_text": "ASURYANI model only. The bearer has an Objective Control characteristic of 5."
   },
   {
-    "ability_id": "ethereal-pathway",
+    "ability_id": "ethereal-pathway-guardian-battlehost",
     "name": "Ethereal Pathway",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -2958,7 +2962,7 @@
     "raw_text": "ASURYANI model only. In the Deploy Armies step, select up to two GUARDIANS units from your army. Models in the selected units have the Infiltrators ability."
   },
   {
-    "ability_id": "protector-of-the-paths",
+    "ability_id": "protector-of-the-paths-guardian-battlehost",
     "name": "Protector of the Paths",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -2975,7 +2979,7 @@
     "raw_text": "ASURYANI model only. While the bearer is leading a DIRE AVENGERS or GUARDIANS unit, once per battle round, you can target the bearer’s unit with the Fire Overwatch Stratagem for 0CP, and while resolving that Stratagem, hits are scored on unmodified Hit rolls of 5+, or unmodified Hit rolls of 4+ instead if the bearer’s unit is within range of an objective marker you control."
   },
   {
-    "ability_id": "breath-of-vaul",
+    "ability_id": "breath-of-vaul-guardian-battlehost",
     "name": "Breath of Vaul",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -2992,7 +2996,7 @@
     "raw_text": "ASURYANI model only. While the bearer is leading a STORM GUARDIANS unit, each time you roll to determine the number of attacks made with a flamer equipped by a model in that unit, you can re‑roll the result, and each time you make a Damage roll for a model equipped with a fusion gun in that unit, you can re‑roll the result."
   },
   {
-    "ability_id": "gaze-of-ynnead",
+    "ability_id": "gaze-of-ynnead-devoted-of-ynnead",
     "name": "Gaze of Ynnead",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3009,7 +3013,7 @@
     "raw_text": "FARSEER model only. The bearer’s Eldritch Storm weapon has the [DEVASTATING WOUNDS] ability."
   },
   {
-    "ability_id": "storm-of-whispers",
+    "ability_id": "storm-of-whispers-devoted-of-ynnead",
     "name": "Storm of Whispers",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3026,7 +3030,7 @@
     "raw_text": "WARLOCK model only. In your Shooting phase, after the bearer has shot, select one enemy unit hit by one or more of those attacks. That unit must take a Battle‑shock test."
   },
   {
-    "ability_id": "borrowed-vigour",
+    "ability_id": "borrowed-vigour-devoted-of-ynnead",
     "name": "Borrowed Vigour",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3043,7 +3047,7 @@
     "raw_text": "ARCHON model only. Add 2 to the Attacks characteristic of the bearer’s melee weapons."
   },
   {
-    "ability_id": "morbid-might",
+    "ability_id": "morbid-might-devoted-of-ynnead",
     "name": "Morbid Might",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3060,7 +3064,7 @@
     "raw_text": "SUCCUBUS model only. Each time the bearer makes a melee attack, you can re‑roll the Wound roll."
   },
   {
-    "ability_id": "lucid-eye",
+    "ability_id": "lucid-eye-seer-council",
     "name": "Lucid Eye",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3077,7 +3081,7 @@
     "raw_text": "ASURYANI PSYKER model only. In your Command phase, you can add 1 to or subtract 1 from the value of one Fate dice in your Fate dice pool."
   },
   {
-    "ability_id": "runes-of-warding",
+    "ability_id": "runes-of-warding-seer-council",
     "name": "Runes of Warding",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3094,7 +3098,7 @@
     "raw_text": "ASURYANI PSYKER model only. Models in the bearer’s unit have the Feel No Pain 4+ ability against mortal wounds, Psychic Attacks and Critical Wounds caused by attacks with the [DEVASTATING WOUNDS] ability."
   },
   {
-    "ability_id": "stone-of-eldritch-fury",
+    "ability_id": "stone-of-eldritch-fury-seer-council",
     "name": "Stone of Eldritch Fury",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3111,7 +3115,7 @@
     "raw_text": "ASURYANI PSYKER model only. Add 12\" to the Range characteristic of ranged Psychic weapons equipped by the bearer."
   },
   {
-    "ability_id": "torc-of-morai-heg",
+    "ability_id": "torc-of-morai-heg-seer-council",
     "name": "Torc of Morai-Heg",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3128,7 +3132,7 @@
     "raw_text": "ASURYANI PSYKER model only. Once per turn, when your opponent targets a unit from their army within 12\" of the bearer with a Stratagem, the bearer can use this Enhancement. If it does, increase the CP cost of that usage of that Stratagem by 1CP."
   },
   {
-    "ability_id": "aspect-of-murder",
+    "ability_id": "aspect-of-murder-aspect-host",
     "name": "Aspect of Murder",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3145,7 +3149,7 @@
     "raw_text": "AUTARCH or AUTARCH WAYLEAPER model only. Add 1 to the Damage characteristic of melee weapons equipped by the bearer, and those weapons have the [PRECISION] ability."
   },
   {
-    "ability_id": "mantle-of-wisdom",
+    "ability_id": "mantle-of-wisdom-aspect-host",
     "name": "Mantle of Wisdom",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3162,7 +3166,7 @@
     "raw_text": "AUTARCH or AUTARCH WAYLEAPER model only. While the bearer is leading an ASPECT WARRIORS unit, each time that unit is selected to shoot or fight, until the end of the phase, models in that unit gain both of the abilities from the Path of the Warrior Detachment rule."
   },
   {
-    "ability_id": "shimmerstone",
+    "ability_id": "shimmerstone-aspect-host",
     "name": "Shimmerstone",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3179,7 +3183,7 @@
     "raw_text": "AUTARCH or AUTARCH WAYLEAPER model only. While the bearer is leading an ASPECT WARRIORS unit, each time a ranged attack targets that unit, subtract 1 from the Wound roll."
   },
   {
-    "ability_id": "strategic-savant",
+    "ability_id": "strategic-savant-aspect-host",
     "name": "Strategic Savant",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3196,7 +3200,7 @@
     "raw_text": "AUTARCH or AUTARCH WAYLEAPER model only. While the bearer is leading an ASPECT WARRIORS unit, add 1 to the Objective Control characteristic of models in that unit."
   },
   {
-    "ability_id": "key-of-ghosts",
+    "ability_id": "key-of-ghosts-serpents-brood",
     "name": "Key of Ghosts",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3206,14 +3210,14 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/aeldari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
     },
-    "raw_text": "HARLEQUINS model only (excluding SOLITAIRE models). Models in the bearer’s unit have the Scouts 6\" ability."
+    "raw_text": "Harlequins model only (excluding Solitaire models). Models in the bearer's unit have the Scouts 6\" ability."
   },
   {
-    "ability_id": "weavers-wail",
+    "ability_id": "weavers-wail-serpents-brood",
     "name": "Weaver’s Wail",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3223,14 +3227,14 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/aeldari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
     },
-    "raw_text": "TROUPE MASTER model only. Add 3 to the Strength and add 1 to the Attacks characteristics of the bearer’s melee weapons."
+    "raw_text": "Troupe Master model only. Add 3 to the Strength and add 1 to the Attacks characteristics of the bearer's melee weapons."
   },
   {
-    "ability_id": "fanged-leer",
+    "ability_id": "fanged-leer-serpents-brood",
     "name": "Fanged Leer",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3240,14 +3244,14 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/aeldari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
     },
-    "raw_text": "DEATH JESTER model only. When using the bearer’s Cruel Amusement ability, you can select two of the abilities for its shrieker cannon to gain, instead of one."
+    "raw_text": "Death Jester model only. When using the bearer's Cruel Amusement ability, you can select two of the abilities for its shrieker cannon to gain, instead of one."
   },
   {
-    "ability_id": "shedskin-raiment",
+    "ability_id": "shedskin-raiment-serpents-brood",
     "name": "Shedskin Raiment",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3257,14 +3261,14 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/aeldari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
     },
-    "raw_text": "SHADOWSEER model only. After both players have deployed their armies, select up to three HARLEQUINS units from your army and redeploy them. When doing so, you can set those units up in Strategic Reserves, regardless of how many units are already in Strategic Reserves."
+    "raw_text": "Shadowseer model only. After both players have deployed their armies, select up to three Harlequins units from your army and redeploy them. When doing so, you can set those units up in Strategic Reserves, regardless of how many units are already in Strategic Reserves. 6"
   },
   {
-    "ability_id": "pirate-prince",
+    "ability_id": "pirate-prince-eldritch-raiders",
     "name": "Pirate Prince",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3281,7 +3285,7 @@
     "raw_text": "PRINCE YRIEL unit only. Each time you spend a Battle Focus token to enable this unit to perform an Agile Manoeuvre, roll one D6: on a 3+, you gain 1 Battle Focus token."
   },
   {
-    "ability_id": "alacritous-assault",
+    "ability_id": "alacritous-assault-eldritch-raiders",
     "name": "Alacritous Assault",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3298,7 +3302,7 @@
     "raw_text": "ANHRATHE unit only. Melee weapons equipped by models in this unit have the [LANCE] ability."
   },
   {
-    "ability_id": "exotic-munitions",
+    "ability_id": "exotic-munitions-eldritch-raiders",
     "name": "Exotic Munitions",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3315,7 +3319,7 @@
     "raw_text": "ANHRATHE unit only. Ranged weapons equipped by models in this unit have the [ANTI‑MONSTER 5+] and [ANTI‑VEHICLE 5+] abilities."
   },
   {
-    "ability_id": "adrenal-infusions",
+    "ability_id": "adrenal-infusions-eldritch-raiders",
     "name": "Adrenal Infusions",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3332,7 +3336,7 @@
     "raw_text": "ANHRATHE INFANTRY unit only. This unit can perform the Fade Back Agile Manoeuvre without spending a Battle Focus token to do so. It can do so even if other units have done so in the same phase, and doing so does not prevent other units from performing the same Agile Manoeuvre in the same phase."
   },
   {
-    "ability_id": "infamy-aura",
+    "ability_id": "infamy-aura-corsair-coterie",
     "name": "Infamy (Aura)",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3349,7 +3353,7 @@
     "raw_text": "ANHRATHE unit only. While an enemy unit is within 3\" of this unit, subtract 1 from the Objective Control characteristic of models in that unit (to a minimum of 1)."
   },
   {
-    "ability_id": "webway-pathstone",
+    "ability_id": "webway-pathstone-corsair-coterie",
     "name": "Webway Pathstone",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3366,7 +3370,7 @@
     "raw_text": "ANHRATHE unit only. Models in this unit have the Deep Strike ability. In addition, once per battle, at the end of your opponent’s turn, if this unit is not within Engagement Range of one or more enemy units, it can use this ability. If it does, remove this unit from the battlefield and place it into Strategic Reserves."
   },
   {
-    "ability_id": "archraider",
+    "ability_id": "archraider-corsair-coterie",
     "name": "Archraider",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3383,7 +3387,7 @@
     "raw_text": "ANHRATHE CHARACTER unit only. At the start of the battle, select one CHARACTER model in this unit. That model has the following ability:\n\nLord of Deceit (Aura): Each time your opponent targets a unit from their army with a Stratagem, if that unit is within 12\" of this model, increase the cost of that use of that Stratagem by 1CP."
   },
   {
-    "ability_id": "voidstone",
+    "ability_id": "voidstone-corsair-coterie",
     "name": "Voidstone",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3400,7 +3404,7 @@
     "raw_text": "ANHRATHE INFANTRY unit only. Models in this unit have a 5+ invulnerable save."
   },
   {
-    "ability_id": "death-from-on-high",
+    "ability_id": "death-from-on-high-windrider-host",
     "name": "DEATH FROM ON HIGH",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3414,10 +3418,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, you can re‑roll the Wound roll."
+    "when": "Your Shooting phase or the Fight phase.",
+    "target": "One ASURYANI MOUNTED or VYPER unit from your army that was set up on the battlefield from Reserves this turn and has not been selected to shoot or fight this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack, you can re‑roll the Wound roll."
   },
   {
-    "ability_id": "focused-firepower",
+    "ability_id": "focused-firepower-windrider-host",
     "name": "FOCUSED FIREPOWER",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3431,10 +3437,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, improve the Armour Penetration characteristic of that attack by 1."
+    "when": "Your Shooting phase.",
+    "target": "One ASURYANI MOUNTED or VYPER unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack, improve the Armour Penetration characteristic of that attack by 1."
   },
   {
-    "ability_id": "spiralling-evasion",
+    "ability_id": "spiralling-evasion-windrider-host",
     "name": "SPIRALLING EVASION",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3448,10 +3456,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, models in your unit have a 4+ invulnerable save."
+    "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
+    "target": "One ASURYANI MOUNTED or VYPER unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the end of the phase, models in your unit have a 4+ invulnerable save."
   },
   {
-    "ability_id": "fangs-of-the-brood",
+    "ability_id": "fangs-of-the-brood-serpents-brood",
     "name": "FANGS OF THE BROOD",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3461,14 +3471,16 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/aeldari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
     },
-    "raw_text": "Until the end of the phase, when using your unit’s Dance of Death ability, you can select three of the abilities for your unit to gain, instead of one."
+    "when": "Start of the Fight phase.",
+    "target": "One Troupe unit from your army.",
+    "effect": "Until the end of the phase, when using your unit's Dance of Death ability, you can select three of the abilities for your unit to gain, instead of one."
   },
   {
-    "ability_id": "crushing-strides",
+    "ability_id": "crushing-strides-spirit-conclave",
     "name": "CRUSHING STRIDES",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3482,10 +3494,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Select one enemy unit within Engagement Range of your unit and roll one D6 for each WRAITHBLADES model in your unit, or roll four D6 if your unit has the WRAITHLORD keyword, or roll six D6 if your unit has the WRAITHKNIGHT keyword: for each 3+, that enemy unit suffers 1 mortal wound."
+    "when": "Your Charge phase, just after a WRAITHBLADES, WRAITHLORD or WRAITHKNIGHT unit from your army ends a Charge move.",
+    "target": "That WRAITHBLADES, WRAITHLORD or WRAITHKNIGHT unit.",
+    "effect": "Select one enemy unit within Engagement Range of your unit and roll one D6 for each WRAITHBLADES model in your unit, or roll four D6 if your unit has the WRAITHLORD keyword, or roll six D6 if your unit has the WRAITHKNIGHT keyword: for each 3+, that enemy unit suffers 1 mortal wound."
   },
   {
-    "ability_id": "seers-eye",
+    "ability_id": "seers-eye-spirit-conclave",
     "name": "SEER’S EYE",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3499,10 +3513,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Select one enemy unit visible to your PSYKER model. Until the end of the phase, each time a model in your WRAITH CONSTRUCT unit makes an attack that targets that enemy unit, you can ignore any or all modifiers to the Armour Penetration and/or Damage characteristics of that attack."
+    "when": "Your Shooting phase or the Fight phase.",
+    "target": "One AELDARI PSYKER model from your army and one friendly WRAITH CONSTRUCT unit within 12\" of it that has not been selected to shoot or fight this phase.",
+    "effect": "Select one enemy unit visible to your PSYKER model. Until the end of the phase, each time a model in your WRAITH CONSTRUCT unit makes an attack that targets that enemy unit, you can ignore any or all modifiers to the Armour Penetration and/or Damage characteristics of that attack."
   },
   {
-    "ability_id": "wraithbone-armour",
+    "ability_id": "wraithbone-armour-spirit-conclave",
     "name": "WRAITHBONE ARMOUR",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3516,10 +3532,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an attack is allocated to a model in your unit, subtract 1 from the Damage characteristic of that attack."
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One WRAITH CONSTRUCT unit from your army (excluding TITANIC units) that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the end of the phase, each time an attack is allocated to a model in your unit, subtract 1 from the Damage characteristic of that attack."
   },
   {
-    "ability_id": "blades-from-beyond",
+    "ability_id": "blades-from-beyond-spirit-conclave",
     "name": "BLADES FROM BEYOND",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3533,10 +3551,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, melee weapons equipped by models in your unit have the [DEVASTATING WOUNDS] ability."
+    "when": "Fight phase.",
+    "target": "One WRAITHBLADES, WRAITHLORD or WRAITHKNIGHT unit from your army that has not been selected to fight this phase.",
+    "effect": "Until the end of the phase, melee weapons equipped by models in your unit have the [DEVASTATING WOUNDS] ability."
   },
   {
-    "ability_id": "macabre-resilience",
+    "ability_id": "macabre-resilience-devoted-of-ynnead",
     "name": "MACABRE RESILIENCE",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3550,10 +3570,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Wound roll."
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One YNNARI INFANTRY or YNNARI MOUNTED unit from your army (excluding WRAITH CONSTRUCT units) that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Wound roll."
   },
   {
-    "ability_id": "emissaries-of-ynnead",
+    "ability_id": "emissaries-of-ynnead-devoted-of-ynnead",
     "name": "EMISSARIES OF YNNEAD",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3567,27 +3589,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, re‑roll a Hit roll of 1. If your unit is below its Starting Strength, you can re‑roll the Hit roll instead."
+    "when": "Fight phase, just after a YNNARI INFANTRY unit from your army has selected its targets.",
+    "target": "That YNNARI INFANTRY unit.",
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack, re‑roll a Hit roll of 1. If your unit is below its Starting Strength, you can re‑roll the Hit roll instead."
   },
   {
-    "ability_id": "soulsight",
-    "name": "SOULSIGHT",
-    "faction_id": "aeldari",
-    "unit_ids": [],
-    "ability_type": "stratagem",
-    "game_version": {
-      "edition": "11th",
-      "dataslate": "pre-launch-provisional"
-    },
-    "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/aeldari.json",
-      "edition": "10e"
-    },
-    "raw_text": "Until the end of the phase, ranged weapons equipped by models in your unit have the [LETHAL HITS] and [IGNORES COVER] abilities"
-  },
-  {
-    "ability_id": "warding-salvoes",
+    "ability_id": "warding-salvoes-guardian-battlehost",
     "name": "WARDING SALVOES",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3601,10 +3608,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit within range of one or more objective markers, you can re‑roll the Wound roll."
+    "when": "Your Shooting phase or the Fight phase.",
+    "target": "One DIRE AVENGERS or GUARDIANS unit from your army that has not been selected to shoot or fight this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit within range of one or more objective markers, you can re‑roll the Wound roll."
   },
   {
-    "ability_id": "shield-nodes",
+    "ability_id": "shield-nodes-guardian-battlehost",
     "name": "SHIELD NODES",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3618,10 +3627,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "If your unit is within range of one or more objective markers, until the end of the phase, each time an attack targets your unit, subtract 1 from the Wound roll."
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One DIRE AVENGERS or GUARDIANS unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "If your unit is within range of one or more objective markers, until the end of the phase, each time an attack targets your unit, subtract 1 from the Wound roll."
   },
   {
-    "ability_id": "vauls-vengeance",
+    "ability_id": "vauls-vengeance-guardian-battlehost",
     "name": "VAUL’S VENGEANCE",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3635,10 +3646,13 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "After that enemy unit has finished making its attacks, your unit can shoot as if it were your Shooting phase, but when resolving those attacks, it can only target that enemy unit (and only if it is an eligible target)."
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit destroys a DIRE AVENGERS or GUARDIANS unit from your army",
+    "target": "One WAR WALKERS unit from your army.",
+    "effect": "After that enemy unit has finished making its attacks, your unit can shoot as if it were your Shooting phase, but when resolving those attacks, it can only target that enemy unit (and only if it is an eligible target).",
+    "restrictions": "You can only use this Stratagem once per battle round."
   },
   {
-    "ability_id": "blades-of-asuryan",
+    "ability_id": "blades-of-asuryan-guardian-battlehost",
     "name": "BLADES OF ASURYAN",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3652,10 +3666,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, ranged weapons equipped by models in your unit have the [PISTOL] ability."
+    "when": "Your Shooting phase.",
+    "target": "One Dire AVENGERS or GUARDIANS unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the [PISTOL] ability."
   },
   {
-    "ability_id": "pirates-due",
+    "ability_id": "pirates-due-corsair-coterie",
     "name": "PIRATES’ DUE",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3665,14 +3681,16 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/aeldari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, re‑roll a Wound roll of 1. If your unit has the ANHRATHE keyword, then until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit within range of an objective marker, you can re‑roll the Wound roll instead."
+    "when": "The Fight phase.",
+    "target": "One Aeldari unit from your army that has not been selected to fight this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack, reroll a Wound roll of 1. If your unit has the Anhrathe keyword, then until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit within range of an objective marker, you can reroll the Wound roll instead. 1CP"
   },
   {
-    "ability_id": "no-prey-too-big",
+    "ability_id": "no-prey-too-big-eldritch-raiders",
     "name": "NO PREY TOO BIG",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3682,14 +3700,16 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/aeldari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, if the Strength characteristic of that attack is less than the highest Toughness characteristic of models in the target unit, add 1 to the Wound roll."
+    "when": "Your Shooting phase.",
+    "target": "One Anhrathe, Rangers or Shroud Runners unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack, if the Strength characteristic of that attack is less than the highest Toughness characteristic of models in the target unit, add 1 to the Wound roll. 1CP"
   },
   {
-    "ability_id": "fate-inescapable",
+    "ability_id": "fate-inescapable-seer-council",
     "name": "FATE INESCAPABLE",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3703,10 +3723,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, ranged weapons equipped by models in your unit have the [IGNORES COVER] ability and each time a model in your unit makes an attack, on a Critical Wound, improve the Armour Penetration characteristic of that attack by 1."
+    "when": "Your Shooting phase.",
+    "target": "One ASURYANI INFANTRY unit from your army (excluding WRAITH CONSTRUCT units) that has not been selected to shoot this phase and is within 9\" of one or more friendly ASURYANI PSYKER models.",
+    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the [IGNORES COVER] ability and each time a model in your unit makes an attack, on a Critical Wound, improve the Armour Penetration characteristic of that attack by 1."
   },
   {
-    "ability_id": "lightning-fast-reactions",
+    "ability_id": "lightning-fast-reactions-warhost",
     "name": "LIGHTNING-FAST REACTIONS",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3720,10 +3742,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One ASURYANI unit from your army (excluding WRAITH CONSTRUCT units) that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
   },
   {
-    "ability_id": "blitzing-firepower",
+    "ability_id": "blitzing-firepower-warhost",
     "name": "BLITZING FIREPOWER",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3737,10 +3761,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, ranged weapons equipped by models in your unit have the [SUSTAINED HITS 1] ability while targeting an enemy unit within 12\". If such a weapon already has that ability, until the end of the phase, each time an attack is made with that weapon, an unmodified Hit roll of 5+ scores a Critical Hit."
+    "when": "Your Shooting phase.",
+    "target": "One ASURYANI unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the [SUSTAINED HITS 1] ability while targeting an enemy unit within 12\". If such a weapon already has that ability, until the end of the phase, each time an attack is made with that weapon, an unmodified Hit roll of 5+ scores a Critical Hit."
   },
   {
-    "ability_id": "warrior-focus",
+    "ability_id": "warrior-focus-aspect-host",
     "name": "WARRIOR FOCUS",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3754,10 +3780,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, you can ignore any or all modifiers to that attack’s Ballistic Skill, Weapon skill, Strength, Armour Penetration and Damage characteristics and/or any or all modifiers to the Hit roll."
+    "when": "Your Shooting phase or the Fight phase.",
+    "target": "One ASPECT WARRIORS or AVATAR OF KHAINE unit from your army that has not been selected to shoot or fight this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack, you can ignore any or all modifiers to that attack’s Ballistic Skill, Weapon skill, Strength, Armour Penetration and Damage characteristics and/or any or all modifiers to the Hit roll."
   },
   {
-    "ability_id": "doom-inescapable",
+    "ability_id": "doom-inescapable-aspect-host",
     "name": "DOOM INESCAPABLE",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3771,10 +3799,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, your model’s Wailing Doom ranged weapon has a Range characteristic of 18\" and a Damage characteristic of 8."
+    "when": "Your Shooting phase.",
+    "target": "One AVATAR OF KHAINE model from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, your model’s Wailing Doom ranged weapon has a Range characteristic of 18\" and a Damage characteristic of 8."
   },
   {
-    "ability_id": "preternatural-precision",
+    "ability_id": "preternatural-precision-aspect-host",
     "name": "PRETERNATURAL PRECISION",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3788,10 +3818,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Each time you use this Stratagem, you can remove one Aspect Shrine token your unit has (see datasheets). Then, select one of the following abilities, or select two of the following abilities if you removed an Aspect Shrine token during this usage of this Stratagem: [IGNORES COVER], [LETHAL HITS], [SUSTAINED HITS 1]. Until the end of the phase, ranged weapons equipped by models in your unit have the selected abilities."
+    "when": "Your Shooting phase.",
+    "target": "One ASPECT WARRIORS unit from your army that has not been selected to shoot this phase.",
+    "effect": "Each time you use this Stratagem, you can remove one Aspect Shrine token your unit has (see datasheets). Then, select one of the following abilities, or select two of the following abilities if you removed an Aspect Shrine token during this usage of this Stratagem: [IGNORES COVER], [LETHAL HITS], [SUSTAINED HITS 1]. Until the end of the phase, ranged weapons equipped by models in your unit have the selected abilities."
   },
   {
-    "ability_id": "yriels-example",
+    "ability_id": "yriels-example-eldritch-raiders",
     "name": "YRIEL’S EXAMPLE",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3801,14 +3833,16 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/aeldari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
     },
-    "raw_text": "Until the end of the phase, models in your unit have the Feel No Pain 5+ ability."
+    "when": "Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One Aeldari Infantry unit from your army (excluding Wraith Construct units) that was selected as the target of one or more of the attacking unit's attacks.",
+    "effect": "Until the end of the phase, models in your unit have the Feel No Pain 5+ ability. 1CP"
   },
   {
-    "ability_id": "ishas-fury",
+    "ability_id": "ishas-fury-seer-council",
     "name": "ISHA’S FURY",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3822,10 +3856,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Roll six D6: for each 3+, that enemy unit suffers 1 mortal wound."
+    "when": "Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.",
+    "target": "One ASURYANI PSYKER model from your army within 9\" of that enemy unit.",
+    "effect": "Roll six D6: for each 3+, that enemy unit suffers 1 mortal wound."
   },
   {
-    "ability_id": "staged-death",
+    "ability_id": "staged-death-ghosts-of-the-webway",
     "name": "STAGED DEATH",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3839,10 +3875,13 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "At the end of the phase, set your model back up on the battlefield as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with half of its starting number of wounds remaining."
+    "when": "Any phase.",
+    "target": "One HARLEQUINS CHARACTER model from your army that was just destroyed. You can use this Stratagem on that model even though it was just destroyed.",
+    "effect": "At the end of the phase, set your model back up on the battlefield as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with half of its starting number of wounds remaining.",
+    "restrictions": "Each model can only be targeted with this Stratagem once per battle."
   },
   {
-    "ability_id": "heroes-fall",
+    "ability_id": "heroes-fall-ghosts-of-the-webway",
     "name": "HEROES’ FALL",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3856,10 +3895,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6. On a 4+, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play."
+    "when": "Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One HARLEQUINS unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6. On a 4+, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play."
   },
   {
-    "ability_id": "mocking-flight",
+    "ability_id": "mocking-flight-ghosts-of-the-webway",
     "name": "MOCKING FLIGHT",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3873,10 +3914,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
+    "when": "Your Movement phase, just after a HARLEQUINS unit from your army Falls Back.",
+    "target": "That HARLEQUINS unit.",
+    "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
   },
   {
-    "ability_id": "tricksters-retort",
+    "ability_id": "tricksters-retort-ghosts-of-the-webway",
     "name": "TRICKSTERS’ RETORT",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3890,10 +3933,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can make a Normal move of up to 6\"."
+    "when": "Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.",
+    "target": "One TROUPE unit from your army that is within 9\" of that enemy unit.",
+    "effect": "Your unit can make a Normal move of up to 6\"."
   },
   {
-    "ability_id": "bloody-dance",
+    "ability_id": "bloody-dance-ghosts-of-the-webway",
     "name": "BLOODY DANCE",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3907,10 +3952,13 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit now declares a charge that only targets one or more of those enemy units, and you resolve that charge."
+    "when": "End of your opponent’s Charge phase.",
+    "target": "One HARLEQUINS INFANTRY or HARLEQUINS MOUNTED unit from your army that is within 6\" of one or more enemy units and would be eligible to declare a charge against one or more of those enemy units if it were your Charge phase.",
+    "effect": "Your unit now declares a charge that only targets one or more of those enemy units, and you resolve that charge.",
+    "restrictions": "Note that even if this charge is successful, your unit does not receive any Charge bonus this turn."
   },
   {
-    "ability_id": "exit-the-stage",
+    "ability_id": "exit-the-stage-ghosts-of-the-webway",
     "name": "EXIT THE STAGE",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3924,10 +3972,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Remove your unit from the battlefield and place it into Strategic Reserves."
+    "when": "End of your opponent’s Fight phase.",
+    "target": "One HARLEQUINS unit from your army that is not within Engagement Range of one or more enemy units.",
+    "effect": "Remove your unit from the battlefield and place it into Strategic Reserves."
   },
   {
-    "ability_id": "overflight",
+    "ability_id": "overflight-windrider-host",
     "name": "OVERFLIGHT",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3941,10 +3991,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can make a Normal move of up to 7\"."
+    "when": "End of your Shooting phase or the end of the Fight phase.",
+    "target": "One ASURYANI MOUNTED unit from your army that destroyed one or more enemy units this phase.",
+    "effect": "Your unit can make a Normal move of up to 7\"."
   },
   {
-    "ability_id": "wind-of-blades",
+    "ability_id": "wind-of-blades-windrider-host",
     "name": "WIND OF BLADES",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3958,10 +4010,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced or Fell Back."
+    "when": "Your Movement phase.",
+    "target": "One ASURYANI MOUNTED or VYPER unit from your army that has not been selected to move this phase.",
+    "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced or Fell Back."
   },
   {
-    "ability_id": "daring-riders",
+    "ability_id": "daring-riders-windrider-host",
     "name": "DARING RIDERS",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3975,10 +4029,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, when setting up your unit on the battlefield from Reserves, it can be set up anywhere on the battlefield that is more than 6\" horizontally away from all enemy units. When doing so, if your unit is set up within 9\" horizontally of one or more enemy units, until the end of the turn, it is not eligible to declare a charge."
+    "when": "The Reinforcements step of your Movement phase.",
+    "target": "One ASURYANI MOUNTED or VYPER unit from your army in Reserves.",
+    "effect": "Until the end of the phase, when setting up your unit on the battlefield from Reserves, it can be set up anywhere on the battlefield that is more than 6\" horizontally away from all enemy units. When doing so, if your unit is set up within 9\" horizontally of one or more enemy units, until the end of the turn, it is not eligible to declare a charge."
   },
   {
-    "ability_id": "venomous-wrath",
+    "ability_id": "venomous-wrath-serpents-brood",
     "name": "VENOMOUS WRATH",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -3988,14 +4044,16 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/aeldari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
     },
-    "raw_text": "After your unit has shot, if it is not within Engagement Range of one or more enemy units, it can make a Normal move of up to 6\". Until the end of the turn, your unit is not eligible to declare a charge."
+    "when": "Your Shooting phase.",
+    "target": "One Harlequins Vehicle unit from your army that has not been selected to shoot this phase.",
+    "effect": "After your unit has shot, if it is not within Engagement Range of one or more enemy units, it can make a Normal move of up to 6\". Until the end of the turn, your unit is not eligible to declare a charge."
   },
   {
-    "ability_id": "striking-stride",
+    "ability_id": "striking-stride-serpents-brood",
     "name": "STRIKING STRIDE",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -4005,14 +4063,16 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/aeldari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
     },
-    "raw_text": "Until the end of the phase, your unit is eligible to declare a charge in a turn in which it Advanced."
+    "when": "Your Charge phase.",
+    "target": "One Harlequins unit from your army.",
+    "effect": "Until the end of the phase, your unit is eligible to declare a charge in a turn in which it Advanced. 1CP"
   },
   {
-    "ability_id": "weavers-coils",
+    "ability_id": "weavers-coils-serpents-brood",
     "name": "WEAVER’S COILS",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -4022,14 +4082,16 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/aeldari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
     },
-    "raw_text": "If your unit is not within Engagement Range of one or more enemy units, it can make a Normal move. Otherwise, your unit can make a Fall Back move of up to 6\"."
+    "when": "End of your Fight phase.",
+    "target": "One Harlequins Mounted unit from your army that was eligible to fight this phase.",
+    "effect": "If your unit is not within Engagement Range of one or more enemy units, it can make a Normal move. Otherwise, your unit can make a Fall Back move of up to 6\"."
   },
   {
-    "ability_id": "weaving-stride",
+    "ability_id": "weaving-stride-serpents-brood",
     "name": "WEAVING STRIDE",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -4039,14 +4101,16 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/aeldari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
     },
-    "raw_text": "Your unit can make a Normal move of up to 6\"."
+    "when": "Your opponent's Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.",
+    "target": "One Harlequins Infantry unit from your army that is within 8\" of that enemy unit.",
+    "effect": "Your unit can make a Normal move of up to 6\". 1CP"
   },
   {
-    "ability_id": "skyward-lunge",
+    "ability_id": "skyward-lunge-serpents-brood",
     "name": "SKYWARD LUNGE",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -4056,14 +4120,16 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/aeldari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
     },
-    "raw_text": "If your unit is not within Engagement Range of one or more enemy units, you can remove it from the battlefield and place it into Strategic Reserves."
+    "when": "End of your opponent's Fight phase.",
+    "target": "One Harlequins Vehicle or Harlequins Mounted unit from your army.",
+    "effect": "If your unit is not within Engagement Range of one or more enemy units, you can remove it from the battlefield and place it into Strategic Reserves. 7"
   },
   {
-    "ability_id": "soul-bridge",
+    "ability_id": "soul-bridge-spirit-conclave",
     "name": "SOUL BRIDGE",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -4077,10 +4143,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the start of your next Command phase, your WRAITHBLADES, WRAITHGUARD or WRAITHLORD unit is considered to be within 12\" of your PSYKER model for the purposes of the Psychic Guidance and Spirit Guides abilities."
+    "when": "Your Command phase.",
+    "target": "One WRAITHBLADES, WRAITHGUARD or WRAITHLORD unit from your army and one ASURYANI PSYKER model from your army.",
+    "effect": "Until the start of your next Command phase, your WRAITHBLADES, WRAITHGUARD or WRAITHLORD unit is considered to be within 12\" of your PSYKER model for the purposes of the Psychic Guidance and Spirit Guides abilities."
   },
   {
-    "ability_id": "spirit-token",
+    "ability_id": "spirit-token-spirit-conclave",
     "name": "SPIRIT TOKEN",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -4094,10 +4162,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Select one objective marker you control that your unit is within range of. That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
+    "when": "Start of your Movement phase.",
+    "target": "One WRAITHBLADES or WRAITHGUARD unit from your army.",
+    "effect": "Select one objective marker you control that your unit is within range of. That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
   },
   {
-    "ability_id": "pall-of-dread",
+    "ability_id": "pall-of-dread-devoted-of-ynnead",
     "name": "PALL OF DREAD",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -4111,10 +4181,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Select one of those objective markers. That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
+    "when": "Any phase.",
+    "target": "One YNNARI unit from your army that was just destroyed while it was within range of one or more objective markers you controlled at the end of the previous phase. You can use this Stratagem on that unit even though it was just destroyed.",
+    "effect": "Select one of those objective markers. That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
   },
   {
-    "ability_id": "death-answers-death",
+    "ability_id": "death-answers-death-devoted-of-ynnead",
     "name": "DEATH ANSWERS DEATH",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -4128,10 +4200,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can shoot as if it were your Shooting phase."
+    "when": "End of your opponent’s Shooting phase.",
+    "target": "One YNNARI unit from your army (excluding WRAITH CONSTRUCT units), if one or more models in that unit were destroyed this phase.",
+    "effect": "Your unit can shoot as if it were your Shooting phase."
   },
   {
-    "ability_id": "time-to-strike",
+    "ability_id": "time-to-strike-guardian-battlehost",
     "name": "TIME TO STRIKE",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -4145,10 +4219,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time your unit Advances, do not make an Advance roll. Instead, until the end of the phase, add 6\" to the Move characteristic of models in your unit. Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced."
+    "when": "Your Movement phase.",
+    "target": "One STORM GUARDIANS unit from your army that has not been selected to move this phase.",
+    "effect": "Until the end of the phase, each time your unit Advances, do not make an Advance roll. Instead, until the end of the phase, add 6\" to the Move characteristic of models in your unit. Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced."
   },
   {
-    "ability_id": "cost-of-victory",
+    "ability_id": "cost-of-victory-guardian-battlehost",
     "name": "COST OF VICTORY",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -4162,10 +4238,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "If your unit is not within Engagement Range of one or more enemy units, remove it from the battlefield and place it into Strategic Reserves. When doing so, return every destroyed GUARDIANS model to your unit."
+    "when": "End of your opponent’s Fight phase.",
+    "target": "One GUARDIANS unit from your army.",
+    "effect": "If your unit is not within Engagement Range of one or more enemy units, remove it from the battlefield and place it into Strategic Reserves. When doing so, return every destroyed GUARDIANS model to your unit."
   },
   {
-    "ability_id": "cloudstrike",
+    "ability_id": "cloudstrike-armoured-warhost",
     "name": "CLOUDSTRIKE",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -4179,10 +4257,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, your unit has the Deep Strike ability. When your unit is set up on the battlefield using the Deep Strike ability, it can be set up anywhere on the battlefield that is more than 6\" horizontally away from all enemy units, but if it does, until the end of the turn, it is not eligible to declare a charge. In addition, if your unit is a TRANSPORT, each unit that disembarks from it this turn must be set up more than 6\" horizontally from all enemy units and until the end of the turn, is not eligible to declare a charge.&x20;"
+    "when": "Start of the Reinforcements step of your Movement phase.",
+    "target": "One AELDARI VEHICLE unit from your army that can FLY and is in Strategic Reserves.",
+    "effect": "Until the end of the phase, your unit has the Deep Strike ability. When your unit is set up on the battlefield using the Deep Strike ability, it can be set up anywhere on the battlefield that is more than 6\" horizontally away from all enemy units, but if it does, until the end of the turn, it is not eligible to declare a charge. In addition, if your unit is a TRANSPORT, each unit that disembarks from it this turn must be set up more than 6\" horizontally from all enemy units and until the end of the turn, is not eligible to declare a charge.&x20;"
   },
   {
-    "ability_id": "anti-grav-repulsion",
+    "ability_id": "anti-grav-repulsion-armoured-warhost",
     "name": "ANTI-GRAV REPULSION",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -4196,10 +4276,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, subtract 2 from Charge rolls made for that enemy unit."
+    "when": "Your opponent’s Charge phase, just after an enemy unit has declared a charge.",
+    "target": "One AELDARI VEHICLE unit from your army that can FLY and was selected as a target of that charge.",
+    "effect": "Until the end of the phase, subtract 2 from Charge rolls made for that enemy unit."
   },
   {
-    "ability_id": "layered-wards",
+    "ability_id": "layered-wards-armoured-warhost",
     "name": "LAYERED WARDS",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -4209,14 +4291,16 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/aeldari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
     },
-    "raw_text": "Until the end of the phase, models in your unit have the Feel No Pain 5+ ability against mortal wounds."
+    "when": "Any phase, when a friendly AELDARI VEHICLE unit suffers a mortal wound.",
+    "target": "That AELDARI VEHICLE unit.",
+    "effect": "Your unit has Feel No Pain 5+ against mortal wounds. 1CP"
   },
   {
-    "ability_id": "swift-deployment",
+    "ability_id": "swift-deployment-armoured-warhost",
     "name": "SWIFT DEPLOYMENT",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -4230,10 +4314,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, units can disembark from your TRANSPORT after it has Advanced. Units that do so count as having made a Normal move that phase, and cannot declare a charge in the same turn, but can otherwise act normally."
+    "when": "Your Movement phase.",
+    "target": "One AELDARI TRANSPORT unit from your army.",
+    "effect": "Until the end of the phase, units can disembark from your TRANSPORT after it has Advanced. Units that do so count as having made a Normal move that phase, and cannot declare a charge in the same turn, but can otherwise act normally."
   },
   {
-    "ability_id": "vectored-engines",
+    "ability_id": "vectored-engines-armoured-warhost",
     "name": "VECTORED ENGINES",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -4243,14 +4329,16 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/aeldari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
     },
-    "raw_text": "Until the end of the turn, your unit is eligible to shoot in a turn in which it Fell Back."
+    "when": "Your Movement phase, when a friendly AELDARI VEHICLE unit makes a fallback move.",
+    "target": "That AELDARI VEHICLE unit.",
+    "effect": "That move does not prevent your unit from being eligible to shoot. UNIQUE: ACROBATIC"
   },
   {
-    "ability_id": "lethal-ruse",
+    "ability_id": "lethal-ruse-corsair-coterie",
     "name": "LETHAL RUSE",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -4260,14 +4348,16 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/aeldari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
     },
-    "raw_text": "Until the end of the turn, your unit is eligible to declare a charge in a turn in which it Fell Back. If it is an ANHRATHE unit, also select one enemy unit your unit was within Engagement Range of at the start of the phase, and roll six D6: for each 4+, that enemy unit suffers 1 mortal wound."
+    "when": "Your Movement phase, just after an Aeldari unit from your army Falls Back.",
+    "target": "That Aeldari unit.",
+    "effect": "Until the end of the turn, your unit is eligible to declare a charge in a turn in which it Fell Back. If it is an Anhrathe unit, also select one enemy unit your unit was within Engagement Range of at the start of the phase, and roll six D6: for each 4+, that enemy unit suffers 1 mortal wound. 1CP"
   },
   {
-    "ability_id": "outcast-ambush",
+    "ability_id": "outcast-ambush-corsair-coterie",
     "name": "OUTCAST AMBUSH",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -4277,14 +4367,16 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/aeldari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
     },
-    "raw_text": "Until the end of the phase, ranged weapons equipped by models in your unit have the [IGNORES COVER] and [RAPID FIRE 1] abilities, and until the end of the phase, improve the Armour Penetration characteristic of those weapons by 1."
+    "when": "Your Shooting phase.",
+    "target": "One Rangers or Shroud Runners unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the [IGNORES COVER] and [RAPID FIRE 1] abilities, and until the end of the phase, improve the Armour Penetration characteristic of those weapons by 1. 1CP"
   },
   {
-    "ability_id": "into-the-breach",
+    "ability_id": "into-the-breach-corsair-coterie",
     "name": "INTO THE BREACH",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -4294,14 +4386,16 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/aeldari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
     },
-    "raw_text": "After your unit has resolved all of its shooting attacks, it can make a Normal move of up to D6+1\"."
+    "when": "Your Shooting phase, just after an Anhrathe unit from your army destroyed one or more enemy units.",
+    "target": "That Anhrathe unit.",
+    "effect": "After your unit has resolved all of its shooting attacks, it can make a Normal move of up to D6+1\". 1CP"
   },
   {
-    "ability_id": "cloak-and-shadow",
+    "ability_id": "cloak-and-shadow-corsair-coterie",
     "name": "CLOAK AND SHADOW",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -4311,14 +4405,16 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/aeldari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
     },
-    "raw_text": "Until the end of the phase, models in your unit have the Stealth ability and your unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
+    "when": "Your opponent's Shooting phase, just after an enemy unit has selected its targets.",
+    "target": "One Aeldari Infantry unit from your army that is within range of an objective marker that you control and that was selected as the target of one or more of the attacking unit's attacks.",
+    "effect": "Until the end of the phase, models in your unit have the Stealth ability and your unit can only be selected as the target of a ranged attack if the attacking model is within 18\". 1CP"
   },
   {
-    "ability_id": "vengeful-sorrow",
+    "ability_id": "vengeful-sorrow-corsair-coterie",
     "name": "VENGEFUL SORROW",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -4328,14 +4424,16 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/aeldari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
     },
-    "raw_text": "Your unit can make a Surge move. To do so, roll one D6 and add 1 to the roll: models in your unit move a number of inches up to this result, but your unit must end that move as close as possible to the closest enemy unit (excluding AIRCRAFT). When doing so, those models can be moved within Engagement Range of that enemy unit."
+    "when": "Your opponent's Shooting phase, just after an enemy unit has shot.",
+    "target": "One Aeldari Infantry unit from your army, if one or more models in that unit were destroyed as a result of those attacks, and if that Aeldari unit is neither Battleshocked nor within Engagement Range of one or more enemy units.",
+    "effect": "Your unit can make a surge move of up to D6+1\". 11"
   },
   {
-    "ability_id": "raiders-spoils",
+    "ability_id": "raiders-spoils-eldritch-raiders",
     "name": "RAIDER’S SPOILS",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -4345,14 +4443,16 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/aeldari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
     },
-    "raw_text": "Until the start of the next Command phase, add 1 to the Objective Control characteristic of models in your unit."
+    "when": "Command phase.",
+    "target": "One Anhrathe unit from your army that is within Engagement Range of one or more enemy units.",
+    "effect": "Until the start of the next Command phase, add 1 to the Objective Control characteristic of models in your unit. 1CP"
   },
   {
-    "ability_id": "ruthless-killers",
+    "ability_id": "ruthless-killers-eldritch-raiders",
     "name": "RUTHLESS KILLERS",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -4362,14 +4462,16 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/aeldari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit makes an attack, add 1 to the Damage characteristic of that attack."
+    "when": "Your Shooting phase or the Fight phase.",
+    "target": "One Corsair Voidscarred unit from your army that has not been selected to shoot or Fight this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack, add 1 to the Damage characteristic of that attack. 1CP"
   },
   {
-    "ability_id": "withdraw-and-reinforce",
+    "ability_id": "withdraw-and-reinforce-eldritch-raiders",
     "name": "WITHDRAW AND REINFORCE",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -4379,14 +4481,16 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/aeldari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
     },
-    "raw_text": "Remove your unit from the battlefield and place it into Strategic Reserves. If that unit is below Starting Strength, return all destroyed models (excluding CHARACTER models) to that unit."
+    "when": "End of your opponent's Fight phase.",
+    "target": "One Anhrathe unit from your army that is not within Engagement Range of one or more enemy units.",
+    "effect": "Remove your unit from the battlefield and place it into Strategic Reserves. If that unit is below Starting Strength, return all destroyed models (excluding Character models) to that unit. 9"
   },
   {
-    "ability_id": "presentiment-of-dread",
+    "ability_id": "presentiment-of-dread-seer-council",
     "name": "PRESENTIMENT OF DREAD",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -4400,10 +4504,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Select one enemy unit within 18\" of and visible to your model. That enemy unit must take a Battle‑shock test, subtracting 1 from that test."
+    "when": "Command phase.",
+    "target": "One ASURYANI PSYKER model from your army.",
+    "effect": "Select one enemy unit within 18\" of and visible to your model. That enemy unit must take a Battle‑shock test, subtracting 1 from that test."
   },
   {
-    "ability_id": "forewarned",
+    "ability_id": "forewarned-seer-council",
     "name": "FOREWARNED",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -4417,10 +4523,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll and subtract 1 from the Wound roll."
+    "when": "Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One ASURYANI INFANTRY unit from your army (excluding WRAITH CONSTRUCT units) that was selected as the target of one or more of the attacking unit’s attacks and is within 9\" of one or more friendly ASURYANI PSYKER models.",
+    "effect": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll and subtract 1 from the Wound roll."
   },
   {
-    "ability_id": "unshrouded-truth",
+    "ability_id": "unshrouded-truth-seer-council",
     "name": "UNSHROUDED TRUTH",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -4434,10 +4542,13 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Remove your unit from the battlefield and set it up again anywhere on the battlefield that is more than 9\" horizontally away from all enemy models."
+    "when": "Your Movement phase.",
+    "target": "One ASURYANI INFANTRY unit from your army (excluding WRAITH CONSTRUCT units) that has not been selected to move this phase, was not set up on the battlefield this phase, and is within 9\" of one or more friendly ASURYANI PSYKER models.",
+    "effect": "Remove your unit from the battlefield and set it up again anywhere on the battlefield that is more than 9\" horizontally away from all enemy models.",
+    "restrictions": "Until the end of the phase, your unit is not eligible to be selected to move."
   },
   {
-    "ability_id": "psychic-shield",
+    "ability_id": "psychic-shield-seer-council",
     "name": "PSYCHIC SHIELD",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -4451,27 +4562,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, your unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
+    "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
+    "target": "One ASURYANI INFANTRY unit from your army (excluding WRAITH CONSTRUCT units) that was selected as the target of one or more of the attacking unit’s attacks and is within 9\" of one or more friendly ASURYANI PSYKER models.",
+    "effect": "Until the end of the phase, your unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
   },
   {
-    "ability_id": "skyborne-sanctuary",
-    "name": "SKYBORNE SANCTUARY",
-    "faction_id": "aeldari",
-    "unit_ids": [],
-    "ability_type": "stratagem",
-    "game_version": {
-      "edition": "11th",
-      "dataslate": "pre-launch-provisional"
-    },
-    "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/aeldari.json",
-      "edition": "10e"
-    },
-    "raw_text": "If your ASURYANI unit is not within Engagement Range of one or more enemy units and is wholly within 6\" of that TRANSPORT, it can embark within it."
-  },
-  {
-    "ability_id": "feigned-retreat",
+    "ability_id": "feigned-retreat-warhost",
     "name": "FEIGNED RETREAT",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -4485,10 +4581,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
+    "when": "Your Movement phase, just after an ASURYANI unit from your army Falls Back.",
+    "target": "That ASURYANI unit.",
+    "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
   },
   {
-    "ability_id": "fire-and-fade",
+    "ability_id": "fire-and-fade-warhost",
     "name": "FIRE AND FADE",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -4502,10 +4600,13 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Your unit can make a Normal move of up to D6+1\"."
+    "when": "Your Shooting phase, just after an ASURYANI INFANTRY unit from your army (excluding AIRCRAFT, ASURMEN and WRAITH CONSTRUCT units) has shot.",
+    "target": "That ASURYANI unit.",
+    "effect": "Your unit can make a Normal move of up to D6+1\".",
+    "restrictions": "Until the end of the turn, your unit is not eligible to declare a charge or embark within a TRANSPORT."
   },
   {
-    "ability_id": "webway-tunnel",
+    "ability_id": "webway-tunnel-warhost",
     "name": "WEBWAY TUNNEL",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -4519,10 +4620,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "If your unit is not within Engagement Range of one or more enemy units, remove it from the battlefield and place it into Strategic Reserves."
+    "when": "End of your opponent’s Fight phase.",
+    "target": "One ASURYANI INFANTRY unit from your army that is wholly within 9\" of one or more battlefield edges.",
+    "effect": "If your unit is not within Engagement Range of one or more enemy units, remove it from the battlefield and place it into Strategic Reserves."
   },
   {
-    "ability_id": "to-their-final-breath",
+    "ability_id": "to-their-final-breath-aspect-host",
     "name": "TO THEIR FINAL BREATH",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -4536,10 +4639,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Each time you use this Stratagem, you can remove one Aspect Shrine token your unit has (see datasheets). Then, until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, adding 1 to the result if you removed an Aspect Shrine token during this usage of this Stratagem. On a 4+, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play."
+    "when": "Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One ASPECT WARRIORS or AVATAR OF KHAINE unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Each time you use this Stratagem, you can remove one Aspect Shrine token your unit has (see datasheets). Then, until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, adding 1 to the result if you removed an Aspect Shrine token during this usage of this Stratagem. On a 4+, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play."
   },
   {
-    "ability_id": "khaines-vengeance",
+    "ability_id": "khaines-vengeance-aspect-host",
     "name": "KHAINE’S VENGEANCE",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -4553,10 +4658,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "All models in that enemy unit must take a Desperate Escape test. When doing so, if that enemy unit is Battle‑shocked, subtract 1 from each of those tests."
+    "when": "Your opponent’s Movement phase, just after an enemy unit (excluding MONSTERS and VEHICLES) is selected to Fall Back.",
+    "target": "One ASPECT WARRIORS or AVATAR OF KHAINE unit from your army that is within Engagement Range of that enemy unit.",
+    "effect": "All models in that enemy unit must take a Desperate Escape test. When doing so, if that enemy unit is Battle‑shocked, subtract 1 from each of those tests."
   },
   {
-    "ability_id": "parting-the-veil",
+    "ability_id": "parting-the-veil-devoted-of-ynnead",
     "name": "PARTING THE VEIL",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -4570,10 +4677,12 @@
       "ref": "10th/json/aeldari.json",
       "edition": "10e"
     },
-    "raw_text": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, do not remove it from play. The destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play."
+    "when": "Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One YNNARI unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, do not remove it from play. The destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play."
   },
   {
-    "ability_id": "impeding-fire",
+    "ability_id": "impeding-fire-eldritch-raiders",
     "name": "IMPEDING FIRE",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -4583,10 +4692,289 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/aeldari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
     },
-    "raw_text": "Select one enemy unit (excluding TITANIC units) visible to and within 36\" of your unit. Until the end of the phase, each time that enemy unit declares a charge, subtract 2 from the Charge roll (this is not cumulative with any other negative modifiers to that Charge roll)."
+    "when": "Start of your opponent's Charge phase.",
+    "target": "One Rangers, Shroud Runners or Starfang unit from your army.",
+    "effect": "Select one enemy unit (excluding Titanic units) visible to and within 36\" of your unit. Until the end of the phase, each time that enemy unit declares a charge, subtract 2 from the Charge roll (this is not cumulative with any other negative modifiers to that Charge roll)."
+  },
+  {
+    "ability_id": "soulsight-armoured-warhost",
+    "name": "Soulsight",
+    "faction_id": "aeldari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase, when a friendly AELDARI VEHICLE unit is selected to shoot.",
+    "target": "That AELDARI VEHICLE unit.",
+    "effect": "Your unit's attacks can reroll: One hit roll. One wound roll. One damage roll. 1CP"
+  },
+  {
+    "ability_id": "deceptive-feint-fateful-performance",
+    "name": "Deceptive Feint",
+    "faction_id": "aeldari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
+    },
+    "when": "Your opponent's Movement phase, when an enemy unit ends a move within 8\" of a friendly unengaged HARLEQUINS INFANTRY unit.",
+    "target": "That HARLEQUINS INFANTRY unit.",
+    "effect": "Your unit can make a normal move of up to D3+3\"."
+  },
+  {
+    "ability_id": "eldritch-suppression-path-of-the-outcast",
+    "name": "Eldritch Suppression",
+    "faction_id": "aeldari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase, when a friendly RANGERS/SHROUD RUNNERS unit has shot.",
+    "target": "That RANGERS/SHROUD RUNNERS unit.",
+    "effect": "Select one enemy unit hit by those ranged attacks. That enemy unit makes a battleshock roll, with 1 to that battleshock roll if a model in that enemy unit was destroyed by those attacks. 1CP"
+  },
+  {
+    "ability_id": "casting-back-the-veil-path-of-the-outcast",
+    "name": "Casting Back The Veil",
+    "faction_id": "aeldari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase, when a friendly RANGERS/SHROUD RUNNERS unit has shot.",
+    "target": "That RANGERS/SHROUD RUNNERS unit.",
+    "effect": "Select one enemy unit hit by those ranged attacks. That enemy unit has +6\" detection range."
+  },
+  {
+    "ability_id": "nomads-of-the-hidden-way-path-of-the-outcast",
+    "name": "Nomads Of The Hidden Way",
+    "faction_id": "aeldari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase, when a friendly RANGERS/SHROUD RUNNERS unit has shot.",
+    "target": "That RANGERS/SHROUD RUNNERS unit.",
+    "effect": "Your unit can make a normal move of up to D6\". Your unit is not eligible to declare a charge or embark within a TRANSPORT until the end of the turn. UNIQUE: ACROBATIC"
+  },
+  {
+    "ability_id": "presaged-rehearsal-twilight-flickers",
+    "name": "Presaged Rehearsal",
+    "faction_id": "aeldari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
+    },
+    "when": "Fight phase, when a friendly TROUPE unit is selected to fight.",
+    "target": "That TROUPE unit.",
+    "effect": "Your unit's melee attacks have [LANCE]."
+  },
+  {
+    "ability_id": "captivating-performance-twilight-flickers",
+    "name": "Captivating Performance",
+    "faction_id": "aeldari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
+    },
+    "when": "End of your Movement phase.",
+    "target": "One friendly TROUPE unit.",
+    "effect": "Select one objective your unit is controlling. That objective is secured. 1CP"
+  },
+  {
+    "ability_id": "phantasmal-mirage-twilight-flickers",
+    "name": "Phantasmal Mirage",
+    "faction_id": "aeldari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase, when a friendly HARLEQUINS VEHICLE unit has shot.",
+    "target": "That HARLEQUINS VEHICLE unit.",
+    "effect": "Your unit can make a normal move of up to D6\". Y our unit is not eligible to declare a charge until the end of the turn."
+  },
+  {
+    "ability_id": "a-foot-in-the-future-fateful-performance",
+    "name": "A Foot In The Future",
+    "faction_id": "aeldari",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "TROUPE MASTER model only. This unit can reroll charge rolls."
+  },
+  {
+    "ability_id": "camouflaged-snipers-path-of-the-outcast",
+    "name": "Camouflaged Snipers",
+    "faction_id": "aeldari",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "RANGERS unit only. This unit's ranged attacks do not prevent this unit from being hidden."
+  },
+  {
+    "ability_id": "shadowfall-masks-twilight-flickers",
+    "name": "Shadowfall Masks",
+    "faction_id": "aeldari",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "TROUPE unit only. This unit has Fights First."
+  },
+  {
+    "ability_id": "prelude-performer-twilight-flickers",
+    "name": "Prelude Performer",
+    "faction_id": "aeldari",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_09-06_warhammer40000_faction_pack_aeldari-glkjirbhiw-9udkry7xbr.pdf",
+      "edition": "11e"
+    },
+    "raw_text": "HARLEQUINS model only. This unit has Scouts 6\"."
+  },
+  {
+    "ability_id": "soulsight-devoted-of-ynnead",
+    "name": "SOULSIGHT",
+    "faction_id": "aeldari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "edition": "11e",
+      "ref": "manual"
+    },
+    "when": "Your Shooting phase.",
+    "target": "One YNNARI unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the [LETHAL HITS] and [IGNORES COVER] abilities"
+  },
+  {
+    "ability_id": "skyborne-sanctuary-warhost",
+    "name": "SKYBORNE SANCTUARY",
+    "faction_id": "aeldari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "edition": "11e",
+      "ref": "manual"
+    },
+    "when": "End of the Fight phase.",
+    "target": "One ASURYANI unit from your army that was eligible to fight this phase and one friendly TRANSPORT it is able to embark within.",
+    "effect": "If your ASURYANI unit is not within Engagement Range of one or more enemy units and is wholly within 6\" of that TRANSPORT, it can embark within it."
+  },
+  {
+    "ability_id": "skyborne-sanctuary-aspect-host",
+    "name": "SKYBORNE SANCTUARY",
+    "faction_id": "aeldari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "edition": "11e",
+      "ref": "manual"
+    },
+    "when": "End of the Fight phase.",
+    "target": "One ASURYANI unit from your army that was eligible to fight this phase and one friendly TRANSPORT it is able to embark within.",
+    "effect": "If your ASURYANI unit is not within Engagement Range of one or more enemy units and is wholly within 6\" of that TRANSPORT, it can embark within it."
   }
 ]
