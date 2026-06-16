@@ -442,23 +442,6 @@
     "raw_text": "CAPTAIN model only. At the start of your Command phase, if the bearer is on the battlefield, instead of selecting a Combat Doctrine to be active for your army, you can select the Tactical Doctrine. If you do, until the start of your next Command phase, that Combat Doctrine is active for the bearer’s unit only, even if you have already selected that Combat Doctrine to be active for your army this battle."
   },
   {
-    "ability_id": "fire-discipline",
-    "name": "Fire Discipline",
-    "faction_id": "dark-angels",
-    "unit_ids": [],
-    "ability_type": "enhancement",
-    "game_version": {
-      "edition": "11th",
-      "dataslate": "pre-launch-provisional"
-    },
-    "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/darkangels.json",
-      "edition": "10e"
-    },
-    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One ADEPTUS ASTARTES unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, ranged weapons equipped by models in your unit have the [ASSAULT], [HEAVY] and [IGNORES COVER] abilities."
-  },
-  {
     "ability_id": "fury-of-the-storm-stormlance-task-force",
     "name": "Fury of the Storm",
     "faction_id": "dark-angels",
@@ -2062,7 +2045,7 @@
     "name": "Dedicated Gunship",
     "faction_id": "dark-angels",
     "unit_ids": [],
-    "ability_type": "stratagem",
+    "ability_type": "enhancement",
     "game_version": {
       "edition": "11th",
       "dataslate": "pre-launch-provisional"
@@ -3091,5 +3074,24 @@
       "edition": "11e"
     },
     "raw_text": "CHAPLAIN model only. This unit's ranged attacks have [IGNORES COVER]."
+  },
+  {
+    "ability_id": "fire-discipline-unforgiven-task-force",
+    "name": "FIRE DISCIPLINE",
+    "faction_id": "dark-angels",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "edition": "11e",
+      "ref": "manual"
+    },
+    "when": "Your Shooting phase.",
+    "target": "One ADEPTUS ASTARTES unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the [ASSAULT], [HEAVY] and [IGNORES COVER] abilities."
   }
 ]

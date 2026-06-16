@@ -1998,23 +1998,6 @@
     "effect": "Until the end of the phase, each time a model in your unit makes a ranged attack that targets the closest eligible target within 18\", improve the Armour Penetration characteristic of ranged weapons equipped by models in your unit by 1."
   },
   {
-    "ability_id": "dakka-dakka-dakka",
-    "name": "Dakka! Dakka! Dakka!",
-    "faction_id": "orks",
-    "unit_ids": [],
-    "ability_type": "enhancement",
-    "game_version": {
-      "edition": "11th",
-      "dataslate": "pre-launch-provisional"
-    },
-    "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
-    },
-    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One ORKS WALKER or GROTS VEHICLE unit from your army that has not been selected to shoot this phase. EFFECT: Each time you use this Stratagem, you can choose to push it. Until the end of the phase, each time a model in your unit makes an attack, re‑roll a Hit roll of 1. If you chose to push it, you can re‑roll the Hit roll instead and, until the end of the phase, ranged weapons equipped by models in your unit have the [HAZARDOUS] ability as well."
-  },
-  {
     "ability_id": "dead-shiny-shootas-rollin-deff",
     "name": "Dead Shiny Shootas",
     "faction_id": "orks",
@@ -3902,5 +3885,24 @@
       "edition": "11e"
     },
     "raw_text": "WAGON unit only. While a BIG MEK model is embarked within this unit: This unit's ranged attacks have [IGNORES COVER]. If the Waaagh! is active for this unit, this unit's ranged attacks have [SUSTAINED HITS 1]."
+  },
+  {
+    "ability_id": "dakka-dakka-dakka-dread-mob",
+    "name": "DAKKA! DAKKA! DAKKA!",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "edition": "11e",
+      "ref": "manual"
+    },
+    "when": "Your Shooting phase.",
+    "target": "One ORKS WALKER or GROTS VEHICLE unit from your army that has not been selected to shoot this phase.",
+    "effect": "Each time you use this Stratagem, you can choose to push it. Until the end of the phase, each time a model in your unit makes an attack, re‑roll a Hit roll of 1. If you chose to push it, you can re‑roll the Hit roll instead and, until the end of the phase, ranged weapons equipped by models in your unit have the [HAZARDOUS] ability as well."
   }
 ]

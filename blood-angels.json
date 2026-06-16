@@ -2094,7 +2094,7 @@
     "name": "Dedicated Gunship",
     "faction_id": "blood-angels",
     "unit_ids": [],
-    "ability_type": "stratagem",
+    "ability_type": "enhancement",
     "game_version": {
       "edition": "11th",
       "dataslate": "pre-launch-provisional"

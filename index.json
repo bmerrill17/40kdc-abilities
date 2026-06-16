@@ -5038,12 +5038,6 @@
     "target": "One ASURYANI INFANTRY unit from your army (excluding WRAITH CONSTRUCT units) that was selected as the target of one or more of the attacking unit’s attacks and is within 9\" of one or more friendly ASURYANI PSYKER models.",
     "effect": "Until the end of the phase, your unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
   },
-  "skyborne-sanctuary": {
-    "faction": "aeldari",
-    "when": "End of the Fight phase.",
-    "target": "One ASURYANI unit from your army that was eligible to fight this phase and one friendly TRANSPORT it is able to embark within.",
-    "effect": "If your ASURYANI unit is not within Engagement Range of one or more enemy units and is wholly within 6\" of that TRANSPORT, it can embark within it."
-  },
   "feigned-retreat-warhost": {
     "faction": "aeldari",
     "when": "Your Movement phase, just after an ASURYANI unit from your army Falls Back.",
@@ -5151,11 +5145,23 @@
     "faction": "aeldari",
     "raw_text": "HARLEQUINS model only. This unit has Scouts 6\"."
   },
-  "soulsight": {
+  "soulsight-devoted-of-ynnead": {
     "faction": "aeldari",
     "when": "Your Shooting phase.",
     "target": "One YNNARI unit from your army that has not been selected to shoot this phase.",
     "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the [LETHAL HITS] and [IGNORES COVER] abilities"
+  },
+  "skyborne-sanctuary-warhost": {
+    "faction": "aeldari",
+    "when": "End of the Fight phase.",
+    "target": "One ASURYANI unit from your army that was eligible to fight this phase and one friendly TRANSPORT it is able to embark within.",
+    "effect": "If your ASURYANI unit is not within Engagement Range of one or more enemy units and is wholly within 6\" of that TRANSPORT, it can embark within it."
+  },
+  "skyborne-sanctuary-aspect-host": {
+    "faction": "aeldari",
+    "when": "End of the Fight phase.",
+    "target": "One ASURYANI unit from your army that was eligible to fight this phase and one friendly TRANSPORT it is able to embark within.",
+    "effect": "If your ASURYANI unit is not within Engagement Range of one or more enemy units and is wholly within 6\" of that TRANSPORT, it can embark within it."
   },
   "extremis-sanction": {
     "faction": "agents-of-the-imperium",
@@ -10226,10 +10232,6 @@
     "faction": "dark-angels",
     "raw_text": "RAVENWING model only. Models in the bearer’s unit have the Scouts 9\" ability."
   },
-  "fire-discipline": {
-    "faction": "dark-angels",
-    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One ADEPTUS ASTARTES unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, ranged weapons equipped by models in your unit have the [ASSAULT], [HEAVY] and [IGNORES COVER] abilities."
-  },
   "unmatched-fortitude-inner-circle-task-force": {
     "faction": "dark-angels",
     "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
@@ -10462,6 +10464,12 @@
   "inescapable-interrogation-interrogation-conclave": {
     "faction": "dark-angels",
     "raw_text": "CHAPLAIN model only. This unit's ranged attacks have [IGNORES COVER]."
+  },
+  "fire-discipline-unforgiven-task-force": {
+    "faction": "dark-angels",
+    "when": "Your Shooting phase.",
+    "target": "One ADEPTUS ASTARTES unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the [ASSAULT], [HEAVY] and [IGNORES COVER] abilities."
   },
   "warped-and-rusted-animus": {
     "faction": "death-guard",
@@ -15936,10 +15944,6 @@
     "target": "One ORKS unit from your army that has not been selected to shoot this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes a ranged attack that targets the closest eligible target within 18\", improve the Armour Penetration characteristic of ranged weapons equipped by models in your unit by 1."
   },
-  "dakka-dakka-dakka": {
-    "faction": "orks",
-    "raw_text": "1CP. WHEN: Your Shooting phase. TARGET: One ORKS WALKER or GROTS VEHICLE unit from your army that has not been selected to shoot this phase. EFFECT: Each time you use this Stratagem, you can choose to push it. Until the end of the phase, each time a model in your unit makes an attack, re‑roll a Hit roll of 1. If you chose to push it, you can re‑roll the Hit roll instead and, until the end of the phase, ranged weapons equipped by models in your unit have the [HAZARDOUS] ability as well."
-  },
   "dead-shiny-shootas-rollin-deff": {
     "faction": "orks",
     "raw_text": "ORKS model only. Ranged weapons equipped by models in the bearer’s unit have the [RAPID FIRE 1] ability."
@@ -16476,6 +16480,12 @@
   "targetin-gizmos-rollin-deff": {
     "faction": "orks",
     "raw_text": "WAGON unit only. While a BIG MEK model is embarked within this unit: This unit's ranged attacks have [IGNORES COVER]. If the Waaagh! is active for this unit, this unit's ranged attacks have [SUSTAINED HITS 1]."
+  },
+  "dakka-dakka-dakka-dread-mob": {
+    "faction": "orks",
+    "when": "Your Shooting phase.",
+    "target": "One ORKS WALKER or GROTS VEHICLE unit from your army that has not been selected to shoot this phase.",
+    "effect": "Each time you use this Stratagem, you can choose to push it. Until the end of the phase, each time a model in your unit makes an attack, re‑roll a Hit roll of 1. If you chose to push it, you can re‑roll the Hit roll instead and, until the end of the phase, ranged weapons equipped by models in your unit have the [HAZARDOUS] ability as well."
   },
   "blackwing-shroud-shadowmark-talon": {
     "faction": "raven-guard",
@@ -18996,10 +19006,6 @@
     "faction": "white-scars",
     "raw_text": "ADEPTUS ASTARTES MOUNTED model only. If the bearer’s unit is in Strategic Reserves, for the purposes of setting up that unit on the battlefield, treat the current battle round number as being one higher than it actually is."
   },
-  "hunters-instincts": {
-    "faction": "white-scars",
-    "raw_text": "ADEPTUS ASTARTES MOUNTED model only. If the bearer’s unit is in Strategic Reserves, for the purposes of setting up that unit on the battlefield, treat the current battle round number as being one higher than it actually is."
-  },
   "armour-of-contempt-spearpoint-task-force": {
     "faction": "white-scars",
     "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
@@ -19029,6 +19035,10 @@
     "when": "Your Movement phase.",
     "target": "One ADEPTUS ASTARTES unit from your army.",
     "effect": "Until the end of the turn, your unit is eligible to shoot in a turn in which it Advanced or Fell Back."
+  },
+  "hunters-instincts-spearpoint-task-force": {
+    "faction": "white-scars",
+    "raw_text": "ADEPTUS ASTARTES MOUNTED model only. If the bearer’s unit is in Strategic Reserves, for the purposes of setting up that unit on the battlefield, treat the current battle round number as being one higher than it actually is."
   },
   "legendary-killer": {
     "faction": "world-eaters",

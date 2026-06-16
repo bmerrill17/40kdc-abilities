@@ -4567,25 +4567,6 @@
     "effect": "Until the end of the phase, your unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
   },
   {
-    "ability_id": "skyborne-sanctuary",
-    "name": "SKYBORNE SANCTUARY",
-    "faction_id": "aeldari",
-    "unit_ids": [],
-    "ability_type": "stratagem",
-    "game_version": {
-      "edition": "11th",
-      "dataslate": "pre-launch-provisional"
-    },
-    "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/aeldari.json",
-      "edition": "10e"
-    },
-    "when": "End of the Fight phase.",
-    "target": "One ASURYANI unit from your army that was eligible to fight this phase and one friendly TRANSPORT it is able to embark within.",
-    "effect": "If your ASURYANI unit is not within Engagement Range of one or more enemy units and is wholly within 6\" of that TRANSPORT, it can embark within it."
-  },
-  {
     "ability_id": "feigned-retreat-warhost",
     "name": "FEIGNED RETREAT",
     "faction_id": "aeldari",
@@ -4940,7 +4921,7 @@
     "raw_text": "HARLEQUINS model only. This unit has Scouts 6\"."
   },
   {
-    "ability_id": "soulsight",
+    "ability_id": "soulsight-devoted-of-ynnead",
     "name": "SOULSIGHT",
     "faction_id": "aeldari",
     "unit_ids": [],
@@ -4950,12 +4931,50 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/aeldari.json",
-      "edition": "10e"
+      "kind": "pdf",
+      "edition": "11e",
+      "ref": "manual"
     },
     "when": "Your Shooting phase.",
     "target": "One YNNARI unit from your army that has not been selected to shoot this phase.",
     "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the [LETHAL HITS] and [IGNORES COVER] abilities"
+  },
+  {
+    "ability_id": "skyborne-sanctuary-warhost",
+    "name": "SKYBORNE SANCTUARY",
+    "faction_id": "aeldari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "edition": "11e",
+      "ref": "manual"
+    },
+    "when": "End of the Fight phase.",
+    "target": "One ASURYANI unit from your army that was eligible to fight this phase and one friendly TRANSPORT it is able to embark within.",
+    "effect": "If your ASURYANI unit is not within Engagement Range of one or more enemy units and is wholly within 6\" of that TRANSPORT, it can embark within it."
+  },
+  {
+    "ability_id": "skyborne-sanctuary-aspect-host",
+    "name": "SKYBORNE SANCTUARY",
+    "faction_id": "aeldari",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "edition": "11e",
+      "ref": "manual"
+    },
+    "when": "End of the Fight phase.",
+    "target": "One ASURYANI unit from your army that was eligible to fight this phase and one friendly TRANSPORT it is able to embark within.",
+    "effect": "If your ASURYANI unit is not within Engagement Range of one or more enemy units and is wholly within 6\" of that TRANSPORT, it can embark within it."
   }
 ]
