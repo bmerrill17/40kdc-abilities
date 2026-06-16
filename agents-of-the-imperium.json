@@ -2974,5 +2974,73 @@
     "when": "Your Shooting phase.",
     "target": "One GREY KNIGHTS TERMINATOR SQUAD unit from your army that has not been selected to shoot this phase.",
     "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the [LETHAL HITS] and [PSYCHIC] abilities."
+  },
+  {
+    "ability_id": "at-all-costs",
+    "name": "At All Costs",
+    "faction_id": "agents-of-the-imperium",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/agents.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of your Command phase, you can select one of the following to apply: Eliminate At All Costs Select one enemy unit on the battlefield. Until the start of your next Command phase, each time an AGENTS OF THE IMPERIUM model from your army makes an attack that targets that enemy unit, add 1 to the Hit roll. Acquire At All Costs Select one objective marker on the battlefield. Until the start of your next Command phase, while an AGENTS OF THE IMPERIUM unit from your army is within range of that objective marker, improve the Leadership and Objective Control characteristics of models in that unit by 1 and models in that unit have a 5+ invulnerable save."
+  },
+  {
+    "ability_id": "root-out-heresy",
+    "name": "Root Out Heresy",
+    "faction_id": "agents-of-the-imperium",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/agents.json",
+      "edition": "10e"
+    },
+    "raw_text": "Ranged weapons equipped by ADEPTUS ARBITES, INQUISITOR, INQUISITORIAL AGENTS and ORDO HERETICUS models from your army have the [IGNORES COVER] ability. Each time an ADEPTUS ARBITES, INQUISITOR, INQUISITORIAL AGENTS or ORDO HERETICUS model from your army makes an attack that targets a Chaos unit containing 5 or more models, that attack has the [SUSTAINED HITS 1] ability."
+  },
+  {
+    "ability_id": "deathwatch-mission-tactics",
+    "name": "Deathwatch Mission Tactics",
+    "faction_id": "agents-of-the-imperium",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/agents.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of your Command phase, you can select one of the Mission Tactics listed below. Until the start of your next Command phase, that Mission Tactic is active and its effects apply to all DEATHWATCH units from your army. Each Mission Tactic can only be selected once per battle. Furor Tactics While this Mission Tactic is active, weapons equipped by DEATHWATCH units from your army have the [SUSTAINED HITS 1] ability. Malleus Tactics While this Mission Tactic is active, weapons equipped by DEATHWATCH units from your army have the [LETHAL HITS] ability. Purgatus Tactics While this Mission Tactic is active, each time a DEATHWATCH model from your army makes an attack, on a Critical Wound, that attack has the [PRECISION] ability."
+  },
+  {
+    "ability_id": "destroy-the-daemonic",
+    "name": "Destroy The Daemonic",
+    "faction_id": "agents-of-the-imperium",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/agents.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time an INQUISITOR, INQUISITORIAL AGENTS or ORDO MALLEUS model from your army makes an attack, re‐roll a Hit roll of 1 and, if the target of that attack is a DAEMON unit, re‐roll a Wound roll of 1 as well."
   }
 ]

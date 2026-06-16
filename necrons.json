@@ -3980,5 +3980,158 @@
       "edition": "11e"
     },
     "raw_text": "OBELISK unit only. In your opponent's Battleshock step, if an enemy unit within 8\" of this unit is below starting strength, that enemy unit makes a battleshock roll."
+  },
+  {
+    "ability_id": "technosorcerous-augmentations",
+    "name": "Technosorcerous Augmentations",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Ranged weapons equipped by CRYPTEK models from your army have the [ASSAULT] ability. In your Shooting phase, each time a CRYPTEK unit from your army is selected to shoot, select one of the following abilities: [ANTI-INFANTRY 3+], [ANTI-MOUNTED 4+], [ASSAULT], [HEAVY], [IGNORES COVER]. Until the end of the phase, ranged weapons equipped by models in that unit have that ability."
+  },
+  {
+    "ability_id": "relentless-onslaught",
+    "name": "Relentless Onslaught",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a NECRONS model (excluding MONSTER models) from your army makes an attack that targets a unit within range of one or more objective markers, add 1 to the Hit roll. In addition, ranged weapons equipped by NECRONS VEHICLE and NECRONS MOUNTED models (excluding TITANIC models) from your army have the [ASSAULT] ability."
+  },
+  {
+    "ability_id": "cold-fervour",
+    "name": "Cold Fervour",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Add 2 to the Strength characteristic of weapons equipped by DESTROYER CULT models from your army. The first time each turn that a DESTROYER CULT unit from your army makes attacks that destroy a unit or cause it to become Below Half-strength, after that unit has finished resolving its attacks, until the end of the turn, add 2 to the Strength characteristic of weapons equipped by friendly NECRONS models (excluding DESTROYER CULT, MONSTER and TITANIC models)."
+  },
+  {
+    "ability_id": "annihilation-protocol",
+    "name": "Annihilation Protocol",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a DESTROYER CULT or FLAYED ONES unit from your army declares a charge, you can re-roll the Charge roll. If one or more targets of that charge are Below Half-strength, add 1 to the Charge roll as well. Each time a DESTROYER CULT unit from your army makes a ranged attack that targets the closest eligible target, add 1 to the Armour Penetration characteristic of that attack."
+  },
+  {
+    "ability_id": "hyperphasing",
+    "name": "Hyperphasing",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the end of your opponent’s turn, you can select a number of NECRONS units from your army (excluding units that are within Engagement Range of one or more enemy units). The maximum number of units you can select depends on the battle size, as follows: Incursion: Up to 1 unit Strike Force: Up to 2 units Onslaught: Up to 3 units Once you have made your selections, remove those units from the battlefield and place them into Strategic Reserves."
+  },
+  {
+    "ability_id": "cosmic-distortion",
+    "name": "Cosmic Distortion",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "NECRONS MONSTER units from your army have the following ability: Distortion Fields (Aura): While an enemy unit is within 6\" of this unit, it is unravelling. While an enemy unit is unravelling, each time an attack targets that unit, improve the Armour Penetration characteristic of that attack by 1. At the start of each phase, for each NECRONS MONSTER unit from your army, that unit can suffer 3 mortal wounds. If it does, until the end of the phase, the range of that unit’s Distortion Fields Aura ability is increased to 9\". Designer’s Note: *If your army contains more than one* TRANSCENDENT C’TAN *unit, each of those units must take the Reletavistic Tether ability.* Necrodermal Binding Abilities *This eldritch device fetters and directs the Deceiver’s powers within a vortex that devours lesser wits entirely.* C’TAN SHARD OF THE DECEIVER model only. This model has the following ability: Lord of Deceit (Aura): Each time your opponent targets a unit from their army with a Stratagem, if that unit is within 12\" of this model, increase the cost of that use of that Stratagem by 1CP. *The energies of this binding latch onto enemy targets and shunt the shard into alignment with them.* C’TAN SHARD OF THE NIGHTBRINGER model only. This model is eligible to declare a charge in a turn in which it Advanced. *This device bleeds off the Void Dragon shard’s energies and earths them violently through nearby machines.* C’TAN SHARD OF THE VOID DRAGON model only. Once per turn, at the start of your opponent’s Shooting phase, select one enemy VEHICLE unit visible to the bearer. That unit must take a Leadership test. Until the end of the phase, each time a model in that unit makes an attack, subtract 1 from the Hit roll and, if that Leadership test was failed, subtract 1 from the Wound roll as well. *This binding uses atomic resonance magnetism to compel the shard into the midst of the foe.* TRANSCENDENT C’TAN model only. In your turn, each time this model is set up on the battlefield using the Deep Strike or Transdimensional Displacement abilities, it can be set up anywhere on the battlefield that is more than 6\" horizontally away from all enemy units. When doing so, if this model is set up within 9\" of one or more enemy units, until the end of the turn, it is not eligible to declare a charge."
+  },
+  {
+    "ability_id": "worthy-foes",
+    "name": "Worthy Foes",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Command phase, select one enemy unit. Until the start of your next Command phase, each time a NOBLE, LYCHGUARD or TRIARCH unit from your army makes an attack that targets that unit, add 1 to the Wound roll."
+  },
+  {
+    "ability_id": "power-matrix",
+    "name": "Power Matrix",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "Certain areas of the battlefield are considered to be within your army’s Power Matrix, as follows: Your deployment zone is always within your army’s Power Matrix. At the start of any phase, if you control at least half of the objective markers within No Man’s Land, until the end of that phase, No Man’s Land is within your army’s Power Matrix. At the start of any phase, if you control at least half of the objective markers within your opponent’s deployment zone, until the end of that phase, your opponent’s deployment zone is within your army’s Power Matrix. Each time a model in a CRYPTEK or CANOPTEK unit from your army makes an attack, re-roll a Hit roll of 1. If such a unit is wholly within your army’s Power Matrix, you can re-roll the Hit roll instead."
+  },
+  {
+    "ability_id": "command-protocols",
+    "name": "Command Protocols",
+    "faction_id": "necrons",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/necrons.json",
+      "edition": "10e"
+    },
+    "raw_text": "While a NECRONS CHARACTER model is leading this unit, each time a model in this unit makes an attack, add 1 to the Hit roll."
   }
 ]

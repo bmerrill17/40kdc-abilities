@@ -5446,5 +5446,90 @@
     "when": "Your Shooting phase.",
     "target": "One ASTRA MILITARUM CHARACTER unit from your army that has not been selected to shoot this phase.",
     "effect": "Until the end of the phase, each time your unit makes an attack that targets a visible enemy unit within 12\", you can re-roll the Hit roll."
+  },
+  {
+    "ability_id": "masters-of-camouflage",
+    "name": "Masters Of Camouflage",
+    "faction_id": "astra-militarum",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/astramilitarum.json",
+      "edition": "10e"
+    },
+    "raw_text": "ASTRA MILITARUM WALKER and REGIMENT models from your army have the Benefit of Cover. While such a model has the Benefit of Cover for any other reason (e.g. because it is wholly within a RUIN), improve the Save characteristic of that model by 1 (to a maximum of 3+)."
+  },
+  {
+    "ability_id": "iron-tread",
+    "name": "Iron Tread",
+    "faction_id": "astra-militarum",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/astramilitarum.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a SQUADRON unit from your army Advances, do not make an Advance roll for it; until the end of the phase, add 6\" to the Move characteristic of models in that unit, and when making that Advance move, that unit can move within Engagement Range of enemy models but cannot end that move within Engagement Range of enemy models."
+  },
+  {
+    "ability_id": "born-soldiers",
+    "name": "Born Soldiers",
+    "faction_id": "astra-militarum",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/astramilitarum.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a model in a REGIMENT unit from your army makes a ranged attack that targets a visible unit (excluding MONSTERS and VEHICLES), that attack has the [LETHAL HITS] ability. Each time a model in a SQUADRON unit from your army makes a ranged attack that targets a visible MONSTER or VEHICLE unit, that attack has the [LETHAL HITS] ability."
+  },
+  {
+    "ability_id": "armoured-fist",
+    "name": "Armoured Fist",
+    "faction_id": "astra-militarum",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/astramilitarum.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time an ASTRA MILITARUM model from your army makes a ranged attack in a turn in which it disembarked from a TRANSPORT, add 1 to the Wound roll."
+  },
+  {
+    "ability_id": "artillery-support",
+    "name": "Artillery Support",
+    "faction_id": "astra-militarum",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/astramilitarum.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of the battle round, select one of the following types of artillery support. Creeping Barrage: Roll one D6 for each enemy unit that is more than 12\" from every model from your army that is on the battlefield: On a 5+, until the end of the battle round, that unit is shaken. While a unit is shaken, subtract 2” from its Move characteristic and subtract 2 from Charge rolls made for it. The maximum number of units that can be shaken by this rule in each battle round depends on the battle size, as shown below. Incendiary Bombardment: Select a number of enemy units more than 12\" from every model from your army that is on the battlefield. Until the end of the battle round, those enemy units are scattered. While a unit is scattered, it cannot have the Benefit of Cover. The maximum number of units you can select in this way depends on the battle size, as shown below. Smoke Shells: Select a number of units from your army. Until the end of the battle round, those units have the Stealth ability. The maximum number of units you can select in this way depends on the battle size, as shown below. -"
   }
 ]

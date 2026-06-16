@@ -4976,5 +4976,226 @@
     "when": "End of the Fight phase.",
     "target": "One ASURYANI unit from your army that was eligible to fight this phase and one friendly TRANSPORT it is able to embark within.",
     "effect": "If your ASURYANI unit is not within Engagement Range of one or more enemy units and is wholly within 6\" of that TRANSPORT, it can embark within it."
+  },
+  {
+    "ability_id": "acrobatic-onslaught",
+    "name": "Acrobatic Onslaught",
+    "faction_id": "aeldari",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a HARLEQUINS model from your army makes a Charge move, it can move through enemy models."
+  },
+  {
+    "ability_id": "ride-the-wind",
+    "name": "Ride The Wind",
+    "faction_id": "aeldari",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "In the Declare Battle Formations step you can set up ASURYANI MOUNTED and VYPER units from your army in Reserves. During the battle, such units can be set up on the battlefield as if they were arriving from Strategic Reserves. For the purposes of setting up ASURYANI MOUNTED or VYPER units from your army on the battlefield, treat the current battle round number as being one higher than it actually is. In addition, at the end of your opponent’s turn, you can select a number of ASURYANI MOUNTED or VYPER units from your army (excluding units within Engagement Range of one or more enemy units), then remove those units from the battlefield and place them into Strategic Reserves. The maximum number of units you can select depends on the battle size, as shown below. -"
+  },
+  {
+    "ability_id": "boons-of-the-brood",
+    "name": "Boons Of The Brood",
+    "faction_id": "aeldari",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Weapons equipped by HARLEQUINS MOUNTED and HARLEQUINS VEHICLE models from your army have the [SUSTAINED HITS 1] ability. Each time a HARLEQUINS unit from your army disembarks from a TRANSPORT, until the end of the turn, that unit’s weapons have the [SUSTAINED HITS 1] ability."
+  },
+  {
+    "ability_id": "shepherds-of-the-dead",
+    "name": "Shepherds Of The Dead",
+    "faction_id": "aeldari",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time an ASURYANI PSYKER model from your army is destroyed by an enemy unit, that enemy unit gains a Vengeful Dead token. Each time a WRAITH CONSTRUCT model from your army makes an attack that targets a unit with one or more Vengeful Dead tokens, add 1 to the Hit roll and add 1 to the Wound roll. ASURYANI PSYKER models from your army have the following ability: Spirit Guides (Aura): While a WRAITHBLADES, WRAITHGUARD or WRAITHLORD unit from your army is within 12\" of this model, that unit has the Battle Focus ability."
+  },
+  {
+    "ability_id": "strength-from-death",
+    "name": "Strength From Death",
+    "faction_id": "aeldari",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "You can use the following rules: Lethal Intent At the end of your opponent’s Shooting phase, if one or more YNNARI units from your army were destroyed this phase, select one YNNARI INFANTRY or YNNARI MOUNTED unit from your army that was within 6\" of your destroyed unit. That unit can make a Normal move of up to D6+1\". Lethal Surge Once per turn, when a YNNARI unit from your army performs the Fade Back Agile Manoeuvre, it can make a Lethal Surge move instead of a Normal move. If it does, roll one D6 and add 1 to the result: that unit can be moved a number of inches up to the total. When doing so, those models can be moved within Engagement Range of the enemy unit that just triggered that Agile Manoeuvre. Lethal Reprisal At the start of the Fight phase, select one YNNARI unit from your army (excluding TITANIC units) that is below its Starting Strength. Until the end of the phase, that unit has the Fights First ability."
+  },
+  {
+    "ability_id": "defend-at-all-costs",
+    "name": "Defend At All Costs",
+    "faction_id": "aeldari",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a DIRE AVENGER, GUARDIAN, SUPPORT WEAPON or WAR WALKER model from your army makes an attack, if that model’s unit and/or the target unit are within range of one or more objective markers, add 1 to the Hit roll."
+  },
+  {
+    "ability_id": "skilled-crews",
+    "name": "Skilled Crews",
+    "faction_id": "aeldari",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Ranged weapons equipped by AELDARI VEHICLE models from your army have the [ASSAULT] ability and you can re-roll Advance rolls made for AELDARI VEHICLE FLY units from your army."
+  },
+  {
+    "ability_id": "relentless-raiders",
+    "name": "Relentless Raiders",
+    "faction_id": "aeldari",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "While an objective marker is under your control, each time an enemy unit ends a Normal, Advance, Fall Back or Charge move within range of that objective marker, roll one D6: on a 2+, that enemy unit suffers D3 mortal wounds. ANHRATHE units from your army have the following ability: Void Thieves: At the end of a phase, if this unit is within range of an objective marker you control, that objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
+  },
+  {
+    "ability_id": "veterans-of-the-void",
+    "name": "Veterans Of The Void",
+    "faction_id": "aeldari",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time you add an ANHRATHE unit to your army, it can be given up to one Corsair Enhancement. Each Corsair Enhancement included in your army must be unique. If a unit is given a Corsair Enhancement, you must increase the points cost of that unit by the amount shown (see *Munitorum* *Field Manual*). If this causes your army to exceed the points limit for the battle you are playing, you cannot include that unit in your army."
+  },
+  {
+    "ability_id": "yriels-own",
+    "name": "Yriel’S Own",
+    "faction_id": "aeldari",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "AELDARI units in your army are eligible to declare a charge in a turn in which they Advanced. In addition, each time an ANHRATHE, RANGERS or SHROUD RUNNERS unit from your army Advances, you can re-roll the Advance roll."
+  },
+  {
+    "ability_id": "strands-of-fate",
+    "name": "Strands Of Fate",
+    "faction_id": "aeldari",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of the first battle round, you generate Fate dice by rolling a number of D6 based on the battle size, as shown below. Keep your Fate dice to one side – this is your Fate dice pool. - Each time you use one of the Stratagems opposite, if your Fate dice pool contains one or more Fate dice showing the corresponding value in the table below, you can discard one of those corresponding Fate dice. If you do, reduce the CP cost of that usage of that Stratagem by 1CP. -"
+  },
+  {
+    "ability_id": "martial-grace",
+    "name": "Martial Grace",
+    "faction_id": "aeldari",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of the battle round, you receive 1 additional Battle Focus token. Each time a unit from your army performs the Swift as the Wind Agile Manoeuvre, until the end of the phase, add an additional 1\" to the Move characteristic of models in that unit. Each time a unit from your army performs an Agile Manoeuvre that involves rolling a D6, add 1 to the result."
+  },
+  {
+    "ability_id": "path-of-the-warrior",
+    "name": "Path Of The Warrior",
+    "faction_id": "aeldari",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/aeldari.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time an ASPECT WARRIORS or AVATAR OF KHAINE unit from your army is selected to shoot or fight, select one of the following abilities for it to gain until the end of the phase: Each time a model in this unit makes an attack, re-roll a Hit roll of 1. Each time a model in this unit makes an attack, re-roll a Wound roll of 1."
   }
 ]

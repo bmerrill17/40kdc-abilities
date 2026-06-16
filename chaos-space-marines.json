@@ -5271,5 +5271,209 @@
       "edition": "11e"
     },
     "raw_text": "CHAOS LORD WITH JUMP PACK model only. T his model has DAEMON. This model's melee attacks have +1 A."
+  },
+  {
+    "ability_id": "tyrannical-motivation",
+    "name": "Tyrannical Motivation",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "In your Command phase, select one of the following abilities. Until the start of your next Command phase, each HERETIC ASTARTES INFANTRY unit from your army has that ability. At the start of each phase, if such a unit is visible to a friendly HURON BLACKHEART model, until the end of the phase, it has both of the following abilities. Huron’s Elite Each time a model in this unit makes an attack, add 1 to the Hit roll. Mobile Marauders This unit is eligible to shoot and declare a charge in a turn in which it Fell Back. Designer’s Not&#x65;*:* *If a unit is gaining eligibility to shoot and declare a charge in a turn in which it Fell Back as a result of being visible to Huron Blackheart, but after making a Fall Back move it is no longer visible to Huron Blackheart, that unit will not be eligible to shoot in your Shooting phase or to declare a charge in your Charge phase unless it is visible again at the start of the respective phase.*"
+  },
+  {
+    "ability_id": "raiders-and-reavers",
+    "name": "Raiders And Reavers",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Ranged weapons equipped by HERETIC ASTARTES models from your army have the [ASSAULT] ability, and each time a HERETIC ASTARTES model from your army makes an attack that targets a unit within range of an objective marker, improve the Armour Penetration characteristic of that attack by 1."
+  },
+  {
+    "ability_id": "iron-fortitude",
+    "name": "Iron Fortitude",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a ranged attack targets a HERETIC ASTARTES unit from your army (excluding DAMNED units), if the Strength characteristic of that attack is greater than the Toughness characteristic of that unit, subtract 1 from the Wound roll."
+  },
+  {
+    "ability_id": "masters-of-misdirection",
+    "name": "Masters Of Misdirection",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "In the Declare Battle Formations step, you can select a number of LEGIONARIES and CULTIST MOB units from your army: until the end of the battle, those units, and any CHARACTER units attached to them (excluding EPIC HEROES), have the Infiltrators ability. The maximum number of units you can select in this way depends on the battle size, as shown below. -"
+  },
+  {
+    "ability_id": "debt-to-the-soul-forge",
+    "name": "Debt To The Soul Forge",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a HERETIC ASTARTES DAEMON VEHICLE unit from your army makes a Dark Pact, it can invoke its contract. If it does, subtract 1 from the resulting Leadership test when making that Dark Pact, and until the end of the phase: • Each time a model in that unit makes a ranged attack, add 1 to the Wound roll. • Add 2 to the Attacks characteristic of melee weapons equipped by models in that unit."
+  },
+  {
+    "ability_id": "slaves-to-none",
+    "name": "Slaves To None",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "HERETIC ASTARTES models from your army lose the Dark Pacts ability. Ranged weapons equipped by HERETIC ASTARTES models from your army have the [ASSAULT] ability. When mustering your army, you cannot use the Cults of the Dark Gods rule. Vendetta At the start of your Command phase, select one unit from your opponent’s army. Until the start of your next Command phase, that enemy unit is your Vendetta target. Each time a HERETIC ASTARTES model from your army (excluding DAMNED models) makes an attack that targets your Vendetta target, you can re-roll the Hit roll. Twisted Doctrine In your Movement phase, each time you set up or select a HERETIC ASTARTES unit (excluding Battle-shocked units) from your army to move, it can choose to Default to Doctrine. If it does, it must first take a Battle-shock test. Then, select one of the following: Until the end of the turn, this unit is eligible to shoot and declare a charge in a turn in which it Fell Back. Until the end of the turn, this unit is eligible to declare a charge in a turn in which it Advanced."
+  },
+  {
+    "ability_id": "terror-descends-aura",
+    "name": "Terror Descends (Aura)",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "In the Battle-shock step of your opponent’s Command phase, if an enemy unit that is below its Starting Strength is within 12\" of one or more HERETIC ASTARTES units from your army, that enemy unit must take a Battle-shock test. Each time an enemy unit within 12\" of one or more HERETIC ASTARTES units from your army takes a Battle-shock test, subtract 1 from the result. Enemy units affected by this Detachment rule do not need to take any other Battle-shock tests in the same phase."
+  },
+  {
+    "ability_id": "desperate-devotion",
+    "name": "Desperate Devotion",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "Each time a DAMNED unit from your army with the Dark Pacts ability is selected to make a Normal or Advance move or declare a charge (excluding units that arrived from Reserves this turn), it can make a Desperate Pact (see below). If it does, until the end of the phase, add 2\" to the Move characteristic of models in that unit and add 2 to Charge rolls made for that unit. Desperate Pacts Each time a unit makes a Desperate Pact, it must first take a Leadership test; if that test is failed, that unit suffers D3 mortal wounds before any effects of that Desperate Pact are resolved."
+  },
+  {
+    "ability_id": "focus-of-hatred",
+    "name": "Focus Of Hatred",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of your Command phase, select one unit from your opponent’s army to be your focus of hatred. Until the start of your next Command phase, each time a HERETIC ASTARTES model from your army (excluding DAMNED models) makes an attack that targets your focus of hatred, you can re-roll the Hit roll."
+  },
+  {
+    "ability_id": "terror-made-manifest",
+    "name": "Terror Made Manifest",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "In the Battle-shock step of your opponent’s Command phase, if an enemy unit that is below its Starting Strength is within 12\" of one or more HERETIC ASTARTES units from your army, that enemy unit must take a Battle-shock test, subtracting 1 from the result. Enemy units affected by this Detachment rule do not need to take any other Battle-shock tests in the same phase. Each time a HERETIC ASTARTES model from your army makes an attack that targets a unit that is Below Half-strength, add 1 to the Hit roll. Each time an attack targets a HERETIC ASTARTES unit from your army, if the attacking model is Battle‐shocked, subtract 1 from the Hit roll. Each time a HERETIC ASTARTES model from your army makes an attack that targets a Battle‐shocked unit, add 1 to the Wound roll."
+  },
+  {
+    "ability_id": "marks-of-chaos",
+    "name": "Marks Of Chaos",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "When mustering your army, when you select a HERETIC ASTARTES unit to include in your army, if that unit is not an EPIC HERO and does not already have one of the following keywords, you must select one for that unit and note it on your Army Roster: KHORNE, TZEENTCH, NURGLE, SLAANESH, CHAOS UNDIVIDED. Each time a unit with one of these keywords gains a weapon ability as the result of a Dark Pact and does not fail the resulting Leadership test, until the end of the phase, that unit gains the associated ability below. Units That Gained [LETHAL HITS] KHORNE: Each time a model in this unit makes a melee attack, an unmodified Hit roll of 5+ scores a Critical Hit. TZEENTCH: Each time a model in this unit makes a ranged attack, an unmodified Hit roll of 5+ scores a Critical Hit. CHAOS UNDIVIDED: Each time a model in this unit makes an attack, re-roll a Hit roll of 1. Units That Gained [SUSTAINED HITS 1] NURGLE: Each time a model in this unit makes a ranged attack, an unmodified Hit roll of 5+ scores a Critical Hit. SLAANESH: Each time a model in this unit makes a melee attack, an unmodified Hit roll of 5+ scores a Critical Hit. CHAOS UNDIVIDED: Each time a model in this unit makes an attack, re-roll a Hit roll of 1."
+  },
+  {
+    "ability_id": "experimental-augmentations",
+    "name": "Experimental Augmentations",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "game-datacards",
+      "ref": "10th/json/chaos_spacemarines.json",
+      "edition": "10e"
+    },
+    "raw_text": "At the start of the battle, select which augmentations are active for HERETIC ASTARTES INFANTRY models (excluding DAMNED models) from your army until the end of the battle. To do so, either select one from the list below, or randomly determine two by rolling two D6. If FABIUS BILE is your WARLORD, when randomly determining your augmentations, you can re-roll one or both of the dice. Duplicated augmentations have no additional effect. 1 - Cholinergic Accelerants: Add 1 to the Attacks characteristic of melee weapons equipped by this model. 2 - Hyperadrenal Infusion: Add 2\" to the Move characteristic of this model. 3 - Paraneural Reactions: Improve the Weapon Skill characteristic of melee weapons equipped by this model by 1. 4 - Supracutaneous Chitination: Improve the Toughness characteristic of this model by 1. 5 - Macrotensile Sinews: Add 1 to the Strength characteristic of melee weapons equipped by this model. 6 - Ophthalmic Enhancement: Improve the Ballistic Skill characteristic of ranged weapons equipped by this model by 1."
   }
 ]

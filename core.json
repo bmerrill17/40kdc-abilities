@@ -36,6 +36,24 @@
     "raw_text": "A unit that contains one or more models equipped with an [ASSAULT] weapon can shoot with such weapons even in a turn in which it Advanced (using assault shooting)."
   },
   {
+    "ability_id": "benefit-of-cover",
+    "name": "Benefit of Cover",
+    "faction_id": "core",
+    "detachment_id": null,
+    "unit_ids": [],
+    "ability_type": "core",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_warhammer40k_new40k_core_rules.pdf, 13.08",
+      "phases": []
+    },
+    "raw_text": "Each time a ranged attack targets a unit, if every model in that unit meets one or more of the following conditions, that unit has the benefit of cover against that attack: that model has the INFANTRY/BEASTS/SWARM keyword and is within a terrain area; that model is not fully visible to the attacking model due to one or more intervening terrain features and/or one or more intervening obscuring terrain areas. Each time a ranged attack targets a unit that has the benefit of cover against it, worsen the BS characteristic of that attack by 1."
+  },
+  {
     "ability_id": "blast",
     "name": "Blast",
     "faction_id": "core",
@@ -105,9 +123,7 @@
       "ref": "eng_warhammer40k_new40k_core_rules.pdf, 15.x",
       "phases": []
     },
-    "when": "Any phase, just after you make an Advance, Charge, Hit, Wound, Damage, Save or Hazardous roll, or a roll to determine the number of attacks made with a weapon, for a friendly unit.",
-    "target": "That unit.",
-    "effect": "Re-roll that roll. If several dice were rolled together, re-roll one of them (a Charge roll must be re-rolled in full)."
+    "raw_text": "WHEN: Any phase, just after you make an Advance, Charge, Hit, Wound, Damage, Save or Hazardous roll, or a roll to determine the number of attacks made with a weapon, for a friendly unit. TARGET: That unit. EFFECT: Re-roll that roll. If several dice were rolled together, re-roll one of them (a Charge roll must be re-rolled in full)."
   },
   {
     "ability_id": "counter-offensive",
@@ -125,9 +141,7 @@
       "ref": "eng_warhammer40k_new40k_core_rules.pdf, 15.x",
       "phases": []
     },
-    "when": "Fight step of your opponent's Fight phase, just after an enemy unit has resolved its attacks.",
-    "target": "One friendly unit eligible to fight.",
-    "effect": "Until the end of the phase your unit has the Fights First ability, and it must be the next unit you select to fight."
+    "raw_text": "WHEN: Fight step of your opponent's Fight phase, just after an enemy unit has resolved its attacks. TARGET: One friendly unit eligible to fight. EFFECT: Until the end of the phase your unit has the Fights First ability, and it must be the next unit you select to fight."
   },
   {
     "ability_id": "crushing-impact",
@@ -145,9 +159,7 @@
       "ref": "eng_warhammer40k_new40k_core_rules.pdf, 15.x",
       "phases": []
     },
-    "when": "Your Charge phase, just after a friendly MONSTER or VEHICLE unit ends a Charge move.",
-    "target": "That MONSTER/VEHICLE unit.",
-    "effect": "Select one enemy unit engaged with your unit and one of your models engaged with it, then roll a number of D6 equal to that model's Toughness: for each 1 your unit suffers 1 mortal wound, and for each 5+ the enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds per unit)."
+    "raw_text": "WHEN: Your Charge phase, just after a friendly MONSTER or VEHICLE unit ends a Charge move. TARGET: That MONSTER/VEHICLE unit. EFFECT: Select one enemy unit engaged with your unit and one of your models engaged with it, then roll a number of D6 equal to that model's Toughness: for each 1 your unit suffers 1 mortal wound, and for each 5+ the enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds per unit)."
   },
   {
     "ability_id": "deadly-demise",
@@ -399,9 +411,7 @@
       "ref": "eng_warhammer40k_new40k_core_rules.pdf, 15.x",
       "phases": []
     },
-    "when": "Fight phase, just after a friendly CHARACTER unit is selected to fight.",
-    "target": "That CHARACTER unit.",
-    "effect": "Select one CHARACTER model in your unit; until the end of the phase, that model's melee weapons have the [PRECISION] ability."
+    "raw_text": "WHEN: Fight phase, just after a friendly CHARACTER unit is selected to fight. TARGET: That CHARACTER unit. EFFECT: Select one CHARACTER model in your unit; until the end of the phase, that model's melee weapons have the [PRECISION] ability."
   },
   {
     "ability_id": "explosives",
@@ -419,9 +429,7 @@
       "ref": "eng_warhammer40k_new40k_core_rules.pdf, 15.x",
       "phases": []
     },
-    "when": "Your Shooting phase.",
-    "target": "One friendly unengaged EXPLOSIVES/GRENADES unit that is eligible to shoot and did not Advance this turn.",
-    "effect": "Select one EXPLOSIVES/GRENADES model in your unit and one unengaged enemy unit within 8\" of and visible to it, then roll six D6: for each 4+, that enemy unit suffers 1 mortal wound."
+    "raw_text": "WHEN: Your Shooting phase. TARGET: One friendly unengaged EXPLOSIVES/GRENADES unit that is eligible to shoot and did not Advance this turn. EFFECT: Select one EXPLOSIVES/GRENADES model in your unit and one unengaged enemy unit within 8\" of and visible to it, then roll six D6: for each 4+, that enemy unit suffers 1 mortal wound."
   },
   {
     "ability_id": "extra-attacks",
@@ -532,6 +540,24 @@
     "raw_text": "Feel No Pain X+. Each time a model with this ability would lose a wound, roll one D6: on an X+, that wound is not lost."
   },
   {
+    "ability_id": "feel-no-pain-6-plus",
+    "name": "Feel No Pain",
+    "faction_id": "core",
+    "detachment_id": null,
+    "unit_ids": [],
+    "ability_type": "core",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "eng_warhammer40k_new40k_core_rules.pdf, 24.12",
+      "phases": []
+    },
+    "raw_text": "Feel No Pain X+. Each time a model with this ability would lose a wound, roll one D6: on an X+, that wound is not lost."
+  },
+  {
     "ability_id": "fights-first",
     "name": "Fights First",
     "faction_id": "core",
@@ -565,9 +591,7 @@
       "ref": "eng_warhammer40k_new40k_core_rules.pdf, 15.x",
       "phases": []
     },
-    "when": "End of your opponent's Movement or Charge phase, just after an enemy unit is set up or finishes a move.",
-    "target": "One friendly unengaged unit (excluding TITANIC units).",
-    "effect": "Your unit shoots the enemy unit using snap shooting — it can only target that one visible enemy unit within 24\", each attack hits only on an unmodified 6, and hit rolls cannot be re-rolled. After shooting, the unit is not eligible to start an action this turn."
+    "raw_text": "WHEN: End of your opponent's Movement or Charge phase, just after an enemy unit is set up or finishes a move. TARGET: One friendly unengaged unit (excluding TITANIC units). EFFECT: Your unit shoots the enemy unit using snap shooting — it can only target that one visible enemy unit within 24\", each attack hits only on an unmodified 6, and hit rolls cannot be re-rolled. After shooting, the unit is not eligible to start an action this turn."
   },
   {
     "ability_id": "firing-deck",
@@ -765,9 +789,7 @@
       "ref": "eng_warhammer40k_new40k_core_rules.pdf, 15.x",
       "phases": []
     },
-    "when": "End of your opponent's Charge phase.",
-    "target": "One friendly unengaged unit within 12\" of one or more enemy units (a VEHICLE only if it is a CHARACTER or WALKER unit).",
-    "effect": "Resolve a charge with your unit, selecting an enemy unit that made a Charge move this phase and is within range."
+    "raw_text": "WHEN: End of your opponent's Charge phase. TARGET: One friendly unengaged unit within 12\" of one or more enemy units (a VEHICLE only if it is a CHARACTER or WALKER unit). EFFECT: Resolve a charge with your unit, selecting an enemy unit that made a Charge move this phase and is within range."
   },
   {
     "ability_id": "hover",
@@ -857,10 +879,7 @@
       "ref": "eng_warhammer40k_new40k_core_rules.pdf, 15.x",
       "phases": []
     },
-    "when": "Battle-shock step of your Command phase, just before you take a Battle-shock test for a friendly unit.",
-    "target": "That unit.",
-    "effect": "That Battle-shock test is automatically passed.",
-    "restrictions": "You cannot use this Stratagem more than once per battle."
+    "raw_text": "WHEN: Battle-shock step of your Command phase, just before you take a Battle-shock test for a friendly unit. TARGET: That unit. EFFECT: That Battle-shock test is automatically passed. RESTRICTIONS: You cannot use this Stratagem more than once per battle."
   },
   {
     "ability_id": "lance",
@@ -1058,10 +1077,7 @@
       "ref": "eng_warhammer40k_new40k_core_rules.pdf, 15.x",
       "phases": []
     },
-    "when": "End of your opponent's Movement phase.",
-    "target": "One friendly unit in Reserves (excluding AIRCRAFT).",
-    "effect": "Your unit makes an ingress move (arrives from Reserves) now.",
-    "restrictions": "You cannot use this Stratagem during the first battle round."
+    "raw_text": "WHEN: End of your opponent's Movement phase. TARGET: One friendly unit in Reserves (excluding AIRCRAFT). EFFECT: Your unit makes an ingress move (arrives from Reserves) now. RESTRICTIONS: You cannot use this Stratagem during the first battle round."
   },
   {
     "ability_id": "scouts",
@@ -1169,9 +1185,7 @@
       "ref": "eng_warhammer40k_new40k_core_rules.pdf, 15.x",
       "phases": []
     },
-    "when": "Start of your opponent's Shooting phase.",
-    "target": "One friendly SMOKE unit.",
-    "effect": "Until the end of the phase, each time an attack targets your SMOKE unit — or a unit that is not fully visible to the attacker because of your SMOKE unit — the target has the benefit of cover against that attack."
+    "raw_text": "WHEN: Start of your opponent's Shooting phase. TARGET: One friendly SMOKE unit. EFFECT: Until the end of the phase, each time an attack targets your SMOKE unit — or a unit that is not fully visible to the attacker because of your SMOKE unit — the target has the benefit of cover against that attack."
   },
   {
     "ability_id": "stealth",
