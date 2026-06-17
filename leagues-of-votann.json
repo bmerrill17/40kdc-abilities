@@ -992,7 +992,7 @@
     "raw_text": "K�HL model only. This model has +2 W. BR�KKEKNOTS"
   },
   {
-    "ability_id": "high-k-hl-hearthband",
+    "ability_id": "high-kahl-hearthband",
     "name": "High Kâhl",
     "faction_id": "leagues-of-votann",
     "unit_ids": [],
@@ -1077,7 +1077,7 @@
     "raw_text": "LEAGUES OF VOTANN model only. Once per battle, at the end of your opponent’s Fight phase, if the bearer is on the battlefield, it can use this Enhancement. If it does, you can spend up to 4YP. Select one HERNKYN unit from your army, and, for every 2YP you just spent, select up to one additional HERNKYN unit from your army. You can remove those units from the battlefield and place them into Strategic Reserves. You cannot select a unit that is within Engagement Range of one or more enemy units (excluding assailed units)."
   },
   {
-    "ability_id": "d-lvewerke-navigator-delve-assault-shift",
+    "ability_id": "delvewerke-navigator-delve-assault-shift",
     "name": "Dêlvewerke Navigator",
     "faction_id": "leagues-of-votann",
     "unit_ids": [],
@@ -1162,7 +1162,7 @@
     "raw_text": "KÂHL model only. In your Command phase, if the bearer’s unit is within range of one or more objective markers you control that are not within your deployment zone, you can spend 1YP. If you do, roll one D6: on a 4+, you gain 1CP."
   },
   {
-    "ability_id": "triv-rg-cyber-implant-brandfast-oathband",
+    "ability_id": "trivarg-cyber-implant-brandfast-oathband",
     "name": "Trivärg Cyber Implant",
     "faction_id": "leagues-of-votann",
     "unit_ids": [],
@@ -1213,7 +1213,7 @@
     "raw_text": "IRON‑MASTER model only. Each time a friendly LEAGUES OF VOTANN model is repaired using the bearer’s Forgewrought Expertise ability, that model regains 1 additional lost wound."
   },
   {
-    "ability_id": "f-rstryder-node-hearthfyre-arsenal",
+    "ability_id": "farstryder-node-hearthfyre-arsenal",
     "name": "Fârstryder Node",
     "faction_id": "leagues-of-votann",
     "unit_ids": [],
@@ -1501,7 +1501,7 @@
     "effect": "Each time you use this Stratagem, you can spend 2YP. Until the end of the phase, each time a model in your unit makes an attack, re‑roll a Wound roll of 1. If you spent YP during this use of this Stratagem, you can re‑roll the Wound roll instead."
   },
   {
-    "ability_id": "br-kkeknots-hearthband",
+    "ability_id": "brekkeknots-hearthband",
     "name": "BRËKKEKNOTS",
     "faction_id": "leagues-of-votann",
     "unit_ids": [],
@@ -1787,7 +1787,7 @@
     "effect": "Each time you use this Stratagem, you can spend 2YP. Select one enemy unit hit by one or more of your unit’s attacks this phase. Until the start of your next Shooting phase, subtract 2 from that unit’s Move characteristic and, if you spent YP during this use of this Stratagem, subtract 2 from Charge rolls made for that unit."
   },
   {
-    "ability_id": "weavew-rke-buttress-delve-assault-shift",
+    "ability_id": "weavewerke-buttress-delve-assault-shift",
     "name": "WEAVEWËRKE BUTTRESS",
     "faction_id": "leagues-of-votann",
     "unit_ids": [],
@@ -2365,7 +2365,7 @@
     "raw_text": "Each time an enemy unit is destroyed, you gain 1YP."
   },
   {
-    "ability_id": "fury-from-the-d-lve",
+    "ability_id": "fury-from-the-delve",
     "name": "Fury From The DêLve",
     "faction_id": "leagues-of-votann",
     "unit_ids": [],
