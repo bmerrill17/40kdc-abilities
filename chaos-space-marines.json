@@ -2603,12 +2603,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#de5a28db-7648-4d72-84ee-76f005d3dac5",
+      "edition": "11e"
     },
     "when": "Your Movement phase.",
-    "target": "One HERETIC ASTARTES TERMINATOR, OBLITERATORS or MUTILATORS unit from your army, within range of an objective marker you control.",
+    "target": "One **HERETIC ASTARTES TERMINATOR**, **OBLITERATORS** or **MUTILATORS** unit from your army, within range of an objective marker you control.",
     "effect": "That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
   },
   {
@@ -2824,13 +2824,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#c45b573d-c5e1-495f-b216-2f6b5510bcfa",
+      "edition": "11e"
     },
-    "when": "Your Movement phase, just after a HERETIC ASTARTES unit from your army Advances.&x20;",
-    "target": "That HERETIC ASTARTES unit.",
-    "effect": "Until the end of the turn, your unit is eligible to shoot in a turn in which it Advanced. If your unit has the SOUL FORGE keyword, until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced instead."
+    "when": "Your Movement phase, just after a **HERETIC ASTARTES** unit from your army Advances.&#x20;",
+    "target": "That **HERETIC ASTARTES** unit.",
+    "effect": "Until the end of the turn, your unit is eligible to shoot in a turn in which it Advanced. If your unit has the **SOUL FORGE** keyword, until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced instead."
   },
   {
     "ability_id": "unholy-fortitude-cult-of-the-arkifane",
@@ -3735,12 +3735,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#e38ba41a-8fc3-4b8f-9bd9-ca46d0235f51",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One HERETIC ASTARTES unit from your army (excluding DAMNED units) that was selected as the target of one or more of the attacking unit’s attacks.",
+    "target": "One **HERETIC ASTARTES** unit from your army (excluding **DAMNED** units) that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
   },
   {
@@ -3754,13 +3754,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#a7707cad-872d-4c6a-9c9b-7d1ab3c0d35b",
+      "edition": "11e"
     },
     "when": "Fight phase.",
-    "target": "One HERETIC ASTARTES unit from your army that has not been selected to fight this phase.",
-    "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets a unit within range of an objective marker, that attack has the [PRECISION] ability."
+    "target": "One **HERETIC ASTARTES** unit from your army that has not been selected to fight this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets a unit within range of an objective marker, that attack has the **[PRECISION]** ability."
   },
   {
     "ability_id": "ruinous-raid-renegade-raiders",
@@ -3773,12 +3773,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#8f6e5a7b-0441-4710-a201-c58d12b08949",
+      "edition": "11e"
     },
     "when": "Your Shooting phase or your Fight phase.",
-    "target": "One HERETIC ASTARTES unit from your army that disembarked from a TRANSPORT this turn and has not been selected to shoot or fight this phase.",
+    "target": "One **HERETIC ASTARTES** unit from your army that disembarked from a **TRANSPORT** this turn and has not been selected to shoot or fight this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes an attack, if the target of that attack is within range of an objective marker, you can re-roll the Hit roll and you can re-roll the Wound roll."
   },
   {
@@ -3792,12 +3792,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#ed0eb481-f786-4a56-a1de-d50549105c9a",
+      "edition": "11e"
     },
     "when": "Fight phase.",
-    "target": "One HERETIC ASTARTES unit from your army that was selected as the target of one or more attacks this phase and has not been selected to fight this phase.",
+    "target": "One **HERETIC ASTARTES** unit from your army that was selected as the target of one or more attacks this phase and has not been selected to fight this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes an attack, you can re-roll the Hit roll, and if your unit is Below Half-strength you can re-roll the Wound roll as well."
   },
   {
@@ -3811,12 +3811,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#36a8343a-24de-4281-b3d7-208d3e80f83e",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One HERETIC ASTARTES unit from your army that has not been selected to shoot this phase.",
+    "target": "One **HERETIC ASTARTES** unit from your army that has not been selected to shoot this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets a unit that is Below Half-strength, a successful unmodified Hit roll of 5+ scores a Critical Hit."
   },
   {
@@ -3830,13 +3830,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#3327c4a2-167a-4491-8a36-3fbce7dc75d3",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One HERETIC ASTARTES unit from your army that is within Engagement Range of one or more enemy units and has not been selected to shoot this phase.",
-    "effect": "Until the end of the phase, your unit’s ranged weapons (excluding Blast weapons) have the [PISTOL] ability."
+    "target": "One **HERETIC ASTARTES** unit from your army that is within Engagement Range of one or more enemy units and has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, your unit’s ranged weapons (excluding Blast weapons) have the **[PISTOL]** ability."
   },
   {
     "ability_id": "from-all-sides-deceptors",
@@ -3849,13 +3849,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#67aa0902-a907-48b0-b675-c891a322b560",
+      "edition": "11e"
     },
     "when": "Start of your Charge phase.",
-    "target": "One HERETIC ASTARTES unit from your army.",
-    "effect": "Until the end of the phase, add 1 to Charge rolls made for your unit for each other HERETIC ASTARTES unit from your army that made a Charge move this phase (to a maximum of +3)."
+    "target": "One **HERETIC ASTARTES** unit from your army.",
+    "effect": "Until the end of the phase, add 1 to Charge rolls made for your unit for each other **HERETIC ASTARTES** unit from your army that made a Charge move this phase (to a maximum of +3)."
   },
   {
     "ability_id": "pick-them-off-deceptors",
@@ -3868,12 +3868,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#e8020e11-f553-4ed4-948e-347f01ef29b2",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One HERETIC ASTARTES unit from your army that has not been selected to shoot this phase.",
+    "target": "One **HERETIC ASTARTES** unit from your army that has not been selected to shoot this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets a unit that is below its Starting Strength, you can re-roll the Hit roll. If the target is Below Half-strength, you can re-roll the Wound roll as well."
   },
   {
@@ -3887,12 +3887,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#c3a40b78-d68c-44cf-a75e-f9a841690720",
+      "edition": "11e"
     },
     "when": "Your Shooting phase or the Fight phase.",
-    "target": "One HERETIC ASTARTES DAEMON VEHICLE unit from your army that has not been selected to shoot or fight this phase.",
+    "target": "One **HERETIC ASTARTES DAEMON VEHICLE** unit from your army that has not been selected to shoot or fight this phase.",
     "effect": "Until the end of the phase, if your unit invokes its contract, each time it makes an attack, improve the Armour Penetration characteristic of that attack by 1."
   },
   {
@@ -3944,12 +3944,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#dfd93880-0f0c-451d-a583-ae840e5c5aec",
+      "edition": "11e"
     },
     "when": "Fight phase.",
-    "target": "One HERETIC ASTARTES INFANTRY unit from your army that has not been selected to fight this phase.",
+    "target": "One **HERETIC ASTARTES INFANTRY** unit from your army that has not been selected to fight this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets a unit that is Battle-shocked and/or Below Half-strength, improve the Armour Penetration characteristic of that attack by 1."
   },
   {
@@ -3963,12 +3963,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#42fff50b-51e8-4ba3-bc58-20e300b582cb",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One HERETIC ASTARTES INFANTRY unit from your army that has not been selected to shoot this phase.",
+    "target": "One **HERETIC ASTARTES INFANTRY** unit from your army that has not been selected to shoot this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets a unit that is Battle-shocked and/or Below Half-strength, you can re-roll the Hit roll and you can re-roll the Wound roll."
   },
   {
@@ -3982,12 +3982,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#06a95cb7-e9b6-4b07-aac5-7ecb27a0e19f",
+      "edition": "11e"
     },
     "when": "Your Shooting phase or the Fight phase.",
-    "target": "One DAMNED unit from your army that has not been selected to shoot or fight this phase.",
+    "target": "One **DAMNED** unit from your army that has not been selected to shoot or fight this phase.",
     "effect": "Your unit can make a Desperate Pact. If it does, until the end of the phase, each time a model in your unit makes an attack, you can re-roll the Hit roll, and if your unit did not fail the resulting Leadership test when making that Desperate Pact, you can re-roll the Wound roll as well."
   },
   {
@@ -4001,12 +4001,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#95bd643e-d349-4e22-8626-d63f639092f4",
+      "edition": "11e"
     },
     "when": "Fight phase.",
-    "target": "One DAMNED unit from your army that has not been selected to fight this phase.",
+    "target": "One **DAMNED** unit from your army that has not been selected to fight this phase.",
     "effect": "Your unit can make a Desperate Pact. If it does, your unit suffers D3 mortal wounds (in addition to any suffered for failing the resulting Leadership test), and until the end of the phase, add 1 to the Attacks characteristic of the melee weapons equipped by models in your unit, and if your unit did not fail the resulting Leadership test when making that Desperate Pact, until the end of the phase, improve the Strength characteristic of those weapons by 1 as well."
   },
   {
@@ -4020,12 +4020,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#10738da7-fbb3-4a3b-8f16-de400702fd2f",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One DAMNED unit from your army that has not been selected to shoot this phase.",
+    "target": "One **DAMNED** unit from your army that has not been selected to shoot this phase.",
     "effect": "Your unit can make a Desperate Pact. If it does, until the end of the phase, each time a model in your unit makes an attack, improve the Armour Penetration characteristic of that attack by 1, and if your unit did not fail the resulting Leadership test when making that Desperate Pact, improve the Strength characteristic of that attack by 1 as well."
   },
   {
@@ -4039,12 +4039,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#fef09a92-d6c5-4819-a57b-4eff4c8b5ab7",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One HERETIC ASTARTES unit from your army (excluding DAMNED units) that was selected as the target of one or more of the attacking unit’s attacks.",
+    "target": "One **HERETIC ASTARTES** unit from your army (excluding **DAMNED** units) that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
   },
   {
@@ -4058,13 +4058,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#8cfa3ae5-3836-474c-96de-6a7d8e93a9ad",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One HERETIC ASTARTES unit from your army (excluding TZEENTCH units) that has not been selected to shoot this phase.",
-    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the [IGNORES COVER] ability, and change the Attacks characteristic of Torrent weapons equipped by models in your unit to 6."
+    "target": "One **HERETIC ASTARTES** unit from your army (excluding **TZEENTCH** units) that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the **[IGNORES COVER]** ability, and change the Attacks characteristic of Torrent weapons equipped by models in your unit to 6."
   },
   {
     "ability_id": "talons-sunk-deep-nightmare-hunt",
@@ -4134,12 +4134,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#cb33d278-6858-4542-9e84-530fa215296d",
+      "edition": "11e"
     },
     "when": "Your Shooting phase or the Fight phase.",
-    "target": "One HERETIC ASTARTES CHAOS UNDIVIDED unit from your army that has not been selected to shoot or fight this phase.",
+    "target": "One **HERETIC ASTARTES CHAOS UNDIVIDED** unit from your army that has not been selected to shoot or fight this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes an attack, you can re-roll the Wound roll."
   },
   {
@@ -4153,12 +4153,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#f316b9c0-c11b-4477-bb0c-28b426664773",
+      "edition": "11e"
     },
     "when": "Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One HERETIC ASTARTES INFANTRY unit from your army (excluding DAMNED units) that was selected as the target of one or more of the attacking unit’s attacks.",
+    "target": "One **HERETIC ASTARTES INFANTRY** unit from your army (excluding **DAMNED** units) that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the end of the phase, each time a melee attack is allocated to your unit, after the attacking unit has finished making its attacks, roll one D6 (to a maximum of six D6 per attacking unit): for each 4+, the attacking unit suffers 1 mortal wound."
   },
   {
@@ -4172,13 +4172,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#d3143f1b-4e27-49b1-91d8-968dba1e0561",
+      "edition": "11e"
     },
     "when": "Your Command phase.",
-    "target": "One HERETIC ASTARTES VEHICLE unit from your army (excluding DAEMON units).",
-    "effect": "Until the end of the battle, your unit has the DAEMON keyword."
+    "target": "One **HERETIC ASTARTES VEHICLE** unit from your army (excluding **DAEMON** units).",
+    "effect": "Until the end of the battle, your unit has the **DAEMON** keyword."
   },
   {
     "ability_id": "never-outgunned-renegade-warband",
@@ -4210,12 +4210,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#1b71ddf7-84d0-4241-a7ed-0a46dc61f9d3",
+      "edition": "11e"
     },
-    "when": "Fight phase, just after a HERETIC ASTARTES unit from your army destroys a CHARACTER unit.",
-    "target": "That HERETIC ASTARTES unit.",
+    "when": "Fight phase, just after a **HERETIC ASTARTES** unit from your army destroys a **CHARACTER** unit.",
+    "target": "That **HERETIC ASTARTES** unit.",
     "effect": "Each enemy unit within 12\" of and visible to your unit must take a Battle-shock test."
   },
   {
@@ -4229,13 +4229,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#6db426b9-51c3-4b16-9240-f0b25c6cecae",
+      "edition": "11e"
     },
-    "when": "Fight phase, just after a HERETIC ASTARTES CHARACTER unit from your army (excluding DAMNED, DAEMON AND EPIC HERO units) destroys an enemy unit.",
-    "target": "One HERETIC ASTARTES CHARACTER model in that unit.",
-    "effect": "Until the end of the battle, add 1 to the Move, Toughness and Wounds characteristics of that Character model, and add 1 to the Attacks, Strength and Damage characteristics of that CHARACTER models melee weapons."
+    "when": "Fight phase, just after a **HERETIC ASTARTES CHARACTER** unit from your army (excluding **DAMNED**, **DAEMON** AND **EPIC HERO** units) destroys an enemy unit.",
+    "target": "One **HERETIC ASTARTES CHARACTER** model in that unit.",
+    "effect": "Until the end of the battle, add 1 to the Move, Toughness and Wounds characteristics of that Character model, and add 1 to the Attacks, Strength and Damage characteristics of that **CHARACTER** models melee weapons."
   },
   {
     "ability_id": "skinshift-pactbound-zealots",
@@ -4248,13 +4248,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#932cfa33-d782-4175-9ae5-d50d133fb156",
+      "edition": "11e"
     },
     "when": "Your Command phase.",
-    "target": "One HERETIC ASTARTES unit from your army.",
-    "effect": "One model in your unit regains up to 3 lost wounds. In addition, if your unit is a TZEENTCH unit below its Starting Strength, one destroyed model (excluding CHARACTER models) is returned to your unit with its full wounds remaining."
+    "target": "One **HERETIC ASTARTES** unit from your army.",
+    "effect": "One model in your unit regains up to 3 lost wounds. In addition, if your unit is a **TZEENTCH** unit below its Starting Strength, one destroyed model (excluding **CHARACTER** models) is returned to your unit with its full wounds remaining."
   },
   {
     "ability_id": "endless-ire-veterans-of-the-long-war",
@@ -4267,12 +4267,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#12bbec31-3f3d-47ef-90f1-8e2b192c9c8a",
+      "edition": "11e"
     },
     "when": "Any phase, just after your focus of hatred is destroyed.",
-    "target": "One HERETIC ASTARTES CHARACTER unit from your army (excluding Damned units).",
+    "target": "One **HERETIC ASTARTES CHARACTER** unit from your army (excluding **Damned** units).",
     "effect": "Select one enemy unit within 12\" of and visible to your unit. Until the start of your next Command phase, that enemy unit is considered to be your focus of hatred."
   },
   {
@@ -4286,12 +4286,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#664cb026-2bd0-43c1-98b4-ff3636a3dbff",
+      "edition": "11e"
     },
-    "when": "Start of the Fight phase.",
-    "target": "One HERETIC ASTARTES unit from your army (excluding DAMNED units) that is within Engagement Range of your focus of hatred.",
+    "when": "Fight phase.",
+    "target": "One **HERETIC ASTARTES** unit from your army (excluding **DAMNED** units) that is within Engagement Range of your focus of hatred.",
     "effect": "Until the end of the phase, your unit has the Fights First ability."
   },
   {
@@ -4362,13 +4362,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#175b4c62-1cfb-48be-8d7e-79ab04c132b2",
+      "edition": "11e"
     },
     "when": "End of the Fight phase.",
-    "target": "One HERETIC ASTARTES unit from your army that was eligible to fight this phase.",
-    "effect": "If your unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to 6\" or up to 12\" if it is a MOUNTED unit. Otherwise, your unit can make a Fall Back move. It cannot embark within a TRANSPORT at the end of this move if it disembarked from a TRANSPORT this turn."
+    "target": "One **HERETIC ASTARTES** unit from your army that was eligible to fight this phase.",
+    "effect": "If your unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to 6\" or up to 12\" if it is a **MOUNTED** unit. Otherwise, your unit can make a Fall Back move. It cannot embark within a **TRANSPORT** at the end of this move if it disembarked from a **TRANSPORT** this turn."
   },
   {
     "ability_id": "reavers-haste-renegade-raiders",
@@ -4381,12 +4381,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#061789a4-030f-4b28-b7a8-4ac77d6ee146",
+      "edition": "11e"
     },
     "when": "Your Charge phase.",
-    "target": "One HERETIC ASTARTES INFANTRY or HERETIC ASTARTES MOUNTED unit from your army.",
+    "target": "One **HERETIC ASTARTES INFANTRY** or **HERETIC ASTARTES MOUNTED** unit from your army.",
     "effect": "Until the end of the phase, your unit is eligible to declare a charge in a turn in which it Advanced. If you select one or more units within range of an objective marker as a target of that charge, add 1 to the Charge roll."
   },
   {
@@ -4400,12 +4400,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#7c923572-d246-407e-bcc1-44e9222569fe",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
-    "target": "One HERETIC ASTARTES unit from your army (excluding DAMNED units) that was selected as the target of one or more of the attacking unit’s attacks.",
+    "target": "One **HERETIC ASTARTES** unit from your army (excluding **DAMNED** units) that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the end of the phase, models in your unit have the Feel No Pain 5+ ability."
   },
   {
@@ -4419,12 +4419,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#9fc7bc0d-4ea9-4303-a98a-314f391ffa4c",
+      "edition": "11e"
     },
     "when": "Start of your opponent’s Charge phase.",
-    "target": "One HERETIC ASTARTES unit from your army.",
+    "target": "One **HERETIC ASTARTES** unit from your army.",
     "effect": "Until the end of the phase, each time an enemy unit selects your unit as a target of a charge, subtract 2 from the Charge roll (this is not cumulative with any other negative modifiers to that Charge roll)."
   },
   {
@@ -4438,12 +4438,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#6b02c8cd-1fe6-4bcc-86f9-94b904586241",
+      "edition": "11e"
     },
-    "when": "Your Movement phase, just after a HERETIC ASTARTES unit from your army Falls Back.",
-    "target": "That HERETIC ASTARTES unit.",
+    "when": "Your Movement phase, just after a **HERETIC ASTARTES** unit from your army Falls Back.",
+    "target": "That **HERETIC ASTARTES** unit.",
     "effect": "Until the end of the turn, your unit is eligible to shoot in a turn in which it Fell Back."
   },
   {
@@ -4457,12 +4457,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#134f5a12-8920-4d0b-8dfc-1930baac45e1",
+      "edition": "11e"
     },
     "when": "Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.",
-    "target": "One HERETIC ASTARTES INFANTRY or HERETIC ASTARTES MOUNTED unit from your army that is within 9\" of that enemy unit and not within Engagement Range of one or more enemy units.",
+    "target": "One **HERETIC ASTARTES INFANTRY** or **HERETIC ASTARTES MOUNTED** unit from your army that is within 8\" of that enemy unit and not within Engagement Range of one or more enemy units.",
     "effect": "Your unit can make a Normal move of up to 6\"."
   },
   {
@@ -4476,12 +4476,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#6f1d9eca-a4b8-4170-a7a2-94f5dd3efe77",
+      "edition": "11e"
     },
     "when": "Start of the Reinforcements step of your opponent’s Movement phase.",
-    "target": "One HERETIC ASTARTES unit from your army.",
+    "target": "One **HERETIC ASTARTES** unit from your army.",
     "effect": "Until the end of the phase, enemy units that are set up on the battlefield from Reserves cannot be set up within 12\" horizontally of your unit."
   },
   {
@@ -4495,12 +4495,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#dfde687f-6328-4f6c-acf7-a75783ba08a7",
+      "edition": "11e"
     },
     "when": "Fight phase.",
-    "target": "One HERETIC ASTARTES DAEMON VEHICLE unit from your army (excluding TITANIC units) that has not been selected to fight this phase.",
+    "target": "One **HERETIC ASTARTES DAEMON VEHICLE** unit from your army (excluding **TITANIC** units) that has not been selected to fight this phase.",
     "effect": "Until the end of the phase, if your unit invokes its contract, each time it makes an attack that destroys an enemy model, roll one D6: on a 5+, your unit regains 1 lost wound after all of its attacks have been resolved (to a maximum of 6 wounds)."
   },
   {
@@ -4514,12 +4514,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#8e93c539-17da-4522-acc5-19ec3f61df8a",
+      "edition": "11e"
     },
     "when": "Your Movement phase or your Charge phase.",
-    "target": "One HERETIC ASTARTES VEHICLE or VASHTORR THE ARKIFANE unit from your army that has not been selected to move or charge this phase.",
+    "target": "One **HERETIC ASTARTES VEHICLE** or **VASHTORR THE ARKIFANE** unit from your army that has not been selected to move or charge this phase.",
     "effect": "Until the end of the phase, each time your unit makes a Normal, Advance or Charge move, it can move horizontally through terrain features as if they were not there."
   },
   {
@@ -4533,12 +4533,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#2985f43c-656c-4961-bab1-bb5e33b76eb7",
+      "edition": "11e"
     },
     "when": "Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.",
-    "target": "One HERETIC ASTARTES VEHICLE or VASHTORR THE ARKIFANE unit from your army that is within 9\" of that enemy unit and not within Engagement Range of one or more enemy units.",
+    "target": "One **HERETIC ASTARTES VEHICLE** or **VASHTORR THE ARKIFANE** unit from your army that is within 8\" of that enemy unit and not within Engagement Range of one or more enemy units.",
     "effect": "Your unit can make a Normal move of up to 6\", but must end that move as close as possible to that enemy unit."
   },
   {
@@ -4552,13 +4552,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#221dfc91-eb13-41bc-9aa4-4c043813f83e",
+      "edition": "11e"
     },
-    "when": "Your opponent’s Movement phase, when an enemy unit (excluding MONSTERS and VEHICLES) is selected to Fall Back.",
-    "target": "One HERETIC ASTARTES DAEMON VEHICLE or VASHTORR THE ARKIFANE unit from your army that is within Engagement Range of that enemy unit.",
-    "effect": "Until the end of the phase, each time an enemy unit (excluding MONSTERS and VEHICLES) that is within Engagement Range of your unit Falls Back, all models in that enemy unit must take a Desperate Escape test. When doing so, if that enemy unit is Battle-shocked, subtract 1 from each of those tests."
+    "when": "Your opponent’s Movement phase, when an enemy unit (excluding **MONSTERS** and **VEHICLES**) is selected to Fall Back.",
+    "target": "One **HERETIC ASTARTES DAEMON VEHICLE** or **VASHTORR THE ARKIFANE** unit from your army that is within Engagement Range of that enemy unit.",
+    "effect": "Until the end of the phase, each time an enemy unit (excluding **MONSTERS** and **VEHICLES**) that is within Engagement Range of your unit Falls Back, all models in that enemy unit must take a Desperate Escape test. When doing so, if that enemy unit is Battle-shocked, subtract 1 from each of those tests."
   },
   {
     "ability_id": "undying-hatred-renegade-warband",
@@ -4628,12 +4628,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#ad5a314b-d919-4652-bfaf-062487cc3170",
+      "edition": "11e"
     },
-    "when": "Your Movement phase, just after a HERETIC ASTARTES INFANTRY unit from your army Falls Back.",
-    "target": "That HERETIC ASTARTES INFANTRY unit.",
+    "when": "Your Movement phase, just after a **HERETIC ASTARTES INFANTRY** unit from your army Falls Back.",
+    "target": "That **HERETIC ASTARTES INFANTRY** unit.",
     "effect": "Until the end of the turn, your unit is eligible to declare a charge in a turn in which it Fell Back."
   },
   {
@@ -4647,13 +4647,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#870347a2-86d0-4210-a83b-19665ac604ae",
+      "edition": "11e"
     },
     "when": "Reinforcements step of your Movement phase, from the second battle round onwards.",
-    "target": "One HERETIC ASTARTES JUMP PACK unit from your army that is in Reserves.",
-    "effect": "Set your unit up anywhere on the battlefield that is more than 6\" horizontally away from all enemy units, but until the end of the turn, it is not eligible to declare a charge. Then select one enemy INFANTRY or MOUNTED unit within 9\" of and visible to your unit: that unit must take a Battle‐shock test."
+    "target": "One **HERETIC ASTARTES JUMP PACK** unit from your army that is in Reserves.",
+    "effect": "Set your unit up anywhere on the battlefield that is more than 6\" horizontally away from all enemy units, but until the end of the turn, it is not eligible to declare a charge. Then select one enemy **INFANTRY** or **MOUNTED** unit within 9\" of and visible to your unit: that unit must take a Battle‐shock test."
   },
   {
     "ability_id": "merciless-pursuit-dread-talons",
@@ -4666,12 +4666,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#4e357f19-ff11-43b7-9a73-aecbffe9ef2e",
+      "edition": "11e"
     },
     "when": "End of your opponent’s Movement phase.",
-    "target": "One HERETIC ASTARTES INFANTRY unit from your army that is not within Engagement Range of one or more enemy units.",
+    "target": "One **HERETIC ASTARTES INFANTRY** unit from your army that is not within Engagement Range of one or more enemy units.",
     "effect": "Select one enemy unit that Fell Back this turn and is within 6\" of your unit. Your unit can declare a charge as if it were your Charge phase. When doing so, you can only select that enemy unit as the target of that charge (and only if it is an eligible target). Note that even if this charge is successful, your unit does not receive any Charge bonus this turn."
   },
   {
@@ -4685,12 +4685,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#4df69e02-faa4-4151-ab62-2907667638d6",
+      "edition": "11e"
     },
     "when": "Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One DAMNED unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "target": "One **DAMNED** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the attacking unit has resolved all of its attacks, each time a model in your unit is destroyed, roll one D6: on a 6, the attacking unit suffers 1 mortal wound after all of its attacks have been resolved."
   },
   {
@@ -4704,12 +4704,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#493d6676-1628-4f8b-a968-e484b3f18571",
+      "edition": "11e"
     },
     "when": "Your Charge phase.",
-    "target": "One DAMNED unit from your army.",
+    "target": "One **DAMNED** unit from your army.",
     "effect": "Until the end of the turn, your unit is eligible to declare a charge in a turn in which it Advanced."
   },
   {
@@ -4723,13 +4723,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#9a27195a-09a7-4099-918d-6852da9ff8b5",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
-    "target": "One HERETIC ASTARTES unit from your army that was selected as the target of one or more of the attacking unit’s attacks, and one friendly DAMNED unit within 3\" of your unit and visible to both your unit and the attacking unit.",
-    "effect": "Until the end of the phase, while your DAMNED unit is on the battlefield, each time your opponent would make a Wound roll for an attack that targets your HERETIC ASTARTES unit, if your DAMNED unit is visible to the attacking model and is an eligible target for that attack, no roll is made; instead, your DAMNED unit suffers a number of mortal wounds equal to the Damage characteristic of that attack."
+    "target": "One **HERETIC ASTARTES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks, and one friendly **DAMNED** unit within 3\" of your unit and visible to both your unit and the attacking unit.",
+    "effect": "Until the end of the phase, while your **DAMNED** unit is on the battlefield, each time your opponent would make a Wound roll for an attack that targets your **HERETIC ASTARTES** unit, if your **DAMNED** unit is visible to the attacking model and is an eligible target for that attack, no roll is made; instead, your **DAMNED** unit suffers a number of mortal wounds equal to the Damage characteristic of that attack."
   },
   {
     "ability_id": "black-crusade-veterans-of-the-long-war",
@@ -4742,13 +4742,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#a215fd24-e15d-4808-93d2-67da59819f5d",
+      "edition": "11e"
     },
     "when": "Your Movement phase.",
-    "target": "One HERETIC ASTARTES INFANTRY unit or HERETIC ASTARTES MOUNTED unit from your army (excluding DAMNED units).",
-    "effect": "Until the end of the turn, your unit is eligible to shoot in a turn in which it Advanced or Fell Back, and bolt pistols, boltguns and combi-bolters equipped by models in your unit have the [DEVASTATING WOUNDS] ability while your unit has not already inflicted 6 wounds this turn using that ability."
+    "target": "One **HERETIC ASTARTES INFANTRY** unit or **HERETIC ASTARTES MOUNTED** unit from your army (excluding **DAMNED** units).",
+    "effect": "Until the end of the turn, your unit is eligible to shoot in a turn in which it Advanced or Fell Back, and bolt pistols, boltguns and combi-bolters equipped by models in your unit have the **[DEVASTATING WOUNDS]** ability while your unit has not already inflicted 6 wounds this turn using that ability."
   },
   {
     "ability_id": "millennia-of-experience-veterans-of-the-long-war",
@@ -4761,12 +4761,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#96bbeca0-3b1e-477d-a987-521b6a567582",
+      "edition": "11e"
     },
     "when": "Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.",
-    "target": "One HERETIC ASTARTES INFANTRY or HERETIC ASTARTES MOUNTED unit from your army (excluding DAMNED units) that is within 9\" of that enemy unit and not within Engagement Range of one or more enemy units.",
+    "target": "One **HERETIC ASTARTES INFANTRY** or **HERETIC ASTARTES MOUNTED** unit from your army (excluding **DAMNED** units) that is within 8\" of that enemy unit and not within Engagement Range of one or more enemy units.",
     "effect": "Your unit can make a Normal move of up to 6\"."
   },
   {
@@ -4837,13 +4837,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#e6703f06-549a-43fd-926d-34f5f5af65a2",
+      "edition": "11e"
     },
     "when": "Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One HERETIC ASTARTES unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
-    "effect": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, adding 1 to the result if it is a KHORNE unit: on a 4+, do not remove it from play. That destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play."
+    "target": "One **HERETIC ASTARTES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, adding 1 to the result if it is a **KHORNE** unit: on a 4+, do not remove it from play. That destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play."
   },
   {
     "ability_id": "torpefying-refrain-pactbound-zealots",
@@ -4856,13 +4856,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#6cd05b7f-7cf7-425d-b1df-dcfae80dfdf7",
+      "edition": "11e"
     },
     "when": "Your Movement phase.",
-    "target": "One HERETIC ASTARTES unit from your army.",
-    "effect": "Until the end of the turn, your unit is eligible to declare a charge in a turn in which it Fell Back. If your unit is a SLAANESH unit, until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced or Fell Back."
+    "target": "One **HERETIC ASTARTES** unit from your army.",
+    "effect": "Until the end of the turn, your unit is eligible to declare a charge in a turn in which it Fell Back. If your unit is a **SLAANESH** unit, until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced or Fell Back."
   },
   {
     "ability_id": "festering-miasma-pactbound-zealots",
@@ -4875,13 +4875,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#fe88b41d-bc36-4aea-9351-7cd09f219955",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
-    "target": "One HERETIC ASTARTES unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
-    "effect": "Until the end of the phase, your unit has the Stealth ability. In addition, if your unit is a NURGLE unit, it can only be selected as the target of a ranged attack if the attacking model is within 18\"."
+    "target": "One **HERETIC ASTARTES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the end of the phase, your unit has the Stealth ability. In addition, if your unit is a **NURGLE** unit, it can only be selected as the target of a ranged attack if the attacking model is within 18\"."
   },
   {
     "ability_id": "monstrous-visages-creations-of-bile",
@@ -5008,12 +5008,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#e66eed41-c56b-4279-bd17-6730b64d986c",
+      "edition": "11e"
     },
     "when": "Your Movement phase.",
-    "target": "One HERETIC ASTARTES TRANSPORT or HERETIC ASTARTES MOUNTED unit from your army that has not been selected to move this phase.",
+    "target": "One **HERETIC ASTARTES TRANSPORT** or **HERETIC ASTARTES MOUNTED** unit from your army that has not been selected to move this phase.",
     "effect": "Until the end of the phase, if your unit Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in your unit."
   },
   {
@@ -5027,12 +5027,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaos_spacemarines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#080791fa-87de-4075-a61d-aef212481c70",
+      "edition": "11e"
     },
-    "when": "Any phase, just after an enemy model with the Deadly Demise ability (excluding TITANIC models) is destroyed.",
-    "target": "One HERETIC ASTARTES CHARACTER unit from your army that was within 18\" of that enemy model when it was destroyed.",
+    "when": "Any phase, just after an enemy model with the Deadly Demise ability (excluding **TITANIC** models) is destroyed.",
+    "target": "One **HERETIC ASTARTES CHARACTER** unit from your army that was within 18\" of that enemy model when it was destroyed.",
     "effect": "Your opponent does not roll to determine whether mortal wounds are inflicted by their model’s Deadly Demise ability. Instead, mortal wounds are automatically inflicted (if that ability inflicts a random number of mortal wounds, your opponent rolls to determine that number as normal)."
   },
   {
@@ -5475,5 +5475,108 @@
       "edition": "10e"
     },
     "raw_text": "At the start of the battle, select which augmentations are active for HERETIC ASTARTES INFANTRY models (excluding DAMNED models) from your army until the end of the battle. To do so, either select one from the list below, or randomly determine two by rolling two D6. If FABIUS BILE is your WARLORD, when randomly determining your augmentations, you can re-roll one or both of the dice. Duplicated augmentations have no additional effect. 1 - Cholinergic Accelerants: Add 1 to the Attacks characteristic of melee weapons equipped by this model. 2 - Hyperadrenal Infusion: Add 2\" to the Move characteristic of this model. 3 - Paraneural Reactions: Improve the Weapon Skill characteristic of melee weapons equipped by this model by 1. 4 - Supracutaneous Chitination: Improve the Toughness characteristic of this model by 1. 5 - Macrotensile Sinews: Add 1 to the Strength characteristic of melee weapons equipped by this model. 6 - Ophthalmic Enhancement: Improve the Ballistic Skill characteristic of ranged weapons equipped by this model by 1."
+  },
+  {
+    "ability_id": "deep-strike",
+    "name": "Deep Strike",
+    "faction_id": "chaos-space-marines",
+    "detachment_id": null,
+    "unit_ids": [
+      "heretic-astartes-daemon-prince-with-wings",
+      "kravek-morne"
+    ],
+    "ability_type": "core",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "json",
+      "ref": "mfm-dump",
+      "phases": []
+    },
+    "raw_text": "Each time this unit makes an ingress move (20.04), if every model in this unit has this ability, it can be set up anywhere on the battlefield that is more than 8\" horizontally from all enemy units, even if that is within your opponent’s deployment zone."
+  },
+  {
+    "ability_id": "leader",
+    "name": "Leader",
+    "faction_id": "chaos-space-marines",
+    "detachment_id": null,
+    "unit_ids": [
+      "sorcerer-in-terminator-armour",
+      "kravek-morne"
+    ],
+    "ability_type": "core",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "json",
+      "ref": "mfm-dump",
+      "phases": []
+    },
+    "raw_text": "Before the battle, in the Muster Armies step, for each leader and support unit in your army, you can select one friendly bodyguard unit that unit can lead. That unit will then lead that bodyguard unit for the battle and form an attached unit with it. Unless otherwise stated, each bodyguard unit can only have one leader unit and one support unit attached to it. See Attached Units (19)"
+  },
+  {
+    "ability_id": "dark-pacts",
+    "name": "Dark Pacts",
+    "faction_id": "chaos-space-marines",
+    "detachment_id": null,
+    "unit_ids": [
+      "gellerpox-infected",
+      "kravek-morne"
+    ],
+    "ability_type": "faction",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "json",
+      "ref": "mfm-dump",
+      "phases": []
+    },
+    "raw_text": "-"
+  },
+  {
+    "ability_id": "headlong-destruction",
+    "name": "Headlong Destruction",
+    "faction_id": "chaos-space-marines",
+    "detachment_id": null,
+    "unit_ids": [
+      "kravek-morne"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "json",
+      "ref": "mfm-dump",
+      "phases": []
+    },
+    "raw_text": "Each time a model in this unit makes an attack that targets the closest eligible enemy unit, improve the Armour Penetration characteristic of that attack by 1."
+  },
+  {
+    "ability_id": "architect-of-ruin",
+    "name": "Architect of Ruin",
+    "faction_id": "chaos-space-marines",
+    "detachment_id": null,
+    "unit_ids": [
+      "kravek-morne"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "json",
+      "ref": "mfm-dump",
+      "phases": []
+    },
+    "raw_text": "At the start of the battle, select one unit in your opponent’s army to be this model’s hated foe. Each time this model makes an attack that targets its hated foe, you can re-roll the Wound roll. Each time this model’s hated foe is destroyed, you can select a new unit from your opponent’s army to be its hated foe."
   }
 ]

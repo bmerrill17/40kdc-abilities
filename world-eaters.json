@@ -1183,12 +1183,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/worldeaters.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#0e2f8b70-b049-4a99-8e6b-3f08fc3720b4",
+      "edition": "11e"
     },
     "when": "Fight phase.",
-    "target": "One WORLD EATERS unit from your army that has not been selected to fight this phase and that made a charge move this turn.",
+    "target": "One **WORLD EATERS** unit from your army that has not been selected to fight this phase and that made a charge move this turn.",
     "effect": "Until the end of the phase, improve the Armour Penetration characteristic of melee weapons equipped by models in your unit by 1."
   },
   {
@@ -1202,12 +1202,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/worldeaters.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#04245333-93c8-497c-9c6c-2bfe63210589",
+      "edition": "11e"
     },
     "when": "Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One WORLD EATERS unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "target": "One **WORLD EATERS** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the end of the phase, each time an attack is allocated to a model in your unit, subtract 1 from the Damage characteristic of that attack."
   },
   {
@@ -1221,12 +1221,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/worldeaters.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#0a6dd9bc-728d-49e8-acae-0e009cd475cc",
+      "edition": "11e"
     },
     "when": "Any phase.",
-    "target": "One WORLD EATERS unit from your army that was just destroyed while it was within range of one or more objective markers you controlled at the end of the previous phase. You can use this Stratagem on that unit even though it was just destroyed.",
+    "target": "One **WORLD EATERS** unit from your army that was just destroyed while it was within range of one or more objective markers you controlled at the end of the previous phase. You can use this Stratagem on that unit even though it was just destroyed.",
     "effect": "Select one of those objective markers. That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
   },
   {
@@ -1240,12 +1240,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/worldeaters.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#466b7b4b-19ce-4664-8710-a232078975c1",
+      "edition": "11e"
     },
-    "when": "Fight phase, just after a WORLD EATERS unit from your army destroys a CHARACTER or MONSTER model.",
-    "target": "That WORLD EATERS unit.",
+    "when": "Fight phase, just after a **WORLD EATERS** unit from your army destroys a **CHARACTER** or **MONSTER** model.",
+    "target": "That **WORLD EATERS** unit.",
     "effect": "Make a Blessings of Khorne roll and use the results to activate one Blessing of Khorne. Until the end of the battle round, that Blessing of Khorne is active in addition to any other Blessings of Khorne that are currently active."
   },
   {
@@ -1259,12 +1259,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/worldeaters.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#a074046b-263b-40e9-b087-c8116b808e99",
+      "edition": "11e"
     },
-    "when": "Your Movement phase, ,just after a KHORNE BERZERKERS unit from your army is selected to Advance.",
-    "target": "That KHORNE BERZERKERS unit.",
+    "when": "Your Movement phase, ,just after a **KHORNE BERZERKERS** unit from your army is selected to Advance.",
+    "target": "That **KHORNE BERZERKERS** unit.",
     "effect": "Until the end of the turn, your unit is eligible to declare a charge in a turn in which it Advanced."
   },
   {
@@ -1278,13 +1278,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/worldeaters.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#a78bc86c-97d4-4a3a-b118-03833602ef3a",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase, just after an enemy unit has shot.",
-    "target": "One KHORNE BERZERKERS unit from your army that can make a Blood Surge move as a result of those attacks.",
-    "effect": "Do not roll a D6 to determine how far models in your unit can move when they make their Blood Surge move. Instead, when making their Blood Surge move, these models can move up to 8\"."
+    "target": "One **KHORNE BERZERKERS** unit from your army that can make a **surge move** as a result of those attacks.",
+    "effect": "Do not roll a D6 to determine how far models in your unit can move when they make a **surge move**. Instead, when making a **surge move**, those models can move up to 8\"."
   },
   {
     "ability_id": "bloodthirsty-horde-cult-of-blood",
@@ -1297,12 +1297,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/worldeaters.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#7274fdca-d105-4e7c-b43d-33b4f14b06ca",
+      "edition": "11e"
     },
     "when": "Fight phase.",
-    "target": "One JAKHALS or GOREMONGERS unit from your army that has not been selected to fight this phase and is within Engagement Range of one or more enemy units.",
+    "target": "One **JAKHALS** or **GOREMONGERS** unit from your army that has not been selected to fight this phase and is within Engagement Range of one or more enemy units.",
     "effect": "Until the end of the phase, each time your unit is selected to fight, when determining which models in it are eligible to fight, any models in your unit that are within 3\" of one or more enemy models are eligible to fight. When resolving those attacks, such models can target one of those enemy units that is within 3\" of them and within Engagement Range of their unit."
   },
   {
@@ -1316,13 +1316,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/worldeaters.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#5be7c5ee-4c1b-4518-811e-e016408359f1",
+      "edition": "11e"
     },
     "when": "Any phase.",
-    "target": "One WORLD EATERS MONSTER or WORLD EATERS TITANIC unit from your army that was just destroyed by an enemy unit. You can use this Stratagem on that unit even though it was just destroyed.",
-    "effect": "Until the end of the battle, each time a model in a JAKHALS or GOREMONGERS unit from your army makes an attack that targets the enemy unit that just destroyed your unit, you can re-roll the Hit roll."
+    "target": "One **WORLD EATERS MONSTER** or **WORLD EATERS TITANIC** unit from your army that was just destroyed by an enemy unit. You can use this Stratagem on that unit even though it was just destroyed.",
+    "effect": "Until the end of the battle, each time a model in a **JAKHALS** or **GOREMONGERS** unit from your army makes an attack that targets the enemy unit that just destroyed your unit, you can re-roll the Hit roll."
   },
   {
     "ability_id": "brazen-idol-cult-of-blood",
@@ -1335,12 +1335,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/worldeaters.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#b69dd944-2d43-407f-b0cf-04cd4e8c6e0b",
+      "edition": "11e"
     },
     "when": "Your Command phase.",
-    "target": "One WORLD EATERS MONSTER or WORLD EATERS TITANIC unit from your army.",
+    "target": "One **WORLD EATERS MONSTER** or **WORLD EATERS TITANIC** unit from your army.",
     "effect": "Select the Idol of Infinite Rage, Idol of Burning Wrath or Idol of Blessed Blood. Until the start of your next Command phase, that Idols of Khorne ability is active for your unit instead of any other Idols of Khorne ability that is active for your army, even if you have already selected that ability this battle.",
     "restrictions": "You can only use this Stratagem once per battle."
   },
@@ -1355,13 +1355,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/worldeaters.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#b2c1204e-dc4a-4745-bf1e-76cffa675e99",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One JAKHALS or GOREMONGERS unit from your army that was selected as the target as one or more of the attacking unit’s attacks.",
-    "effect": "Until the end of the phase, models in your unit have the Feel No Pain 6+ ability. If your unit is within 6\" of one or more friendly WORLD EATERS MONSTER units, or within 9\" of one or more friendly WORLD EATERS TITANIC units, your unit has the Feel No Pain 5+ ability instead."
+    "target": "One **JAKHALS** or **GOREMONGERS** unit from your army that was selected as the target as one or more of the attacking unit’s attacks.",
+    "effect": "Until the end of the phase, models in your unit have the Feel No Pain 6+ ability. If your unit is within 6\" of one or more friendly **WORLD EATERS MONSTER** units, or within 9\" of one or more friendly **WORLD EATERS TITANIC** units, your unit has the Feel No Pain 5+ ability instead."
   },
   {
     "ability_id": "fail-not-the-blood-god-cult-of-blood",
@@ -1374,13 +1374,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/worldeaters.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#409f0aeb-b3f6-4fe8-a40e-7ce539301fe6",
+      "edition": "11e"
     },
     "when": "Fight phase.",
-    "target": "One JAKHALS or GOREMONGERS unit from your army.",
-    "effect": "Until the end of the phase, each time a model in your unit makes an attack, re-roll a Hit roll of 1. If that model’s unit is within 6\" of one or more friendly WORLD EATERS MONSTER units, or within 9\" of one or more friendly WORLD EATERS TITANIC units, you can re-roll the Hit roll instead."
+    "target": "One **JAKHALS** or **GOREMONGERS** unit from your army.",
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack, re-roll a Hit roll of 1. If that model’s unit is within 6\" of one or more friendly **WORLD EATERS MONSTER** units, or within 9\" of one or more friendly **WORLD EATERS TITANIC** units, you can re-roll the Hit roll instead."
   },
   {
     "ability_id": "drawn-to-the-slaughter-cult-of-blood",
@@ -1393,14 +1393,14 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/worldeaters.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#b49c8e81-3fcd-4b69-837d-12cf2c81cd16",
+      "edition": "11e"
     },
     "when": "Any phase.",
-    "target": "One JAKHALS unit from your army that was just destroyed. You can use this Stratagem on that unit even though it was just destroyed.",
+    "target": "One **JAKHALS** unit from your army that was just destroyed. You can use this Stratagem on that unit even though it was just destroyed.",
     "effect": "Add a new unit to your army identical to your destroyed unit, in Strategic Reserves, at its Starting Strength.",
-    "restrictions": "This Stratagem cannot be used to return destroyed CHARACTER units to Attached units."
+    "restrictions": "This Stratagem cannot be used to return destroyed **CHARACTER** units to Attached units."
   },
   {
     "ability_id": "endless-pursuit-of-violence-goretrack-onslaught",
@@ -1413,13 +1413,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/worldeaters.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#66430c41-0abc-4cc7-a66b-0b80afd1db89",
+      "edition": "11e"
     },
     "when": "End of the Fight phase.",
-    "target": "One WORLD EATERS INFANTRY unit from your army and one friendly TRANSPORT that it is able to embark within.",
-    "effect": "If your WORLD EATERS INFANTRY unit is wholly within 6\" of that TRANSPORT, it can embark within it."
+    "target": "One **WORLD EATERS INFANTRY** unit from your army and one friendly **TRANSPORT** that it is able to embark within.",
+    "effect": "If your **WORLD EATERS INFANTRY** unit is wholly within 6\" of that **TRANSPORT**, it can embark within it."
   },
   {
     "ability_id": "smash-through-goretrack-onslaught",
@@ -1432,12 +1432,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/worldeaters.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#2531fac3-77d5-43a3-878b-ccad77d6a9cd",
+      "edition": "11e"
     },
     "when": "Your Movement phase.",
-    "target": "One WORLD EATERS VEHICLE model from your army that has not been selected to move this phase.",
+    "target": "One **WORLD EATERS VEHICLE** model from your army that has not been selected to move this phase.",
     "effect": "Until the end of the phase, each time your unit makes a Normal or Advance move, it can move horizontally through terrain features."
   },
   {
@@ -1451,13 +1451,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/worldeaters.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#69cb5193-34db-4e8d-8255-0e1fd86f4c95",
+      "edition": "11e"
     },
     "when": "Your Movement phase.",
-    "target": "One WORLD EATERS RHINO model from your army that has not been selected to move this phase.",
-    "effect": "One WORLD EATERS unit embarked within your RHINO can disembark. When doing so, models in that unit can be set up anywhere on the battlefield wholly within 6\" of your RHINO and can be set up within Engagement Range of one or more enemy units."
+    "target": "One **WORLD EATERS RHINO** model from your army that has not been selected to move this phase.",
+    "effect": "One **WORLD EATERS** unit embarked within your **RHINO** can disembark. When doing so, models in that unit can be set up anywhere on the battlefield wholly within 6\" of your **RHINO** and can be set up within Engagement Range of one or more enemy units."
   },
   {
     "ability_id": "full-throttle-assault-goretrack-onslaught",
@@ -1470,13 +1470,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/worldeaters.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#787c9586-18f8-4868-a39b-cb1224f07d16",
+      "edition": "11e"
     },
     "when": "Your Movement phase.",
-    "target": "One WORLD EATERS RHINO model from your army that has not been selected to move this phase.",
-    "effect": "Until the end of the phase, each time a WORLD EATERS unit disembarks from that model after it has made a Normal move, that unit is still eligible to declare a charge this turn."
+    "target": "One **WORLD EATERS RHINO** model from your army that has not been selected to move this phase.",
+    "effect": "Until the end of the phase, each time a **WORLD EATERS** unit disembarks from that model after it has made a Normal move, that unit is still eligible to declare a charge this turn."
   },
   {
     "ability_id": "unrelenting-advance-goretrack-onslaught",
@@ -1489,12 +1489,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/worldeaters.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#54d25143-ef16-4283-a58d-6125d902dcaa",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase, just after an enemy unit has shot.",
-    "target": "One WORLD EATERS VEHICLE model from your army that was hit by one or more of the attacking unit’s attacks.",
+    "target": "One **WORLD EATERS VEHICLE** model from your army that was hit by one or more of the attacking unit’s attacks.",
     "effect": "Your model can make a Normal move of up to 6\".",
     "restrictions": "A unit cannot be targeted by this Stratagem and the Fury Unleashed Stratagem in the same phase."
   },
@@ -1509,13 +1509,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/worldeaters.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#4fabb7be-cd2d-4c9c-9c65-0c811acfab9c",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase, just after an enemy unit has shot.",
-    "target": "One WORLD EATERS RHINO model from your army that has one or more wounds remaining and was hit by one or more of the attacking unit’s attacks.",
-    "effect": "One KHORNE BERZERKERS unit embarked within your model can disembark and make a Blood Surge move.",
+    "target": "One **WORLD EATERS RHINO** model from your army that has one or more wounds remaining and was hit by one or more of the attacking unit’s attacks.",
+    "effect": "One **KHORNE BERZERKERS** unit embarked within your model can make a **disembark move** and then make a **surge move** of up to D6+2\".",
     "restrictions": "A unit cannot be targeted by this Stratagem and the Unrelenting Advance Stratagem in the same phase."
   },
   {
@@ -1529,13 +1529,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/worldeaters.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#8f8bdb9a-b906-48e6-84f4-7ce1762cf19e",
+      "edition": "11e"
     },
     "when": "Start of your Fight phase.",
-    "target": "One BLOOD LEGIONS unit from your army.",
-    "effect": "Select one friendly WORLD EATERS unit within 6\" of your unit. Until the end of the turn, melee weapons equipped by models in your WORLD EATERS unit have the [LANCE] ability. If the Daemonic Rage ability is active for your army, then until the end of the phase those melee weapons also have the [TWIN-LINKED] ability."
+    "target": "One **BLOOD LEGIONS** unit from your army.",
+    "effect": "Select one friendly **WORLD EATERS** unit within 6\" of your unit. Until the end of the turn, melee weapons equipped by models in your **WORLD EATERS** unit have the **[LANCE]** ability. If the Daemonic Rage ability is active for your army, then until the end of the phase those melee weapons also have the **[TWIN-LINKED]** ability."
   },
   {
     "ability_id": "blessing-of-burning-blood-khorne-daemonkin",
@@ -1548,13 +1548,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/worldeaters.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#4713f814-b1e9-4d19-bad3-f6cac53d2c6e",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One BLOOD LEGIONS unit from your army that is within 6\" of a friendly WORLD EATERS unit that was selected as the target as one or more of the attacking unit’s attacks.",
-    "effect": "Until the end of the phase, models in your WORLD EATERS unit have a 5+ invulnerable save. If the Boon of Blood ability is active for your army, then until the end of the phase, models in your WORLD EATERS unit have a 4+ invulnerable save."
+    "target": "One **BLOOD LEGIONS** unit from your army that is within 6\" of a friendly **WORLD EATERS** unit that was selected as the target as one or more of the attacking unit’s attacks.",
+    "effect": "Until the end of the phase, models in your **WORLD EATERS** unit have a 5+ invulnerable save. If the Boon of Blood ability is active for your army, then until the end of the phase, models in your **WORLD EATERS** unit have a 4+ invulnerable save."
   },
   {
     "ability_id": "a-worthy-skull-khorne-daemonkin",
@@ -1586,12 +1586,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/worldeaters.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#f2266ae7-ff5d-441f-a28d-60e06d6949e9",
+      "edition": "11e"
     },
-    "when": "Any phase, when the last model in a unit is destroyed, before removing it from play. (If that unit is a TRANSPORT, any units embarked within that TRANSPORT model must disembark first.)",
-    "target": "One BLOODLETTERS unit from your army that is in Reserves.",
+    "when": "Any phase, when the last model in a unit is destroyed, before removing it from play. (If that unit is a **TRANSPORT**, any units embarked within that **TRANSPORT** model must disembark first.)",
+    "target": "One **BLOODLETTERS** unit from your army that is in Reserves.",
     "effect": "Set your unit up anywhere on the battlefield wholly within 9\" of that destroyed model and more than 6\" horizontally away from all enemy units, then remove the destroyed model from play.",
     "restrictions": "You cannot use this Stratagem more than once per battle round."
   },
@@ -1606,14 +1606,14 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/worldeaters.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#2781e4bd-c0bd-4260-9db6-f0b0f9f423c2",
+      "edition": "11e"
     },
     "when": "Your Command phase.",
-    "target": "One WORLD EATERS unit from your army.",
-    "effect": "Select one friendly BLOOD LEGIONS unit within 6\" of your unit. One destroyed MOUNTED model, up to D3 destroyed BEAST models, or up to D6 destroyed INFANTRY models are returned to that BLOOD LEGIONS unit with their full wounds remaining.",
-    "restrictions": "This Stratagem cannot be used to return destroyed CHARACTER models to Attached units."
+    "target": "One **WORLD EATERS** unit from your army.",
+    "effect": "Select one friendly **BLOOD LEGIONS** unit within 6\" of your unit. One destroyed **MOUNTED** model, up to D3 destroyed **BEAST** models, or up to D6 destroyed **INFANTRY** models are returned to that **BLOOD LEGIONS** unit with their full wounds remaining.",
+    "restrictions": "This Stratagem cannot be used to return destroyed **CHARACTER** models to Attached units."
   },
   {
     "ability_id": "murder-call-khorne-daemonkin",
@@ -1626,12 +1626,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/worldeaters.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#f50c416d-0d3e-4810-b423-0ebdc30e962e",
+      "edition": "11e"
     },
     "when": "End of your opponent’s Fight phase.",
-    "target": "One BLOOD LEGIONS unit from your army that is on the battlefield and not within Engagement Range of one or more enemy units.",
+    "target": "One **BLOOD LEGIONS** unit from your army that is on the battlefield and not within Engagement Range of one or more enemy units.",
     "effect": "Remove your unit from the battlefield and place it into Strategic Reserves."
   },
   {
@@ -1645,13 +1645,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/worldeaters.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#885813ba-ec4e-4279-bd3b-b0ea000890cb",
+      "edition": "11e"
     },
     "when": "Fight phase.",
-    "target": "One WORLD EATERS POSSESSED unit from your army that has not been selected to fight this phase.",
-    "effect": "Until the end of the phase, each time an attack made by a model in your unit is allocated to an enemy model, if your unit has the EIGHTBOUND keyword and that enemy model is not a MONSTER or VEHICLE, add 1 to the Damage characteristic of that attack. If your unit has the EXALTED EIGHTBOUND keyword and that enemy model is a MONSTER or VEHICLE, add 1 to the Damage characteristic of that attack instead."
+    "target": "One **WORLD EATERS POSSESSED** unit from your army that has not been selected to fight this phase.",
+    "effect": "Until the end of the phase, each time an attack made by a model in your unit is allocated to an enemy model, if your unit has the **EIGHTBOUND** keyword and that enemy model is not a **MONSTER** or **VEHICLE,** add 1 to the Damage characteristic of that attack. If your unit has the **EXALTED EIGHTBOUND** keyword and that enemy model is **a MONSTER** or **VEHICLE,** add 1 to the Damage characteristic of that attack instead."
   },
   {
     "ability_id": "daemonic-resistance-possessed-slaughterband",
@@ -1664,12 +1664,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/worldeaters.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#c52715e8-0449-4e3d-adb9-feece5be12c6",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One WORLD EATERS POSSESSED unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "target": "One **WORLD EATERS POSSESSED** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Wound roll."
   },
   {
@@ -1683,12 +1683,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/worldeaters.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#9423da62-dfb4-441b-a6ee-f74d9f206786",
+      "edition": "11e"
     },
     "when": "Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One WORLD EATERS POSSESSED unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "target": "One **WORLD EATERS POSSESSED** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, do not remove it from play. The destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play."
   },
   {
@@ -1702,13 +1702,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/worldeaters.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#0b7e14eb-65cc-4089-95e6-003585e7bdb0",
+      "edition": "11e"
     },
     "when": "Your Movement phase.",
-    "target": "One EXALTED EIGHTBOUND unit from your army that is arriving using the Deep Strike ability this phase.",
-    "effect": "Your unit can be set up anywhere on the battlefield that is more than 3\" horizontally away from all enemy units.",
+    "target": "One **EXALTED EIGHTBOUND** unit from your army that is arriving using the Deep Strike ability this phase.",
+    "effect": "Your unit can be set up anywhere on the battlefield that is more than 6\" horizontally away from all enemy units.",
     "restrictions": "A unit targeted with this Stratagem is not eligible to declare a charge in the same turn."
   },
   {
@@ -1722,13 +1722,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/worldeaters.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#eff41602-b19a-4905-9ed4-59b326645b14",
+      "edition": "11e"
     },
     "when": "Your Movement phase or your Charge phase.",
-    "target": "One WORLD EATERS POSSESSED unit from your army that has not been selected to move or declare a charge this phase.",
-    "effect": "Until the end of the phase, each time a model in your unit makes a Normal, Advance, Fall Back or Charge move, it can move through enemy models (excluding MONSTERS and VEHICLES). When doing so, it can move within Engagement Range of such models but, unless that move was a Charge move, it cannot end that move within Engagement Range of them, and any Desperate Escape test is automatically passed."
+    "target": "One **WORLD EATERS POSSESSED** unit from your army that has not been selected to move or declare a charge this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes a Normal, Advance, Fall Back or Charge move, it can move through enemy models (excluding **MONSTERS** and **VEHICLES**). When doing so, it can move within Engagement Range of such models but, unless that move was a Charge move, it cannot end that move within Engagement Range of them, and any Desperate Escape test is automatically passed."
   },
   {
     "ability_id": "horrifying-violence-possessed-slaughterband",
@@ -1741,12 +1741,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/worldeaters.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#ce58cdc0-e54e-4f20-82a4-bf31ac272939",
+      "edition": "11e"
     },
     "when": "Your opponent’s Command phase.",
-    "target": "One WORLD EATERS POSSESSED unit from your army.",
+    "target": "One **WORLD EATERS POSSESSED** unit from your army.",
     "effect": "Each enemy unit within Engagement Range of your unit must take a Battle-shock test, subtracting 1 from that test."
   },
   {

@@ -1069,11 +1069,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "pdf",
-      "ref": "eng_11-06_warhammer40000_faction_pack_astra_militarum-etf9ihpodv-mbqdsa1bfv.pdf",
+      "kind": "json",
+      "ref": "mfm-dump",
       "phases": []
     },
-    "raw_text": "Each time an Order is issued to this unit, that Order affects this unit until a new Order is issued to this unit, or until this unit becomes Battle-shocked, or until the battle ends (whichever happens first)."
+    "raw_text": "Each time an Order is issued to this unit, that Order affects this unit until a new Order is issued to this unit, or until this unit become Battle‑shocked, or until the battle ends (whichever happens first)."
   },
   {
     "ability_id": "vox-relay-beacon",
@@ -1109,8 +1109,8 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "pdf",
-      "ref": "eng_11-06_warhammer40000_faction_pack_astra_militarum-etf9ihpodv-mbqdsa1bfv.pdf",
+      "kind": "json",
+      "ref": "mfm-dump",
       "phases": []
     },
     "raw_text": "The first time this model is destroyed, remove it from play, then, at the end of the phase, roll one D6: on a 2+, set this model back up on the battlefield as close as possible to where it was destroyed and not within Engagement Range of one or more enemy units, with 3 wounds remaining."
@@ -1129,13 +1129,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "pdf",
-      "ref": "eng_11-06_warhammer40000_faction_pack_astra_militarum-etf9ihpodv-mbqdsa1bfv.pdf",
-      "phases": [
-        "Command"
-      ]
+      "kind": "json",
+      "ref": "mfm-dump",
+      "phases": []
     },
-    "raw_text": "In your Command phase, you can select one of the abilities in the Hero of Hades Hive section (see next page). Until the start of your next Command phase, this model has that ability.\n\nCounterstrategist: At the end of your opponent's Movement phase, you can select one enemy unit that was set up or ended a move within 9\" of this model, and one friendly Regiment unit within 6\" of and visible to this model that has not made a Normal move or been targeted with the Fire Overwatch Stratagem this phase. That Regiment unit can then either:\n  Make a Normal move of up to D6\".\n  Shoot at that enemy unit, but only if it is an eligible target. Until the end of the phase, each time a model in that unit makes a ranged attack, an unmodified Hit roll of 6 is required to score a hit, irrespective of the attacking weapon's Ballistic Skill or any modifiers.\n  Make a Surge move. To do so, roll one D6: models in that unit move a number of inches up to the result, but that unit must end that move as close as possible to the closest enemy unit (excluding Aircraft). When doing so, those models can be moved within Engagement Range of that enemy unit. That unit cannot make a Surge move while it is Battleshocked or within Engagement Range of one or more enemy units, and can only make one Surge move per phase.\n\nDecisive Command: The next Order issued by this model can be issued to one eligible friendly unit within 12\" of this model; if this is the first Order issued by a unit from your army this Command phase, that Order affects not only that eligible unit, but every other eligible friendly unit within 6\" of that eligible unit.\n\nInspiring Hero (Aura): While a friendly Astra Militarum unit is within 6\" of this model, you can re-roll Battle-shock and Leadership tests taken for that unit."
+    "raw_text": "In your Command phase, you can select one of the abilities in the Hero of Hades Hive section. Until the start of your next Command phase, this model has that ability."
   },
   {
     "ability_id": "mechanised-spearhead",
@@ -1151,13 +1149,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "pdf",
-      "ref": "eng_11-06_warhammer40000_faction_pack_astra_militarum-etf9ihpodv-mbqdsa1bfv.pdf",
-      "phases": [
-        "Movement"
-      ]
+      "kind": "json",
+      "ref": "mfm-dump",
+      "phases": []
     },
-    "raw_text": "In your Movement phase, each time a friendly Astra Militarum Regiment unit disembarks from a Transport that is within 6\" of this model, after that unit has been set up, this model can issue 1 Order to that Regiment unit, regardless of how many Orders this model has already issued this turn."
+    "raw_text": "In your Movement phase, each time a friendly **ASTRA MILITARUM REGIMENT** unit disembarks from a **TRANSPORT** that is within 6\" of this model, after that unit has been set up, this model can issue 1 Order to that **REGIMENT** unit, regardless of how many Orders this model has already issued this turn."
   },
   {
     "ability_id": "brutal-disciplinarian",
@@ -1165,7 +1161,8 @@
     "faction_id": "astra-militarum",
     "detachment_id": null,
     "unit_ids": [
-      "commissar-graves"
+      "commissar-graves",
+      "commissar-graves-on-foot"
     ],
     "ability_type": "unit",
     "game_version": {
@@ -1173,11 +1170,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "pdf",
-      "ref": "eng_11-06_warhammer40000_faction_pack_astra_militarum-etf9ihpodv-mbqdsa1bfv.pdf",
+      "kind": "json",
+      "ref": "mfm-dump",
       "phases": []
     },
-    "raw_text": "Once per turn, at the start of any phase, you can select one friendly Astra Militarum Infantry unit (excluding units that only contain one model) that is Battleshocked and within 24\" of and visible to this model. If you do, one model in that unit is destroyed, and that unit is no longer Battleshocked."
+    "raw_text": "Once per turn, at the start of any phase, you can select one friendly **ASTRA MILITARUM INFANTRY** (excluding units that only contain one model) unit that is Battle‑shocked and within 12\" of this model. If you do, one model in that unit is destroyed, and that unit is no longer Battle‑shocked."
   },
   {
     "ability_id": "aquiline-prow",
@@ -1215,11 +1212,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "pdf",
-      "ref": "eng_11-06_warhammer40000_faction_pack_astra_militarum-etf9ihpodv-mbqdsa1bfv.pdf",
+      "kind": "json",
+      "ref": "mfm-dump",
       "phases": []
     },
-    "raw_text": "This model's unit is eligible to shoot and declare a Charge in a turn in which it Fell Back."
+    "raw_text": "This model’s unit is eligible to shoot and declare a Charge in a turn in which it Fell Back."
   },
   {
     "ability_id": "brutal-disciplinarian-commissar-graves-on-foot",
@@ -1255,11 +1252,9 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "pdf",
-      "ref": "eng_11-06_warhammer40000_faction_pack_astra_militarum-etf9ihpodv-mbqdsa1bfv.pdf",
-      "phases": [
-        "Shooting"
-      ]
+      "kind": "json",
+      "ref": "mfm-dump",
+      "phases": []
     },
     "raw_text": "In your Shooting phase, after this unit has shot, it can make a Normal move of up to D6\". If it does, until the end of the turn, this unit is not eligible to declare a charge."
   },
@@ -1277,11 +1272,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "pdf",
-      "ref": "eng_11-06_warhammer40000_faction_pack_astra_militarum-etf9ihpodv-mbqdsa1bfv.pdf",
+      "kind": "json",
+      "ref": "mfm-dump",
       "phases": []
     },
-    "raw_text": "While one or more units are embarked within this model, unless this model is Battle-shocked, add 1 to this model's Objective Control characteristic for every 3 models (rounding down) embarked within it."
+    "raw_text": "While one or more units are embarked within this model, unless this model is Battle‑shocked, add 1 to this model’s Objective Control characteristic for every 3 models (rounding down) embarked within it."
   },
   {
     "ability_id": "shoot-sharp-and-scarper",
@@ -1386,8 +1381,8 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "pdf",
-      "ref": "eng_11-06_warhammer40000_faction_pack_astra_militarum-etf9ihpodv-mbqdsa1bfv.pdf",
+      "kind": "json",
+      "ref": "mfm-dump",
       "phases": []
     },
     "raw_text": "Each time this model or an enemy unit ends a move, if this model is within 3\" of one or more enemy units, select one of those enemy units. This model is destroyed, but instead of rolling for its Deadly Demise ability, roll one D6: on a 2-5, that enemy unit suffers D3 mortal wounds; on a 6, that enemy unit suffers D6 mortal wounds."
@@ -1406,11 +1401,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "pdf",
-      "ref": "eng_11-06_warhammer40000_faction_pack_astra_militarum-etf9ihpodv-mbqdsa1bfv.pdf",
+      "kind": "json",
+      "ref": "mfm-dump",
       "phases": []
     },
-    "raw_text": "When rolling for this model's Deadly Demise ability, units within 6\" suffer mortal wounds on a 4+, instead of on a 6."
+    "raw_text": "When rolling for this model’s Deadly Demise ability, units within 6\" suffer mortal wounds on a 4+, instead of on a 6."
   },
   {
     "ability_id": "heroic-example",
@@ -2085,13 +2080,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "pdf",
-      "ref": "eng_11-06_warhammer40000_faction_pack_astra_militarum-etf9ihpodv-mbqdsa1bfv.pdf",
-      "phases": [
-        "Shooting"
-      ]
+      "kind": "json",
+      "ref": "mfm-dump",
+      "phases": []
     },
-    "raw_text": "Each time a ranged attack is allocated to a model, if that model is not fully visible to every model in the attacking unit because of this Fortification, that model has the Benefit of Cover against that attack."
+    "raw_text": "Each time a ranged attack is allocated to a model, if that model is not fully visible to every model in the attacking unit because of this **FORTIFICATION**, that model has the Benefit of Cover against that attack."
   },
   {
     "ability_id": "flak-battery",
@@ -3569,6 +3562,7 @@
     "ability_id": "emplacement-platform",
     "name": "Emplacement Platform",
     "faction_id": "astra-militarum",
+    "detachment_id": null,
     "unit_ids": [
       "aegis-defence-line"
     ],
@@ -3578,16 +3572,17 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "json",
+      "ref": "mfm-dump",
+      "phases": []
     },
-    "raw_text": "Friendly ASTRA MILITARUM INFANTRY models can be set up or end any type of move on top of the platform section of this FORTIFICATION."
+    "raw_text": "Friendly **ASTRA MILITARUM INFANTRY** models can be set up or end any type of move on top of the platform section of this **FORTIFICATION**."
   },
   {
     "ability_id": "defence-line",
     "name": "Defence Line",
     "faction_id": "astra-militarum",
+    "detachment_id": null,
     "unit_ids": [
       "aegis-defence-line"
     ],
@@ -3597,16 +3592,17 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "json",
+      "ref": "mfm-dump",
+      "phases": []
     },
-    "raw_text": "While an ASTRA MILITARUM INFANTRY model has the Benefit of Cover as a result of this terrain feature (see above), that model has a 4+ invulnerable save."
+    "raw_text": "While an **ASTRA MILITARUM INFANTRY** model has the Benefit of Cover as a result of this terrain feature (see above), that model has a 4+ invulnerable save."
   },
   {
     "ability_id": "fortification",
     "name": "Fortification",
     "faction_id": "astra-militarum",
+    "detachment_id": null,
     "unit_ids": [
       "aegis-defence-line",
       "hydra-platform",
@@ -3619,11 +3615,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "json",
+      "ref": "mfm-dump",
+      "phases": []
     },
-    "raw_text": "While an enemy unit is only within Engagement Range of one or more FORTIFICATIONS from your army:\n\n■ That unit can still be selected as the target of ranged attacks, but each time such an attack is made, unless it is made with a Pistol, subtract 1 from the Hit roll.\n■ Models in that unit do not need to take Desperate Escape tests due to Falling Back while Battle-shocked, except for those that will move over enemy models when doing so."
+    "raw_text": "While an enemy unit is only within Engagement Range of one or more **FORTIFICATIONS** from your army: ■ That unit can still be selected as the target of ranged attacks, but each time such an attack is made, unless it is made with a Pistol, subtract 1 from the Hit roll. ■ Models in that unit do not need to take Desperate Escape tests due to Falling Back while Battle-shocked, except for those that will move over enemy models when doing so."
   },
   {
     "ability_id": "deployment",
@@ -3866,11 +3862,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#84115c52-4624-40fd-ac54-5a14b36b52c0",
+      "edition": "11e"
     },
-    "raw_text": "Once per battle, when an attack is allocated to this model, you change the Damage characteristic of that attack to 0."
+    "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
+    "target": "One **ASTRA MILITARUM VEHICLE** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the end of the phase, each time an attack is allocated to your unit, subtract 1 from the Damage characteristic of that attack"
   },
   {
     "ability_id": "war-hymns",
@@ -4906,13 +4904,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#5eb2bbea-e871-43f3-a6d0-b216ed4ec55e",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One PLATOON unit from your army that has not been selected to shoot this phase.",
-    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the [PRECISION] ability."
+    "target": "One **PLATOON** unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the **[PRECISION]** ability."
   },
   {
     "ability_id": "scouting-outriders-recon-element",
@@ -4925,12 +4923,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#3068c795-5fe5-4ff9-8132-db8d3592d9ef",
+      "edition": "11e"
     },
     "when": "End of your opponent’s turn.",
-    "target": "One ASTRA MILITARUM MOUNTED or ASTRA MILITARUM WALKER unit from your army that is wholly within 10\" of one or more battlefield edges and not within Engagement Range of one or more enemy units.",
+    "target": "One **ASTRA MILITARUM MOUNTED** or **ASTRA MILITARUM WALKER** unit from your army that is wholly within 10\" of one or more battlefield edges and not within Engagement Range of one or more enemy units.",
     "effect": "Remove your unit from the battlefield and place it into Strategic Reserves."
   },
   {
@@ -4944,12 +4942,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#eb817510-d055-49e3-a543-4a5aaf7be9c7",
+      "edition": "11e"
     },
-    "when": "Your Movement phase, just after a SQUADRON unit from your army Advances.",
-    "target": "That SQUADRON unit.",
+    "when": "Your Movement phase, just after a **SQUADRON** unit from your army Advances.",
+    "target": "That **SQUADRON** unit.",
     "effect": "Until the end of the turn, your unit is eligible to shoot in a turn in which it Advanced."
   },
   {
@@ -4963,12 +4961,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#55e95ac0-2b37-4118-8518-9939794e5d4e",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One SQUADRON unit from your army that has not been selected to shoot this phase.",
+    "target": "One **SQUADRON** unit from your army that has not been selected to shoot this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets a unit within 12\", improve the Armour Penetration characteristic of that attack by 1."
   },
   {
@@ -4982,12 +4980,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#e743cec6-cc31-4f29-88a1-d96554d9c7a3",
+      "edition": "11e"
     },
     "when": "Start of any phase.",
-    "target": "One REGIMENT unit from your army and one SQUADRON unit from your army within 6\" of and visible to that REGIMENT unit.",
+    "target": "One **REGIMENT** unit from your army and one **SQUADRON** unit from your army within 6\" of and visible to that **REGIMENT** unit.",
     "effect": "Until the end of the phase, Orders affecting one of your units affect the other, and vice versa."
   },
   {
@@ -5001,13 +4999,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#964e2794-16c2-4508-9ad7-64b12b74da63",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One REGIMENT unit and one SQUADRON unit from your army that have not been selected to shoot this phase.",
-    "effect": "Select one enemy unit. Until the end of the phase, each time your selected REGIMENT and SQUADRON units make an attack that targets that enemy unit, improve the Armour Penetration characteristic of that attack by 1."
+    "target": "One **REGIMENT** unit and one **SQUADRON** unit from your army that have not been selected to shoot this phase.",
+    "effect": "Select one enemy unit. Until the end of the phase, each time your selected **REGIMENT** and **SQUADRON** units make an attack that targets that enemy unit, improve the Armour Penetration characteristic of that attack by 1."
   },
   {
     "ability_id": "stalwart-protector-combined-arms",
@@ -5020,13 +5018,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#2053f357-238b-4431-9f79-0f32ab09241a",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
-    "target": "One ASTRA MILITARUM VEHICLE unit from your army.",
-    "effect": "Until the end of the phase, each time a ranged attack is allocated to an INFANTRY model from your army, if that model is not fully visible to every model in the attacking unit because of your VEHICLE, that model has the Benefit of Cover against that attack."
+    "target": "One **ASTRA MILITARUM VEHICLE** unit from your army.",
+    "effect": "Until the end of the phase, each time a ranged attack is allocated to an **INFANTRY** model from your army, if that model is not fully visible to every model in the attacking unit because of your **VEHICLE,** that model has the Benefit of Cover against that attack."
   },
   {
     "ability_id": "clear-and-secure-mechanised-assault",
@@ -5039,12 +5037,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#3c46b41a-7185-4543-a3f2-d36f0e7242ab",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One ASTRA MILITARUM unit from your army that disembarked from a TRANSPORT this turn and has not been selected to shoot this phase.",
+    "target": "One **ASTRA MILITARUM** unit from your army that disembarked from a **TRANSPORT** this turn and has not been selected to shoot this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets a unit within range of an objective marker, you can re-roll the Hit roll and you can re-roll the Wound roll."
   },
   {
@@ -5058,13 +5056,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#45fdab70-839f-4eda-ad79-71d8106a6122",
+      "edition": "11e"
     },
     "when": "Your opponent’s movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.",
-    "target": "One TRANSPORT unit from your army (excluding AIRCRAFT and TITANIC units) that is not within Engagement Range of one or more enemy units, and is within 9\" of the enemy unit that just ended that move.",
-    "effect": "Your TRANSPORT can make a Normal move of up to 6\"."
+    "target": "One **TRANSPORT** unit from your army (excluding **AIRCRAFT** and **TITANIC** units) that is not within Engagement Range of one or more enemy units, and is within 8\" of the enemy unit that just ended that move.",
+    "effect": "Your **TRANSPORT** can make a Normal move of up to 6\"."
   },
   {
     "ability_id": "hasty-extraction-mechanised-assault",
@@ -5077,13 +5075,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#f5bea5d8-e892-402e-876d-5874ad2d475c",
+      "edition": "11e"
     },
-    "when": "Your opponent’s Charge phase, after an enemy unit has selected targets for its charge but before it makes a Charge move.&x20;",
-    "target": "One ASTRA MILITARUM INFANTRY unit from your army that was selected as a target of that charge.",
-    "effect": "Provided your unit is not within Engagement Range of one or more enemy units and every model in your unit is within 3\" of an ASTRA MILITARUM TRANSPORT from your army, it can embark within that TRANSPORT."
+    "when": "Your opponent’s Charge phase, after an enemy unit has selected targets for its charge but before it makes a Charge move.&#x20;",
+    "target": "One **ASTRA MILITARUM INFANTRY** unit from your army that was selected as a target of that charge.",
+    "effect": "Provided your unit is not within Engagement Range of one or more enemy units and every model in your unit is within 3\" of an **ASTRA MILITARUM TRANSPORT** from your army, it can embark within that **TRANSPORT.**"
   },
   {
     "ability_id": "callous-sacrifice-siege-regiment",
@@ -5096,12 +5094,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#dab1fb6b-12b8-472e-8c21-cfac7ba04607",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One PLATOON unit from your army that is within Engagement Range of one or more enemy units.",
+    "target": "One **PLATOON** unit from your army that is within Engagement Range of one or more enemy units.",
     "effect": "Until the end of the phase, enemy units are not considered to be within Engagement Range of your unit for the purposes of selecting targets of ranged weapons. Until the end of the phase, each time an enemy model loses a wound, while that model’s unit is within Engagement Range of your unit, roll one D6: on a 4+, one model from your unit is destroyed after the attacking unit has finished making its attacks."
   },
   {
@@ -5115,13 +5113,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#fdb044ee-4561-4055-8ee2-c8f018e0d46c",
+      "edition": "11e"
     },
     "when": "Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One ASTRA MILITARUM INFANTRY unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
-    "effect": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, adding 2 to the result if it is a REGIMENT model. On a 4+, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play."
+    "target": "One **ASTRA MILITARUM INFANTRY** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, adding 2 to the result if it is a **REGIMENT** model. On a 4+, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play."
   },
   {
     "ability_id": "final-hour-hammer-of-the-emperor",
@@ -5134,13 +5132,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#81eb0dfa-af6b-4da6-892a-44d54185b879",
+      "edition": "11e"
     },
     "when": "Your Command phase.",
-    "target": "One SQUADRON unit from your army that is Below Half-strength (excluding OFFICER units).",
-    "effect": "Until the end of the battle round, ranged weapons equipped by models in your unit (excluding [ONE SHOT] weapons) have the [HAZARDOUS] ability, and each time a model in your unit makes a ranged attack, you can ignore any or all modifiers to that attack’s Ballistic Skill characteristic and to the Hit roll."
+    "target": "One **SQUADRON** unit from your army that is Below Half-strength (excluding **OFFICER** units).",
+    "effect": "Until the end of the battle round, ranged weapons equipped by models in your unit (excluding **[ONE SHOT]** weapons) have the **[HAZARDOUS]** ability, and each time a model in your unit makes a ranged attack, you can ignore any or all modifiers to that attack’s Ballistic Skill characteristic and to the Hit roll."
   },
   {
     "ability_id": "inspired-command-combined-arms",
@@ -5153,13 +5151,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#e7a4dcf1-2f41-4928-8efa-fb5fa6024a9e",
+      "edition": "11e"
     },
     "when": "Your opponent’s Command phase.",
-    "target": "One ASTRA MILITARUM OFFICER unit from your army.",
-    "effect": "Your OFFICER can issue one Order as if it were your Command phase."
+    "target": "One **ASTRA MILITARUM OFFICER** unit from your army.",
+    "effect": "Your **OFFICER** can issue one Order as if it were your Command phase."
   },
   {
     "ability_id": "draw-them-out-recon-element",
@@ -5172,12 +5170,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#aa469840-d6dc-4f0d-b4de-587282f3cb8e",
+      "edition": "11e"
     },
     "when": "Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.",
-    "target": "One PLATOON unit from your army that is within 9\" of that enemy unit, and is not within Engagement Range of one or more enemy units.",
+    "target": "One **PLATOON** unit from your army that is within 8\" of that enemy unit, and is not within Engagement Range of one or more enemy units.",
     "effect": "Your unit can make a Normal move of up to 6\"."
   },
   {
@@ -5191,12 +5189,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#88921ea9-e94b-46ff-8fa5-ac1d8b58b133",
+      "edition": "11e"
     },
     "when": "Start of your opponent’s Shooting phase.",
-    "target": "One ASTRA MILITARUM INFANTRY or ASTRA MILITARUM MOUNTED unit from your army.",
+    "target": "One **ASTRA MILITARUM INFANTRY** or **ASTRA MILITARUM MOUNTED** unit from your army.",
     "effect": "Until the end of the phase, your unit has the Feel No Pain 6+ ability, and each time an enemy model makes an attack, if your unit is the closest eligible target, subtract 1 from the hit roll."
   },
   {
@@ -5210,12 +5208,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#de99530b-525c-48b6-a7ef-dc297ad712d3",
+      "edition": "11e"
     },
-    "when": "Your Movement phase, just after a SQUADRON unit from your army Falls Back.",
-    "target": "That SQUADRON unit.",
+    "when": "Your Movement phase, just after a **SQUADRON** unit from your army Falls Back.",
+    "target": "That **SQUADRON** unit.",
     "effect": "Until the end of the turn, your unit is eligible to shoot in a turn in which it Fell Back."
   },
   {
@@ -5229,12 +5227,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#1f54e490-9721-4049-b801-4e2c36b78347",
+      "edition": "11e"
     },
     "when": "Your Movement phase or your Charge phase.",
-    "target": "One ASTRA MILITARUM VEHICLE unit from your army that has not been selected to move or charge this phase.",
+    "target": "One **ASTRA MILITARUM VEHICLE** unit from your army that has not been selected to move or charge this phase.",
     "effect": "Until the end of the phase, each time your unit makes a Normal, Advance or Charge move, it can move horizontally through terrain features as if they were not there."
   },
   {
@@ -5248,13 +5246,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#c7da0b4b-e096-4296-ba35-af38c03bfca7",
+      "edition": "11e"
     },
     "when": "Your Movement phase.",
-    "target": "One ASTRA MILITARUM INFANTRY unit from your army that disembarked from a TRANSPORT this phase.",
-    "effect": "Your INFANTRY unit can make a Normal move of up to D6\"."
+    "target": "One **ASTRA MILITARUM INFANTRY** unit from your army that disembarked from a **TRANSPORT** this phase.",
+    "effect": "Your **INFANTRY** unit can make a Normal move of up to D6\"."
   },
   {
     "ability_id": "move-out-mechanised-assault",
@@ -5267,13 +5265,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#0956bc01-7912-4f3c-b7bc-658e1973ffdf",
+      "edition": "11e"
     },
     "when": "End of your opponent’s turn.",
-    "target": "One ASTRA MILITARUM unit from your army.",
-    "effect": "Provided your unit is not within Engagement Range of one or more enemy units and every model in your unit is within 3\" of an ASTRA MILITARUM TRANSPORT from your army, it can embark within that TRANSPORT."
+    "target": "One **ASTRA MILITARUM** unit from your army.",
+    "effect": "Provided your unit is not within Engagement Range of one or more enemy units and every model in your unit is within 3\" of an **ASTRA MILITARUM TRANSPORT** from your army, it can embark within that **TRANSPORT.**"
   },
   {
     "ability_id": "furious-fusillade-siege-regiment",
@@ -5286,12 +5284,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#df9c53eb-bd3b-49a7-8d62-d77bf0e5f111",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One PLATOON unit from your army that has not been selected to shoot this phase.",
+    "target": "One **PLATOON** unit from your army that has not been selected to shoot this phase.",
     "effect": "Until the end of the phase, add 1 to the Attacks characteristic of ranged weapons equipped by models in your unit while targeting an enemy unit within half range."
   },
   {
@@ -5305,14 +5303,14 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#05739d84-7f54-414c-9645-20a9392e7505",
+      "edition": "11e"
     },
     "when": "Any phase.",
-    "target": "One INFANTRY REGIMENT unit from your army that was just destroyed. You can use this Stratagem on that unit even though it was just destroyed.",
+    "target": "One **INFANTRY** **REGIMENT** unit from your army that was just destroyed. You can use this Stratagem on that unit even though it was just destroyed.",
     "effect": "Add a new unit to your army identical to your destroyed unit, in Strategic Reserves, at its Starting Strength and with all of its wounds remaining.",
-    "restrictions": "This Stratagem cannot be used to return destroyed CHARACTER units to Attached units. You can only use this Stratagem once per battle."
+    "restrictions": "This Stratagem cannot be used to return destroyed **CHARACTER** units to Attached units. You can only use this Stratagem once per battle."
   },
   {
     "ability_id": "flexible-command-combined-arms",
@@ -5325,13 +5323,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#c8f25f45-5792-4aa4-858b-25cd9d78b1a9",
+      "edition": "11e"
     },
     "when": "Your Command phase.",
-    "target": "Any number of ASTRA MILITARUM OFFICER units from your army.",
-    "effect": "Until the end of the phase, your OFFICERS can issue Orders to REGIMENT units and SQUADRON units."
+    "target": "Any number of **ASTRA MILITARUM OFFICER** units from your army.",
+    "effect": "Until the end of the phase, your **OFFICERS** can issue Orders to **REGIMENT** units and **SQUADRON** units."
   },
   {
     "ability_id": "over-the-top-siege-regiment",
@@ -5344,13 +5342,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#6f4fefee-7085-4f15-8672-fc629eb81e21",
+      "edition": "11e"
     },
     "when": "Start of your Command phase.",
-    "target": "One INFANTRY OFFICER model from your army.",
-    "effect": "Until the end of the phase, when your model issues the Move! Move! Move! Order, it can issue that Order to any number of eligible friendly INFANTRY REGIMENT units, regardless of range to your model."
+    "target": "One **INFANTRY OFFICER** model from your army.",
+    "effect": "Until the end of the phase, when your model issues the Move! Move! Move! Order, it can issue that Order to any number of eligible friendly **INFANTRY REGIMENT** units, regardless of range to your model."
   },
   {
     "ability_id": "scramble-field-recon-element",
@@ -5363,12 +5361,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#335e53e6-f90f-44d0-9fdb-1727578e88ae",
+      "edition": "11e"
     },
     "when": "Start of your opponent’s Reinforcements step.",
-    "target": "One ASTRA MILITARUM INFANTRY unit from your army.",
+    "target": "One **ASTRA MILITARUM INFANTRY** unit from your army.",
     "effect": "Until the end of the phase, enemy units that are set up on the battlefield as Reinforcements cannot be set up within 12\" of your unit."
   },
   {
@@ -5382,13 +5380,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#98f66f68-6f64-494d-81be-ae5f7fbb1698",
+      "edition": "11e"
     },
     "when": "Start of your opponent’s Charge phase.",
-    "target": "One ASTRA MILITARUM GRENADES unit from your army.",
-    "effect": "Until the end of the phase, each time an enemy unit selects your unit as the target of a charge, subtract 2 from the Charge roll (this is not cumulative with any other negative modifiers to that Charge roll)."
+    "target": "One **ASTRA MILITARUM GRENADES** unit from your army.",
+    "effect": "Select one visible enemy unit within 12\" of your unit. When that enemy unit declares a charge, that enemy unit has -1 to charge rolls."
   },
   {
     "ability_id": "vox-relay-mechanised-assault",
@@ -5401,13 +5399,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#457a63c9-85f4-48d1-a56b-e06ea2e59889",
+      "edition": "11e"
     },
     "when": "Your Command phase.",
-    "target": "One INFANTRY OFFICER unit from your army embarked within a TRANSPORT. You can use this Stratagem on that unit even though it is embarked within a TRANSPORT.",
-    "effect": "Until the end of the phase, your unit can issue Orders even though it is not on the battlefield, and it can issue Orders to ASTRA MILITARUM TRANSPORT units from your army (excluding TITANIC units) regardless of the distance to and from your unit’s TRANSPORT."
+    "target": "One **INFANTRY OFFICER** unit from your army embarked within a **TRANSPORT.** You can use this Stratagem on that unit even though it is embarked within a **TRANSPORT.**",
+    "effect": "Until the end of the phase, your unit can issue Orders even though it is not on the battlefield, and it can issue Orders to **ASTRA MILITARUM TRANSPORT** units from your army (excluding **TITANIC** units) regardless of the distance to and from your unit’s **TRANSPORT.**"
   },
   {
     "ability_id": "minefield-siege-regiment",
@@ -5420,12 +5418,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#3d3497b1-3f6e-4785-a585-b0d687552465",
+      "edition": "11e"
     },
     "when": "Start of your opponent’s Charge phase.",
-    "target": "One PLATOON unit from your army.",
+    "target": "One **PLATOON** unit from your army.",
     "effect": "Until the end of the phase, each time an enemy unit ends a Charge move within Engagement Range of your unit, roll one D6 for each model in that enemy unit: for each 5+, that enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds)."
   },
   {
@@ -5439,12 +5437,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#5fc04c7f-6371-4893-9eba-00259a1c2308",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One ASTRA MILITARUM CHARACTER unit from your army that has not been selected to shoot this phase.",
+    "target": "One **ASTRA MILITARUM CHARACTER** unit from your army that has not been selected to shoot this phase.",
     "effect": "Until the end of the phase, each time your unit makes an attack that targets a visible enemy unit within 12\", you can re-roll the Hit roll."
   },
   {
@@ -5531,5 +5529,167 @@
       "edition": "10e"
     },
     "raw_text": "At the start of the battle round, select one of the following types of artillery support. Creeping Barrage: Roll one D6 for each enemy unit that is more than 12\" from every model from your army that is on the battlefield: On a 5+, until the end of the battle round, that unit is shaken. While a unit is shaken, subtract 2” from its Move characteristic and subtract 2 from Charge rolls made for it. The maximum number of units that can be shaken by this rule in each battle round depends on the battle size, as shown below. Incendiary Bombardment: Select a number of enemy units more than 12\" from every model from your army that is on the battlefield. Until the end of the battle round, those enemy units are scattered. While a unit is scattered, it cannot have the Benefit of Cover. The maximum number of units you can select in this way depends on the battle size, as shown below. Smoke Shells: Select a number of units from your army. Until the end of the battle round, those units have the Stealth ability. The maximum number of units you can select in this way depends on the battle size, as shown below. -"
+  },
+  {
+    "ability_id": "infiltrators",
+    "name": "Infiltrators",
+    "faction_id": "astra-militarum",
+    "detachment_id": null,
+    "unit_ids": [
+      "ratlings",
+      "gaunts-ghosts",
+      "cadian-recon-squad"
+    ],
+    "ability_type": "core",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "json",
+      "ref": "mfm-dump",
+      "phases": []
+    },
+    "raw_text": "During deployment, if every model in a unit has this ability, it can be set up anywhere on the battlefield that is more than 8\" horizontally from your opponent’s deployment zone and all enemy units."
+  },
+  {
+    "ability_id": "stealth",
+    "name": "Stealth",
+    "faction_id": "astra-militarum",
+    "detachment_id": null,
+    "unit_ids": [
+      "ratlings",
+      "gaunts-ghosts",
+      "cadian-recon-squad"
+    ],
+    "ability_type": "core",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "json",
+      "ref": "mfm-dump",
+      "phases": []
+    },
+    "raw_text": "If every model in a unit has this ability, each time a ranged attack targets that unit, that unit has the benefit of cover against that attack (13.08)."
+  },
+  {
+    "ability_id": "deadly-demise-d3",
+    "name": "Deadly Demise D3",
+    "faction_id": "astra-militarum",
+    "detachment_id": null,
+    "unit_ids": [
+      "leman-russ-battle-tank",
+      "storm-chimera",
+      "aquila-lander",
+      "griffon-mortar-carrier",
+      "centaur-rsv",
+      "commissar-graves"
+    ],
+    "ability_type": "core",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "json",
+      "ref": "mfm-dump",
+      "phases": []
+    },
+    "raw_text": "This ability always takes the form Deadly Demise X. Each time a model in this unit is destroyed, after the units embarked within it (if any) have made their emergency disembark moves, roll one D6. On a 6, that model suffers a deadly demise; each unit within 6\" of that model suffers a number of mortal wounds denoted by X (if this is a random number, roll separately for each unit within 6\"). Example: An Impulsor with a unit of Intercessors embarked within it is destroyed by ranged attacks. First, any unresolved attacks made by the attacking unit are resolved. Then the Intercessors make an emergency disembark move. Then the roll is made for the Deadly Demise ability, and on a 6, that ability is resolved. Finally, the Impulsor is removed from the battlefield."
+  },
+  {
+    "ability_id": "firing-deck-12",
+    "name": "Firing Deck 12",
+    "faction_id": "astra-militarum",
+    "detachment_id": null,
+    "unit_ids": [
+      "stormlord",
+      "centaur-rsv"
+    ],
+    "ability_type": "core",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "json",
+      "ref": "mfm-dump",
+      "phases": []
+    },
+    "raw_text": "This ability always takes the form Firing Deck X. In your Shooting phase, each time this TRANSPORT is selected to shoot, if one or more units are embarked within it, resolve the following sequence: 1. Select up to X models embarked within this TRANSPORT (excluding models whose units have already been selected to shoot this phase). 2. For each selected model, select one of its ranged weapons (excluding [ONE SHOT] weapons). 3. Until this TRANSPORT has resolved all of its attacks, it has all of those selected weapons in addition to its other weapons. 4. Until the end of the turn, units embarked within this TRANSPORT are not eligible to shoot."
+  },
+  {
+    "ability_id": "voice-of-command",
+    "name": "Voice of Command",
+    "faction_id": "astra-militarum",
+    "detachment_id": null,
+    "unit_ids": [
+      "gaunts-ghosts",
+      "death-rider-commissar",
+      "commissar-graves",
+      "commissar-graves-on-foot",
+      "commissar-yarrick"
+    ],
+    "ability_type": "faction",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "json",
+      "ref": "mfm-dump",
+      "phases": []
+    },
+    "raw_text": "-"
+  },
+  {
+    "ability_id": "leader",
+    "name": "Leader",
+    "faction_id": "astra-militarum",
+    "detachment_id": null,
+    "unit_ids": [
+      "cadian-castellan",
+      "death-rider-commissar",
+      "commissar-graves-on-foot",
+      "commissar-yarrick"
+    ],
+    "ability_type": "core",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "json",
+      "ref": "mfm-dump",
+      "phases": []
+    },
+    "raw_text": "Before the battle, in the Muster Armies step, for each leader and support unit in your army, you can select one friendly bodyguard unit that unit can lead. That unit will then lead that bodyguard unit for the battle and form an attached unit with it. Unless otherwise stated, each bodyguard unit can only have one leader unit and one support unit attached to it. See Attached Units (19)"
+  },
+  {
+    "ability_id": "deadly-demise-1",
+    "name": "Deadly Demise 1",
+    "faction_id": "astra-militarum",
+    "detachment_id": null,
+    "unit_ids": [
+      "scout-sentinels",
+      "hydra-platform",
+      "manticore-platform",
+      "earthshaker-platform",
+      "cyclops-demolition-vehicle",
+      "hippogriff-afv"
+    ],
+    "ability_type": "core",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "json",
+      "ref": "mfm-dump",
+      "phases": []
+    },
+    "raw_text": "This ability always takes the form Deadly Demise X. Each time a model in this unit is destroyed, after the units embarked within it (if any) have made their emergency disembark moves, roll one D6. On a 6, that model suffers a deadly demise; each unit within 6\" of that model suffers a number of mortal wounds denoted by X (if this is a random number, roll separately for each unit within 6\"). Example: An Impulsor with a unit of Intercessors embarked within it is destroyed by ranged attacks. First, any unresolved attacks made by the attacking unit are resolved. Then the Intercessors make an emergency disembark move. Then the roll is made for the Deadly Demise ability, and on a 6, that ability is resolved. Finally, the Impulsor is removed from the battlefield."
   }
 ]

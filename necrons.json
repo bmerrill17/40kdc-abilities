@@ -2783,12 +2783,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/necrons.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#9f6c6462-97e6-47a3-a412-8137d91d959d",
+      "edition": "11e"
     },
     "when": "Fight phase.",
-    "target": "One DESTROYER CULT or FLAYED ONES unit from your army that has not been selected to fight this phase.",
+    "target": "One **DESTROYER CULT** or **FLAYED ONES** unit from your army that has not been selected to fight this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes a Pile-in or Consolidation move, it can move up to 6\" instead of up to 3\"."
   },
   {
@@ -2802,12 +2802,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/necrons.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#bd84a85a-bbce-4556-9a53-7e8561b4e48d",
+      "edition": "11e"
     },
     "when": "Your opponent’s Movement phase, just after an enemy unit ends a Fall Back move.",
-    "target": "One DESTROYER CULT or FLAYED ONES unit from your army that started the phase within Engagement Range of that enemy unit.",
+    "target": "One **DESTROYER CULT** or **FLAYED ONES** unit from your army that started the phase within Engagement Range of that enemy unit.",
     "effect": "Roll one D6: on a 2-5, that enemy unit suffers D3 mortal wounds; on a 6, that enemy unit suffers 3 mortal wounds. Your unit can then make a Normal move, but must end that move as close as possible to that enemy unit."
   },
   {
@@ -2821,12 +2821,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/necrons.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#e911cb72-8416-456b-b29b-9d7e78845c3f",
+      "edition": "11e"
     },
     "when": "Your Shooting phase or the Fight phase.",
-    "target": "One DESTROYER CULT or FLAYED ONES unit from your army that has not been selected to shoot or fight this phase.",
+    "target": "One **DESTROYER CULT** or **FLAYED ONES** unit from your army that has not been selected to shoot or fight this phase.",
     "effect": "Until the end of the phase, each time a model from your unit makes an attack that targets a unit below Starting Strength, add 1 to the Hit roll. If the target is Below Half-strength, add 1 to the Wound roll as well"
   },
   {
@@ -2840,12 +2840,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/necrons.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#b3f0ef16-4876-4de4-a6e5-c70510bec244",
+      "edition": "11e"
     },
     "when": "Fight phase.",
-    "target": "One DESTROYER CULT or FLAYED ONES unit from your army that has just destroyed an enemy unit, or just caused an enemy unit that was not Below Half-strength to become Below Half-strength.",
+    "target": "One **DESTROYER CULT** or **FLAYED ONES** unit from your army that has just destroyed an enemy unit, or just caused an enemy unit that was not Below Half-strength to become Below Half-strength.",
     "effect": "Your unit’s Reanimation Protocols activate."
   },
   {
@@ -2897,12 +2897,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/necrons.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#dae0deca-9c4c-416b-91c6-dfd9eab452c3",
+      "edition": "11e"
     },
     "when": "Your Shooting phase or the Fight phase.",
-    "target": "One NECRONS unit from your army (excluding TITANIC units) that has not been selected to shoot or fight this phase.",
+    "target": "One **NECRONS** unit from your army (excluding **TITANIC** units) that has not been selected to shoot or fight this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes an attack, an unmodified Hit roll of 5+ scores a Critical Hit."
   },
   {
@@ -2916,12 +2916,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/necrons.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#5ed9cb6e-a512-495d-af01-3e55d9966ca4",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One NECRONS VEHICLE unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "target": "One **NECRONS VEHICLE** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the end of the phase, each time an attack is allocated to a model in your unit, subtract 1 from the Damage characteristic of that attack."
   },
   {
@@ -2935,13 +2935,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/necrons.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#4df51b07-bd1d-4510-9088-4734099be4cb",
+      "edition": "11e"
     },
     "when": "Fight phase.",
-    "target": "One LYCHGUARD or TRIARCH unit from your army that has not been selected to fight this phase.",
-    "effect": "Until the end of the phase, melee weapons equipped by models in your unit have the [PRECISION] ability."
+    "target": "One **LYCHGUARD** or **TRIARCH** unit from your army that has not been selected to fight this phase.",
+    "effect": "Until the end of the phase, melee weapons equipped by models in your unit have the **[PRECISION]** ability."
   },
   {
     "ability_id": "curse-of-the-cryptek-canoptek-court",
@@ -2954,13 +2954,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/necrons.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#c0a9369e-f600-4bff-afe3-953de7887c21",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has shot or fought.",
-    "target": "One CRYPTEK model from your army that was destroyed by one of the attacking unit’s attacks. You can use this Stratagem on that model even though it was just destroyed.",
-    "effect": "Until the end of the battle, each time a friendly CANOPTEK model makes an attack that targets the attacking unit, add 1 to the Hit roll and add 1 to the Wound roll."
+    "target": "One **CRYPTEK** model from your army that was destroyed by one of the attacking unit’s attacks. You can use this Stratagem on that model even though it was just destroyed.",
+    "effect": "Until the end of the battle, each time a friendly **CANOPTEK** model makes an attack that targets the attacking unit, add 1 to the Hit roll and add 1 to the Wound roll."
   },
   {
     "ability_id": "protocol-of-the-hungry-void-awakened-dynasty",
@@ -2973,13 +2973,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/necrons.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#189e9a56-08ba-4f1d-91fe-86a29a58fc97",
+      "edition": "11e"
     },
     "when": "Fight phase.",
-    "target": "One NECRONS unit from your army that has not been selected to fight this phase.",
-    "effect": "Until the end of the phase, add 1 to the Strength characteristic of melee weapons equipped by models in your unit. In addition, if a NECRONS CHARACTER is leading your unit, until the end of the phase, improve the Armour Penetration characteristic of melee weapons equipped by models in your unit by 1 (this is not cumulative with any other modifiers that improve Armour Penetration)."
+    "target": "One **NECRONS** unit from your army that has not been selected to fight this phase.",
+    "effect": "Until the end of the phase, add 1 to the Strength characteristic of melee weapons equipped by models in your unit. In addition, if a **NECRONS CHARACTER** is leading your unit, until the end of the phase, improve the Armour Penetration characteristic of melee weapons equipped by models in your unit by 1 (this is not cumulative with any other modifiers that improve Armour Penetration)."
   },
   {
     "ability_id": "protocol-of-the-conquering-tyrant-awakened-dynasty",
@@ -2992,13 +2992,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/necrons.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#368292f0-5a8b-440c-9f46-08b699362b2e",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One NECRONS unit from your army that has not been selected to shoot this phase.",
-    "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets a unit within half range, re-roll a Hit roll of 1. If a NECRONS CHARACTER is leading your unit, until the end of the phase, you can re-roll the Hit roll for that attack instead."
+    "target": "One **NECRONS** unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets a unit within half range, re-roll a Hit roll of 1. If a **NECRONS CHARACTER** is leading your unit, until the end of the phase, you can re-roll the Hit roll for that attack instead."
   },
   {
     "ability_id": "merciless-reclamation-starshatter-arsenal",
@@ -3049,13 +3049,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/necrons.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#d50a8525-0cda-4481-b35a-0166906008ce",
+      "edition": "11e"
     },
     "when": "The start of your Shooting phase or the start of the Fight phase.",
-    "target": "One CRYPTEK or CANOPTEK unit from your army that is wholly within your army’s Power Matrix.",
-    "effect": "Until the end of the phase, weapons equipped by CRYPTEK or CANOPTEK models in your unit have the [DEVASTATING WOUNDS] ability."
+    "target": "One **CRYPTEK** or **CANOPTEK** unit from your army that is wholly within your army’s Power Matrix.",
+    "effect": "Until the end of the phase, weapons equipped by **CRYPTEK** or **CANOPTEK** models in your unit have the **[DEVASTATING WOUNDS]** ability."
   },
   {
     "ability_id": "disharmonisation-cascade-pantheon-of-woe",
@@ -3107,12 +3107,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/necrons.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#49d8d3ef-e674-40ca-96a0-d9502b574465",
+      "edition": "11e"
     },
-    "when": "Any phase, just after your opponent’s WARLORD is destroyed.",
-    "target": "Your NECRONS WARLORD.",
+    "when": "Any phase, just after your opponent’s **WARLORD** is destroyed.",
+    "target": "Your **NECRONS WARLORD**.",
     "effect": "Until the end of the battle, each time an enemy unit takes a Battle-shock or Leadership test, subtract 1 from the result."
   },
   {
@@ -3126,12 +3126,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/necrons.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#8ed9b3af-6af9-4ae0-b3d8-23c4c33d3247",
+      "edition": "11e"
     },
     "when": "Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One LYCHGUARD or TRIARCH PRAETORIANS unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "target": "One **LYCHGUARD** or **TRIARCH PRAETORIANS** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6: on a 4+, do not remove it from play. The destroyed model can fight after the attacking model’s unit has finished making attacks, and is then removed from play."
   },
   {
@@ -3145,12 +3145,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/necrons.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#bf930024-606b-48bf-a177-fe9638bff082",
+      "edition": "11e"
     },
     "when": "Any phase.",
-    "target": "One NECRONS INFANTRY CHARACTER model from your army that was just destroyed. You can use this Stratagem on that model even though it was just destroyed.",
+    "target": "One **NECRONS INFANTRY CHARACTER** model from your army that was just destroyed. You can use this Stratagem on that model even though it was just destroyed.",
     "effect": "At the end of the phase, set your model back up on the battlefield as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with half of its starting number of wounds remaining.",
     "restrictions": "Each model can only be targeted with this Stratagem once per battle."
   },
@@ -3318,12 +3318,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/necrons.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#da6881d3-ab86-4662-b18b-f557cf325716",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase, just after an enemy unit has shot.",
-    "target": "One DESTROYER CULT or FLAYED ONES unit from your army that had one or more of its models destroyed by the attacking unit’s attacks.",
+    "target": "One **DESTROYER CULT** or **FLAYED ONES** unit from your army that had one or more of its models destroyed by the attacking unit’s attacks.",
     "effect": "Your unit can make a Normal move, but must end that move as close as possible to that enemy unit."
   },
   {
@@ -3337,12 +3337,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/necrons.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#4d06f60e-e46d-4f28-b1c2-c9c10c7176a2",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One DESTROYER CULT or FLAYED ONES unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "target": "One **DESTROYER CULT** or **FLAYED ONES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
   },
   {
@@ -3356,13 +3356,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/necrons.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#bcb05d5f-6aac-4430-b908-c9cb3bef18a1",
+      "edition": "11e"
     },
     "when": "Your Command phase.",
-    "target": "Your NECRONS WARLORD.",
-    "effect": "For each of your NECRONS units in Reserves, that Reserves unit’s Reanimation Protocols activate."
+    "target": "Your **NECRONS WARLORD**.",
+    "effect": "For each of your **NECRONS** units in Reserves, that Reserves unit’s Reanimation Protocols activate."
   },
   {
     "ability_id": "cosmic-precision-hypercrypt-legion",
@@ -3375,12 +3375,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/necrons.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#c7bc6a8b-a3df-4947-9fca-c5929fa38502",
+      "edition": "11e"
     },
     "when": "Your Movement phase.",
-    "target": "One NECRONS unit from your army (excluding MONSTER units) that is arriving using the Deep Strike or Hyperphasing abilities this phase.",
+    "target": "One **NECRONS** unit from your army (excluding **MONSTER** units) that is arriving using the Deep Strike or Hyperphasing abilities this phase.",
     "effect": "Your unit can be set up anywhere on the battlefield that is more than 6\" horizontally away from all enemy models.",
     "restrictions": "A unit targeted with this Stratagem is not eligible to declare a charge in the same turn."
   },
@@ -3434,13 +3434,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/necrons.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#a1f9d428-e9d5-484e-9791-7d0dcca30a6d",
+      "edition": "11e"
     },
     "when": "Your Command phase.",
-    "target": "One LYCHGUARD or TRIARCH unit from your army.",
-    "effect": "Until the start of your next Command phase, add 1 to the Objective Control characteristic of models in your unit. If your unit has the VEHICLE keyword, add 3 to the Objective Control characteristic instead."
+    "target": "One **LYCHGUARD** or **TRIARCH** unit from your army.",
+    "effect": "Until the start of your next Command phase, add 1 to the Objective Control characteristic of models in your unit. If your unit has the **VEHICLE** keyword, add 3 to the Objective Control characteristic instead."
   },
   {
     "ability_id": "solar-pulse-canoptek-court",
@@ -3453,13 +3453,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/necrons.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#9c1084ea-a988-41ae-9e7e-93fff8618e30",
+      "edition": "11e"
     },
     "when": "Start of your Shooting phase.",
-    "target": "One CRYPTEK model from your army.",
-    "effect": "Select one objective marker within 18\" of your CRYPTEK model. Until the end of the phase, weapons equipped by friendly NECRONS models have the [IGNORES COVER] ability while targeting units within range of that objective marker."
+    "target": "One **CRYPTEK** model from your army.",
+    "effect": "Select one objective marker within 18\" of your **CRYPTEK** model. Until the end of the phase, weapons equipped by friendly **NECRONS** models have the **[IGNORES COVER]** ability while targeting units within range of that objective marker."
   },
   {
     "ability_id": "reactive-subroutines-canoptek-court",
@@ -3472,12 +3472,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/necrons.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#eca2a44c-dcdd-4484-af45-2f09ce8dc313",
+      "edition": "11e"
     },
     "when": "Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.",
-    "target": "One CANOPTEK unit from your army that is within 9\" of that enemy unit.",
+    "target": "One **CANOPTEK** unit from your army that is within 8\" of that enemy unit.",
     "effect": "Your unit can make a Normal move of up to 6\"."
   },
   {
@@ -3491,12 +3491,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/necrons.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#7582da67-6a97-40e3-a652-6e676553c1b8",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
-    "target": "One CANOPTEK unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "target": "One **CANOPTEK** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the end of the phase, your unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
   },
   {
@@ -3510,12 +3510,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/necrons.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#d24d049f-0cf6-4a7f-bb6c-7094b86c7c3e",
+      "edition": "11e"
     },
     "when": "Your opponent’s Charge phase, just after an enemy unit has declared a charge.",
-    "target": "One CANOPTEK unit from your army that was selected as a target of that charge and is wholly within your army’s Power Matrix.",
+    "target": "One **CANOPTEK** unit from your army that was selected as a target of that charge and is wholly within your army’s Power Matrix.",
     "effect": "Your unit’s Reanimation Protocols activate."
   },
   {
@@ -3529,13 +3529,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/necrons.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#23e7987e-8c84-4854-a160-0cf2f495a0f9",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has resolved its attacks.",
-    "target": "One NECRONS unit from your army that had one or more of its models destroyed as a result of the attacking unit’s attacks.",
-    "effect": "Your unit activates its Reanimation Protocols and reanimates D3 wounds (or D3+1 wounds if a NECRONS CHARACTER is leading your unit)."
+    "target": "One **NECRONS** unit from your army that had one or more of its models destroyed as a result of the attacking unit’s attacks.",
+    "effect": "Your unit activates its Reanimation Protocols and reanimates D3 wounds (or D3+1 wounds if a **NECRONS CHARACTER** is leading your unit)."
   },
   {
     "ability_id": "protocol-of-the-sudden-storm-awakened-dynasty",
@@ -3548,13 +3548,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/necrons.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#715892f9-4eab-4736-b3aa-cf87a1da9612",
+      "edition": "11e"
     },
     "when": "Your Movement phase.",
-    "target": "One NECRONS unit from your army.",
-    "effect": "Until the end of the turn, ranged weapons equipped by models in your unit have the [ASSAULT] ability. In addition, if a NECRONS CHARACTER is leading your unit, until the end of the phase, you can re-roll Advance rolls made for your unit."
+    "target": "One **NECRONS** unit from your army.",
+    "effect": "Until the end of the turn, ranged weapons equipped by models in your unit have the **[ASSAULT]** ability. In addition, if a **NECRONS CHARACTER** is leading your unit, until the end of the phase, you can re-roll Advance rolls made for your unit."
   },
   {
     "ability_id": "unnatural-aggression-cursed-legion",
@@ -3586,13 +3586,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/necrons.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#6682be5a-c7e3-4124-8ff3-cd13904b179c",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has shot or fought.",
-    "target": "One NECRONS INFANTRY unit from your army that had one or more of its models destroyed as a result of the attacking unit’s attacks and one friendly MONOLITH model.",
-    "effect": "Remove your INFANTRY unit from the battlefield and then set it back up anywhere on the battlefield that is wholly within 6\" of your MONOLITH model and not within Engagement Range of one or more enemy units."
+    "target": "One **NECRONS INFANTRY** unit from your army that had one or more of its models destroyed as a result of the attacking unit’s attacks and one friendly **MONOLITH** model.",
+    "effect": "Remove your **INFANTRY** unit from the battlefield and then set it back up anywhere on the battlefield that is wholly within 6\" of your **MONOLITH** model and not within Engagement Range of one or more enemy units."
   },
   {
     "ability_id": "dimensional-corridor-hypercrypt-legion",
@@ -3605,12 +3605,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/necrons.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#48e3617a-2f72-4a1f-b43a-411e82417805",
+      "edition": "11e"
     },
     "when": "Your Charge phase.",
-    "target": "One NECRONS unit from your army that was set up on the battlefield this turn using the Eternity Gate ability of a MONOLITH model that started the turn on the battlefield.",
+    "target": "One **NECRONS** unit from your army that was set up on the battlefield this turn using the Eternity Gate ability of a **MONOLITH** model that started the turn on the battlefield.",
     "effect": "Your unit is eligible to charge this phase."
   },
   {
@@ -3624,12 +3624,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/necrons.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#9e221cad-ccda-413e-95af-7322a2b63356",
+      "edition": "11e"
     },
-    "when": "Your opponent’s Shooting phase, just after an enemy unit destroys a NECRONS unit from your army.",
-    "target": "One NECRONS CHARACTER unit from your army that was within 6\" of that NECRONS unit when it was destroyed.",
+    "when": "Your opponent’s Shooting phase, just after an enemy unit destroys a **NECRONS** unit from your army.",
+    "target": "One **NECRONS CHARACTER** unit from your army that was within 6\" of that **NECRONS** unit when it was destroyed.",
     "effect": "After the attacking unit has resolved its attacks, your unit can shoot as if it were your Shooting phase, but it must target only that enemy unit when doing so, and can only do so if that enemy unit is an eligible target."
   },
   {
@@ -3681,12 +3681,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/necrons.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#34e9b24d-0cfa-4679-8fd5-a2ee1485e03b",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One NECRONS VEHICLE unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "target": "One **NECRONS VEHICLE** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the end of the phase, models in your unit have a 4+ invulnerable save."
   },
   {
@@ -3700,13 +3700,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/necrons.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#4c4d4778-c7da-4a19-b7e8-d14c1c4ef657",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
-    "target": "One TITANIC model from your army that was selected as the target of one or more of the attacking unit’s attacks and is within 18\" of the attacking unit.",
-    "effect": "Until the end of the phase, weapons equipped by models in the attacking unit have the [HAZARDOUS] ability."
+    "target": "One **TITANIC** model from your army that was selected as the target of one or more of the attacking unit’s attacks and is within 18\" of the attacking unit.",
+    "effect": "Until the end of the phase, weapons equipped by models in the attacking unit have the **[HAZARDOUS]** ability."
   },
   {
     "ability_id": "dominance-protocols-hand-of-the-dynasty",
