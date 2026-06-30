@@ -1,0 +1,61 @@
+name: Sync 11e layout images to R2
+
+# Mirrors the game-datacards 11th-edition primary-mission LAYOUT images into the
+# private 40kdc-reference bucket so the ListForge app can download them via the Fly
+# signer (GET /api/reference/layouts). Only the annotated "-measurements" PNGs are
+# mirrored (the plain base images / CloudFront cdnImage variant aren't used).
+#
+# Files land under the `layouts/` prefix (the prefix the Fly signer lists):
+#   layouts/layouts.json                      (the manifest)
+#   layouts/<...>_layout_a-measurements.png   (one per matchup × A/B/C)
+#
+# Manual trigger only — run after the upstream layouts data changes. Reuses the same
+# R2_* secrets as publish.yml; R2_BUCKET here must be the SAME bucket the Fly app
+# reads as R2_REFERENCE_BUCKET_NAME.
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+concurrency:
+  group: publish-r2-layouts
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    env:
+      SRC: https://raw.githubusercontent.com/game-datacards/datasources/main/11th/gdc/layouts
+    steps:
+      - name: Download manifest + measurement images
+        run: |
+          set -euo pipefail
+          mkdir -p layouts
+          echo "Fetching manifest…"
+          curl -fsSL "$SRC/layouts.json" -o layouts/layouts.json
+          # The only variant we mirror is the "-measurements" PNG named per entry.
+          mapfile -t files < <(jq -r '.layouts[].measurementImage | select(. != null and endswith(".png"))' layouts/layouts.json | sort -u)
+          echo "Manifest lists ${#files[@]} measurement images"
+          if [ "${#files[@]}" -eq 0 ]; then
+            echo "::error::no measurementImage entries found in manifest"; exit 1
+          fi
+          for f in "${files[@]}"; do
+            curl -fsSL "$SRC/$f" -o "layouts/$f"
+          done
+          echo "Downloaded $(ls layouts/*.png | wc -l) PNG(s)"
+
+      - name: Sync to R2
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: auto
+        run: |
+          set -euo pipefail
+          # --delete keeps R2 an exact mirror so a removed-upstream layout doesn't
+          # linger (and skew the signer's combined version hash). The layouts/ prefix
+          # is dedicated to these files, so nothing else is affected.
+          aws s3 sync layouts/ "s3://${{ secrets.R2_BUCKET }}/layouts/" \
+            --delete \
+            --endpoint-url "https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com"
