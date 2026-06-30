@@ -14621,7 +14621,7 @@
     "faction": "leagues-of-votann",
     "raw_text": "K�HL model only. This model has +2 W. BR�KKEKNOTS"
   },
-  "high-k-hl-hearthband": {
+  "high-kahl-hearthband": {
     "faction": "leagues-of-votann",
     "raw_text": "KÂHL model only. Each time a model in the bearer’s unit is destroyed by a melee attack, if it has not fought this phase, roll one D6: on a 4+, do not remove it from play. The destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play."
   },
@@ -14641,7 +14641,7 @@
     "faction": "leagues-of-votann",
     "raw_text": "LEAGUES OF VOTANN model only. Once per battle, at the end of your opponent’s Fight phase, if the bearer is on the battlefield, it can use this Enhancement. If it does, you can spend up to 4YP. Select one HERNKYN unit from your army, and, for every 2YP you just spent, select up to one additional HERNKYN unit from your army. You can remove those units from the battlefield and place them into Strategic Reserves. You cannot select a unit that is within Engagement Range of one or more enemy units (excluding assailed units)."
   },
-  "d-lvewerke-navigator-delve-assault-shift": {
+  "delvewerke-navigator-delve-assault-shift": {
     "faction": "leagues-of-votann",
     "raw_text": "LEAGUES OF VOTANN model only. In the Reinforcements step of your Movement phase, the bearer can use this Enhancement. If it does, select one friendly CTHONIAN BESERKS unit visible to the bearer and then spend any number of YP. Return one destroyed model to that unit and then, for every 2YP you just spent, return up to one additional destroyed model to that unit."
   },
@@ -14661,7 +14661,7 @@
     "faction": "leagues-of-votann",
     "raw_text": "KÂHL model only. In your Command phase, if the bearer’s unit is within range of one or more objective markers you control that are not within your deployment zone, you can spend 1YP. If you do, roll one D6: on a 4+, you gain 1CP."
   },
-  "triv-rg-cyber-implant-brandfast-oathband": {
+  "trivarg-cyber-implant-brandfast-oathband": {
     "faction": "leagues-of-votann",
     "raw_text": "LEAGUES OF VOTANN model only. In your Shooting phase, each time the bearer’s unit is selected to shoot, if it disembarked from a TRANSPORT this turn, or if you spend 2YP, until the end of the phase, ranged weapons equipped by models in that unit have the [SUSTAINED HITS 2] ability."
   },
@@ -14673,7 +14673,7 @@
     "faction": "leagues-of-votann",
     "raw_text": "IRON‑MASTER model only. Each time a friendly LEAGUES OF VOTANN model is repaired using the bearer’s Forgewrought Expertise ability, that model regains 1 additional lost wound."
   },
-  "f-rstryder-node-hearthfyre-arsenal": {
+  "farstryder-node-hearthfyre-arsenal": {
     "faction": "leagues-of-votann",
     "raw_text": "IRON‑MASTER or MEMNYR STRATEGIST model only. Models in the bearer’s unit have the Deep Strike ability."
   },
@@ -14753,7 +14753,7 @@
     "target": "One CTHONIAN BESERKS unit from your army that has not been selected to fight this phase.",
     "effect": "Each time you use this Stratagem, you can spend 2YP. Until the end of the phase, each time a model in your unit makes an attack, re‑roll a Wound roll of 1. If you spent YP during this use of this Stratagem, you can re‑roll the Wound roll instead."
   },
-  "br-kkeknots-hearthband": {
+  "brekkeknots-hearthband": {
     "faction": "leagues-of-votann",
     "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
     "target": "One KÂHL, ÛTHAR THE DESTINED or EINHYR HEARTHGUARD unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
@@ -14844,7 +14844,7 @@
     "target": "That CTHONIAN EARTHSHAKERS unit.",
     "effect": "Each time you use this Stratagem, you can spend 2YP. Select one enemy unit hit by one or more of your unit’s attacks this phase. Until the start of your next Shooting phase, subtract 2 from that unit’s Move characteristic and, if you spent YP during this use of this Stratagem, subtract 2 from Charge rolls made for that unit."
   },
-  "weavew-rke-buttress-delve-assault-shift": {
+  "weavewerke-buttress-delve-assault-shift": {
     "faction": "leagues-of-votann",
     "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets, if units from your army have Hostile Acquisition.",
     "target": "One LEAGUES OF VOTANN INFANTRY unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
@@ -15019,7 +15019,7 @@
     "faction": "leagues-of-votann",
     "raw_text": "Each time an enemy unit is destroyed, you gain 1YP."
   },
-  "fury-from-the-d-lve": {
+  "fury-from-the-delve": {
     "faction": "leagues-of-votann",
     "raw_text": "CTHONIAN BESERKS units from your army have the Deep Strike ability."
   },
