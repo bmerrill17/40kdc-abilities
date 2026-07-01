@@ -2982,11 +2982,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/agents.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#dc3732a7-5647-49b0-b3d1-8279dcfc40e4",
+      "edition": "11e"
     },
-    "raw_text": "At the start of your Command phase, you can select one of the following to apply: Eliminate At All Costs Select one enemy unit on the battlefield. Until the start of your next Command phase, each time an AGENTS OF THE IMPERIUM model from your army makes an attack that targets that enemy unit, add 1 to the Hit roll. Acquire At All Costs Select one objective marker on the battlefield. Until the start of your next Command phase, while an AGENTS OF THE IMPERIUM unit from your army is within range of that objective marker, improve the Leadership and Objective Control characteristics of models in that unit by 1 and models in that unit have a 5+ invulnerable save."
+    "raw_text": "At the start of your Command phase, you can select one of the following to apply:\n**Eliminate At All Costs**\nSelect one enemy unit on the battlefield. Until the start of your next Command phase, each time an **AGENTS OF THE IMPERIUM** model from your army makes an attack that targets that enemy unit, add 1 to the Hit roll.\n**Acquire At All Costs**\nSelect one objective marker on the battlefield. Until the start of your next Command phase, while an **AGENTS OF THE IMPERIUM** unit from your army is within range of that objective marker, improve the Leadership and Objective Control characteristics of models in that unit by 1 and models in that unit have a 5+ invulnerable save."
   },
   {
     "ability_id": "root-out-heresy",
@@ -2999,11 +2999,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/agents.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#f06dc6ab-3722-4c1f-b2ce-0c0f37b0b520",
+      "edition": "11e"
     },
-    "raw_text": "Ranged weapons equipped by ADEPTUS ARBITES, INQUISITOR, INQUISITORIAL AGENTS and ORDO HERETICUS models from your army have the [IGNORES COVER] ability. Each time an ADEPTUS ARBITES, INQUISITOR, INQUISITORIAL AGENTS or ORDO HERETICUS model from your army makes an attack that targets a Chaos unit containing 5 or more models, that attack has the [SUSTAINED HITS 1] ability."
+    "raw_text": "Ranged weapons equipped by **ADEPTUS ARBITES**, **INQUISITOR**, **INQUISITORIAL AGENTS** and **ORDO HERETICUS** models from your army have the **[IGNORES COVER]** ability.\nEach time an **ADEPTUS ARBITES**, **INQUISITOR**, **INQUISITORIAL AGENTS** or **ORDO HERETICUS** model from your army makes an attack that targets a Chaos unit containing 5 or more models, that attack has the **[SUSTAINED HITS 1]** ability."
   },
   {
     "ability_id": "deathwatch-mission-tactics",
@@ -3016,11 +3016,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/agents.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#7c93a7f0-c620-488f-a19c-65c23ed26631",
+      "edition": "11e"
     },
-    "raw_text": "At the start of your Command phase, you can select one of the Mission Tactics listed below. Until the start of your next Command phase, that Mission Tactic is active and its effects apply to all DEATHWATCH units from your army. Each Mission Tactic can only be selected once per battle. Furor Tactics While this Mission Tactic is active, weapons equipped by DEATHWATCH units from your army have the [SUSTAINED HITS 1] ability. Malleus Tactics While this Mission Tactic is active, weapons equipped by DEATHWATCH units from your army have the [LETHAL HITS] ability. Purgatus Tactics While this Mission Tactic is active, each time a DEATHWATCH model from your army makes an attack, on a Critical Wound, that attack has the [PRECISION] ability."
+    "raw_text": "At the start of your Command phase, you can select one of the Mission Tactics listed below. Until the start of your next Command phase, that Mission Tactic is active and its effects apply to all **DEATHWATCH** units from your army. Each Mission Tactic can only be selected once per battle.\n**Furor Tactics**\nWhile this Mission Tactic is active, weapons equipped by **DEATHWATCH** units from your army have the **[SUSTAINED HITS 1]** ability.\n**Malleus Tactics**\nWhile this Mission Tactic is active, weapons equipped by **DEATHWATCH** units from your army have the **[LETHAL HITS]** ability.\n**Purgatus Tactics**\nWhile this Mission Tactic is active, each time a **DEATHWATCH** model from your army makes an attack, on a Critical Wound, that attack has the **[PRECISION]** ability."
   },
   {
     "ability_id": "destroy-the-daemonic",
@@ -3033,11 +3033,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/agents.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#0c95f75e-6d82-4f1e-bd04-2c2b5427f553",
+      "edition": "11e"
     },
-    "raw_text": "Each time an INQUISITOR, INQUISITORIAL AGENTS or ORDO MALLEUS model from your army makes an attack, re‐roll a Hit roll of 1 and, if the target of that attack is a DAEMON unit, re‐roll a Wound roll of 1 as well."
+    "raw_text": "Each time an **INQUISITOR**, **INQUISITORIAL AGENTS** or **ORDO MALLEUS** model from your army makes an attack, re‐roll a Hit roll of 1 and, if the target of that attack is a **DAEMON** unit, re‐roll a Wound roll of 1 as well."
   },
   {
     "ability_id": "lone-operative",
@@ -3096,10 +3096,10 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "json",
-      "ref": "mfm-dump",
+      "kind": "mfm",
+      "ref": "dump",
       "phases": []
     },
-    "raw_text": "-"
+    "raw_text": "If your Army Faction is **AGENTS OF THE IMPERIUM**, then in the Select Detachment Rules step, you can select one of the available Detachments from this publication as normal.\n\nIf your Army Faction is not **AGENTS OF THE IMPERIUM**, but every model in your army has the **IMPERIUM** keyword, you can include **AGENTS OF THE IMPERIUM** units in your army even if they do not have the Faction keyword you selected in the Select Army Faction step. In this case, the maximum number of **AGENTS OF THE IMPERIUM** units you can include in your army depends on the battle size, as shown below.\nNote that you can include **AGENTS OF THE IMPERIUM DEDICATED TRANSPORT** units in such an army as normal, but each unit must start the battle with one or more units embarked within it, or it cannot be deployed for that battle and will count as having been destroyed during the first battle round.\nThroughout the Imperium, there exist numerous martial organisations and shadowy institutions. Bodies of armed warriors or solitary agents from these groups possess specialist skills, unusual equipment and vested interests that lead them to be attached to larger Imperial armies. Some are requisitioned by the army’s commander for their particular abilities whilst others are assigned by their hidden masters to achieve singular agendas. The most powerful have the authority and reputation to enforce their presence on the battlefield."
   }
 ]

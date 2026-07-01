@@ -2324,11 +2324,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/votann.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#e5a45bfb-adc3-4acf-8986-0b59ae486250",
+      "edition": "11e"
     },
-    "raw_text": "At the end of your Command phase, you gain 1YP for each objective marker you control that is not within your deployment zone and has one or more IRON-MASTER and/or MEMNYR STRATEGIST models from your army within range of it (to a maximum of 2YP gained from this Detachment rule per turn). In your Shooting phase, each time a BRÔKHYR, IRONKIN STEELJACKS or ARKANYST EVALUATOR unit from your army is selected to shoot, you can spend 1YP. If you do, until the end of the phase, each time a model in that unit makes an attack, re-roll a Hit roll of 1."
+    "raw_text": "At the end of your Command phase, you gain 1YP for each objective marker you control that is not within your deployment zone and has one or more **IRON‑MASTER** and/or **MEMNYR STRATEGIST** models from your army within range of it (to a maximum of 2YP gained from this Detachment rule per turn).\nIn your Shooting phase, each time a **BRÔKHYR**, **IRONKIN STEELJACKS** or **ARKANYST EVALUATOR** unit from your army is selected to shoot, you can spend 1YP. If you do, until the end of the phase, each time a model in that unit makes an attack, re‑roll a Hit roll of 1."
   },
   {
     "ability_id": "assailed-from-every-angle",
@@ -2341,11 +2341,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/votann.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#632c1291-3745-4f1a-9867-7ae3178b7c33",
+      "edition": "11e"
     },
-    "raw_text": "LEAGUES OF VOTANN units from your army have the following ability: Guerrilla Adepts: In your Shooting phase, just after this unit is selected to shoot, this unit can use this ability. If it does, select one enemy unit (excluding MONSTERS and VEHICLES). Until the end of the phase, attacks made by models in this unit can only target that enemy unit (and only if it is an eligible target) and, after resolving those attacks, if one or more of those attacks hit that enemy unit, until the start of your next Shooting phase, that enemy unit is assailed (this simply labels that unit for the purposes of this ability and some Enhancements and Stratagems). If that unit is already assailed, until the start of your next Shooting phase, it is also pinned. While a unit is pinned, subtract 2\" from its Move characteristic and subtract 2 from Charge rolls made for it."
+    "raw_text": "**LEAGUES OF VOTANN** units from your army have the following ability:\n**Guerrilla Adepts:** In your Shooting phase, just after this unit is selected to shoot, this unit can use this ability. If it does, select one enemy unit (excluding **MONSTERS** and **VEHICLES**). Until the end of the phase, attacks made by models in this unit can only target that enemy unit (and only if it is an eligible target) and, after resolving those attacks, if one or more of those attacks hit that enemy unit, until the start of your next Shooting phase, that enemy unit is assailed (this simply labels that unit for the purposes of this ability and some Enhancements and Stratagems). If that unit is already assailed, until the start of your next Shooting phase, it is also pinned. While a unit is pinned, subtract 2\" from its Move characteristic and subtract 2 from Charge rolls made for it."
   },
   {
     "ability_id": "martial-leverage",
@@ -2358,9 +2358,9 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/votann.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#a45f53c7-0ccb-412c-9795-68715486c8eb",
+      "edition": "11e"
     },
     "raw_text": "Each time an enemy unit is destroyed, you gain 1YP."
   },
@@ -2375,11 +2375,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/votann.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#3ff21f42-0b1b-40f3-bf0c-19e3aae93804",
+      "edition": "11e"
     },
-    "raw_text": "CTHONIAN BESERKS units from your army have the Deep Strike ability."
+    "raw_text": "**CTHONIAN BESERKS** units from your army have the Deep Strike ability."
   },
   {
     "ability_id": "methodical-annihilation",
@@ -2392,11 +2392,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/votann.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#fdfc7863-9632-43df-88dd-2e2fda4a6dfa",
+      "edition": "11e"
     },
-    "raw_text": "Each time a LEAGUES OF VOTANN model from your army makes an attack with a weapon that targets the closest eligible target or a target that is within Engagement Range of that model’s unit: Re‐roll a Wound roll of 1. If your unit is a KÂHL, EINHYR HEARTHGUARD or ÛTHAR THE DESTINED unit, improve the Armour Penetration characteristic of that attack by 1."
+    "raw_text": "Each time a **LEAGUES OF VOTANN** model from your army makes an attack with a weapon that targets the closest eligible target or a target that is within Engagement Range of that model’s unit:\n■ Re‐roll a Wound roll of 1.\n■ If your unit is a **KÂHL**, **EINHYR HEARTHGUARD** or **ÛTHAR THE DESTINED** unit, improve the Armour Penetration characteristic of that attack by 1."
   },
   {
     "ability_id": "ruthless-reinvestment",
@@ -2409,11 +2409,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/votann.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#9ea290cf-5b77-4321-bb3b-240b279f6eea",
+      "edition": "11e"
     },
-    "raw_text": "Your LEAGUES OF VOTANN units do not have the Hostile Acquisition or Fortify Takeover abilities except as described in this rule. At the start of the battle, your LEAGUES OF VOTANN units have the Hostile Acquisition ability. At the end of your Command phase, you can spend 3YP. If you do, LEAGUES OF VOTANN units from your army lose the Hostile Acquisition ability and gain the Fortify Takeover ability, or vice versa."
+    "raw_text": "Your **LEAGUES OF VOTANN** units do not have the Hostile Acquisition or Fortify Takeover abilities except as described in this rule. At the start of the battle, your **LEAGUES OF VOTANN** units have the Hostile Acquisition ability. At the end of your Command phase, you can spend 3YP. If you do, **LEAGUES OF VOTANN** units from your army lose the Hostile Acquisition ability and gain the Fortify Takeover ability, or vice versa."
   },
   {
     "ability_id": "mobile-sensor-relays",
@@ -2426,10 +2426,78 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/votann.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#182bd5d6-3bd6-4d04-b108-557182b698e6",
+      "edition": "11e"
     },
-    "raw_text": "LEAGUES OF VOTANN TRANSPORT units from your army have the following ability:&#x20; Firebase Control (Aura): While a friendly LEAGUES OF VOTANN INFANTRY unit is wholly within 6\" of this TRANSPORT, ranged weapons equipped by models in that INFANTRY unit have the [SUSTAINED HITS 1] ability."
+    "raw_text": "**LEAGUES OF VOTANN TRANSPORT** units from your army have the following ability:&#x20;\n**Firebase Control (Aura):** While a friendly **LEAGUES OF VOTANN INFANTRY** unit is wholly within 6\" of this **TRANSPORT**, ranged weapons equipped by models in that **INFANTRY** unit have the **[SUSTAINED HITS 1]** ability."
+  },
+  {
+    "ability_id": "eye-of-the-hunt",
+    "name": "Eye of the Hunt",
+    "faction_id": "leagues-of-votann",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#60b859e0-8b00-4652-9284-3de1abc90a19",
+      "edition": "11e"
+    },
+    "raw_text": "Friendly HERNKYN units’ ranged attacks that target a unit within 12\" have +1 to **hit rolls**."
+  },
+  {
+    "ability_id": "avatars-of-the-ancestors",
+    "name": "Avatars of the Ancestors",
+    "faction_id": "leagues-of-votann",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#b49b5c88-548d-4067-afb5-e585fe983751",
+      "edition": "11e"
+    },
+    "raw_text": "Friendly Kâhl/Einhyr champion/Einhyr Hearthguard/Ûthar the Destined units’ ranged attacks that target a unit within 9\" can re‑roll **wound rolls** of 1.\rThis **detachment** has the HEARTHGUARD tag and cannot be taken with another HEARTHGUARD **detachment**."
+  },
+  {
+    "ability_id": "sagitaur-spearhead",
+    "name": "Sagitaur Spearhead",
+    "faction_id": "leagues-of-votann",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#661e67b0-df39-44c5-8b83-263cd4856ff6",
+      "edition": "11e"
+    },
+    "raw_text": "Friendly SAGITAUR units have **Scouts 6\"**."
+  },
+  {
+    "ability_id": "prioritised-efficiency",
+    "name": "Prioritised Efficiency",
+    "faction_id": "leagues-of-votann",
+    "unit_ids": [],
+    "ability_type": "faction",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#a23f8bdf-5c65-4c96-90b6-1b93696cc5f3",
+      "edition": "11e"
+    },
+    "raw_text": "If your Army Faction is **LEAGUES OF VOTANN, LEAGUES OF VOTANN** units from your army have one of two abilities: Hostile Acquisition or Fortify Takeover (see below). During the battle, which ability those **LEAGUES OF VOTANN** units have will change depending on how many Yield points (YP) you currently have:\n■ At the start of the battle, your units have Hostile Acquisition until the start of your next Command phase.\n■ At the end of your Command phase, if you have fewer than 7YP, your units have Hostile Acquisition until the start of your next Command phase.\n■ At the end of your Command phase, if you have 7YP or more, your units have Fortify Takeover until the start of your next Command phase.\n**Hostile Acquisition**\n■ Each time a model in this unit makes an attack that targets an enemy unit within range of one or more objective markers, add 1 to the Hit roll.\n■ You can re‑roll Advance and Charge rolls made for this unit.\n**Fortify Takeover**\n■ Each time a model in this unit makes an attack that targets an enemy unit, if this unit is within range of one or more objective markers you control, add 1 to the Hit roll.\n■ Each time an attack targets this unit, if the Strength characteristic of that attack is greater than this unit’s Toughness characteristic and this unit is not a **VEHICLE**, subtract 1 from the Wound roll.\n**Yield Points**\nAt the end of each player’s Command phase, you gain 1YP if you control one or more objective markers within your deployment zone, and, from the second battle round onwards, you gain 1 additional YP for each of the following conditions you satisfy:\n■ You control one or more objective markers not within your deployment zone.\n■ You control two or more objective markers not within your deployment zone.\n■ You control more objective markers than your opponent. In your turn, YP gained in this way are always gained before checking which ability **LEAGUES OF VOTANN** units from your army have.\nWhenever a rule allows you to spend YP, reduce the number of YP you have by that amount (your YP cannot go below 0), otherwise you cannot use that rule.\n**Designer’s Note:** *This means you can use rules that let you gain or spend YP to influence which ability your units have – Hostile Acquisition or Fortify Takeover – depending on which will be most beneficial to you. Remember that your army only changes ability at the end of your Command phase, so you will sometimes need to plan ahead if you want your army to stay in or change ability.*"
   }
 ]

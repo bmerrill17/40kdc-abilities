@@ -5456,11 +5456,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#536ea1fd-61ca-4160-9e68-6c61384eee0d",
+      "edition": "11e"
     },
-    "raw_text": "ASTRA MILITARUM WALKER and REGIMENT models from your army have the Benefit of Cover. While such a model has the Benefit of Cover for any other reason (e.g. because it is wholly within a RUIN), improve the Save characteristic of that model by 1 (to a maximum of 3+)."
+    "raw_text": "**ASTRA MILITARUM WALKER** and **REGIMENT** models from your army have the Benefit of Cover. While such a model has the Benefit of Cover for any other reason, improve the Save characteristic of that model by 1 (to a maximum of 3+)."
   },
   {
     "ability_id": "iron-tread",
@@ -5473,11 +5473,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#200cc030-71f3-4c06-ad3c-4d98b7567d12",
+      "edition": "11e"
     },
-    "raw_text": "Each time a SQUADRON unit from your army Advances, do not make an Advance roll for it; until the end of the phase, add 6\" to the Move characteristic of models in that unit, and when making that Advance move, that unit can move within Engagement Range of enemy models but cannot end that move within Engagement Range of enemy models."
+    "raw_text": "Each time a **SQUADRON** unit from your army Advances, do not make an Advance roll for it; until the end of the phase, add 6\" to the Move characteristic of models in that unit, and when making that Advance move, that unit can move within Engagement Range of enemy models but cannot end that move within Engagement Range of enemy models."
   },
   {
     "ability_id": "born-soldiers",
@@ -5490,11 +5490,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#afb94836-c7b8-4435-aa2c-a4e8ff4c9fca",
+      "edition": "11e"
     },
-    "raw_text": "Each time a model in a REGIMENT unit from your army makes a ranged attack that targets a visible unit (excluding MONSTERS and VEHICLES), that attack has the [LETHAL HITS] ability. Each time a model in a SQUADRON unit from your army makes a ranged attack that targets a visible MONSTER or VEHICLE unit, that attack has the [LETHAL HITS] ability."
+    "raw_text": "Each time a model in a **REGIMENT** unit from your army makes a ranged attack that targets a visible unit (excluding **MONSTERS** and **VEHICLES**), that attack has the **[LETHAL HITS]** ability.\nEach time a model in a **SQUADRON** unit from your army makes a ranged attack that targets a visible **MONSTER** or **VEHICLE** unit, that attack has the **[LETHAL HITS]** ability."
   },
   {
     "ability_id": "armoured-fist",
@@ -5507,11 +5507,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#998e3c77-a541-44a6-a64e-e7b2bbe5e398",
+      "edition": "11e"
     },
-    "raw_text": "Each time an ASTRA MILITARUM model from your army makes a ranged attack in a turn in which it disembarked from a TRANSPORT, add 1 to the Wound roll."
+    "raw_text": "Each time an **ASTRA MILITARUM** model from your army makes a ranged attack in a turn in which it disembarked from a **TRANSPORT,** add 1 to the Wound roll."
   },
   {
     "ability_id": "artillery-support",
@@ -5524,11 +5524,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/astramilitarum.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#c63d8c87-0781-4ce3-9960-2f0d2b96df60",
+      "edition": "11e"
     },
-    "raw_text": "At the start of the battle round, select one of the following types of artillery support. Creeping Barrage: Roll one D6 for each enemy unit that is more than 12\" from every model from your army that is on the battlefield: On a 5+, until the end of the battle round, that unit is shaken. While a unit is shaken, subtract 2” from its Move characteristic and subtract 2 from Charge rolls made for it. The maximum number of units that can be shaken by this rule in each battle round depends on the battle size, as shown below. Incendiary Bombardment: Select a number of enemy units more than 12\" from every model from your army that is on the battlefield. Until the end of the battle round, those enemy units are scattered. While a unit is scattered, it cannot have the Benefit of Cover. The maximum number of units you can select in this way depends on the battle size, as shown below. Smoke Shells: Select a number of units from your army. Until the end of the battle round, those units have the Stealth ability. The maximum number of units you can select in this way depends on the battle size, as shown below. -"
+    "raw_text": "At the start of the battle round, select one of the following types of artillery support.\n■ **Creeping Barrage:** Roll one D6 for each enemy unit that is more than 12\" from every model from your army that is on the battlefield: On a 5+, until the end of the battle round, that unit is shaken. While a unit is shaken, subtract 2” from its Move characteristic and subtract 2 from Charge rolls made for it. The maximum number of units that can be shaken by this rule in each battle round depends on the battle size, as shown below.\n■ **Incendiary Bombardment:** Select a number of enemy units more than 12\" from every model from your army that is on the battlefield. Until the end of the battle round, those enemy units are scattered. While a unit is scattered, it cannot have the Benefit of Cover. The maximum number of units you can select in this way depends on the battle size, as shown below.\n■ **Smoke Shells:** Select a number of units from your army. Until the end of the battle round, those units have the Stealth ability. The maximum number of units you can select in this way depends on the battle size, as shown below."
   },
   {
     "ability_id": "infiltrators",
@@ -5638,11 +5638,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "json",
-      "ref": "mfm-dump",
+      "kind": "mfm",
+      "ref": "dump",
       "phases": []
     },
-    "raw_text": "-"
+    "raw_text": "If your Army Faction is **ASTRA MILITARUM, OFFICER** with this ability can issue Orders. Each **OFFICER** datasheet will specify how many Orders it can issue in a battle round and which units are eligible to receive those Orders. Each time an **OFFICER** model issues an Order, select one of the Orders below, then select one eligible friendly unit within 6\" of that **OFFICER** model to issue it to.\n\n**OFFICER** models can issue Orders in your Command phase and at the end of a phase in which they disembarked from a **TRANSPORT** or were set up on the battlefield.\n\nUntil the start of your next Command phase, the unit you selected is affected by that Order. Unless otherwise stated, a unit can only be affected by one Order at a time (any Order subsequently issued to that unit replaces the current one). Orders cannot be issued to Battle-shocked units, and if a unit being affected by an Order becomes Battle-shocked, that Order ceases to affect that unit.\n\nOnly **ASTRA MILITARUM**  models gain the benefit of an Order issued to their unit.\nMOVE! MOVE! MOVE!\nAdd 3\" to the Move characteristic of models in this unit.\nFIX BAYONETS!\nImprove the Weapon Skill characteristic of melee weapons equipped by models in this unit by 1.\nTAKE AIM!\nImprove the Ballistic Skill characteristic of ranged weapons equipped by models in this unit by 1.\nFIRST RANK, FIRE! SECOND RANK, FIRE!\nImprove the Attacks characteristic of Rapid Fire weapons equipped by models in this unit by 1.\nTAKE COVER!\nImprove the Save characteristic of models in this unit by 1 (this cannot improve a model’s Save to better than 3+).\nDUTY AND HONOUR!\nImprove the Leadership and Objective Control characteristics of models in this unit by 1.\nRaised and trained to instil unwavering obedience, officers of the Imperial Guard command authority and respect, and issue orders with imperious bellows that cut through the clamour of war."
   },
   {
     "ability_id": "leader",

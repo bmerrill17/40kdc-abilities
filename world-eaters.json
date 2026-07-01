@@ -1987,5 +1987,226 @@
       "edition": "11e"
     },
     "raw_text": "TERMINATOR SQUAD unit only. This unit's melee attacks have +1 WS."
+  },
+  {
+    "ability_id": "relentless-rage",
+    "name": "Relentless Rage",
+    "faction_id": "world-eaters",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#145c3608-88ac-4d19-b441-93aec4eceee9",
+      "edition": "11e"
+    },
+    "raw_text": "Each time a **WORLD EATERS** unit from your army makes a Charge move, until the end of the turn, add 1 to the Attacks characteristic and add 2 to the Strength characteristic of melee weapons equipped by models in that unit."
+  },
+  {
+    "ability_id": "blood-tithe",
+    "name": "Blood Tithe",
+    "faction_id": "world-eaters",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#8f1033a9-31fd-40a3-aa6d-529a58e31a8d",
+      "edition": "11e"
+    },
+    "raw_text": "Each time a **BLOOD LEGIONS** or **WORLD EATERS** unit from your army destroys an enemy unit, roll one D6: on a 3+, you gain 1 Blood Tithe point (BTP). At the start of the Command phase, you can spend one or more of your BTP to activate one of the following abilities until the end of the battle:\n■ **Enraged Abjuration [2BTP]**\n**BLOOD LEGIONS** and **WORLD EATERS** models from your army have the Feel No Pain 5+ ability against Psychic Attacks and mortal wounds.\n■ **Daemonic Rage [3BTP]**\nMelee weapons equipped by **BLOOD LEGIONS** units from your army have the **[LANCE]** ability.\n■ **Boon of Blood [4BTP]**\n**BLOOD LEGIONS** units from your army have a 4+ invulnerable save.\n■ **Might of Khorne [5BTP]**\n**BLOOD LEGIONS** units from your army gain the Blessings of Khorne ability."
+  },
+  {
+    "ability_id": "rush-to-the-fray",
+    "name": "Rush to the Fray",
+    "faction_id": "world-eaters",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#adf5998c-3b76-4841-b189-5e2e08a37b61",
+      "edition": "11e"
+    },
+    "raw_text": "Each time a **WORLD EATERS** unit from your army disembarks from a **TRANSPORT,** until the end of the turn, add 1 to Charge rolls made for that unit and that unit’s melee weapons have the **[LANCE]** ability."
+  },
+  {
+    "ability_id": "brazen-fury",
+    "name": "Brazen Fury",
+    "faction_id": "world-eaters",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#a568789b-5c1f-46f8-b2c8-d92c501b7e24",
+      "edition": "11e"
+    },
+    "raw_text": "**WORLD EATERS POSSESSED** units from your army have the following ability:\n**Brazen Fury:** In your opponent’s Shooting phase, when an enemy unit has shot, if a model in this unit was **destroyed** as a result of those attacks, this unit can make a **surge move** of up to D6”. That **surge move** is a **Brazen Fury** **move**."
+  },
+  {
+    "ability_id": "idols-of-khorne",
+    "name": "Idols of Khorne",
+    "faction_id": "world-eaters",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#e0bb7c79-6d19-4d69-84ae-f3d0b4036ad3",
+      "edition": "11e"
+    },
+    "raw_text": "At the start of your Command phase, you can select one of the Idols of Khorne abilities listed below. Until the start of your next Command phase, that ability is active and its effects apply to all **WORLD EATERS TITANIC** and **WORLD EATERS MONSTER** units from your army. You can only select each Idols of Khorne ability once per battle.\n**Idol of Infinite Rage (Aura)**\nWhile a friendly **JAKHALS** or **GOREMONGERS** unit is within 6\" of this model (or within 9\" if this model is **TITANIC**), each time a model in that unit makes an attack, add 1 to the Hit roll and add 1 to the Wound roll.\n**Idol of Burning Wrath (Aura)**\nWhile a friendly **JAKHALS** or **GOREMONGERS** unit is within 6\" of this model (or within 9\" if this model is **TITANIC**), add 1\" to the Move characteristic of models in that unit and add 1 to Advance and Charge rolls made for that unit.\n**Idol of Blessed Blood (Aura)**\nWhile a friendly **JAKHALS** or **GOREMONGERS** unit is within 6\" of this model (or within 9\" if this model is **TITANIC**), models in that unit have a 4+ invulnerable save."
+  },
+  {
+    "ability_id": "wrath-of-khorne",
+    "name": "Wrath of Khorne",
+    "faction_id": "world-eaters",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#d6c37f06-0c31-480e-b0fc-d7a08735e284",
+      "edition": "11e"
+    },
+    "raw_text": "When a friendly World Eaters Character unit (excluding EPIC HERO units) is **selected to fight**, that unit's Character models' melee attacks can have:\r[Cleave 1].\rOr: +1 **AP**."
+  },
+  {
+    "ability_id": "rampaging-terrors",
+    "name": "Rampaging Terrors",
+    "faction_id": "world-eaters",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#f8e7c22f-1d9e-439b-9e5c-3fa51d3da5da",
+      "edition": "11e"
+    },
+    "raw_text": "Friendly Daemon Vehicle units have the following ability:\r\n**\u0007Terror of Khorne:** At the start of the Fight phase, you can select one enemy unit **engaged** with this unit. That enemy unit makes a **battle‑shock roll**, with -1 to that **battle‑shock roll**. You cannot select the same enemy unit for this effect more than once per phase.\n\rThis **detachment** has the onslaught tag and cannot be taken with another onslaught **detachment**."
+  },
+  {
+    "ability_id": "adamantine-avalanche",
+    "name": "Adamantine Avalanche",
+    "faction_id": "world-eaters",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#2ec1e90b-7c43-47a8-bc6d-a015f38e3681",
+      "edition": "11e"
+    },
+    "raw_text": "At the start of the Fight phase, if a friendly TERMINATOR SQUAD unit is **engaged**, make a **Blessings of Khorne roll** and use the results to activate one **Blessing of Khorne**. Until the end of the phase, that **Blessing of Khorne** is active for friendly TERMINATOR SQUAD units in addition to any other **Blessings of Khorne** that are currently active."
+  },
+  {
+    "ability_id": "blessings-of-khorne",
+    "name": "Blessings of Khorne",
+    "faction_id": "world-eaters",
+    "unit_ids": [],
+    "ability_type": "faction",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#1e87eaec-e83c-4dab-849d-e191dacd3988",
+      "edition": "11e"
+    },
+    "raw_text": "If your Army Faction is **WORLD EATERS**, at the start of the battle round, you can make a Blessings of Khorne roll. To do so, roll eight D6. You can then use those dice to activate up to two Blessings of Khorne (see below). Each Blessing of Khorne specifies the dice results it requires (where a number is specified, a double or triple of that value or higher is required). You can only activate each Blessing of Khorne once per battle round. Any unused dice from the Blessings of Khorne roll are then discarded. Once activated, each Blessing of Khorne applies to all units from your army with this ability until the end of the battle round.\n**Unbridled Bloodlust**\nThis unit has +1 to **charge rolls**.\n**Rage-Fuelled Invigoration**\nEach time a model in this unit makes a Pile-in or Consolidation move, it can move up to 6\" instead of up to 3\".\n**Total Carnage**\nEach time a model in this unit is destroyed by a melee attack, if it has not fought this phase, roll one D6: on a 4+, do not remove it from play. The destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play.\n**Martial Excellence**\nMelee weapons equipped by models in this unit have the **[SUSTAINED HITS 1]** ability.\n**Warp Blades**\nMelee weapons equipped by models in this unit have the **[LETHAL HITS]** ability\n**Decapitating Strikes**\nEach time a model in this unit makes a melee attack that targets an **INFANTRY** unit, that attack has the **[DEVASTATING WOUNDS]** ability."
+  },
+  {
+    "ability_id": "enraged-abjuration",
+    "name": "Enraged Abjuration",
+    "faction_id": "world-eaters",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#8f1033a9-31fd-40a3-aa6d-529a58e31a8d",
+      "edition": "11e"
+    },
+    "raw_text": "**Enraged Abjuration [2BTP]**\n**BLOOD LEGIONS** and **WORLD EATERS** models from your army have the Feel No Pain 5+ ability against Psychic Attacks and mortal wounds."
+  },
+  {
+    "ability_id": "daemonic-rage",
+    "name": "Daemonic Rage",
+    "faction_id": "world-eaters",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#8f1033a9-31fd-40a3-aa6d-529a58e31a8d",
+      "edition": "11e"
+    },
+    "raw_text": "**Daemonic Rage [3BTP]**\nMelee weapons equipped by **BLOOD LEGIONS** units from your army have the **[LANCE]** ability."
+  },
+  {
+    "ability_id": "boon-of-blood",
+    "name": "Boon of Blood",
+    "faction_id": "world-eaters",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#8f1033a9-31fd-40a3-aa6d-529a58e31a8d",
+      "edition": "11e"
+    },
+    "raw_text": "**Boon of Blood [4BTP]**\n**BLOOD LEGIONS** units from your army have a 4+ invulnerable save."
+  },
+  {
+    "ability_id": "might-of-khorne",
+    "name": "Might of Khorne",
+    "faction_id": "world-eaters",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#8f1033a9-31fd-40a3-aa6d-529a58e31a8d",
+      "edition": "11e"
+    },
+    "raw_text": "**Might of Khorne [5BTP]**\n**BLOOD LEGIONS** units from your army gain the Blessings of Khorne ability."
   }
 ]

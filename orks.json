@@ -3938,11 +3938,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#6fdf61e8-6fc0-454c-9a54-88fa60400394",
+      "edition": "11e"
     },
-    "raw_text": "SPEED FREEKS units from your army are eligible to shoot and declare a charge in a turn in which they Advanced or Fell Back."
+    "raw_text": "**SPEED FREEKS** units from your army are eligible to shoot and declare a charge in a turn in which they Advanced or Fell Back."
   },
   {
     "ability_id": "da-hunt-is-on",
@@ -3955,11 +3955,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#a6f39aff-8615-4636-9b6d-da6fab863c33",
+      "edition": "11e"
     },
-    "raw_text": "At the start of your Command phase, select one MONSTER, VEHICLE or CHARACTER unit from your opponent’s army. Until the start of your next Command phase, that enemy unit is your Prey: Each time a BEAST SNAGGA unit from your army declares a charge that includes your Prey as one of the targets, you can re-roll the Charge roll. Each time a BEAST SNAGGA model from your army makes an attack that targets your Prey, improve the Armour Penetration characteristic of that attack by 1."
+    "raw_text": "At the start of your Command phase, select one **MONSTER**, **VEHICLE** or **CHARACTER** unit from your opponent’s army. Until the start of your next Command phase, that enemy unit is your Prey:\n■ When a friendly **BEAST SNAGGA** unit declares a charge, If your Prey is within 12\" of that unit, you can use this part of this ability. If you do:\nThat **BEAST SNAGGA** unit can re-roll that **charge roll**.\nThat **BEAST SNAGGA** unit must end that **charge move engaged** with your Prey.\n■ Each time a **BEAST SNAGGA** model from your army makes an attack that targets your Prey, improve the Armour Penetration characteristic of that attack by 1."
   },
   {
     "ability_id": "try-dat-button",
@@ -3972,11 +3972,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#f961623a-499e-4a8c-8061-2bb1ed0d0e54",
+      "edition": "11e"
     },
-    "raw_text": "Each time a MEK, ORKS WALKER or GROTS VEHICLE unit from your army is selected to shoot or fight, roll one D6. Until the end of the phase, weapons equipped by models in that unit have the corresponding ability shown in the table below. - Alternatively, when such a unit is selected to shoot or fight, you can select one of the abilities above instead of rolling the D6. If you do, until the end of the phase, weapons equipped by models in that unit have the [HAZARDOUS] ability as well. If a weapon equipped by a model from you army has the [HAZARDOUS] ability from multiple sources, each time you take a Hazardous test for that weapon, it is failed on a roll of a 1 or a 2."
+    "raw_text": "Each time a **MEK**, **ORKS WALKER** or **GROTS VEHICLE** unit from your army is selected to shoot or fight, roll one D6. Until the end of the phase, weapons equipped by models in that unit have the corresponding ability shown in the table below.\nAlternatively, when such a unit is selected to shoot or fight, you can select one of the abilities above instead of rolling the D6. If you do, until the end of the phase, weapons equipped by models in that unit have the **[HAZARDOUS]** ability as well.\nIf a weapon equipped by a model from you army has the **[HAZARDOUS]** ability from multiple sources, each time you take a Hazardous test for that weapon, it is failed on a roll of a 1-3."
   },
   {
     "ability_id": "get-stuck-in",
@@ -3989,11 +3989,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#ad39d9e7-48b0-4f33-a7dc-361c8266eb91",
+      "edition": "11e"
     },
-    "raw_text": "Melee weapons equipped by ORKS models from your army have the [SUSTAINED HITS 1] ability."
+    "raw_text": "Melee weapons equipped by **ORKS** models from your army have the **[SUSTAINED HITS 1]** ability."
   },
   {
     "ability_id": "da-boss-is-watchin",
@@ -4006,11 +4006,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#786f7b91-2f54-468d-adba-3f275799a386",
+      "edition": "11e"
     },
-    "raw_text": "At the start of your Command phase, in a turn in which you have not called a Waaagh!, if you have one or more WARBOSS models on the battlefield (or embarked within a TRANSPORT that is on the battlefield), you can call a Waaagh! for a second time this battle. When doing so, that second Waaagh! only counts as having been called for WARBOSS, NOBZ and MEGANOBZ units from your army."
+    "raw_text": "At the start of your Command phase, in a turn in which you have not called a Waaagh!, if you have one or more **WARBOSS** models on the battlefield (or embarked within a **TRANSPORT** that is on the battlefield), you can call a Waaagh! for a second time this battle. When doing so, that second Waaagh! only counts as having been called for **WARBOSS**, **NOBZ** and **MEGANOBZ** units from your army."
   },
   {
     "ability_id": "mob-mentality",
@@ -4023,11 +4023,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#36625896-bea9-4694-b3d0-1a684a71367b",
+      "edition": "11e"
     },
-    "raw_text": "Each time an attack targets a BOYZ unit from your army, models in that unit have a 6+ invulnerable save against that attack. Each time an attack targets a BOYZ unit from your army that contains 10 or more models, models in that unit have a 5+ invulnerable save against that attack."
+    "raw_text": "Each time an attack targets a **BOYZ** unit from your army, models in that unit have a 6+ invulnerable save against that attack. Each time an attack targets a **BOYZ** unit from your army that contains 10 or more models, models in that unit have a 5+ invulnerable save against that attack."
   },
   {
     "ability_id": "lissen-ere",
@@ -4040,11 +4040,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#43d1a6b8-face-453c-8534-5956f09e256d",
+      "edition": "11e"
     },
-    "raw_text": "Once per battle round, in your Command phase or after being set up on the battlefield in your Movement phase, each BOSS SNIKROT, MEK and WARBOSS model in your army can issue Taktiks abilities. To do so, select one of the Taktiks abilities below and select one friendly ORKS unit within 6\" of that model to issue them to. That model must take a Leadership test: if failed, the selected unit suffers 1 mortal wound. Until the start of your next Command phase, the selected unit is affected by the selected Taktik. A unit cannot have Taktiks issued to it in this way more than once per battle round. Taktiks abilities cannot be issued to Battle-shocked units, and if a unit affected by Taktiks becomes Battle-shocked, all Taktiks cease to affect that unit while it is Battle-shocked. Get Stuck In: You can re-roll Charge rolls made for this unit. Get On Wiv It: Add 1 to the Strength characteristic of melee weapons equipped by models in this unit. Sneaky Stalkin’: INFANTRY and MOUNTED models (excluding MEGANOBZ) in this unit have the Stealth ability and each time a ranged attack targets this unit, those models have the Benefit of Cover against that attack. Shoota Drills: Each time an INFANTRY or MOUNTED model in this unit makes a ranged attack, add 1 to the Hit roll."
+    "raw_text": "Friendly Stormboyz units have Battleline.\rWhen a friendly Boyz/Kommandos/Stormboyz unit is selected to make an **advance/fall-back move**, that move does not prevent that unit from being **eligible to start an action**."
   },
   {
     "ability_id": "here-be-loot",
@@ -4057,11 +4057,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#ea8317a8-3324-4675-8b68-865875f3fb08",
+      "edition": "11e"
     },
-    "raw_text": "At the start of your Command phase, select one objective marker. Until the start of your next Command phase, that objective marker is your loot objective. Each time a model in an ORKS INFANTRY, ORKS MOUNTED or ORKS WALKER unit from your army makes an attack, that attack has the [SUSTAINED HITS 1] ability if either or both of the following are true: That model’s unit is within range of your loot objective. That attack targets a unit within range of your loot objective."
+    "raw_text": "At the start of your Command phase, select one objective marker. Until the start of your next Command phase, that objective marker is your loot objective.\nEach time a model in an **ORKS INFANTRY, ORKS MOUNTED** or **ORKS WALKER** unit from your army makes an attack, that attack has the **[SUSTAINED HITS 1]** ability if either or both of the following are true:\n■ That model’s unit is within range of your loot objective.\n■ That attack targets a unit within range of your loot objective."
   },
   {
     "ability_id": "turbo-boostas",
@@ -4074,11 +4074,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#e71395f5-4a7c-44ed-a8a3-a61bb7ce5ecc",
+      "edition": "11e"
     },
-    "raw_text": "Each time a SPEED FREEKS or TRUKK unit (excluding AIRCRAFT) from your army Advances, it can use its turbo. If it does, do not make an Advance roll for it; instead, until the end of the phase, models in that unit have a Move characteristic of 24\" but can only move in one straight line, and until the end of the turn, ranged weapons equipped by those models have the [ASSAULT] ability and that unit cannot declare a charge. Designer’s Note: *When a unit uses its turbo, the models in that unit cannot pivot, and they cannot make a move of two or more straight lines (e.g. to navigate around obstacles). That unit also cannot declare a charge, even if another rule would let it declare a charge in a turn in which it Advanced.*"
+    "raw_text": "Each time a **SPEED FREEKS** or **TRUKK** unit (excluding **AIRCRAFT**) from your army Advances, it can use its turbo. If it does, do not make an Advance roll for it; instead, until the end of the phase, models in that unit have a Move characteristic of 24\" but can only move in one straight line, and until the end of the turn, ranged weapons equipped by those models have the **[ASSAULT]** ability and that unit cannot declare a charge.\n**Designer’s Note:** *When a unit uses its turbo, the models in that unit cannot pivot, and they cannot make a move of two or more straight lines (e.g. to navigate around obstacles). That unit also cannot declare a charge, even if another rule would let it declare a charge in a turn in which it Advanced.*"
   },
   {
     "ability_id": "waaagh",
@@ -4101,11 +4101,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "json",
-      "ref": "mfm-dump",
+      "kind": "mfm",
+      "ref": "dump",
       "phases": []
     },
-    "raw_text": "-"
+    "raw_text": "If your Army Faction is **ORKS**, once per battle, at the start of your Command phase, you can call a Waaagh!. If you do, until the start of your next Command phase, the Waaagh! is active for your army and:\n\n■ Units from your army with this ability are eligible to declare a charge in a turn in which they Advanced.\n■ Add 1 to the Strength and Attacks characteristics of melee weapons equipped by models from your army with this ability.\n■ Models from your army with this ability have a 5+ invulnerable save.\nThe infamous war cry of the Orks is known and feared throughout the galaxy. When it echoes across the battlefield, bellowed from hundreds or even thousands of toothy maws, even the most stalwart warriors fear the onslaught to come."
   },
   {
     "ability_id": "waaagh-banner",
@@ -4332,5 +4332,39 @@
       "phases": []
     },
     "raw_text": "In your Command phase, select one of the abilities in the Throttlerokkit Shokka Engine section. Until the start of your next Command phase, this model has that ability."
+  },
+  {
+    "ability_id": "eager-for-the-fight",
+    "name": "Eager for the Fight",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#43480a46-15c0-4a7a-ad4f-d8c25f70e0a8",
+      "edition": "11e"
+    },
+    "raw_text": "Each time an **ORKS** unit from your army disembarks from a **TRANSPORT**, until the end of the turn, you can re‐roll Advance and Charge rolls made for that **ORKS** unit."
+  },
+  {
+    "ability_id": "thundering-wagons",
+    "name": "Thundering Wagons",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#b930f945-b9f1-4e58-b3f1-f27615dbef6a",
+      "edition": "11e"
+    },
+    "raw_text": "Friendly Battlewagon/Hunta Rig/Kill Rig units have Wagon.\rFriendly Wagon units can re‑roll **charge rolls**.\rWhen a friendly Wagon unit is selected to make an **advance move**, that unit can change **advance rolls** to a 6.\rThis **detachment** has the WAGONS tag and cannot be taken with another WAGONS **detachment**."
   }
 ]

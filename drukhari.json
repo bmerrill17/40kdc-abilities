@@ -1058,11 +1058,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/drukhari.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#b1bcd7c8-edc3-4da2-a2c7-796001420f4b",
+      "edition": "11e"
     },
-    "raw_text": "While this model is leading a unit, each time a model in that unit makes a Pile‑in or Consolidation move, it can move up to 6\" instead of up to 3\"."
+    "raw_text": "**Onslaught:**\nUp to 750 pts\nNo **HARLEQUINS** or **ANHRATHE** models included in your army in this way can be your **WARLORD**, and they cannot be given Enhancements."
   },
   {
     "ability_id": "silent-executioner",
@@ -2575,11 +2575,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/drukhari.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#b46b3339-173c-4bce-b474-33cb0239e5d2",
+      "edition": "11e"
     },
-    "raw_text": "At the start of your Command phase, select which Combat Drugs will be active for your army until the start of your next Command phase. To do so, either select one from the list below (you cannot select the same Combat Drug more than once per battle), or randomly select two by rolling two D6. When doing so randomly, Combat Drugs you have previously selected can become active again, but if you randomly select one that is already active for your army, it has no additional effect. 1. Adrenalight Add 1 to the Attacks characteristic of melee weapons equipped by WYCH CULT models from your army. 2. Hypex Add 2\" to the Move characteristic of WYCH CULT models from your army. 3. Serpentin Improve the Weapon Skill characteristic of melee weapons equipped by WYCH CULT models from your army by 1. 4. Painbringer Add 1 to the Toughness characteristic of WYCH CULT models from your army. 5. Grave Lotus Add 1 to the Strength characteristic of melee weapons equipped by WYCH CULT models from your army. 6. Splintermind Improve the Leadership characteristic of WYCH CULT models from your army by 1, and improve the Ballistic Skill characteristic of ranged weapons equipped by WYCH CULT models from your army by 1."
+    "raw_text": "At the start of your Command phase, select which Combat Drugs will be active for your army until the start of your next Command phase. To do so, either select one from the list below (you cannot select the same Combat Drug more than once per battle), or randomly select two by rolling two D6. When doing so randomly, Combat Drugs you have previously selected can become active again, but if you randomly select one that is already active for your army, it has no additional effect.\n**1. Adrenalight**\nAdd 1 to the Attacks characteristic of melee weapons equipped by **WYCH CULT** models from your army.\n**2. Hypex**\nAdd 2\" to the Move characteristic of **WYCH CULT** models from your army.\n**3. Serpentin**\nImprove the Weapon Skill characteristic of melee weapons equipped by **WYCH CULT** models from your army by 1.\n**4. Painbringer**\nAdd 1 to the Toughness characteristic of **WYCH CULT** models from your army.\n**5. Grave Lotus**\nAdd 1 to the Strength characteristic of melee weapons equipped by **WYCH CULT** models from your army.\n**6. Splintermind**\nImprove the Leadership characteristic of **WYCH CULT** models from your army by 1, and improve the Ballistic Skill characteristic of ranged weapons equipped by **WYCH CULT** models from your army by 1."
   },
   {
     "ability_id": "murderous-agenda",
@@ -2592,11 +2592,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/drukhari.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#83ef4dc5-1730-4b4b-9476-69bc14fe1e35",
+      "edition": "11e"
     },
-    "raw_text": "At the start of the first battle round, select one of the Contracts below, then select one unit from your opponent’s army that matches the ‘Contract’ description in that Contract. Until that Contract is completed, that unit is your Contract unit and KABAL and BLADES FOR HIRE units from your army have the ability stated in that Contract. At the start of your Command phase, if your Contract unit is destroyed, that Contract is completed and you gain 3 Pain tokens. Trophy Hunters Contract: One CHARACTER unit. Ability: Each time a KABAL or BLADES FOR HIRE model in this unit makes an attack that targets the Contract unit, that attack has the [PRECISION] ability. Sow Fear and Terror Contract: One INFANTRY or MOUNTED unit (excluding units containing only CHARACTER models). At the start of your Command phase, this Contract is completed if all non-CHARACTER models in that unit are destroyed. Ability: Each time a KABAL or BLADES FOR HIRE model in this unit makes an attack that targets an INFANTRY or MOUNTED unit, that attack has the [SUSTAINED HITS 1] ability. Show of Strength Contract: One MONSTER or VEHICLE unit. Ability: Each time a KABAL or BLADES FOR HIRE model in this unit makes an attack that targets a MONSTER or VEHICLE unit, that attack has the [LETHAL HITS] ability."
+    "raw_text": "At the start of the first battle round, select one of the Contracts below, then select one unit from your opponent’s army that matches the ‘Contract’ description in that Contract. Until that Contract is completed, that unit is your Contract unit and **KABAL** and **BLADES FOR HIRE** units from your army have the ability stated in that Contract. At the start of your Command phase, if your Contract unit is destroyed, that Contract is completed and you gain 3 Pain tokens.\n**Trophy Hunters**\n**Contract:** One **CHARACTER** unit.\n**Ability:** Each time a **KABAL** or **BLADES FOR HIRE** model in this unit makes an attack that targets the Contract unit, that attack has the **[PRECISION]** ability.\n**Sow Fear and Terror**\n**Contract:** One **INFANTRY** or **MOUNTED** unit (excluding units containing only **CHARACTER** models). At the start of your Command phase, this Contract is completed if all non‑**CHARACTER** models in that unit are destroyed.\n**Ability:** Each time a **KABAL** or **BLADES FOR HIRE** model in this unit makes an attack that targets an **INFANTRY** or **MOUNTED** unit, that attack has the **[SUSTAINED HITS 1]** ability.\n**Show of Strength**\n**Contract:** One **MONSTER** or **VEHICLE** unit.\n**Ability:** Each time a **KABAL** or **BLADES FOR HIRE** model in this unit makes an attack that targets a **MONSTER** or **VEHICLE** unit, that attack has the **[LETHAL HITS]** ability."
   },
   {
     "ability_id": "rain-of-cruelty",
@@ -2609,11 +2609,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/drukhari.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#c1059c41-1e84-4da8-bfaa-0dcdc721df56",
+      "edition": "11e"
     },
-    "raw_text": "Each time a DRUKHARI unit from your army disembarks from a TRANSPORT, until the end of the turn: Ranged weapons equipped by models in that disembarking unit have the [IGNORES COVER] ability. Melee weapons equipped by models in that disembarking unit have the [LANCE] ability."
+    "raw_text": "Each time a **DRUKHARI** unit from your army disembarks from a **TRANSPORT**, until the end of the turn:\n■ Ranged weapons equipped by models in that disembarking unit have the **[IGNORES COVER]** ability.\n■ Melee weapons equipped by models in that disembarking unit have the **[LANCE]** ability."
   },
   {
     "ability_id": "callous-competition",
@@ -2626,11 +2626,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/drukhari.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#162b9668-de00-4994-acc5-4da218eaa6a0",
+      "edition": "11e"
     },
-    "raw_text": "At the start of the battle, DRUKHARI units from your army are winning the wager. Each time a DRUKHARI unit from your army destroys an enemy unit, DRUKHARI units from your army are winning the wager. Each time a HARLEQUINS unit from your army destroys an enemy unit, HARLEQUIN units from your army are winning the wager. While DRUKHARI units from your army are winning the wager, HARLEQUIN units from your army are losing the wager, and vice versa. Each time a DRUKHARI or HARLEQUINS model from your army makes an attack, if that model’s unit is winning the wager, re‐roll a Hit roll of 1. If that model’s unit is losing the wager, re‐roll a Hit roll of 1 and re‐roll a Wound roll of 1 instead."
+    "raw_text": "At the start of the battle, **DRUKHARI** units from your army are winning the wager.\nEach time a **DRUKHARI** unit from your army destroys an enemy unit, **DRUKHARI** units from your army are winning the wager.\nEach time a **HARLEQUINS** unit from your army destroys an enemy unit, **HARLEQUIN** units from your army are winning the wager.\nWhile **DRUKHARI** units from your army are winning the wager, **HARLEQUIN** units from your army are losing the wager, and vice versa.\nEach time a **DRUKHARI** or **HARLEQUINS** model from your army makes an attack, if that model’s unit is winning the wager, re‐roll a Hit roll of 1. If that model’s unit is losing the wager, re‐roll a Hit roll of 1 and re‐roll a Wound roll of 1 instead."
   },
   {
     "ability_id": "alliance-of-agony",
@@ -2643,11 +2643,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/drukhari.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#e7ca3070-938b-492a-b08f-dc7fa95ff4b1",
+      "edition": "11e"
     },
-    "raw_text": "At the start of the battle, you gain 2 Pain tokens for each of the following combinations your army contains (these do not need to be in the same Attached unit): One or more ARCHON models and one or more KABALITE WARRIORS units. One or more SUCCUBUS models and one or more WYCHES units. One or more HAEMONCULUS models and one or more WRACKS units. Designer’s Note: *These are all cumulative, so if your army contains at least one of all of the combinations listed above, you start the battle with 6 Pain tokens.*"
+    "raw_text": "At the start of the battle, you gain 2 Pain tokens for each of the following combinations your army contains (these do not need to be in the same Attached unit):\n■ One or more **ARCHON** models and one or more **KABALITE WARRIORS** units.\n■ One or more **SUCCUBUS** models and one or more **WYCHES** units.\n■ One or more **HAEMONCULUS** models and one or more **WRACKS** units.\n**Designer’s Note:** *These are all cumulative, so if your army contains at least one of all of the combinations listed above, you start the battle with 6 Pain tokens.*"
   },
   {
     "ability_id": "stitchflesh-abominations",
@@ -2660,10 +2660,95 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/drukhari.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#29a8de5a-c329-4c78-9897-584e16e701e6",
+      "edition": "11e"
     },
-    "raw_text": "Each time an attack targets a HAEMONCULUS COVENS unit from your army, if the Strength characteristic of that attack is greater than the Toughness characteristic of your unit, subtract 1 from the Wound roll."
+    "raw_text": "Each time an attack targets a **HAEMONCULUS COVENS** unit from your army, if the Strength characteristic of that attack is greater than the Toughness characteristic of your unit, subtract 1 from the Wound roll."
+  },
+  {
+    "ability_id": "exacting-cruelty",
+    "name": "Exacting Cruelty",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#60c93592-228e-4a81-a0c7-46967aacfc1d",
+      "edition": "11e"
+    },
+    "raw_text": "Friendly Wych Cult units' melee attacks have [Lethal Hits: **non-**Monster/Vehicle].\rThis **detachment** has the Wych Cult tag and cannot be taken with another Wych Cult **detachment**."
+  },
+  {
+    "ability_id": "contracted-harvest",
+    "name": "Contracted Harvest",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#25d48d63-072e-4bce-98fc-d168ab5a9333",
+      "edition": "11e"
+    },
+    "raw_text": "Friendly Blades for Hire/Kabal units’ ranged attacks have [SUSTAINED HITS 1: **non‑**Monster/Vehicle].\rThis **detachment** has the Kabal tag and cannot be taken with another Kabal **detachment**."
+  },
+  {
+    "ability_id": "darkest-artifice",
+    "name": "Darkest Artifice",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#c9175da5-73ef-4a67-96fd-f878492d87cd",
+      "edition": "11e"
+    },
+    "raw_text": "Attacks that target friendly Cronos/Talos units with a **S** greater than that unit’s **T** have -1 to **wound rolls**.\nThis **detachment** has the Covens tag and cannot be taken with another Covens **detachment**."
+  },
+  {
+    "ability_id": "corsairs-and-travelling-players",
+    "name": "Corsairs and Travelling Players",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "faction",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#b1bcd7c8-edc3-4da2-a2c7-796001420f4b",
+      "edition": "11e"
+    },
+    "raw_text": "If your Army Faction is **DRUKHARI**, you can include **HARLEQUINS** and **ANHRATHE** units in your army, even though they do not have the **DRUKHARI** Faction keyword. The combined points value of **HARLEQUINS** and/or **ANHRATHE** units you can include in your army depends on the battle size, as follows:\n■ **Incursion:** Up to 250 pts\n■ **Strike Force:** Up to 500 pts\n■ **Onslaught:** Up to 750 pts\nNo **HARLEQUINS** or **ANHRATHE** models included in your army in this way can be your **WARLORD**, and they cannot be given Enhancements."
+  },
+  {
+    "ability_id": "power-from-pain",
+    "name": "Power From Pain",
+    "faction_id": "drukhari",
+    "unit_ids": [],
+    "ability_type": "faction",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#a524d217-0fe8-4840-9011-f4720413213f",
+      "edition": "11e"
+    },
+    "raw_text": "**Pain Abilities**\nAll **DRUKHARI** units have a Pain ability, tagged with the word ‘Pain’. Pain abilities only apply to a unit while it is Empowered. If your Army Faction is **DRUKHARI**, you can Empower units from your army with Pain abilities by spending Pain tokens (see below).\n**Designer’s Note:** *You can also spend Pain tokens to activate additional effects in certain other rules such as Enhancements and Stratagems.*\n**Gaining Pain Tokens**\nIf your Army Faction is **DRUKHARI**, you gain Pain tokens as follows:\n■ **1 Pain token** at the start of your Command phase.\n■ **1 Pain token** each time an enemy unit is destroyed.\n■ **1 Pain token** each time an enemy unit fails a Battle‑shock test.\nEach time you gain a Pain token, keep it to one side – this is your Pain token pool. Each time you spend a Pain token, reduce your Pain token pool by the same amount.\n**Empowered Through Pain**\nEach Pain ability will state when you can spend Pain tokens to Empower that unit. When you do, until the end of the phase, that unit is Empowered and all Pain abilities it has take effect. While an Attached unit is Empowered, the Pain abilities of all Leader and Bodyguard units in that unit take effect – you do not need to spend additional Pain tokens to activate each of those Pain abilities."
   }
 ]

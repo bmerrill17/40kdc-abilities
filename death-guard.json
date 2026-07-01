@@ -2734,11 +2734,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/deathguard.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#d43db16a-745b-4cc7-ba65-13ae6090df7e",
+      "edition": "11e"
     },
-    "raw_text": "If you control an objective marker at the end of your Command phase and a DEATH GUARD unit from your army (excluding Battle-shocked units) is within range of that objective marker, that objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase. In addition, until you lose control of that objective marker, it has the Nurgle’s Gift ability as if it were a DEATH GUARD model from your army."
+    "raw_text": "If you control an objective marker at the end of your Command phase and a **DEATH GUARD** unit from your army (excluding Battle-shocked units) is within range of that objective marker, that objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase. In addition, until you lose control of that objective marker, it has the Nurgle’s Gift ability as if it were a **DEATH GUARD** model from your army."
   },
   {
     "ability_id": "reverberant-rancidity",
@@ -2751,11 +2751,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/deathguard.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#9a404cbe-ff89-4583-9b06-49d7926e2e68",
+      "edition": "11e"
     },
-    "raw_text": "While a PLAGUE LEGIONS unit from your army is within 7\" of one or more DEATH GUARD units from your army, that PLAGUE LEGIONS unit has the Nurgle’s Gift ability. While a DEATH GUARD unit from your army is within 7\" of one or more PLAGUE LEGIONS units from your army, add 3\" to that DEATH GUARD unit’s Contagion Range."
+    "raw_text": "While a **PLAGUE LEGIONS** unit from your army is within 7\" of one or more **DEATH GUARD** units from your army, that **PLAGUE LEGIONS** unit has the Nurgle’s Gift ability.\nWhile a **DEATH GUARD** unit from your army is within 7\" of one or more **PLAGUE LEGIONS** units from your army, add 3\" to that **DEATH GUARD** unit’s Contagion Range."
   },
   {
     "ability_id": "manifold-maladies",
@@ -2768,9 +2768,9 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/deathguard.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#c4b3b578-40e6-42c8-ac11-445f4e05e7c7",
+      "edition": "11e"
     },
     "raw_text": "At the start of the battle round, you can select one of the Plagues listed in Nurgle’s Gift. Until the end of the battle, that is your chosen Plague instead of any previously chosen Plague."
   },
@@ -2785,11 +2785,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/deathguard.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#bce4ef62-8693-47d6-9505-bbc000dd2027",
+      "edition": "11e"
     },
-    "raw_text": "At the start of the battle round, select a number of enemy units more than 12\" away from every model from your army that is on the battlefield. Until the end of the battle round, those enemy units are Afflicted. The maximum number of units you can select in this way depends on the battle size, as shown below. -"
+    "raw_text": "At the start of the battle round, select a number of enemy units more than 12\" away from every model from your army that is on the battlefield. Until the end of the battle round, those enemy units are Afflicted. The maximum number of units you can select in this way depends on the battle size, as shown below."
   },
   {
     "ability_id": "numberless-horde",
@@ -2802,11 +2802,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/deathguard.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#e0c90bb0-8bba-424b-8bea-7ce11a32e938",
+      "edition": "11e"
     },
-    "raw_text": "In your Command phase in each of the following battle rounds, depending on your chosen battle size, add a new POXWALKERS unit with a Starting Strength of 10 to your army, in Strategic Reserves. -"
+    "raw_text": "In your Command phase in each of the following battle rounds, depending on your chosen battle size, add a new **POXWALKERS** unit with a Starting Strength of 10 to your army, in Strategic Reserves."
   },
   {
     "ability_id": "deadly-vectors",
@@ -2819,10 +2819,27 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/deathguard.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#80d4d1b1-6ca5-490a-a4cb-e7c46a5c3b5e",
+      "edition": "11e"
     },
     "raw_text": "In your opponent’s Command phase, roll 2D6 for each Afflicted enemy unit, subtracting 1 from the result if that unit is Below Half-strength. If the result is 6 or less, that enemy unit suffers D3 mortal wounds."
+  },
+  {
+    "ability_id": "pact-of-decay",
+    "name": "Pact of Decay",
+    "faction_id": "death-guard",
+    "unit_ids": [],
+    "ability_type": "faction",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#e2a1d3cb-1d02-423f-9a2b-e941a93a3760",
+      "edition": "11e"
+    },
+    "raw_text": "When mustering your army, unless specifically stated otherwise, you cannot select **PLAGUE LEGIONS** as your Army Faction."
   }
 ]

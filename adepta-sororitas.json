@@ -739,11 +739,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "json",
-      "ref": "mfm-dump",
+      "kind": "mfm",
+      "ref": "dump",
       "phases": []
     },
-    "raw_text": "-"
+    "raw_text": "If your Army Faction is **ADEPTA SORORITAS**, each unit from your army with this ability can perform one Act of Faith per phase. This is done using Miracle dice.\nGaining Miracle Dice\nIf your Army Faction is **ADEPTA SORORITAS**, you gain 1 Miracle dice:\n\n■ At the start of each battle round.\n■ Each time an **ADEPTA SORORITAS** unit from your army is destroyed.\n\nEach time you gain a Miracle dice, roll one D6. The number you roll is the value of that Miracle dice. This value cannot be changed or re‐rolled, unless a rule specifically states otherwise. Keep your Miracle dice to one side – this is your Miracle dice pool.\nPerforming an Act of Faith\nBefore making a dice roll for a model or unit from your army with the Acts of Faith ability, if you have one or more dice in your Miracle dice pool, that unit can perform an Act of Faith. If it does, select one of the dice from your Miracle dice pool to substitute that dice roll (if a roll involves more than one dice, e.g. a Charge roll or Battle-shock test, only a single dice can be substituted). The dice that is being substituted is not rolled; instead, the value of the selected Miracle dice is used as if it had been rolled (this counts as an unmodified dice roll of that value for all rules purposes). Each Miracle dice can only be selected for substitution once. Once all Miracle dice substitutions have been made, remove the chosen Miracle dice from your Miracle dice pool, and roll all remaining, unsubstituted dice that are apart of the dice roll. You can use Miracle dice when a unit performs an Act of Faith for any of the following types of dice roll:\n\n■ Advance roll\n■ Battle-shock test\n■ Charge roll\n■ Damage roll\n■ Hit roll\n■ Saving throw\n■ Wound roll\n***Example:** Instead of rolling 2D6 to take a Battle-shock test for a unit, you could use one dice from your Miracle dice pool. If the value of that dice was 4, the unit’s Battle-shock test would be determined by rolling one D6 and adding 4 to it (i.e. it would be D6+4).*\nIt is said the Emperor’s benediction touches the Adepta Sororitas, manifesting as a nimbus of holy light in which his power is revealed in miraculous deeds of fortitude and divine strength."
   },
   {
     "ability_id": "shield-of-aversion-bringers-of-flame",
@@ -2773,11 +2773,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptasororitas.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#de580a83-e1b2-4ddd-bd86-450d27e98f32",
+      "edition": "11e"
     },
-    "raw_text": "Each time an ADEPTA SORORITAS model from your army makes an attack, add 1 to the Hit roll if that model’s unit is below its Starting Strength, and add 1 to the Wound roll as well if that model’s unit is Below Half-strength."
+    "raw_text": "Each time an **ADEPTA SORORITAS** model from your army makes an attack, add 1 to the Hit roll if that model’s unit is below its Starting Strength, and add 1 to the Wound roll as well if that model’s unit is Below Half-strength."
   },
   {
     "ability_id": "sacred-rites",
@@ -2790,11 +2790,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptasororitas.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#4b487119-6e0b-4bb1-a660-3ff874ea5aec",
+      "edition": "11e"
     },
-    "raw_text": "Each ADEPTA SORORITAS unit from your army can perform up to two Acts of Faith per phase, instead of just one."
+    "raw_text": "Each **ADEPTA SORORITAS** unit from your army can perform up to two Acts of Faith per phase, instead of just one."
   },
   {
     "ability_id": "deadly-demise-1",

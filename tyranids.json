@@ -3100,11 +3100,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/tyranids.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#547b0295-bdc0-42db-8b31-dc2af65b3fe3",
+      "edition": "11e"
     },
-    "raw_text": "At the start of the battle round, you can select one of the Synaptic Imperatives shown below. Until the end of the battle round, that Synaptic Imperative is active for your army and while a TYRANIDS unit from your army is within Synapse Range of your army, it will benefit from it. Each Synaptic Imperative can only be selected once per battle. Synaptic Augmentation: While this unit is within Synapse Range of your army, models in this unit have a 5+ invulnerable save. Surging Vitality: While this unit is within Synapse Range of your army, add 1 to Advance and Charge rolls made for this unit. Goaded to Slaughter: While this unit is within Synapse Range of your army, each time a model in this unit makes a melee attack, add 1 to the Hit roll."
+    "raw_text": "At the start of the battle round, you can select one of the Synaptic Imperatives shown below. Until the end of the battle round, that Synaptic Imperative is active for your army and while a **TYRANIDS** unit from your army is within Synapse Range of your army, it will benefit from it. Each Synaptic Imperative can only be selected once per battle.\n■ **Synaptic Augmentation**: While this unit is within Synapse Range of your army, models in this unit have a 5+ invulnerable save.\n■ **Surging Vitality**: While this unit is within Synapse Range of your army, add 1 to Advance and Charge rolls made for this unit.\n■ **Goaded to Slaughter**: While this unit is within Synapse Range of your army, each time a model in this unit makes a melee attack, add 1 to the Hit roll."
   },
   {
     "ability_id": "surprise-assault",
@@ -3117,11 +3117,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/tyranids.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#f0de70d2-444a-4f7a-a9c6-07fa4daced30",
+      "edition": "11e"
     },
-    "raw_text": "Each time a TYRANIDS model from your army makes an attack, re-roll a Hit roll of 1. Each time a BURROWER unit from your army is set up on the battlefield from Reserves, place a 40mm circular Tunnel Marker anywhere on the battlefield within 1\" of that unit and more than 3\" horizontally away from all enemy units. In the Reinforcements step of your Movement phase, when you set up a unit on the battlefield from Reserves, you can set that unit up wholly within 9\" of one of your Tunnel Markers and more than 6\" horizontally away from any enemy units. If an enemy model (excluding AIRCRAFT) ends any kind of move within 3\" of one of your Tunnel Markers, that Tunnel Marker is removed from the battlefield."
+    "raw_text": "Each time a **TYRANIDS** model from your army makes an attack, re-roll a Hit roll of 1.\nEach time a **BURROWER** unit from your army is set up on the battlefield from Reserves, place a 40mm circular Tunnel Marker anywhere on the battlefield within 1\" of that unit and more than 3\" horizontally away from all enemy units.\nIn the Reinforcements step of your Movement phase, when you set up a unit on the battlefield from Reserves, you can set that unit up wholly within 9\" of one of your Tunnel Markers and more than 6\" horizontally away from any enemy units.\nIf an enemy model (excluding **AIRCRAFT**) ends any kind of move within 3\" of one of your Tunnel Markers, that Tunnel Marker is removed from the battlefield."
   },
   {
     "ability_id": "leader-beasts",
@@ -3134,11 +3134,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/tyranids.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#905300ef-5645-49bc-9314-afcb99c473ea",
+      "edition": "11e"
     },
-    "raw_text": "TYRANID WARRIORS, TYRANID PRIME WITH LASH WHIP and WINGED TYRANID PRIME units from your army have a 5+ invulnerable save."
+    "raw_text": "Friendly Tyranid Warriors with Ranged Bio‑weapons/Tyranid Warriors with Melee Bio‑weapons units have:\rTyranid Warriors.\rBattleline.\rTyranid Warriors/Tyranid Prime with lash whip/Winged Tyranid Prime models from your army have 5+ **InSv**."
   },
   {
     "ability_id": "enraged-behemoths",
@@ -3151,11 +3151,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/tyranids.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#6fdc5e01-fce9-4451-ba94-b2cfe91aff19",
+      "edition": "11e"
     },
-    "raw_text": "Each time a TYRANIDS MONSTER model from your army makes an attack, add 1 to the Hit roll if that model’s unit is below its Starting Strength, and add 1 to the Wound roll as well if that model’s unit is Below Half-strength. In addition, while a TYRANIDS MONSTER unit from your army (excluding Battle-shocked units) is at its Starting Strength, add 2 to the Objective Control characteristic of models in that unit."
+    "raw_text": "Each time a **TYRANIDS MONSTER** model from your army makes an attack, add 1 to the Hit roll if that model’s unit is below its Starting Strength, and add 1 to the Wound roll as well if that model’s unit is Below Half-strength. In addition, while a **TYRANIDS MONSTER** unit from your army (excluding Battle-shocked units) is at its Starting Strength, add 2 to the Objective Control characteristic of models in that unit."
   },
   {
     "ability_id": "insurmountable-odds",
@@ -3168,11 +3168,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/tyranids.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#214b3d2e-1355-4517-a671-68445dd96ecf",
+      "edition": "11e"
     },
-    "raw_text": "Each time an enemy unit is selected to shoot, after that unit has finished making its attacks, if one or more models from one or more ENDLESS MULTITUDE units from your army were destroyed as a result of those attacks, each such unit can make a Surge move. To do so, roll one D6: that unit can be moved a distance in inches up to the result, but that unit must end that move as close as possible to the closest enemy unit (excluding AIRCRAFT). When doing so, those models can be moved within Engagement Range of enemy units. A unit cannot make a Surge move while it is Battle-shocked."
+    "raw_text": "In your opponent’s Shooting phase, when an enemy unit has shot, if a model from a friendly **ENDLESS MULTITUDE** unit was **destroyed** as a result of those attacks, that friendly unit can make a **surge move** of up to D6”."
   },
   {
     "ability_id": "questing-tendrils",
@@ -3185,11 +3185,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/tyranids.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#def13b95-aebb-4812-862f-3b2b7960ad2f",
+      "edition": "11e"
     },
-    "raw_text": "TYRANIDS units with this ability are eligible to charge in a turn in which they Fell Back. VANGUARD INVADER units with this ability are eligible to charge in a turn in which they Advanced."
+    "raw_text": "**TYRANIDS** units with this ability are eligible to charge in a turn in which they Fell Back. **VANGUARD INVADER** units with this ability are eligible to charge in a turn in which they Advanced."
   },
   {
     "ability_id": "vanguard-prime",
@@ -3202,11 +3202,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/tyranids.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#ceeb139f-9b1b-440e-ba87-07bd96bb91c3",
+      "edition": "11e"
     },
-    "raw_text": "DEATHLEAPER loses the Hunter Organism rule and can be your WARLORD."
+    "raw_text": "**DEATHLEAPER** loses the Hunter Organism rule and can be your **WARLORD**."
   },
   {
     "ability_id": "hyper-adaptations",
@@ -3219,11 +3219,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/tyranids.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#cd0c876b-de60-45f7-a44d-1213924948e0",
+      "edition": "11e"
     },
-    "raw_text": "At the start of the first battle round, select one of the following Hyper-adaptations to be active for TYRANIDS units from your army until the end of the battle. Swarming Instincts Each time a TYRANIDS model with this Hyper-adaptation makes an attack that targets an INFANTRY or SWARM unit, that attack has the [SUSTAINED HITS 1] ability. Hyper-aggression Each time a TYRANIDS model with this Hyper-adaptation makes an attack that targets a MONSTER or VEHICLE unit, that attack has the [LETHAL HITS] ability. Hive Predators Each time a TYRANIDS model with this Hyper-adaptation makes an attack that targets a CHARACTER unit, on a Critical Hit, that attack has the [PRECISION] ability."
+    "raw_text": "At the start of the first battle round, select one of the following Hyper-adaptations to be active for **TYRANIDS** units from your army until the end of the battle.\n**Swarming Instincts**\nEach time a **TYRANIDS** model with this Hyper-adaptation makes an attack that targets an **INFANTRY** or **SWARM** unit, that attack has the **[SUSTAINED HITS 1]** ability.\n**Hyper-aggression**\nEach time a **TYRANIDS** model with this Hyper-adaptation makes an attack that targets a **MONSTER** or **VEHICLE** unit, that attack has the **[LETHAL HITS]** ability.\n**Hive Predators**\nEach time a **TYRANIDS** model with this Hyper-adaptation makes an attack that targets a **CHARACTER** unit, on a Critical Hit, that attack has the **[PRECISION]** ability."
   },
   {
     "ability_id": "feed-the-swarm",
@@ -3236,11 +3236,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/tyranids.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#541806c1-7367-46a9-8cd0-9d3bc71d3772",
+      "edition": "11e"
     },
-    "raw_text": "In your Command phase, each HARVESTER unit from your army can Regenerate one friendly TYRANIDS unit that is within 6\" of it. A unit can only be regenerated once per phase. Each time a unit regenerates, do one of the following: One model in that unit regains up to D3+1 lost wounds. One destroyed INFANTRY model (excluding CHARACTERS) is returned to that unit with its full wounds remaining. If that unit is an ENDLESS MULTITUDE unit, up to 3 destroyed models are returned instead."
+    "raw_text": "In your Command phase, each **HARVESTER** unit from your army can Regenerate one friendly **TYRANIDS** unit that is within 6\" of it. A unit can only be regenerated once per phase. Each time a unit regenerates, do one of the following:\n■ One model in that unit regains up to D3+1 lost wounds.\n■ One destroyed **INFANTRY** model (excluding **CHARACTERS**) is returned to that unit with its full wounds remaining. If that unit is an **ENDLESS MULTITUDE** unit, up to 3 destroyed models are returned instead."
   },
   {
     "ability_id": "deep-strike",
@@ -3282,11 +3282,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "json",
-      "ref": "mfm-dump",
+      "kind": "mfm",
+      "ref": "dump",
       "phases": []
     },
-    "raw_text": "-"
+    "raw_text": "If your Army Faction is **TYRANIDS**, while a **TYRANIDS** unit from your army is within 6\" of one or more friendly **SYNAPSE** models, that **TYRANIDS** unit is said to be within Synapse Range of that model and of your army. While a **TYRANIDS** unit from your army is within Synapse Range of your army:\n\n■ Each time that unit takes a Battle-shock test, take that test on 3D6 instead of 2D6.\n■ Each time a model in that unit makes a melee attack, add 1 to the Strength characteristic of that attack.\nSome Tyranids serve as synaptic conduits or nodal relays through which a portion of the Hive Mind’s iron will flows, overriding the natural instincts of the swarm to direct the teeming warrior-beasts to function as a single, gestalt organism on the battlefield."
   },
   {
     "ability_id": "swallow-whole",
@@ -3347,5 +3347,56 @@
       "phases": []
     },
     "raw_text": "This model can move through terrain features, but cannot end a move within a wall, a floor, etc. This model can be set up or end a move on any floor level of **RUINS**, but if that level is not the ground floor, it can only do so if its base does not overhang the floor at that level."
+  },
+  {
+    "ability_id": "mindhunger",
+    "name": "Mindhunger",
+    "faction_id": "tyranids",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#4608d63e-8da1-41d1-91fe-7a2ec2e8b2d0",
+      "edition": "11e"
+    },
+    "raw_text": "Friendly Deathleaper/Lictor/Neurolictor units have **Deep Strike**.\rFriendly LICTOR/NEUROLICTOR units’ attacks that target a CHARACTER unit can re‑roll **hit rolls** of 1."
+  },
+  {
+    "ability_id": "higher-imperatives",
+    "name": "Higher Imperatives",
+    "faction_id": "tyranids",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#5f8b6881-842e-4937-8d28-693fbd689d57",
+      "edition": "11e"
+    },
+    "raw_text": "Friendly Norn Emissary/Norn Assimilator units have the following ability:\r\n**Protean Purpose:** (Once per battle, per unit) In your Command phase, you can use this ability. If you do, this unit can make a selection for its **Singular Purpose** ability (this replaces the previous selection)."
+  },
+  {
+    "ability_id": "shadow-in-the-warp",
+    "name": "Shadow in the Warp",
+    "faction_id": "tyranids",
+    "unit_ids": [],
+    "ability_type": "faction",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#180cd60c-aed6-48b3-b9f0-ce37d979bd11",
+      "edition": "11e"
+    },
+    "raw_text": "If your Army Faction is **TYRANIDS**, once per battle, in either player’s Command phase, if one or more units from your army with this ability are on the battlefield, you can unleash the Shadow in the Warp. When you do, each enemy unit on the battlefield must take a Battle-shock test. Each time an enemy unit takes such a Battle-shock test, if it is within 6\" of one or more **SYNAPSE** units from your army, subtract 1 from that test."
   }
 ]

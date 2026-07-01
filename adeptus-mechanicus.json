@@ -1214,11 +1214,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "json",
-      "ref": "mfm-dump",
+      "kind": "mfm",
+      "ref": "dump",
       "phases": []
     },
-    "raw_text": "-"
+    "raw_text": "At the start of the battle round, you can select one of the Doctrina Imperatives below. Until the end of the battle round, that Doctrina Imperative is active for your army, and all units from your army that have the Doctrina Imperatives ability gain the relevant abilities shown below.\nPROTECTOR IMPERATIVE\n■ Ranged weapons equipped by models in this unit have the **[HEAVY]** ability.\n■ Improve the Ballistic Skill characteristic of ranged weapons equipped by models in this unit by 1.\n■ Each time a melee attack targets this unit, if this unit has the **BATTLELINE** keyword and/or it is within 6\" of one or more friendly **ADEPTUS MECHANICUS BATTLELINE** units, subtract 1 from the Hit roll.\nCONQUEROR IMPERATIVE\n■ Ranged weapons equipped by models in this unit have the **[ASSAULT]** ability.\n■ Improve the Weapon Skill characteristic of melee weapons equipped by models in this unit by 1.\n■ Each time a model in this unit makes an attack, if this unit has the **BATTLELINE** keyword and/or it is within 6\" of one or more friendly **ADEPTUS MECHANICUS BATTLELINE** units, improve the Armour Penetration characteristic of that attack by 1.\nAn Adeptus Mechanicus army marching to war is a sight both terrifying and glorious, each holy warrior a disturbing fusion of Human and machine. The ruling Tech-Priests and their fanatical followers raise modified voices in praise of the Machine God, controlling their cyborg soldiery and mechanical creations through doctrina imperatives encoded to augment and adapt the warriors’ abilities."
   },
   {
     "ability_id": "scuttling-walker",
@@ -3193,11 +3193,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptusmechanicus.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#a17d231c-9e86-4986-b9a9-577f25cf8e0c",
+      "edition": "11e"
     },
-    "raw_text": "SKITARII INFANTRY, SKITARII MOUNTED and IRONSTRIDER BALLISTARII units from your army have the Stealth ability, and each time a ranged attack targets a SICARIAN unit from your army, unless the attacking model is within 12\", the target has the Benefit of Cover against that attack."
+    "raw_text": "**SKITARII INFANTRY**, **SKITARII MOUNTED** and **IRONSTRIDER BALLISTARII** units from your army have the Stealth ability, and each time a ranged attack targets a **SICARIAN** unit from your army, unless the attacking model is within 12\", the target has the Benefit of Cover against that attack."
   },
   {
     "ability_id": "benedictions-of-the-omnissiah",
@@ -3210,11 +3210,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptusmechanicus.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#46d34802-7b56-4948-8651-f39dae58a197",
+      "edition": "11e"
     },
-    "raw_text": "At the start of the first battle round, select one of the following Benedictions of the Omnissiah to be active for Cult Mechanicus units from your army until the end of the battle: PANEGYRIC PROCESSION Each time a CULT MECHANICUS model from your army makes a ranged attack that targets a unit within half range, improve the Armour Penetration characteristic of that attack by 1. CITATION IN SAVAGERY Each time a CULT MECHANICUS unit from your army is selected to fight, if that unit made a Charge move this turn, until the end of the phase, add 1 to the Strength and Attacks characteristics of melee weapons equipped by models in that unit."
+    "raw_text": "At the start of the first battle round, select one of the following Benedictions of the Omnissiah to be active for **Cult Mechanicus** units from your army until the end of the battle:\n**PANEGYRIC PROCESSION**\nEach time a **CULT MECHANICUS** model from your army makes a ranged attack that targets a unit within half range, improve the Armour Penetration characteristic of that attack by 1.\n**CITATION IN SAVAGERY**\nEach time a **CULT MECHANICUS** unit from your army is selected to fight, if that unit made a Charge move this turn, until the end of the phase, add 1 to the Strength and Attacks characteristics of melee weapons equipped by models in that unit."
   },
   {
     "ability_id": "acquisition-at-any-cost",
@@ -3227,11 +3227,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptusmechanicus.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#6c14eff9-8f15-4315-a0e7-d83e9a7773da",
+      "edition": "11e"
     },
-    "raw_text": "At the start of your Command phase, select one objective marker. Until the start of your next Command phase, that objective marker is your Acquisition objective marker. Each time an ADEPTUS MECHANICUS model from your army makes an attack, if that model’s unit is within range of your Acquisition objective marker, or if the target of that attack is within range of your Acquisition objective marker, re-roll a Wound roll of 1."
+    "raw_text": "At the start of your Command phase, select one objective marker. Until the start of your next Command phase, that objective marker is your Acquisition objective marker. Each time an **ADEPTUS MECHANICUS** model from your army makes an attack, if that model’s unit is within range of your Acquisition objective marker, or if the target of that attack is within range of your Acquisition objective marker, re-roll a Wound roll of 1."
   },
   {
     "ability_id": "rad-bombardment",
@@ -3244,10 +3244,10 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptusmechanicus.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#ca98207f-8ae7-4580-b66f-1838b93b18d6",
+      "edition": "11e"
     },
-    "raw_text": "- BOMBARDMENT At the start of the first battle round, for each enemy unit within your opponent’s deployment zone, your opponent must decide whether that unit will take cover or stand firm. You then roll one D6 for each of those enemy units and apply the relevant result below: Unit Standing Firm: On a 3+, that unit suffers D3 mortal wounds. Unit Taking Cover: Until the end of the battle round, that unit is Battle-shocked and, on a 5+, that unit suffers D3 mortal wounds. - FALLOUT At the start of your Command phase during the second, third, fourth and fifth battle rounds, roll one D6 for each enemy unit within your opponent’s deployment zone. On a 3+, that unit suffers 1 mortal wound and must take a Battle-shock test."
+    "raw_text": "**BOMBARDMENT**\nAt the start of the first battle round, for each enemy unit within your opponent’s deployment zone, your opponent must decide whether that unit will take cover or stand firm. You then roll one D6 for each of those enemy units and apply the relevant result below:\n■ **Unit Standing Firm:** On a 3+, that unit suffers D3 mortal wounds.\n■ **Unit Taking Cover:** Until the end of the battle round, that unit is Battle-shocked and, on a 5+, that unit suffers D3 mortal wounds.\n**FALLOUT**\nAt the start of your Command phase during the second, third, fourth and fifth battle rounds, roll one D6 for each enemy unit within your opponent’s deployment zone. On a 3+, that unit suffers 1 mortal wound and must take a Battle-shock test."
   }
 ]
