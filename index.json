@@ -11736,7 +11736,7 @@
   },
   "onslaught": {
     "faction": "drukhari",
-    "raw_text": "**Onslaught:**\nUp to 750 pts\nNo **HARLEQUINS** or **ANHRATHE** models included in your army in this way can be your **WARLORD**, and they cannot be given Enhancements."
+    "raw_text": "While this model is leading a unit, each time a model in that unit makes a Pile‑in or Consolidation move, it can move up to 6\" instead of up to 3\"."
   },
   "silent-executioner": {
     "faction": "drukhari",
