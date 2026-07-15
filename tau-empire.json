@@ -3250,5 +3250,24 @@
       "edition": "11e"
     },
     "raw_text": "If your Army Faction is **T'AU EMPIRE**, at the start of your Shooting phase you can select units from your army with this ability to become Observer units.\nDuring your Shooting phase, for each Observer unit from your army that has not been selected to shoot this phase and is eligible to shoot (excluding **FORTIFICATION** and Battle-shocked units) select one enemy unit that is visible to be marked as their Spotted unit until the end of the phase. Each enemy unit can only be marked as a Spotted unit once per phase.\nUnits from your army with the For the Greater Good ability (excluding Observer units) are Guided units while targeting one or more Spotted units.\nUntil the end of the phase, each time a model from your army in a Guided unit makes an attack that targets a Spotted unit, improve the Ballistic Skill characteristic of that attack by 1 and, if the Spotted unit was marked by an Observer unit that has the Markerlight keyword, that attack has the **[IGNORES COVER]** ability."
+  },
+  {
+    "ability_id": "guided-by-unity-auxiliary-cadre",
+    "name": "Guided By Unity",
+    "faction_id": "tau-empire",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#dd153b7c-abbb-4c2f-a989-bcb394ba8986",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase, when a friendly T’au Empire unit (excluding Kroot/Vespid Stingwings units) is **selected to shoot**.",
+    "target": "That T’au Empire unit.",
+    "effect": "Your unit’s ranged attacks that target a unit within 9\" of a friendly Kroot/Vespid Stingwings unit have [Lethal Hits]."
   }
 ]

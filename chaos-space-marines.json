@@ -5663,5 +5663,24 @@
       "edition": "11e"
     },
     "raw_text": "If your Army Faction is **HERETIC ASTARTES**, you can include any of the following units in your army, and when you do so their Faction keywords are replaced with **HERETIC ASTARTES**:\n■ **KHORNE BERZERKERS** (see World Eaters)\n■ **RUBRIC MARINES** (see Thousand Sons)\n■ **PLAGUE MARINES** (see Death Guard)\n■ **NOISE MARINES** (see Emperor’s Children)\nThe combined points value of such units you can include in your army depends on the battle size, as follows:\n■ **Incursion**: Up to 250 pts\n■ **Strike Force**: Up to 500 pts\n■ **Onslaught**: Up to 750 pts"
+  },
+  {
+    "ability_id": "soul-tally-offerings-cult-of-the-arkifane",
+    "name": "Soul-Tally Offerings",
+    "faction_id": "chaos-space-marines",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#7bdf601f-7b49-492a-affa-a5a0d33deb9c",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase or the Fight phase.",
+    "target": "One **SOUL FORGE** unit from your army that has not been selected to shoot or fight this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets a **CHARACTER**, **MONSTER** or **VEHICLE** unit, you can re-roll the Wound roll."
   }
 ]

@@ -2546,5 +2546,24 @@
       "edition": "11e"
     },
     "raw_text": "Each time a model with this ability makes a Normal, Advance or Fall Back move, it can move through models (excluding **TITANIC** models) and sections of terrain features that are 4\" or less in height. When doing so:\n■ It can move within Engagement Range of enemy models, but cannot end that move within Engagement Range of them.\n■ It can also move through sections of terrain features that are more than 4\" in height, but if it does, after it has moved, roll one D6: on a 1, that model is Battle-shocked."
+  },
+  {
+    "ability_id": "in-the-shadow-of-giants-questor-forgepact",
+    "name": "In the Shadow of Giants",
+    "faction_id": "imperial-knights",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#6dc0bb8e-4964-47ec-b591-666c9e22c2e3",
+      "edition": "11e"
+    },
+    "when": "Your Movement phase, when a friendly Adeptus Mechanicus unit is selected to make an **advance/fall‑back move**.",
+    "target": "That Adeptus Mechanicus unit.",
+    "effect": "That move does not prevent your unit from being **eligible to start an action**."
   }
 ]

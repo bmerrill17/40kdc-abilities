@@ -2584,6 +2584,84 @@
     "faction": "adeptus-astartes",
     "raw_text": "■ If an **ADEPTUS ASTARTES** unit has a second Faction keyword on its datasheet, that Faction keyword is the name of that unit’s Chapter. For example, Marneus Calgar has both the **ADEPTUS ASTARTES** and **ULTRAMARINES** Faction keywords, and is therefore from the Ultramarines Chapter.\n■ You cannot include units from more than one Chapter in your army.\n■ If your army includes one or more **BLACK TEMPLARS** units, it cannot include any **ADEPTUS ASTARTES PSYKER** models, and cannot include any of the following models that do not have the Black Templars keyword: **GLADIATOR LANCER**; **GLADIATOR REAPER**; **GLADIATOR VALIANT**; **IMPULSOR**; **REPULSOR**; **REPULSOR EXECUTIONER**.\n■ If your army includes one or more **SPACE WOLVES** units, it cannot include any of the following units: **APOTHECARY**; **DEVASTATOR SQUAD**; **TACTICAL SQUAD**.\n**DEATHWATCH**\n■ Your army can include **ADEPTUS ASTARTES DEATHWATCH** units, but it cannot include any **ADEPTUS ASTARTES** units drawn from any other Chapter.\n■ With the exception of **KILL TEAM CASSIUS** (see *Legends: Agents of the Imperium*), your army cannot include any **AGENTS OF THE IMPERIUM DEATHWATCH** units.\n■ Your army cannot include any of the following units: **ASSAULT SQUAD**; **ASSAULT SQUAD WITH JUMP PACKS**; **ATTACK BIKE SQUAD**; **DEVASTATOR SQUAD**; **LAND SPEEDER STORM**; **RELIC TERMINATOR SQUAD**; **SCOUT BIKE SQUAD**; **SCOUT SQUAD**; **SCOUT SNIPER SQUAD**; **TACTICAL SQUAD**; **TERMINATOR ASSAULT SQUAD**; **TERMINATOR SQUAD**."
   },
+  "armour-of-contempt-anvil-siege-force": {
+    "faction": "adeptus-astartes",
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+  },
+  "armour-of-contempt-armoured-speartip": {
+    "faction": "adeptus-astartes",
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.&#x20;",
+    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+  },
+  "armour-of-contempt-ceramite-sentinels": {
+    "faction": "adeptus-astartes",
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+  },
+  "armour-of-contempt-firestorm-assault-force": {
+    "faction": "adeptus-astartes",
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+  },
+  "armour-of-contempt-gladius-task-force": {
+    "faction": "adeptus-astartes",
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+  },
+  "armour-of-contempt-headhunter-task-force": {
+    "faction": "adeptus-astartes",
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+  },
+  "armour-of-contempt-ironstorm-spearhead": {
+    "faction": "adeptus-astartes",
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+  },
+  "armour-of-contempt-shadowmark-talon": {
+    "faction": "adeptus-astartes",
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+  },
+  "armour-of-contempt-stormlance-task-force": {
+    "faction": "adeptus-astartes",
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+  },
+  "armour-of-contempt-vanguard-spearhead": {
+    "faction": "adeptus-astartes",
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+  },
+  "auto-sense-coordination-orbital-assault-force": {
+    "faction": "adeptus-astartes",
+    "when": "Your Shooting phase or the Fight phase.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that has not been selected to shoot or fight this phase.",
+    "effect": "Select the **[LETHAL HITS]** or **[SUSTAINED HITS 1]** ability. Until the end of the phase, weapons equipped by models in your unit have this ability in a turn in which they disembarked from a **DROP POD** or while targeting an enemy unit within 12\"."
+  },
+  "rapid-embarkation-armoured-speartip": {
+    "faction": "adeptus-astartes",
+    "when": "End of the Fight phase.",
+    "target": "One **ADEPTUS ASTARTES INFANTRY** unit from your army that is not within Engagement Range of one or more enemy units, and one friendly **HEAVY TRANSPORT** it is able to embark within.",
+    "effect": "If your **ADEPTUS ASTARTES INFANTRY** unit is wholly within 6\" of that **HEAVY TRANSPORT**, it can embark within it."
+  },
+  "strike-from-the-shadows-subversion-assets": {
+    "faction": "adeptus-astartes",
+    "when": "Your Shooting phase, when a friendly Phobos/Scout Squad unit has shot.",
+    "target": "That Phobos/Scout Squad unit.",
+    "effect": "Those ranged attacks do not prevent your unit from being **hidden**."
+  },
   "march-of-the-honoured-dead": {
     "faction": "adeptus-custodes",
     "raw_text": "Friendly ADEPTUS CUSTODES WALKER units: Have +2\" M. Have +1 to advance rolls and charge rolls. This detachment has the ARMOURY tag and cannot be taken with another ARMOURY detachment."
@@ -7596,6 +7674,36 @@
     "faction": "blood-angels",
     "raw_text": "DEATH COMPANY model only. When you target this unit with the Heroic Intervention stratagem, that use is 1 CP."
   },
+  "armour-of-contempt-angelic-inheritors": {
+    "faction": "blood-angels",
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+  },
+  "armour-of-contempt-rage-cursed-onslaught": {
+    "faction": "blood-angels",
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+  },
+  "armour-of-contempt-the-angelic-host": {
+    "faction": "blood-angels",
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+  },
+  "rage-fuelled-response-wrath-of-the-doomed": {
+    "faction": "blood-angels",
+    "when": "Your opponent’s Shooting phase, when an enemy unit that targeted a friendly **unengaged** Death Company unit has shot.",
+    "target": "That Death Company unit.",
+    "effect": "Your unit can make a **surge move** of up to D6\"."
+  },
+  "soul-darkened-fury-legacy-of-grace": {
+    "faction": "blood-angels",
+    "when": "Your opponent’s Movement phase, when an enemy unit is selected to make a **fall‑back move**, if that unit is **engaged** with a friendly Adeptus Astartes Character unit.",
+    "target": "That Adeptus Astartes Character unit.",
+    "effect": "When an enemy unit **engaged** with your unit is selected to make a **fall‑back move**, that enemy unit must use the **desperate escape** mode, with ‑1 to those **hazard rolls** if that enemy unit is **battle‑shocked**."
+  },
   "daemonic-allegiance": {
     "faction": "chaos-space-marines",
     "raw_text": "When you select this model to include in your army, you must select one of the keywords below. Until the end of the battle, this model has that keyword and the characteristic modifier stated for that keyword below.\n\n■ KHORNE: Add 2 to the Strength characteristic of this model’s hellforged weapons.\n■ TZEENTCH: Add 3 to the Attacks characteristic of this model’s infernal cannon.\n■ NURGLE: Add 1 to this models Toughness characteristic.\n■ SLAANESH: Add 2\" to this model’s Move characteristic."
@@ -10292,6 +10400,12 @@
     "faction": "chaos-space-marines",
     "raw_text": "If your Army Faction is **HERETIC ASTARTES**, you can include any of the following units in your army, and when you do so their Faction keywords are replaced with **HERETIC ASTARTES**:\n■ **KHORNE BERZERKERS** (see World Eaters)\n■ **RUBRIC MARINES** (see Thousand Sons)\n■ **PLAGUE MARINES** (see Death Guard)\n■ **NOISE MARINES** (see Emperor’s Children)\nThe combined points value of such units you can include in your army depends on the battle size, as follows:\n■ **Incursion**: Up to 250 pts\n■ **Strike Force**: Up to 500 pts\n■ **Onslaught**: Up to 750 pts"
   },
+  "soul-tally-offerings-cult-of-the-arkifane": {
+    "faction": "chaos-space-marines",
+    "when": "Your Shooting phase or the Fight phase.",
+    "target": "One **SOUL FORGE** unit from your army that has not been selected to shoot or fight this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets a **CHARACTER**, **MONSTER** or **VEHICLE** unit, you can re-roll the Wound roll."
+  },
   "anti": {
     "faction": "core",
     "raw_text": "[ANTI-X Y+]. Each time an attack is made with this weapon against a unit that has the keyword X, an unmodified wound roll of Y+ scores a critical wound."
@@ -10848,6 +10962,24 @@
     "when": "Your Shooting phase.",
     "target": "One ADEPTUS ASTARTES unit from your army that has not been selected to shoot this phase.",
     "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the [ASSAULT], [HEAVY] and [IGNORES COVER] abilities."
+  },
+  "armour-of-contempt-lions-blade-task-force": {
+    "faction": "dark-angels",
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+  },
+  "armour-of-contempt-unforgiven-task-force": {
+    "faction": "dark-angels",
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+  },
+  "armour-of-contempt-wrath-of-the-rock": {
+    "faction": "dark-angels",
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
   },
   "warped-and-rusted-animus": {
     "faction": "death-guard",
@@ -14547,6 +14679,12 @@
     "faction": "imperial-knights",
     "raw_text": "The Enhancements in this detachment can become expended. You cannot use such Enhancements while they are expended. Each time you fulfil your Oath, each expended Enhancement is no longer expended."
   },
+  "in-the-shadow-of-giants-questor-forgepact": {
+    "faction": "imperial-knights",
+    "when": "Your Movement phase, when a friendly Adeptus Mechanicus unit is selected to make an **advance/fall‑back move**.",
+    "target": "That Adeptus Mechanicus unit.",
+    "effect": "That move does not prevent your unit from being **eligible to start an action**."
+  },
   "spiritus-ferrum-hammer-of-avernii": {
     "faction": "iron-hands",
     "raw_text": "ADEPTUS ASTARTES model only. Add 1 to the Attacks characteristic of the bearer’s melee weapons. Once per battle, at the start of any phase, the bearer can use this Enhancement. If it does, until the end of the phase, add 1 to the Attacks characteristic of melee weapons equipped by all other models in the bearer’s unit as well."
@@ -15241,6 +15379,12 @@
   "prioritised-efficiency": {
     "faction": "leagues-of-votann",
     "raw_text": "If your Army Faction is **LEAGUES OF VOTANN, LEAGUES OF VOTANN** units from your army have one of two abilities: Hostile Acquisition or Fortify Takeover (see below). During the battle, which ability those **LEAGUES OF VOTANN** units have will change depending on how many Yield points (YP) you currently have:\n■ At the start of the battle, your units have Hostile Acquisition until the start of your next Command phase.\n■ At the end of your Command phase, if you have fewer than 7YP, your units have Hostile Acquisition until the start of your next Command phase.\n■ At the end of your Command phase, if you have 7YP or more, your units have Fortify Takeover until the start of your next Command phase.\n**Hostile Acquisition**\n■ Each time a model in this unit makes an attack that targets an enemy unit within range of one or more objective markers, add 1 to the Hit roll.\n■ You can re‑roll Advance and Charge rolls made for this unit.\n**Fortify Takeover**\n■ Each time a model in this unit makes an attack that targets an enemy unit, if this unit is within range of one or more objective markers you control, add 1 to the Hit roll.\n■ Each time an attack targets this unit, if the Strength characteristic of that attack is greater than this unit’s Toughness characteristic and this unit is not a **VEHICLE**, subtract 1 from the Wound roll.\n**Yield Points**\nAt the end of each player’s Command phase, you gain 1YP if you control one or more objective markers within your deployment zone, and, from the second battle round onwards, you gain 1 additional YP for each of the following conditions you satisfy:\n■ You control one or more objective markers not within your deployment zone.\n■ You control two or more objective markers not within your deployment zone.\n■ You control more objective markers than your opponent. In your turn, YP gained in this way are always gained before checking which ability **LEAGUES OF VOTANN** units from your army have.\nWhenever a rule allows you to spend YP, reduce the number of YP you have by that amount (your YP cannot go below 0), otherwise you cannot use that rule.\n**Designer’s Note:** *This means you can use rules that let you gain or spend YP to influence which ability your units have – Hostile Acquisition or Fortify Takeover – depending on which will be most beneficial to you. Remember that your army only changes ability at the end of your Command phase, so you will sometimes need to plan ahead if you want your army to stay in or change ability.*"
+  },
+  "brekkeknots-hearthguard-covenant": {
+    "faction": "leagues-of-votann",
+    "when": "Your opponent’s Shooting phase or the Fight phase, when an enemy unit targets a friendly Einhyr Hearthguard unit.",
+    "target": "That Einhyr Hearthguard unit.",
+    "effect": "Your unit has 4+ **InSv**."
   },
   "repair-barge": {
     "faction": "necrons",
@@ -17256,6 +17400,42 @@
     "faction": "orks",
     "raw_text": "Friendly Battlewagon/Hunta Rig/Kill Rig units have Wagon.\rFriendly Wagon units can re‑roll **charge rolls**.\rWhen a friendly Wagon unit is selected to make an **advance move**, that unit can change **advance rolls** to a 6.\rThis **detachment** has the WAGONS tag and cannot be taken with another WAGONS **detachment**."
   },
+  "ded-killy-construction-speedwaaagh": {
+    "faction": "orks",
+    "when": "Your Fight phase.",
+    "target": "One **SPEED FREEKS** or **TRUKK** unit from your army that has not been selected to fight this phase.",
+    "effect": "Until the end of the phase, melee weapons equipped by models in your unit have the **[LANCE]** ability and, if your unit made a Charge move this turn, until the end of the phase, add 1 to the Damage characteristic of those weapons."
+  },
+  "dust-trails-speedwaaagh": {
+    "faction": "orks",
+    "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
+    "target": "One **ORKS** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the end of the phase, your unit has the Benefit of Cover."
+  },
+  "evasive-manoova-speedwaaagh": {
+    "faction": "orks",
+    "when": "End of your opponent’s Fight phase.",
+    "target": "**SPEED FREEKS** or **TRUKK** unit from your army that is not within Engagement Range of one or more enemy units.",
+    "effect": "Remove your unit from the battlefield and place it into Strategic Reserves."
+  },
+  "mobile-dakkastorm-speedwaaagh": {
+    "faction": "orks",
+    "when": "Your Shooting phase, just after a Speed Freeks or Trukk unit from your army has shot.",
+    "target": "That **SPEED FREEKS** or **TRUKK** unit.",
+    "effect": "Select one enemy unit hit by one or more of those attacks (excluding attacks made with Indirect Fire weapons). Until the end of the phase, each time a model in a **SPEED FREEKS** or **TRUKK** unit from your army makes an attack that targets that unit, improve the Strength characteristic of that attack by 2."
+  },
+  "on-da-move-speedwaaagh": {
+    "faction": "orks",
+    "when": "Your Movement phase.",
+    "target": "One **ORKS** unit from your army that has not been selected to move this phase.",
+    "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back or Advanced (unless it used its turbo this turn)."
+  },
+  "speshul-ammo-speedwaaagh": {
+    "faction": "orks",
+    "when": "Your Shooting phase.",
+    "target": "One **ORKS** unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit (excluding Torrent weapons) have the **[ANTI‑MONSTER 4+]** and **[ANTI‑VEHICLE 4+]** abilities."
+  },
   "blackwing-shroud-shadowmark-talon": {
     "faction": "raven-guard",
     "raw_text": "ADEPTUS ASTARTES INFANTRY model only. While the bearer is leading a unit, models in that unit have the Infiltrators ability."
@@ -18369,6 +18549,12 @@
   "for-the-greater-good": {
     "faction": "tau-empire",
     "raw_text": "If your Army Faction is **T'AU EMPIRE**, at the start of your Shooting phase you can select units from your army with this ability to become Observer units.\nDuring your Shooting phase, for each Observer unit from your army that has not been selected to shoot this phase and is eligible to shoot (excluding **FORTIFICATION** and Battle-shocked units) select one enemy unit that is visible to be marked as their Spotted unit until the end of the phase. Each enemy unit can only be marked as a Spotted unit once per phase.\nUnits from your army with the For the Greater Good ability (excluding Observer units) are Guided units while targeting one or more Spotted units.\nUntil the end of the phase, each time a model from your army in a Guided unit makes an attack that targets a Spotted unit, improve the Ballistic Skill characteristic of that attack by 1 and, if the Spotted unit was marked by an Observer unit that has the Markerlight keyword, that attack has the **[IGNORES COVER]** ability."
+  },
+  "guided-by-unity-auxiliary-cadre": {
+    "faction": "tau-empire",
+    "when": "Your Shooting phase, when a friendly T’au Empire unit (excluding Kroot/Vespid Stingwings units) is **selected to shoot**.",
+    "target": "That T’au Empire unit.",
+    "effect": "Your unit’s ranged attacks that target a unit within 9\" of a friendly Kroot/Vespid Stingwings unit have [Lethal Hits]."
   },
   "sorcerous-invigoration": {
     "faction": "thousand-sons",
@@ -19789,6 +19975,12 @@
   "shadow-in-the-warp": {
     "faction": "tyranids",
     "raw_text": "If your Army Faction is **TYRANIDS**, once per battle, in either player’s Command phase, if one or more units from your army with this ability are on the battlefield, you can unleash the Shadow in the Warp. When you do, each enemy unit on the battlefield must take a Battle-shock test. Each time an enemy unit takes such a Battle-shock test, if it is within 6\" of one or more **SYNAPSE** units from your army, subtract 1 from that test."
+  },
+  "alien-physiology-warrior-bioform-onslaught": {
+    "faction": "tyranids",
+    "when": "Your opponent’s Shooting phase or the Fight phase, when an enemy unit targets a friendly Tyranid Warriors unit.",
+    "target": "That Tyranid Warriors unit.",
+    "effect": "Attacks that target your unit with a **S** greater than your unit’s **T** have -1 to **wound rolls**."
   },
   "armour-of-antoninus-blade-of-ultramar": {
     "faction": "ultramarines",

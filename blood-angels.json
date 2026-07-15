@@ -3163,5 +3163,100 @@
     "when": "Start of your opponent’s Movement phase.",
     "target": "One friendly **unengaged** Phobos/Scout Squad unit.",
     "effect": "Your unit has -3\" **detection range** until the end of the turn."
+  },
+  {
+    "ability_id": "armour-of-contempt-angelic-inheritors",
+    "name": "Armour of Contempt",
+    "faction_id": "blood-angels",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#a9d59b50-f9f7-4c58-a3da-af7dd999b2d8",
+      "edition": "11e"
+    },
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+  },
+  {
+    "ability_id": "armour-of-contempt-rage-cursed-onslaught",
+    "name": "Armour of Contempt",
+    "faction_id": "blood-angels",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#6491816c-ce51-4be9-98c8-87349939b151",
+      "edition": "11e"
+    },
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+  },
+  {
+    "ability_id": "armour-of-contempt-the-angelic-host",
+    "name": "Armour of Contempt",
+    "faction_id": "blood-angels",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#e8bee420-42a8-4bce-bed1-8211c139eb57",
+      "edition": "11e"
+    },
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+  },
+  {
+    "ability_id": "rage-fuelled-response-wrath-of-the-doomed",
+    "name": "Rage‑fuelled Response",
+    "faction_id": "blood-angels",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#0e2f4eed-43d2-4faa-92bf-1189db648672",
+      "edition": "11e"
+    },
+    "when": "Your opponent’s Shooting phase, when an enemy unit that targeted a friendly **unengaged** Death Company unit has shot.",
+    "target": "That Death Company unit.",
+    "effect": "Your unit can make a **surge move** of up to D6\"."
+  },
+  {
+    "ability_id": "soul-darkened-fury-legacy-of-grace",
+    "name": "Soul‑darkened Fury",
+    "faction_id": "blood-angels",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#6c39c011-e246-49d2-8ee5-075ec7a7a184",
+      "edition": "11e"
+    },
+    "when": "Your opponent’s Movement phase, when an enemy unit is selected to make a **fall‑back move**, if that unit is **engaged** with a friendly Adeptus Astartes Character unit.",
+    "target": "That Adeptus Astartes Character unit.",
+    "effect": "When an enemy unit **engaged** with your unit is selected to make a **fall‑back move**, that enemy unit must use the **desperate escape** mode, with ‑1 to those **hazard rolls** if that enemy unit is **battle‑shocked**."
   }
 ]

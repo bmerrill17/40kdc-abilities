@@ -8524,5 +8524,252 @@
       "edition": "11e"
     },
     "raw_text": "■ If an **ADEPTUS ASTARTES** unit has a second Faction keyword on its datasheet, that Faction keyword is the name of that unit’s Chapter. For example, Marneus Calgar has both the **ADEPTUS ASTARTES** and **ULTRAMARINES** Faction keywords, and is therefore from the Ultramarines Chapter.\n■ You cannot include units from more than one Chapter in your army.\n■ If your army includes one or more **BLACK TEMPLARS** units, it cannot include any **ADEPTUS ASTARTES PSYKER** models, and cannot include any of the following models that do not have the Black Templars keyword: **GLADIATOR LANCER**; **GLADIATOR REAPER**; **GLADIATOR VALIANT**; **IMPULSOR**; **REPULSOR**; **REPULSOR EXECUTIONER**.\n■ If your army includes one or more **SPACE WOLVES** units, it cannot include any of the following units: **APOTHECARY**; **DEVASTATOR SQUAD**; **TACTICAL SQUAD**.\n**DEATHWATCH**\n■ Your army can include **ADEPTUS ASTARTES DEATHWATCH** units, but it cannot include any **ADEPTUS ASTARTES** units drawn from any other Chapter.\n■ With the exception of **KILL TEAM CASSIUS** (see *Legends: Agents of the Imperium*), your army cannot include any **AGENTS OF THE IMPERIUM DEATHWATCH** units.\n■ Your army cannot include any of the following units: **ASSAULT SQUAD**; **ASSAULT SQUAD WITH JUMP PACKS**; **ATTACK BIKE SQUAD**; **DEVASTATOR SQUAD**; **LAND SPEEDER STORM**; **RELIC TERMINATOR SQUAD**; **SCOUT BIKE SQUAD**; **SCOUT SQUAD**; **SCOUT SNIPER SQUAD**; **TACTICAL SQUAD**; **TERMINATOR ASSAULT SQUAD**; **TERMINATOR SQUAD**."
+  },
+  {
+    "ability_id": "armour-of-contempt-anvil-siege-force",
+    "name": "Armour of Contempt",
+    "faction_id": "adeptus-astartes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#38939c03-9672-4ba4-b85f-5f6d2feee117",
+      "edition": "11e"
+    },
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+  },
+  {
+    "ability_id": "armour-of-contempt-armoured-speartip",
+    "name": "Armour of Contempt",
+    "faction_id": "adeptus-astartes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#a12194fa-62d7-4c77-9bce-9c3e3311d873",
+      "edition": "11e"
+    },
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.&#x20;",
+    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+  },
+  {
+    "ability_id": "armour-of-contempt-ceramite-sentinels",
+    "name": "Armour of Contempt",
+    "faction_id": "adeptus-astartes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#9fea9da4-6943-4686-b51b-a49eb3073574",
+      "edition": "11e"
+    },
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+  },
+  {
+    "ability_id": "armour-of-contempt-firestorm-assault-force",
+    "name": "Armour of Contempt",
+    "faction_id": "adeptus-astartes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#a5a527ed-ee07-4c6a-9cbd-fdf8a4d3d5ec",
+      "edition": "11e"
+    },
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+  },
+  {
+    "ability_id": "armour-of-contempt-gladius-task-force",
+    "name": "Armour of Contempt",
+    "faction_id": "adeptus-astartes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#04762d86-2415-4b87-950f-347cd7702fed",
+      "edition": "11e"
+    },
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+  },
+  {
+    "ability_id": "armour-of-contempt-headhunter-task-force",
+    "name": "Armour of Contempt",
+    "faction_id": "adeptus-astartes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#9a419058-a65d-4035-ae9b-4cb5d03836c9",
+      "edition": "11e"
+    },
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+  },
+  {
+    "ability_id": "armour-of-contempt-ironstorm-spearhead",
+    "name": "Armour of Contempt",
+    "faction_id": "adeptus-astartes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#c724046a-d110-4aa0-a9f2-69e367eb680c",
+      "edition": "11e"
+    },
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+  },
+  {
+    "ability_id": "armour-of-contempt-shadowmark-talon",
+    "name": "Armour of Contempt",
+    "faction_id": "adeptus-astartes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#dd419425-d74b-4290-aa5d-dd2784cfee5b",
+      "edition": "11e"
+    },
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+  },
+  {
+    "ability_id": "armour-of-contempt-stormlance-task-force",
+    "name": "Armour of Contempt",
+    "faction_id": "adeptus-astartes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#7825b7e3-7e1b-47ec-b336-4303168a962f",
+      "edition": "11e"
+    },
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+  },
+  {
+    "ability_id": "armour-of-contempt-vanguard-spearhead",
+    "name": "Armour of Contempt",
+    "faction_id": "adeptus-astartes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#bacb38b9-888e-4a2b-8ae8-1a80fe451742",
+      "edition": "11e"
+    },
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+  },
+  {
+    "ability_id": "auto-sense-coordination-orbital-assault-force",
+    "name": "Auto-sense Coordination",
+    "faction_id": "adeptus-astartes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#dfebd3b8-ca60-478b-b1bf-31020d3767a4",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase or the Fight phase.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that has not been selected to shoot or fight this phase.",
+    "effect": "Select the **[LETHAL HITS]** or **[SUSTAINED HITS 1]** ability. Until the end of the phase, weapons equipped by models in your unit have this ability in a turn in which they disembarked from a **DROP POD** or while targeting an enemy unit within 12\"."
+  },
+  {
+    "ability_id": "rapid-embarkation-armoured-speartip",
+    "name": "Rapid Embarkation",
+    "faction_id": "adeptus-astartes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#d2a2231d-afc2-4a92-aa5b-0dec71bbf58a",
+      "edition": "11e"
+    },
+    "when": "End of the Fight phase.",
+    "target": "One **ADEPTUS ASTARTES INFANTRY** unit from your army that is not within Engagement Range of one or more enemy units, and one friendly **HEAVY TRANSPORT** it is able to embark within.",
+    "effect": "If your **ADEPTUS ASTARTES INFANTRY** unit is wholly within 6\" of that **HEAVY TRANSPORT**, it can embark within it."
+  },
+  {
+    "ability_id": "strike-from-the-shadows-subversion-assets",
+    "name": "Strike from the Shadows",
+    "faction_id": "adeptus-astartes",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#2d423580-0d8b-4672-8fb9-df2639bdb04f",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase, when a friendly Phobos/Scout Squad unit has shot.",
+    "target": "That Phobos/Scout Squad unit.",
+    "effect": "Those ranged attacks do not prevent your unit from being **hidden**."
   }
 ]

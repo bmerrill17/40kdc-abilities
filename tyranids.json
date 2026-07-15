@@ -3398,5 +3398,24 @@
       "edition": "11e"
     },
     "raw_text": "If your Army Faction is **TYRANIDS**, once per battle, in either player’s Command phase, if one or more units from your army with this ability are on the battlefield, you can unleash the Shadow in the Warp. When you do, each enemy unit on the battlefield must take a Battle-shock test. Each time an enemy unit takes such a Battle-shock test, if it is within 6\" of one or more **SYNAPSE** units from your army, subtract 1 from that test."
+  },
+  {
+    "ability_id": "alien-physiology-warrior-bioform-onslaught",
+    "name": "Alien Physiology",
+    "faction_id": "tyranids",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#61097980-8f90-4f13-b2bd-33fd3c629761",
+      "edition": "11e"
+    },
+    "when": "Your opponent’s Shooting phase or the Fight phase, when an enemy unit targets a friendly Tyranid Warriors unit.",
+    "target": "That Tyranid Warriors unit.",
+    "effect": "Attacks that target your unit with a **S** greater than your unit’s **T** have -1 to **wound rolls**."
   }
 ]

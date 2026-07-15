@@ -3188,5 +3188,62 @@
     "when": "Start of your opponent’s Movement phase.",
     "target": "One friendly **unengaged** Phobos/Scout Squad unit.",
     "effect": "Your unit has -3\" **detection range** until the end of the turn."
+  },
+  {
+    "ability_id": "armour-of-contempt-lions-blade-task-force",
+    "name": "Armour of Contempt",
+    "faction_id": "dark-angels",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#5bd61afc-3e7a-48d3-9080-e4ea6a01ae76",
+      "edition": "11e"
+    },
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+  },
+  {
+    "ability_id": "armour-of-contempt-unforgiven-task-force",
+    "name": "Armour of Contempt",
+    "faction_id": "dark-angels",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#12237ea6-06fd-4cb6-b7e3-282850a71f16",
+      "edition": "11e"
+    },
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+  },
+  {
+    "ability_id": "armour-of-contempt-wrath-of-the-rock",
+    "name": "Armour of Contempt",
+    "faction_id": "dark-angels",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#9ee78dbf-8891-4a6c-98df-4b1a29ce0dd5",
+      "edition": "11e"
+    },
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
   }
 ]

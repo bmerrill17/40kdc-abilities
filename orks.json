@@ -4366,5 +4366,119 @@
       "edition": "11e"
     },
     "raw_text": "Friendly Battlewagon/Hunta Rig/Kill Rig units have Wagon.\rFriendly Wagon units can re‑roll **charge rolls**.\rWhen a friendly Wagon unit is selected to make an **advance move**, that unit can change **advance rolls** to a 6.\rThis **detachment** has the WAGONS tag and cannot be taken with another WAGONS **detachment**."
+  },
+  {
+    "ability_id": "ded-killy-construction-speedwaaagh",
+    "name": "Ded Killy Construction",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#81f6c4eb-5bec-4ee6-9d8f-fcefbab49374",
+      "edition": "11e"
+    },
+    "when": "Your Fight phase.",
+    "target": "One **SPEED FREEKS** or **TRUKK** unit from your army that has not been selected to fight this phase.",
+    "effect": "Until the end of the phase, melee weapons equipped by models in your unit have the **[LANCE]** ability and, if your unit made a Charge move this turn, until the end of the phase, add 1 to the Damage characteristic of those weapons."
+  },
+  {
+    "ability_id": "dust-trails-speedwaaagh",
+    "name": "Dust Trails",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#9bf2df4c-4b32-4566-ae07-328cc1cf2614",
+      "edition": "11e"
+    },
+    "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
+    "target": "One **ORKS** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the end of the phase, your unit has the Benefit of Cover."
+  },
+  {
+    "ability_id": "evasive-manoova-speedwaaagh",
+    "name": "Evasive Manoova",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#6dbaa42c-18ba-445d-8409-42128d9613a2",
+      "edition": "11e"
+    },
+    "when": "End of your opponent’s Fight phase.",
+    "target": "**SPEED FREEKS** or **TRUKK** unit from your army that is not within Engagement Range of one or more enemy units.",
+    "effect": "Remove your unit from the battlefield and place it into Strategic Reserves."
+  },
+  {
+    "ability_id": "mobile-dakkastorm-speedwaaagh",
+    "name": "Mobile Dakkastorm",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#9da4621c-23e6-4d5a-a6d0-54fcc410b521",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase, just after a Speed Freeks or Trukk unit from your army has shot.",
+    "target": "That **SPEED FREEKS** or **TRUKK** unit.",
+    "effect": "Select one enemy unit hit by one or more of those attacks (excluding attacks made with Indirect Fire weapons). Until the end of the phase, each time a model in a **SPEED FREEKS** or **TRUKK** unit from your army makes an attack that targets that unit, improve the Strength characteristic of that attack by 2."
+  },
+  {
+    "ability_id": "on-da-move-speedwaaagh",
+    "name": "On Da Move",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#9cadafce-436d-48e2-89bc-32dd3cdc44b7",
+      "edition": "11e"
+    },
+    "when": "Your Movement phase.",
+    "target": "One **ORKS** unit from your army that has not been selected to move this phase.",
+    "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back or Advanced (unless it used its turbo this turn)."
+  },
+  {
+    "ability_id": "speshul-ammo-speedwaaagh",
+    "name": "Speshul Ammo",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#ccc88b1d-359c-4bdd-8dd6-b6d408514eab",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase.",
+    "target": "One **ORKS** unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit (excluding Torrent weapons) have the **[ANTI‑MONSTER 4+]** and **[ANTI‑VEHICLE 4+]** abilities."
   }
 ]
