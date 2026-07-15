@@ -3880,8 +3880,8 @@
     "effect": "Your unit's Tesla Sphere weapons have +1 AP."
   },
   {
-    "ability_id": "enlivened-sentinels-hand-of-the-dynasty",
-    "name": "Enlivened Sentinels",
+    "ability_id": "enlivened-sentinels-upgrade-hand-of-the-dynasty",
+    "name": "Enlivened Sentinels (Upgrade)",
     "faction_id": "necrons",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -3897,8 +3897,8 @@
     "raw_text": "NECRON WARRIORS unit only. This unit has Scouts 5\"."
   },
   {
-    "ability_id": "tools-of-dominion-hand-of-the-dynasty",
-    "name": "Tools Of Dominion",
+    "ability_id": "tools-of-dominion-upgrade-hand-of-the-dynasty",
+    "name": "Tools of Dominion (Upgrade)",
     "faction_id": "necrons",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -3914,8 +3914,8 @@
     "raw_text": "Nobles are not above expending additional resources to improve the armaments of their more valuable soldiery. IMMORTALS unit only. This unit's ranged attacks have [RAPID FIRE 1]."
   },
   {
-    "ability_id": "recursive-reanimation-skyshroud-spearhead",
-    "name": "Recursive Reanimation",
+    "ability_id": "recursive-reanimation-upgrade-skyshroud-spearhead",
+    "name": "Recursive Reanimation (Upgrade)",
     "faction_id": "necrons",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -3931,8 +3931,8 @@
     "raw_text": "TOMB BLADES unit only. When this unit activates its Reanimation Protocols, +1 to the roll."
   },
   {
-    "ability_id": "deepening-madness-skyshroud-spearhead",
-    "name": "Deepening Madness",
+    "ability_id": "deepening-madness-upgrade-skyshroud-spearhead",
+    "name": "Deepening Madness (Upgrade)",
     "faction_id": "necrons",
     "unit_ids": [],
     "ability_type": "enhancement",

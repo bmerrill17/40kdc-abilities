@@ -4870,8 +4870,8 @@
     "raw_text": "TROUPE MASTER model only. This unit can reroll charge rolls."
   },
   {
-    "ability_id": "camouflaged-snipers-path-of-the-outcast",
-    "name": "Camouflaged Snipers",
+    "ability_id": "camouflaged-snipers-upgrade-path-of-the-outcast",
+    "name": "Camouflaged Snipers (Upgrade)",
     "faction_id": "aeldari",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -4887,8 +4887,8 @@
     "raw_text": "RANGERS unit only. This unit's ranged attacks do not prevent this unit from being hidden."
   },
   {
-    "ability_id": "shadowfall-masks-twilight-flickers",
-    "name": "Shadowfall Masks",
+    "ability_id": "shadowfall-masks-upgrade-twilight-flickers",
+    "name": "Shadowfall Masks (Upgrade)",
     "faction_id": "aeldari",
     "unit_ids": [],
     "ability_type": "enhancement",

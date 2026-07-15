@@ -38,8 +38,8 @@
     "raw_text": "These Ratlings' naturally keen vision is supplemented with varied magnoculors, listening devices and other detection gear that mysteriously comes into their possession.\n\nRATLINGS unit only. When this unit is selected to shoot, enemy units have +6\" detection range until this unit has shot."
   },
   {
-    "ability_id": "exemplar-of-duty-abhuman-auxiliaries",
-    "name": "Exemplar of Duty",
+    "ability_id": "exemplar-of-duty-upgrade-abhuman-auxiliaries",
+    "name": "Exemplar of Duty (Upgrade)",
     "faction_id": "astra-militarum",
     "detachment_id": "abhuman-auxiliaries",
     "unit_ids": [],
@@ -269,8 +269,8 @@
     "raw_text": "A regiment's resilient and often unconventional scouts are deployed to provide forward intelligence on enemy dispositions. With a combination of regimental issue scopes and guerrilla instincts hard-won through survival at the forefronts of war zones, they can draw massed firepower down on lurking threats.\n\nFriendly SCOUT SENTINEL/ASTRA MILITARUM INFANTRY SMOKE units have the following ability:\n\n  Signal Flares: In your Shooting phase, this unit can select one visible enemy unit within 12\". That enemy unit is designated:\n    While a unit is designated, that unit has +3\" detection range.\n\nThis detachment has the RECON tag and cannot be taken with another RECON detachment."
   },
   {
-    "ability_id": "long-range-scout-designation-force",
-    "name": "Long-range Scout",
+    "ability_id": "long-range-scout-upgrade-designation-force",
+    "name": "Long-range Scout (Upgrade)",
     "faction_id": "astra-militarum",
     "detachment_id": "designation-force",
     "unit_ids": [],
@@ -287,8 +287,8 @@
     "raw_text": "Veteran pilots of Scout Sentinels have a reputation as insubordinate mavericks or taciturn loners, but their skill in manoeuvring their often-camouflaged walker unseen into hostile territory is second to none.\n\nSCOUT SENTINEL unit only. This unit has Infiltrators."
   },
   {
-    "ability_id": "recon-star-designation-force",
-    "name": "Recon Star",
+    "ability_id": "recon-star-upgrade-designation-force",
+    "name": "Recon Star (Upgrade)",
     "faction_id": "astra-militarum",
     "detachment_id": "designation-force",
     "unit_ids": [],
@@ -664,8 +664,8 @@
     "raw_text": "Academy training and battlefield experience have instilled in this officer a mastery of mobile warfare. At their barked orders, soldiers and armoured vehicles work in well-drilled unison.\n\nInfantry Officer model only. At the end of your opponent's Fight phase, if the bearer's unit is not within Engagement Range of one or more enemy units and every model in that unit is within 3\" of an Astra Militarum Transport from your army, it can embark within that Transport."
   },
   {
-    "ability_id": "omnissian-unguents-armoured-infantry",
-    "name": "Omnissian Unguents",
+    "ability_id": "omnissian-unguents-aura-armoured-infantry",
+    "name": "Omnissian Unguents (Aura)",
     "faction_id": "astra-militarum",
     "detachment_id": "armoured-infantry",
     "unit_ids": [],

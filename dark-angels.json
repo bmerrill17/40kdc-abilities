@@ -2974,8 +2974,8 @@
     "effect": "Your unit can make a normal move of up to D3+3\"."
   },
   {
-    "ability_id": "petition-of-stability-dark-age-arsenal",
-    "name": "Petition Of Stability",
+    "ability_id": "petition-of-stability-upgrade-dark-age-arsenal",
+    "name": "Petition of Stability (Upgrade)",
     "faction_id": "dark-angels",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -2991,8 +2991,8 @@
     "raw_text": "ADEPTUS ASTARTES unit only. This unit's plasma attacks have +6\" R."
   },
   {
-    "ability_id": "entreaty-of-perpetual-ardour-dark-age-arsenal",
-    "name": "Entreaty Of Perpetual Ardour",
+    "ability_id": "entreaty-of-perpetual-ardour-upgrade-dark-age-arsenal",
+    "name": "Entreaty of Perpetual Ardour (Upgrade)",
     "faction_id": "dark-angels",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -3008,8 +3008,8 @@
     "raw_text": "HELLBLASTER SQUAD only. This unit's snap shooting attacks hit on unmodified hit rolls of 5+."
   },
   {
-    "ability_id": "thundercowl-turbines-darkflight-pursuit",
-    "name": "Thundercowl Turbines",
+    "ability_id": "thundercowl-turbines-upgrade-darkflight-pursuit",
+    "name": "Thundercowl Turbines (Upgrade)",
     "faction_id": "dark-angels",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -3025,8 +3025,8 @@
     "raw_text": "RAVENWING FLY unit only. In your first Movement phase, this unit can make an ingress move."
   },
   {
-    "ability_id": "nightforged-battery-darkflight-pursuit",
-    "name": "Nightforged Battery",
+    "ability_id": "nightforged-battery-upgrade-darkflight-pursuit",
+    "name": "Nightforged Battery (Upgrade)",
     "faction_id": "dark-angels",
     "unit_ids": [],
     "ability_type": "enhancement",

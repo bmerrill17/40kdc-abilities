@@ -2022,8 +2022,8 @@
     "raw_text": "TERMINATOR model only. At the start of your Shooting phase, you can select one visible enemy unit within 12\" of this unit. That enemy unit has +6\" detection range."
   },
   {
-    "ability_id": "precognicient-volleys-fires-of-purgation",
-    "name": "Precognicient Volleys",
+    "ability_id": "precognicient-volleys-upgrade-fires-of-purgation",
+    "name": "Precognicient Volleys (Upgrade)",
     "faction_id": "grey-knights",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -2039,8 +2039,8 @@
     "raw_text": "PURGATION SQUAD unit only. This unit's snap shooting attacks hit on unmodified hit rolls of 5+."
   },
   {
-    "ability_id": "boons-of-deimos-fires-of-purgation",
-    "name": "Boons Of Deimos",
+    "ability_id": "boons-of-deimos-upgrade-fires-of-purgation",
+    "name": "Boons of Deimos (Upgrade)",
     "faction_id": "grey-knights",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -2056,8 +2056,8 @@
     "raw_text": "PURGATION SQUAD unit only. This unit's ranged attacks have +2 S."
   },
   {
-    "ability_id": "predestined-coordinates-immaterial-interdiction",
-    "name": "Predestined Coordinates",
+    "ability_id": "predestined-coordinates-upgrade-immaterial-interdiction",
+    "name": "Predestined Coordinates (Upgrade)",
     "faction_id": "grey-knights",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -2073,8 +2073,8 @@
     "raw_text": "INTERCEPTOR SQUAD unit only. In your first Movement phase, this unit can make an ingress move."
   },
   {
-    "ability_id": "astral-overlap-immaterial-interdiction",
-    "name": "Astral Overlap",
+    "ability_id": "astral-overlap-upgrade-immaterial-interdiction",
+    "name": "Astral Overlap (Upgrade)",
     "faction_id": "grey-knights",
     "unit_ids": [],
     "ability_type": "enhancement",

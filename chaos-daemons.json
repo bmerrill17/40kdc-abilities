@@ -3436,8 +3436,8 @@
     "effect": "Ranged attacks that target your unit with a S greater than your unit's T have 1 to wound rolls."
   },
   {
-    "ability_id": "apocalyptic-steeds-cavalcade-of-chaos",
-    "name": "Apocalyptic Steeds",
+    "ability_id": "apocalyptic-steeds-upgrade-cavalcade-of-chaos",
+    "name": "Apocalyptic Steeds (Upgrade)",
     "faction_id": "chaos-daemons",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -3453,8 +3453,8 @@
     "raw_text": "LEGIONES DAEMONICA MOUNTED unit only. This unit has +1\" M."
   },
   {
-    "ability_id": "soul-shattering-charge-cavalcade-of-chaos",
-    "name": "Soul-Shattering Charge",
+    "ability_id": "soul-shattering-charge-upgrade-cavalcade-of-chaos",
+    "name": "Soul-shattering Charge (Upgrade)",
     "faction_id": "chaos-daemons",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -3470,8 +3470,8 @@
     "raw_text": "LEGIONES DAEMONICA MOUNTED unit only. When this unit is selected to fight, if this unit made a charge move this turn, you can use this ability. If you do, when determining which models in this unit can fight, friendly models that are within 3\" of enemy units engaged with this unit can target those enemy units."
   },
   {
-    "ability_id": "swollen-with-power-lords-of-the-warp",
-    "name": "Swollen With Power",
+    "ability_id": "swollen-with-power-upgrade-lords-of-the-warp",
+    "name": "Swollen with Power (Upgrade)",
     "faction_id": "chaos-daemons",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -3487,8 +3487,8 @@
     "raw_text": "LEGIONES DAEMONICA CHARACTER model only (excluding MONSTER units). This model has +2 W."
   },
   {
-    "ability_id": "bane-forged-weapons-warptide",
-    "name": "Bane-Forged Weapons",
+    "ability_id": "bane-forged-weapons-upgrade-warptide",
+    "name": "Bane-forged Weapons (Upgrade)",
     "faction_id": "chaos-daemons",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -3504,8 +3504,8 @@
     "raw_text": "LEGIONES DAEMONICA BATTLELINE unit only. This unit's attacks have +1 S."
   },
   {
-    "ability_id": "soul-hungry-slaughterers-warptide",
-    "name": "Soul-Hungry Slaughterers",
+    "ability_id": "soul-hungry-slaughterers-upgrade-warptide",
+    "name": "Soul-hungry Slaughterers (Upgrade)",
     "faction_id": "chaos-daemons",
     "unit_ids": [],
     "ability_type": "enhancement",

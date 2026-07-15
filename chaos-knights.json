@@ -1760,8 +1760,8 @@
     "raw_text": "KNIGHT TYRANT model only. This unit can re-roll rolls to determine the A of a weapon."
   },
   {
-    "ability_id": "soul-spoor-auspicator-hunting-warpack",
-    "name": "Soul-Spoor Auspicator",
+    "ability_id": "soul-spoor-auspicator-upgrade-hunting-warpack",
+    "name": "Soul-spoor Auspicator (Upgrade)",
     "faction_id": "chaos-knights",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -1777,8 +1777,8 @@
     "raw_text": "HUNTSMAN unit only. This unit's ranged attacks have +6\" R."
   },
   {
-    "ability_id": "snarling-rivalry-hunting-warpack",
-    "name": "Snarling Rivalry",
+    "ability_id": "snarling-rivalry-upgrade-hunting-warpack",
+    "name": "Snarling Rivalry (Upgrade)",
     "faction_id": "chaos-knights",
     "unit_ids": [],
     "ability_type": "enhancement",

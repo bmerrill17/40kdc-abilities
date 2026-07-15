@@ -2712,8 +2712,8 @@
     "raw_text": "ORKS INFANTRY model only. This model's ranged attacks have: [DEVASTATING WOUNDS]. [HAZARDOUS]."
   },
   {
-    "ability_id": "dead-shiny-shootas-more-dakka",
-    "name": "Dead Shiny Shootas",
+    "ability_id": "dead-shiny-shootas-upgrade-more-dakka",
+    "name": "Dead Shiny Shootas (Upgrade)",
     "faction_id": "orks",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -3858,8 +3858,8 @@
     "effect": "Your unit's melee attacks have [CLEAVE 1]. MORE DAKKA! A HORDE OF GUNCRAZED ORKS UNLEASH A DEVASTATING STORM OF DAKKA INTO THE ENEMY"
   },
   {
-    "ability_id": "boarding-ramps-rollin-deff",
-    "name": "Boarding Ramps",
+    "ability_id": "boarding-ramps-upgrade-rollin-deff",
+    "name": "Boarding Ramps (Upgrade)",
     "faction_id": "orks",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -3875,8 +3875,8 @@
     "raw_text": "WAGON unit only. When a unit embarked within this unit is selected to make a disembark move, that unit has +1 to charge rolls until the end of the turn."
   },
   {
-    "ability_id": "targetin-gizmos-rollin-deff",
-    "name": "Targetin' Gizmos",
+    "ability_id": "targetin-gizmos-upgrade-rollin-deff",
+    "name": "Targetin’ Gizmos (Upgrade)",
     "faction_id": "orks",
     "unit_ids": [],
     "ability_type": "enhancement",

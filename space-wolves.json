@@ -2969,8 +2969,8 @@
     "raw_text": "ADEPTUS ASTARTES INFANTRY model only. This unit can reroll advance rolls and countercharge rolls."
   },
   {
-    "ability_id": "thirst-for-glory-legends-of-saga-and-song",
-    "name": "Thirst For Glory",
+    "ability_id": "thirst-for-glory-upgrade-legends-of-saga-and-song",
+    "name": "Thirst for Glory (Upgrade)",
     "faction_id": "space-wolves",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -2986,8 +2986,8 @@
     "raw_text": "ADEPTUS ASTARTES TERMINATOR model only. This unit has +1 OC."
   },
   {
-    "ability_id": "fierce-example-legends-of-saga-and-song",
-    "name": "Fierce Example",
+    "ability_id": "fierce-example-upgrade-legends-of-saga-and-song",
+    "name": "Fierce Example (Upgrade)",
     "faction_id": "space-wolves",
     "unit_ids": [],
     "ability_type": "enhancement",

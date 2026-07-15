@@ -18,8 +18,8 @@
     "raw_text": "Friendly FOETID BLOATDRONE/FOETID BLOATDRONE WITH HEAVY BLIGHT LAUNCHER/HELBRUTE/MYPHITIC BLIGHTHAULER units have CONTAGION ENGINE.\n\nFriendly CONTAGION ENGINE units' ranged attacks have [ASSAULT].\n\nThis detachment has the ENGINES tag and cannot be taken with another ENGINES detachment."
   },
   {
-    "ability_id": "parasitic-woe-reaper-contagion-engines",
-    "name": "Parasitic Woe-Reaper",
+    "ability_id": "parasitic-woe-reaper-upgrade-contagion-engines",
+    "name": "Parasitic Woe‑reaper (Upgrade)",
     "faction_id": "death-guard",
     "detachment_id": "contagion-engines",
     "unit_ids": [],
@@ -38,8 +38,8 @@
     "raw_text": "CONTAGION ENGINE unit only. When this unit has fought, one model in this unit heals D3 wounds."
   },
   {
-    "ability_id": "lancet-of-the-worldsore-contagion-engines",
-    "name": "Lancet of the Worldsore",
+    "ability_id": "lancet-of-the-worldsore-upgrade-contagion-engines",
+    "name": "Lancet of the Worldsore (Upgrade)",
     "faction_id": "death-guard",
     "detachment_id": "contagion-engines",
     "unit_ids": [],
@@ -141,8 +141,8 @@
     "raw_text": "In the Declare Battle Formations step, you can select up to two friendly PLAGUE MARINES units. Those units have Infiltrators.\n\nThis detachment has the FLYBLOWN tag and cannot be taken with another FLYBLOWN detachment."
   },
   {
-    "ability_id": "insectile-murmuration-flyblown-host",
-    "name": "Insectile Murmuration",
+    "ability_id": "insectile-murmuration-upgrade-flyblown-host",
+    "name": "Insectile Murmuration (Upgrade)",
     "faction_id": "death-guard",
     "detachment_id": "flyblown-host",
     "unit_ids": [],
@@ -159,8 +159,8 @@
     "raw_text": "PLAGUE MARINES unit only. When this unit's attacks target a unit within Contagion Range of a friendly unit, those attacks can reroll wound rolls of 1."
   },
   {
-    "ability_id": "plagueveil-flyblown-host",
-    "name": "Plagueveil",
+    "ability_id": "plagueveil-upgrade-flyblown-host",
+    "name": "Plagueveil (Upgrade)",
     "faction_id": "death-guard",
     "detachment_id": "flyblown-host",
     "unit_ids": [],

@@ -2717,8 +2717,8 @@
     "effect": "Your unit's melee attacks have +1 S."
   },
   {
-    "ability_id": "fervent-exemplars-marshals-household",
-    "name": "Fervent Exemplars",
+    "ability_id": "fervent-exemplars-upgrade-marshals-household",
+    "name": "Fervent Exemplars (Upgrade)",
     "faction_id": "black-templars",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -2734,8 +2734,8 @@
     "raw_text": "Paragons of their crusade's inexorable wrath, these Sword Brethren have earned a reputation for carving a path to victory through their foes, unable to rest while one enemy yet lives. SWORD BRETHREN SQUAD unit only. This unit has +1 to charge rolls."
   },
   {
-    "ability_id": "inheritors-of-sigismund-marshals-household",
-    "name": "Inheritors Of Sigismund",
+    "ability_id": "inheritors-of-sigismund-upgrade-marshals-household",
+    "name": "Inheritors of Sigismund (Upgrade)",
     "faction_id": "black-templars",
     "unit_ids": [],
     "ability_type": "enhancement",

@@ -1612,8 +1612,8 @@
     "raw_text": "IMPERIAL KNIGHTS model only. Add 4 to the bearer’s Wounds characteristic."
   },
   {
-    "ability_id": "knight-of-the-opus-machina-questor-forgepact",
-    "name": "Knight of the Opus Machina",
+    "ability_id": "knight-of-the-opus-machina-aura-questor-forgepact",
+    "name": "Knight of the Opus Machina (Aura)",
     "faction_id": "imperial-knights",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -2412,8 +2412,8 @@
     "effect": "Until the end of the phase, models in your unit have a 4+ invulnerable save."
   },
   {
-    "ability_id": "gyro-optimised-actuators-throne-bonded-outriders",
-    "name": "Gyro-Optimised Actuators",
+    "ability_id": "gyro-optimised-actuators-upgrade-throne-bonded-outriders",
+    "name": "Gyro-optimised Actuators (Upgrade)",
     "faction_id": "imperial-knights",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -2429,8 +2429,8 @@
     "raw_text": "ARMIGER unit only. This unit has MOBILE."
   },
   {
-    "ability_id": "ancestral-overbleed-throne-bonded-outriders",
-    "name": "Ancestral Overbleed",
+    "ability_id": "ancestral-overbleed-upgrade-throne-bonded-outriders",
+    "name": "Ancestral Overbleed (Upgrade)",
     "faction_id": "imperial-knights",
     "unit_ids": [],
     "ability_type": "enhancement",

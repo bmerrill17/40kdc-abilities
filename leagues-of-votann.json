@@ -2263,8 +2263,8 @@
     "effect": "Your unit can make a normal move of up to D3+3\". UNIQUE: HEARTHGUARD"
   },
   {
-    "ability_id": "saturation-rounds-armoured-trailblazers",
-    "name": "Saturation Rounds",
+    "ability_id": "saturation-rounds-upgrade-armoured-trailblazers",
+    "name": "Saturation Rounds (Upgrade)",
     "faction_id": "leagues-of-votann",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -2280,8 +2280,8 @@
     "raw_text": "SAGITAUR unit only. This unit's ranged attacks have [IGNORES COVER]."
   },
   {
-    "ability_id": "optimised-attack-lines-armoured-trailblazers",
-    "name": "Optimised Attack Lines",
+    "ability_id": "optimised-attack-lines-upgrade-armoured-trailblazers",
+    "name": "Optimised Attack Lines (Upgrade)",
     "faction_id": "leagues-of-votann",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -2297,8 +2297,8 @@
     "raw_text": "SAGITAUR unit only. This unit has MOBILE."
   },
   {
-    "ability_id": "pan-spectral-lockons-farseekers",
-    "name": "Pan-Spectral Lockons",
+    "ability_id": "pan-spectral-lockons-upgrade-farseekers",
+    "name": "Pan-spectral Lockons (Upgrade)",
     "faction_id": "leagues-of-votann",
     "unit_ids": [],
     "ability_type": "enhancement",

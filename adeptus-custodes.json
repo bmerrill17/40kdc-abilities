@@ -2778,8 +2778,8 @@
     "effect": "Your unit's: Arachnus Storm Cannon weapons have [RAPID FIRE 6]. Iliastus Accelerator Culverin weapons have [RAPID FIRE 2]."
   },
   {
-    "ability_id": "interred-expertise-might-of-the-moritoi",
-    "name": "Interred Expertise",
+    "ability_id": "interred-expertise-upgrade-might-of-the-moritoi",
+    "name": "Interred Expertise (Upgrade)",
     "faction_id": "adeptus-custodes",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -2795,8 +2795,8 @@
     "raw_text": "ADEPTUS CUSTODES WALKER unit only. This unit's attacks can: R eroll hit rolls of 1. Reroll wound rolls of 1."
   },
   {
-    "ability_id": "auramite-sarcophagus-might-of-the-moritoi",
-    "name": "Auramite Sarcophagus",
+    "ability_id": "auramite-sarcophagus-upgrade-might-of-the-moritoi",
+    "name": "Auramite Sarcophagus (Upgrade)",
     "faction_id": "adeptus-custodes",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -2812,8 +2812,8 @@
     "raw_text": "ADEPTUS CUSTODES WALKER unit only. When you target this unit with the Crushing Impact stratagem, that use is -1 CP."
   },
   {
-    "ability_id": "psyk-out-grenades-silent-hunters",
-    "name": "Psyk-Out Grenades",
+    "ability_id": "psyk-out-grenades-upgrade-silent-hunters",
+    "name": "Psyk-out Grenades (Upgrade)",
     "faction_id": "adeptus-custodes",
     "unit_ids": [],
     "ability_type": "enhancement",

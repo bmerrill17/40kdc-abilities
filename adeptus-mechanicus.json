@@ -3166,8 +3166,8 @@
     "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the **[LETHAL HITS]** ability."
   },
   {
-    "ability_id": "stealth-screened-cybercanids-cohort-acquisitus",
-    "name": "Stealth-Screened Cybercanids",
+    "ability_id": "stealth-screened-cybercanids-upgrade-cohort-acquisitus",
+    "name": "Stealth-screened Cybercanids (Upgrade)",
     "faction_id": "adeptus-mechanicus",
     "unit_ids": [],
     "ability_type": "enhancement",

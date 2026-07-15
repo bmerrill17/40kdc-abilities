@@ -3022,8 +3022,8 @@
     "effect": "Select one enemy unit hit by those attacks. That enemy unit is tethered until the start of your next Command phase: While a unit is tethered, that unit has 2\" M."
   },
   {
-    "ability_id": "encircling-horrors-ambush-predators",
-    "name": "Encircling Horrors",
+    "ability_id": "encircling-horrors-upgrade-ambush-predators",
+    "name": "Encircling Horrors (Upgrade)",
     "faction_id": "tyranids",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -3039,8 +3039,8 @@
     "raw_text": "NEUROLICTOR/LICTOR/VON RYAN'S LEAPERS unit only. In your opponent's Movement phase, when an enemy unit ends a move within 8\" of this unit, this unit can make a normal move of up to D3+3\"."
   },
   {
-    "ability_id": "cryptophotaic-camouflage-ambush-predators",
-    "name": "Cryptophotaic Camouflage",
+    "ability_id": "cryptophotaic-camouflage-upgrade-ambush-predators",
+    "name": "Cryptophotaic Camouflage (Upgrade)",
     "faction_id": "tyranids",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -3056,8 +3056,8 @@
     "raw_text": "VON RYAN'S LEAPERS unit only. This unit has 3\" detection range."
   },
   {
-    "ability_id": "destabilising-predation-talons-of-the-norn-queen",
-    "name": "Destabilising Predation",
+    "ability_id": "destabilising-predation-upgrade-talons-of-the-norn-queen",
+    "name": "Destabilising Predation (Upgrade)",
     "faction_id": "tyranids",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -3073,8 +3073,8 @@
     "raw_text": "NORN EMISSARY unit only. This unit's ranged attacks have [ANTICHARACTER 2+]."
   },
   {
-    "ability_id": "synaptoprescience-talons-of-the-norn-queen",
-    "name": "Synaptoprescience",
+    "ability_id": "synaptoprescience-upgrade-talons-of-the-norn-queen",
+    "name": "Synaptoprescience (Upgrade)",
     "faction_id": "tyranids",
     "unit_ids": [],
     "ability_type": "enhancement",

@@ -1921,8 +1921,8 @@
     "effect": "Your unit has Feel No Pain 4+ against mortal wounds."
   },
   {
-    "ability_id": "talons-of-butchery-brazen-engines",
-    "name": "Talons Of Butchery",
+    "ability_id": "talons-of-butchery-upgrade-brazen-engines",
+    "name": "Talons of Butchery (Upgrade)",
     "faction_id": "world-eaters",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -1938,8 +1938,8 @@
     "raw_text": "MAULERFIEND unit only. This unit's Maulerfiend Fists have [CLEAVE 2]."
   },
   {
-    "ability_id": "murder-forged-entity-brazen-engines",
-    "name": "Murder-Forged Entity",
+    "ability_id": "murder-forged-entity-upgrade-brazen-engines",
+    "name": "Murder-forged Entity (Upgrade)",
     "faction_id": "world-eaters",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -1955,8 +1955,8 @@
     "raw_text": "WORLD EATERS VEHICLE unit only. This unit has DAEMON."
   },
   {
-    "ability_id": "sanctified-in-slaughter-butchers-of-khorne",
-    "name": "Sanctified In Slaughter",
+    "ability_id": "sanctified-in-slaughter-upgrade-butchers-of-khorne",
+    "name": "Sanctified in Slaughter (Upgrade)",
     "faction_id": "world-eaters",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -1972,8 +1972,8 @@
     "raw_text": "TERMINATOR SQUAD unit only. This unit has +1 OC."
   },
   {
-    "ability_id": "gore-stained-veterans-butchers-of-khorne",
-    "name": "Gore-Stained Veterans",
+    "ability_id": "gore-stained-veterans-upgrade-butchers-of-khorne",
+    "name": "Gore-stained Veterans (Upgrade)",
     "faction_id": "world-eaters",
     "unit_ids": [],
     "ability_type": "enhancement",

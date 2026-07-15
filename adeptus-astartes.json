@@ -8054,8 +8054,8 @@
     "effect": "Your unit has -3\" detection range until the end of the turn."
   },
   {
-    "ability_id": "bellicose-weapon-spirits-fulguris-task-force",
-    "name": "Bellicose Weapon Spirits",
+    "ability_id": "bellicose-weapon-spirits-upgrade-fulguris-task-force",
+    "name": "Bellicose Weapon Spirits (Upgrade)",
     "faction_id": "adeptus-astartes",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -8071,8 +8071,8 @@
     "raw_text": "SPEEDER unit only. This unit can re-roll: Damage rolls. Rolls to determine the A of a weapon."
   },
   {
-    "ability_id": "raptorial-cogitator-core-fulguris-task-force",
-    "name": "Raptorial Cogitator Core",
+    "ability_id": "raptorial-cogitator-core-upgrade-fulguris-task-force",
+    "name": "Raptorial Cogitator Core (Upgrade)",
     "faction_id": "adeptus-astartes",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -8122,8 +8122,8 @@
     "raw_text": "PHOBOS model only. This model has: Lone Operative. S tealth."
   },
   {
-    "ability_id": "death-in-the-dark-subversion-assets",
-    "name": "Death In The Dark",
+    "ability_id": "death-in-the-dark-upgrade-subversion-assets",
+    "name": "Death in the Dark (Upgrade)",
     "faction_id": "adeptus-astartes",
     "unit_ids": [],
     "ability_type": "enhancement",

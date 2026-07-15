@@ -7,7 +7,7 @@
     "faction": "adepta-sororitas",
     "raw_text": "CANONESS WITH JUMP PACK model only. At the end of your opponent's Fight phase, if this unit is unengaged, you can place this unit in strategic reserves."
   },
-  "symphonic-payload-chorus-of-condemnation": {
+  "symphonic-payload-upgrade-chorus-of-condemnation": {
     "faction": "adepta-sororitas",
     "raw_text": "EXORCIST unit only. This unit can re-roll rolls to determine the A of a weapon."
   },
@@ -33,7 +33,7 @@
     "faction": "adepta-sororitas",
     "raw_text": "Friendly CELESTIAN SACRESANTS units' attacks have +1 BS and WS. This detachment has the REVEREND tag and cannot be taken with another REVEREND detachment."
   },
-  "writ-of-compunction-sacred-champions": {
+  "writ-of-compunction-upgrade-sacred-champions": {
     "faction": "adepta-sororitas",
     "raw_text": "CELESTIAN SACRESANTS unit only. This unit has +1 OC."
   },
@@ -63,7 +63,7 @@
     "faction": "adepta-sororitas",
     "raw_text": "Enhancements selected from this detachment do not count towards the total number of enhancements in your army. Friendly ADEPTA SORORITAS CHARACTER units have +1 Ld."
   },
-  "hagiomnifex-sanctified-orators": {
+  "hagiomnifex-upgrade-sanctified-orators": {
     "faction": "adepta-sororitas",
     "raw_text": "ADEPTA SORORITAS CHARACTER unit only (excluding PENITENT units). (Once per turn, per unit) At the start of a phase, you can use this ability. If you do, select one of the abilities below: Rite of Revelation: While this unit is shooting, enemy units have +6\" detection range. Sermon of Intolerance: This unit's battle-shock rolls automatically succeed. Catechism of Raging Fervour: This unit has +1\" M. Psalm of Righteous Smiting: This unit's attacks have +1 S. Chorus of Repudiation: Attacks that target this unit with a S greater than this unit's T have -1 to wound rolls."
   },
@@ -2488,11 +2488,11 @@
     "target": "One friendly **unengaged** Phobos/Scout Squad unit.",
     "effect": "Your unit has -3\" **detection range** until the end of the turn."
   },
-  "bellicose-weapon-spirits-fulguris-task-force": {
+  "bellicose-weapon-spirits-upgrade-fulguris-task-force": {
     "faction": "adeptus-astartes",
     "raw_text": "SPEEDER unit only. This unit can re-roll: Damage rolls. Rolls to determine the A of a weapon."
   },
-  "raptorial-cogitator-core-fulguris-task-force": {
+  "raptorial-cogitator-core-upgrade-fulguris-task-force": {
     "faction": "adeptus-astartes",
     "raw_text": "SPEEDER unit only. This unit's ranged attacks have [IGNORES COVER]."
   },
@@ -2504,7 +2504,7 @@
     "faction": "adeptus-astartes",
     "raw_text": "PHOBOS model only. This model has: Lone Operative. S tealth."
   },
-  "death-in-the-dark-subversion-assets": {
+  "death-in-the-dark-upgrade-subversion-assets": {
     "faction": "adeptus-astartes",
     "raw_text": "INFANTRY PHOBOS unit only. This unit's attacks that target a hidden unit have +1 to hit rolls."
   },
@@ -3222,15 +3222,15 @@
     "target": "That TELEMON HEAVY DREADNOUGHT unit.",
     "effect": "Your unit's: Arachnus Storm Cannon weapons have [RAPID FIRE 6]. Iliastus Accelerator Culverin weapons have [RAPID FIRE 2]."
   },
-  "interred-expertise-might-of-the-moritoi": {
+  "interred-expertise-upgrade-might-of-the-moritoi": {
     "faction": "adeptus-custodes",
     "raw_text": "ADEPTUS CUSTODES WALKER unit only. This unit's attacks can: R eroll hit rolls of 1. Reroll wound rolls of 1."
   },
-  "auramite-sarcophagus-might-of-the-moritoi": {
+  "auramite-sarcophagus-upgrade-might-of-the-moritoi": {
     "faction": "adeptus-custodes",
     "raw_text": "ADEPTUS CUSTODES WALKER unit only. When you target this unit with the Crushing Impact stratagem, that use is -1 CP."
   },
-  "psyk-out-grenades-silent-hunters": {
+  "psyk-out-grenades-upgrade-silent-hunters": {
     "faction": "adeptus-custodes",
     "raw_text": "ANATHEMA PSYKANA unit only. T his unit has EXPLOSIVES. When you target this unit with the Explosives stratagem, if you select an enemy PSYKER unit, you can re-roll rolls to determine whether that enemy unit suffers a mortal wound."
   },
@@ -3980,7 +3980,7 @@
     "target": "One **ADEPTUS MECHANICUS** unit from your army that has not been selected to shoot this phase.",
     "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the **[LETHAL HITS]** ability."
   },
-  "stealth-screened-cybercanids-cohort-acquisitus": {
+  "stealth-screened-cybercanids-upgrade-cohort-acquisitus": {
     "faction": "adeptus-mechanicus",
     "raw_text": "SERBERYS RAIDERS unit only. This unit has Lone Operative 15\"."
   },
@@ -5253,11 +5253,11 @@
     "faction": "aeldari",
     "raw_text": "TROUPE MASTER model only. This unit can reroll charge rolls."
   },
-  "camouflaged-snipers-path-of-the-outcast": {
+  "camouflaged-snipers-upgrade-path-of-the-outcast": {
     "faction": "aeldari",
     "raw_text": "RANGERS unit only. This unit's ranged attacks do not prevent this unit from being hidden."
   },
-  "shadowfall-masks-twilight-flickers": {
+  "shadowfall-masks-upgrade-twilight-flickers": {
     "faction": "aeldari",
     "raw_text": "TROUPE unit only. This unit has Fights First."
   },
@@ -5933,7 +5933,7 @@
     "faction": "astra-militarum",
     "raw_text": "These Ratlings' naturally keen vision is supplemented with varied magnoculors, listening devices and other detection gear that mysteriously comes into their possession.\n\nRATLINGS unit only. When this unit is selected to shoot, enemy units have +6\" detection range until this unit has shot."
   },
-  "exemplar-of-duty-abhuman-auxiliaries": {
+  "exemplar-of-duty-upgrade-abhuman-auxiliaries": {
     "faction": "astra-militarum",
     "raw_text": "The whine of hidden bionics, webs of ugly scars, or the rattle of abraded lungs with every barked order signals a grizzled veteran whose devotion to duty has seen them survive not only the enemy but also proximity to the most overly muscled soldiers.\n\nCOMMISSAR model only. This model has Feel No Pain 4+."
   },
@@ -5989,11 +5989,11 @@
     "faction": "astra-militarum",
     "raw_text": "A regiment's resilient and often unconventional scouts are deployed to provide forward intelligence on enemy dispositions. With a combination of regimental issue scopes and guerrilla instincts hard-won through survival at the forefronts of war zones, they can draw massed firepower down on lurking threats.\n\nFriendly SCOUT SENTINEL/ASTRA MILITARUM INFANTRY SMOKE units have the following ability:\n\n  Signal Flares: In your Shooting phase, this unit can select one visible enemy unit within 12\". That enemy unit is designated:\n    While a unit is designated, that unit has +3\" detection range.\n\nThis detachment has the RECON tag and cannot be taken with another RECON detachment."
   },
-  "long-range-scout-designation-force": {
+  "long-range-scout-upgrade-designation-force": {
     "faction": "astra-militarum",
     "raw_text": "Veteran pilots of Scout Sentinels have a reputation as insubordinate mavericks or taciturn loners, but their skill in manoeuvring their often-camouflaged walker unseen into hostile territory is second to none.\n\nSCOUT SENTINEL unit only. This unit has Infiltrators."
   },
-  "recon-star-designation-force": {
+  "recon-star-upgrade-designation-force": {
     "faction": "astra-militarum",
     "raw_text": "Those soldiers who have earned this commendation have earned their skills stealthily trekking through dangerous no man's land far in advance of the main push, striking behind enemy lines on missions of sabotage, or laying flanking ambushes.\n\nASTRA MILITARUM INFANTRY PLATOON unit only. In your first Movement phase, this unit can make an ingress move."
   },
@@ -6079,7 +6079,7 @@
     "faction": "astra-militarum",
     "raw_text": "Academy training and battlefield experience have instilled in this officer a mastery of mobile warfare. At their barked orders, soldiers and armoured vehicles work in well-drilled unison.\n\nInfantry Officer model only. At the end of your opponent's Fight phase, if the bearer's unit is not within Engagement Range of one or more enemy units and every model in that unit is within 3\" of an Astra Militarum Transport from your army, it can embark within that Transport."
   },
-  "omnissian-unguents-armoured-infantry": {
+  "omnissian-unguents-aura-armoured-infantry": {
     "faction": "astra-militarum",
     "raw_text": "Tech-Priests of the Adeptus Mechanicus bear to battle an array of sanctified oils and tinctures of protection with which to bless the Machine God's divine works.\n\nAstra Militarum Tech-Priest Enginseer model only. While a friendly Armoured Skirmisher unit is within 3\" of the bearer, that unit has the Feel No Pain 5+ ability."
   },
@@ -7281,11 +7281,11 @@
     "target": "That CHAPLAIN unit.",
     "effect": "Your unit's melee attacks have +1 S."
   },
-  "fervent-exemplars-marshals-household": {
+  "fervent-exemplars-upgrade-marshals-household": {
     "faction": "black-templars",
     "raw_text": "Paragons of their crusade's inexorable wrath, these Sword Brethren have earned a reputation for carving a path to victory through their foes, unable to rest while one enemy yet lives. SWORD BRETHREN SQUAD unit only. This unit has +1 to charge rolls."
   },
-  "inheritors-of-sigismund-marshals-household": {
+  "inheritors-of-sigismund-upgrade-marshals-household": {
     "faction": "black-templars",
     "raw_text": "SWORD BRETHREN SQUAD unit only. This unit has Fights First."
   },
@@ -8409,23 +8409,23 @@
     "target": "That LEGIONES DAEMONICA BATTLELINE unit.",
     "effect": "Ranged attacks that target your unit with a S greater than your unit's T have 1 to wound rolls."
   },
-  "apocalyptic-steeds-cavalcade-of-chaos": {
+  "apocalyptic-steeds-upgrade-cavalcade-of-chaos": {
     "faction": "chaos-daemons",
     "raw_text": "LEGIONES DAEMONICA MOUNTED unit only. This unit has +1\" M."
   },
-  "soul-shattering-charge-cavalcade-of-chaos": {
+  "soul-shattering-charge-upgrade-cavalcade-of-chaos": {
     "faction": "chaos-daemons",
     "raw_text": "LEGIONES DAEMONICA MOUNTED unit only. When this unit is selected to fight, if this unit made a charge move this turn, you can use this ability. If you do, when determining which models in this unit can fight, friendly models that are within 3\" of enemy units engaged with this unit can target those enemy units."
   },
-  "swollen-with-power-lords-of-the-warp": {
+  "swollen-with-power-upgrade-lords-of-the-warp": {
     "faction": "chaos-daemons",
     "raw_text": "LEGIONES DAEMONICA CHARACTER model only (excluding MONSTER units). This model has +2 W."
   },
-  "bane-forged-weapons-warptide": {
+  "bane-forged-weapons-upgrade-warptide": {
     "faction": "chaos-daemons",
     "raw_text": "LEGIONES DAEMONICA BATTLELINE unit only. This unit's attacks have +1 S."
   },
-  "soul-hungry-slaughterers-warptide": {
+  "soul-hungry-slaughterers-upgrade-warptide": {
     "faction": "chaos-daemons",
     "raw_text": "LEGIONES DAEMONICA BATTLELINE unit only. When you target this unit with the Heroic Intervention/Fire Overwatch stratagem, that use is 1 CP."
   },
@@ -8942,11 +8942,11 @@
     "faction": "chaos-knights",
     "raw_text": "KNIGHT TYRANT model only. This unit can re-roll rolls to determine the A of a weapon."
   },
-  "soul-spoor-auspicator-hunting-warpack": {
+  "soul-spoor-auspicator-upgrade-hunting-warpack": {
     "faction": "chaos-knights",
     "raw_text": "HUNTSMAN unit only. This unit's ranged attacks have +6\" R."
   },
-  "snarling-rivalry-hunting-warpack": {
+  "snarling-rivalry-upgrade-hunting-warpack": {
     "faction": "chaos-knights",
     "raw_text": "EXECUTIONER unit only. This unit's ranged attacks have [IGNORES COVER]."
   },
@@ -10819,19 +10819,19 @@
     "target": "That CHAPLAIN unit.",
     "effect": "Your unit can make a normal move of up to D3+3\"."
   },
-  "petition-of-stability-dark-age-arsenal": {
+  "petition-of-stability-upgrade-dark-age-arsenal": {
     "faction": "dark-angels",
     "raw_text": "ADEPTUS ASTARTES unit only. This unit's plasma attacks have +6\" R."
   },
-  "entreaty-of-perpetual-ardour-dark-age-arsenal": {
+  "entreaty-of-perpetual-ardour-upgrade-dark-age-arsenal": {
     "faction": "dark-angels",
     "raw_text": "HELLBLASTER SQUAD only. This unit's snap shooting attacks hit on unmodified hit rolls of 5+."
   },
-  "thundercowl-turbines-darkflight-pursuit": {
+  "thundercowl-turbines-upgrade-darkflight-pursuit": {
     "faction": "dark-angels",
     "raw_text": "RAVENWING FLY unit only. In your first Movement phase, this unit can make an ingress move."
   },
-  "nightforged-battery-darkflight-pursuit": {
+  "nightforged-battery-upgrade-darkflight-pursuit": {
     "faction": "dark-angels",
     "raw_text": "Use of these relic plasma storm batteries is granted only by dispensation of the Master of the Rock. They unleash devastating toroids of searing plasma, while their venting subsystems are known to be especially vigilant. LAND SPEEDER VENGEANCE unit only. This unit can reroll: R olls to determine the A of a weapon. Hazard rolls."
   },
@@ -10853,11 +10853,11 @@
     "faction": "death-guard",
     "raw_text": "Friendly FOETID BLOATDRONE/FOETID BLOATDRONE WITH HEAVY BLIGHT LAUNCHER/HELBRUTE/MYPHITIC BLIGHTHAULER units have CONTAGION ENGINE.\n\nFriendly CONTAGION ENGINE units' ranged attacks have [ASSAULT].\n\nThis detachment has the ENGINES tag and cannot be taken with another ENGINES detachment."
   },
-  "parasitic-woe-reaper-contagion-engines": {
+  "parasitic-woe-reaper-upgrade-contagion-engines": {
     "faction": "death-guard",
     "raw_text": "CONTAGION ENGINE unit only. When this unit has fought, one model in this unit heals D3 wounds."
   },
-  "lancet-of-the-worldsore-contagion-engines": {
+  "lancet-of-the-worldsore-upgrade-contagion-engines": {
     "faction": "death-guard",
     "raw_text": "Friendly HELBRUTE/MYPHITIC BLIGHTHAULER unit only. This unit has MOBILE."
   },
@@ -10883,11 +10883,11 @@
     "faction": "death-guard",
     "raw_text": "In the Declare Battle Formations step, you can select up to two friendly PLAGUE MARINES units. Those units have Infiltrators.\n\nThis detachment has the FLYBLOWN tag and cannot be taken with another FLYBLOWN detachment."
   },
-  "insectile-murmuration-flyblown-host": {
+  "insectile-murmuration-upgrade-flyblown-host": {
     "faction": "death-guard",
     "raw_text": "PLAGUE MARINES unit only. When this unit's attacks target a unit within Contagion Range of a friendly unit, those attacks can reroll wound rolls of 1."
   },
-  "plagueveil-flyblown-host": {
+  "plagueveil-upgrade-flyblown-host": {
     "faction": "death-guard",
     "raw_text": "PLAGUE MARINES unit only. This unit has -3\" detection range."
   },
@@ -12146,7 +12146,7 @@
     "faction": "drukhari",
     "raw_text": "HAEMONCULUS model only. Attacks that target this unit with a S greater than your unit's T have -1 to wound rolls."
   },
-  "elixir-of-the-corpse-courts-tools-of-torment": {
+  "elixir-of-the-corpse-courts-upgrade-tools-of-torment": {
     "faction": "drukhari",
     "raw_text": "CRONOS/TALOS unit only. This unit has 5+ InSv."
   },
@@ -12714,7 +12714,7 @@
     "faction": "emperors-children",
     "raw_text": "LORD KAKOPHONIST model only. T his model has Deep Strike. This unit's ranged attacks have [IGNORES COVER]."
   },
-  "frenzied-ferocity-elegant-brutes": {
+  "frenzied-ferocity-upgrade-elegant-brutes": {
     "faction": "emperors-children",
     "raw_text": "EMPEROR'S CHILDREN TERMINATOR SQUAD unit only. This unit's attacks have [SUSTAINED HITS 1]."
   },
@@ -12726,11 +12726,11 @@
     "faction": "emperors-children",
     "raw_text": "LORD EXULTANT model only. This unit's ranged attacks have +1 AP."
   },
-  "eager-patrons-spectacle-of-slaughter": {
+  "eager-patrons-upgrade-spectacle-of-slaughter": {
     "faction": "emperors-children",
     "raw_text": "FLAWLESS BLADES unit only. This unit has +2\" M."
   },
-  "beguiling-grotesquerie-spectacle-of-slaughter": {
+  "beguiling-grotesquerie-upgrade-spectacle-of-slaughter": {
     "faction": "emperors-children",
     "raw_text": "FLAWLESS BLADES unit only. Enemy units cannot target this unit with snap shooting attacks."
   },
@@ -13347,7 +13347,7 @@
     "faction": "genestealer-cults",
     "raw_text": "KELERMORPH/REDUCTUS SABOTEUR model only. This unit's ranged attacks have +2 S."
   },
-  "mark-of-the-star-children-purestrain-broodswarm": {
+  "mark-of-the-star-children-upgrade-purestrain-broodswarm": {
     "faction": "genestealer-cults",
     "raw_text": "PURESTRAIN GENESTEALERS unit only. This unit has: +1 T. 4 + Sv. This unit's melee attacks have +1 S."
   },
@@ -13359,7 +13359,7 @@
     "faction": "genestealer-cults",
     "raw_text": "MAGUS/PRIMUS model only. This unit's attacks can reroll damage rolls."
   },
-  "devious-disguises-xenocult-masses": {
+  "devious-disguises-upgrade-xenocult-masses": {
     "faction": "genestealer-cults",
     "raw_text": "NEOPHYTE HYBRIDS unit only. This unit has -3\" detection range."
   },
@@ -13885,19 +13885,19 @@
     "faction": "grey-knights",
     "raw_text": "TERMINATOR model only. At the start of your Shooting phase, you can select one visible enemy unit within 12\" of this unit. That enemy unit has +6\" detection range."
   },
-  "precognicient-volleys-fires-of-purgation": {
+  "precognicient-volleys-upgrade-fires-of-purgation": {
     "faction": "grey-knights",
     "raw_text": "PURGATION SQUAD unit only. This unit's snap shooting attacks hit on unmodified hit rolls of 5+."
   },
-  "boons-of-deimos-fires-of-purgation": {
+  "boons-of-deimos-upgrade-fires-of-purgation": {
     "faction": "grey-knights",
     "raw_text": "PURGATION SQUAD unit only. This unit's ranged attacks have +2 S."
   },
-  "predestined-coordinates-immaterial-interdiction": {
+  "predestined-coordinates-upgrade-immaterial-interdiction": {
     "faction": "grey-knights",
     "raw_text": "INTERCEPTOR SQUAD unit only. In your first Movement phase, this unit can make an ingress move."
   },
-  "astral-overlap-immaterial-interdiction": {
+  "astral-overlap-upgrade-immaterial-interdiction": {
     "faction": "grey-knights",
     "raw_text": "INTERCEPTOR SQUAD unit only. This unit has Stealth."
   },
@@ -14291,7 +14291,7 @@
     "faction": "imperial-knights",
     "raw_text": "IMPERIAL KNIGHTS model only. Add 4 to the bearer’s Wounds characteristic."
   },
-  "knight-of-the-opus-machina-questor-forgepact": {
+  "knight-of-the-opus-machina-aura-questor-forgepact": {
     "faction": "imperial-knights",
     "raw_text": "IMPERIAL KNIGHTS model only. Each time the bearer makes a ranged attack, if the bearer is within 6\" of one or more friendly ADEPTUS MECHANICUS units, re‑roll a Hit roll of 1."
   },
@@ -14519,11 +14519,11 @@
     "target": "One **IMPERIAL KNIGHTS** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the end of the phase, models in your unit have a 4+ invulnerable save."
   },
-  "gyro-optimised-actuators-throne-bonded-outriders": {
+  "gyro-optimised-actuators-upgrade-throne-bonded-outriders": {
     "faction": "imperial-knights",
     "raw_text": "ARMIGER unit only. This unit has MOBILE."
   },
-  "ancestral-overbleed-throne-bonded-outriders": {
+  "ancestral-overbleed-upgrade-throne-bonded-outriders": {
     "faction": "imperial-knights",
     "raw_text": "Though it requires additional work by the Sacristans, when Armigers are to be used like hunting hounds amidst dense terrain, it is considered worthwhile to enhance their steeds' agility. ARMIGER unit only. When you target this unit with the Fire Overwatch/Heroic Intervention stratagem, that use is 1 CP."
   },
@@ -15186,15 +15186,15 @@
     "target": "That PIONEERS unit.",
     "effect": "Your unit can make a normal move of up to D3+3\". UNIQUE: HEARTHGUARD"
   },
-  "saturation-rounds-armoured-trailblazers": {
+  "saturation-rounds-upgrade-armoured-trailblazers": {
     "faction": "leagues-of-votann",
     "raw_text": "SAGITAUR unit only. This unit's ranged attacks have [IGNORES COVER]."
   },
-  "optimised-attack-lines-armoured-trailblazers": {
+  "optimised-attack-lines-upgrade-armoured-trailblazers": {
     "faction": "leagues-of-votann",
     "raw_text": "SAGITAUR unit only. This unit has MOBILE."
   },
-  "pan-spectral-lockons-farseekers": {
+  "pan-spectral-lockons-upgrade-farseekers": {
     "faction": "leagues-of-votann",
     "raw_text": "PIONEERS unit only. In your Shooting phase, you can select one visible enemy unit within 12\" of this unit. That enemy unit is spotted: While a unit is spotted, that unit has +3\" detection range. SHROUDW�RKE TALISMANS UPGRADE These small, rugged devices project a modified weavew�rke field that, instead of shielding the bearer physically, deadens their signature on enemy scanners and confounds predatory senses. YAEGIRS unit only. This unit has 3\" detection range."
   },
@@ -16185,19 +16185,19 @@
     "target": "That OBELISK/TESSERACT VAULT unit.",
     "effect": "Your unit's Tesla Sphere weapons have +1 AP."
   },
-  "enlivened-sentinels-hand-of-the-dynasty": {
+  "enlivened-sentinels-upgrade-hand-of-the-dynasty": {
     "faction": "necrons",
     "raw_text": "NECRON WARRIORS unit only. This unit has Scouts 5\"."
   },
-  "tools-of-dominion-hand-of-the-dynasty": {
+  "tools-of-dominion-upgrade-hand-of-the-dynasty": {
     "faction": "necrons",
     "raw_text": "Nobles are not above expending additional resources to improve the armaments of their more valuable soldiery. IMMORTALS unit only. This unit's ranged attacks have [RAPID FIRE 1]."
   },
-  "recursive-reanimation-skyshroud-spearhead": {
+  "recursive-reanimation-upgrade-skyshroud-spearhead": {
     "faction": "necrons",
     "raw_text": "TOMB BLADES unit only. When this unit activates its Reanimation Protocols, +1 to the roll."
   },
-  "deepening-madness-skyshroud-spearhead": {
+  "deepening-madness-upgrade-skyshroud-spearhead": {
     "faction": "necrons",
     "raw_text": "DESTROYER CULT MOUNTED unit only. This unit's ranged attacks have [ASSAULT]."
   },
@@ -16809,7 +16809,7 @@
     "faction": "orks",
     "raw_text": "ORKS INFANTRY model only. This model's ranged attacks have: [DEVASTATING WOUNDS]. [HAZARDOUS]."
   },
-  "dead-shiny-shootas-more-dakka": {
+  "dead-shiny-shootas-upgrade-more-dakka": {
     "faction": "orks",
     "raw_text": "ORKS INFANTRY unit only. This unit's ranged attacks have: [RAPID FIRE 1]. Or: If that attack already has [RAPID FIRE], +1 to the value of that [RAPID FIRE] (e.g. [RAPID FIRE 1] becomes [RAPID FIRE 2])."
   },
@@ -17162,11 +17162,11 @@
     "target": "That WAGON unit.",
     "effect": "Your unit's melee attacks have [CLEAVE 1]. MORE DAKKA! A HORDE OF GUNCRAZED ORKS UNLEASH A DEVASTATING STORM OF DAKKA INTO THE ENEMY"
   },
-  "boarding-ramps-rollin-deff": {
+  "boarding-ramps-upgrade-rollin-deff": {
     "faction": "orks",
     "raw_text": "WAGON unit only. When a unit embarked within this unit is selected to make a disembark move, that unit has +1 to charge rolls until the end of the turn."
   },
-  "targetin-gizmos-rollin-deff": {
+  "targetin-gizmos-upgrade-rollin-deff": {
     "faction": "orks",
     "raw_text": "WAGON unit only. While a BIG MEK model is embarked within this unit: This unit's ranged attacks have [IGNORES COVER]. If the Waaagh! is active for this unit, this unit's ranged attacks have [SUSTAINED HITS 1]."
   },
@@ -17630,11 +17630,11 @@
     "faction": "space-wolves",
     "raw_text": "ADEPTUS ASTARTES INFANTRY model only. This unit can reroll advance rolls and countercharge rolls."
   },
-  "thirst-for-glory-legends-of-saga-and-song": {
+  "thirst-for-glory-upgrade-legends-of-saga-and-song": {
     "faction": "space-wolves",
     "raw_text": "ADEPTUS ASTARTES TERMINATOR model only. This unit has +1 OC."
   },
-  "fierce-example-legends-of-saga-and-song": {
+  "fierce-example-upgrade-legends-of-saga-and-song": {
     "faction": "space-wolves",
     "raw_text": "WOLF GUARD TERMINATORS unit only. This unit has +1 T."
   },
@@ -18322,11 +18322,11 @@
     "target": "That PATHFINDER TEAM/STEALTH BATTLESUITS unit.",
     "effect": "Your unit has +1 Sv. UNIQUE: AUXILIARIES"
   },
-  "negation-emitters-advanced-acquisition-cadre": {
+  "negation-emitters-upgrade-advanced-acquisition-cadre": {
     "faction": "tau-empire",
     "raw_text": "STEALTH BATTLESUITS unit only. This unit has -3\" detection range."
   },
-  "unmasking-suite-advanced-acquisition-cadre": {
+  "unmasking-suite-upgrade-advanced-acquisition-cadre": {
     "faction": "tau-empire",
     "raw_text": "GHOSTKEEL BATTLESUIT/PATHFINDER TEAM/STEALTH BATTLESUITS unit only. When this unit is selected to shoot, you can select one enemy unit within 24\" of this unit. That enemy unit has +9\" detection range until this unit has shot."
   },
@@ -18438,7 +18438,7 @@
     "faction": "thousand-sons",
     "raw_text": "TZAANGOR SHAMAN model only. In your Movement phase, at the start or end of this unit's move, you can select one friendly battle-shocked MUTANT unit within 6\" of this model. That unit is no longer battle-shocked."
   },
-  "thicket-of-bladed-bone-servants-of-change": {
+  "thicket-of-bladed-bone-upgrade-servants-of-change": {
     "faction": "thousand-sons",
     "raw_text": "SPAWN unit only. This unit's melee attacks have:\n +1 AP.\n [CLEAVE 1]."
   },
@@ -19710,19 +19710,19 @@
     "target": "That NORN ASSIMILATOR unit.",
     "effect": "Select one enemy unit hit by those attacks. That enemy unit is tethered until the start of your next Command phase: While a unit is tethered, that unit has 2\" M."
   },
-  "encircling-horrors-ambush-predators": {
+  "encircling-horrors-upgrade-ambush-predators": {
     "faction": "tyranids",
     "raw_text": "NEUROLICTOR/LICTOR/VON RYAN'S LEAPERS unit only. In your opponent's Movement phase, when an enemy unit ends a move within 8\" of this unit, this unit can make a normal move of up to D3+3\"."
   },
-  "cryptophotaic-camouflage-ambush-predators": {
+  "cryptophotaic-camouflage-upgrade-ambush-predators": {
     "faction": "tyranids",
     "raw_text": "VON RYAN'S LEAPERS unit only. This unit has 3\" detection range."
   },
-  "destabilising-predation-talons-of-the-norn-queen": {
+  "destabilising-predation-upgrade-talons-of-the-norn-queen": {
     "faction": "tyranids",
     "raw_text": "NORN EMISSARY unit only. This unit's ranged attacks have [ANTICHARACTER 2+]."
   },
-  "synaptoprescience-talons-of-the-norn-queen": {
+  "synaptoprescience-upgrade-talons-of-the-norn-queen": {
     "faction": "tyranids",
     "raw_text": "NORN ASSIMILATOR unit only. This unit has 4+ InSv."
   },
@@ -20416,19 +20416,19 @@
     "target": "That WORLD EATERS CHARACTER unit.",
     "effect": "Your unit has Feel No Pain 4+ against mortal wounds."
   },
-  "talons-of-butchery-brazen-engines": {
+  "talons-of-butchery-upgrade-brazen-engines": {
     "faction": "world-eaters",
     "raw_text": "MAULERFIEND unit only. This unit's Maulerfiend Fists have [CLEAVE 2]."
   },
-  "murder-forged-entity-brazen-engines": {
+  "murder-forged-entity-upgrade-brazen-engines": {
     "faction": "world-eaters",
     "raw_text": "WORLD EATERS VEHICLE unit only. This unit has DAEMON."
   },
-  "sanctified-in-slaughter-butchers-of-khorne": {
+  "sanctified-in-slaughter-upgrade-butchers-of-khorne": {
     "faction": "world-eaters",
     "raw_text": "TERMINATOR SQUAD unit only. This unit has +1 OC."
   },
-  "gore-stained-veterans-butchers-of-khorne": {
+  "gore-stained-veterans-upgrade-butchers-of-khorne": {
     "faction": "world-eaters",
     "raw_text": "TERMINATOR SQUAD unit only. This unit's melee attacks have +1 WS."
   },

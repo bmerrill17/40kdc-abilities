@@ -2015,8 +2015,8 @@
     "raw_text": "LORD KAKOPHONIST model only. T his model has Deep Strike. This unit's ranged attacks have [IGNORES COVER]."
   },
   {
-    "ability_id": "frenzied-ferocity-elegant-brutes",
-    "name": "Frenzied Ferocity",
+    "ability_id": "frenzied-ferocity-upgrade-elegant-brutes",
+    "name": "Frenzied Ferocity (Upgrade)",
     "faction_id": "emperors-children",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -2066,8 +2066,8 @@
     "raw_text": "LORD EXULTANT model only. This unit's ranged attacks have +1 AP."
   },
   {
-    "ability_id": "eager-patrons-spectacle-of-slaughter",
-    "name": "Eager Patrons",
+    "ability_id": "eager-patrons-upgrade-spectacle-of-slaughter",
+    "name": "Eager Patrons (Upgrade)",
     "faction_id": "emperors-children",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -2083,8 +2083,8 @@
     "raw_text": "FLAWLESS BLADES unit only. This unit has +2\" M."
   },
   {
-    "ability_id": "beguiling-grotesquerie-spectacle-of-slaughter",
-    "name": "Beguiling Grotesquerie",
+    "ability_id": "beguiling-grotesquerie-upgrade-spectacle-of-slaughter",
+    "name": "Beguiling Grotesquerie (Upgrade)",
     "faction_id": "emperors-children",
     "unit_ids": [],
     "ability_type": "enhancement",

@@ -3007,8 +3007,8 @@
     "effect": "Your unit has +1 Sv. UNIQUE: AUXILIARIES"
   },
   {
-    "ability_id": "negation-emitters-advanced-acquisition-cadre",
-    "name": "Negation Emitters",
+    "ability_id": "negation-emitters-upgrade-advanced-acquisition-cadre",
+    "name": "Negation Emitters (Upgrade)",
     "faction_id": "tau-empire",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -3024,8 +3024,8 @@
     "raw_text": "STEALTH BATTLESUITS unit only. This unit has -3\" detection range."
   },
   {
-    "ability_id": "unmasking-suite-advanced-acquisition-cadre",
-    "name": "Unmasking Suite",
+    "ability_id": "unmasking-suite-upgrade-advanced-acquisition-cadre",
+    "name": "Unmasking Suite (Upgrade)",
     "faction_id": "tau-empire",
     "unit_ids": [],
     "ability_type": "enhancement",

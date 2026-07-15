@@ -2250,8 +2250,8 @@
     "raw_text": "KELERMORPH/REDUCTUS SABOTEUR model only. This unit's ranged attacks have +2 S."
   },
   {
-    "ability_id": "mark-of-the-star-children-purestrain-broodswarm",
-    "name": "Mark Of The Star Children",
+    "ability_id": "mark-of-the-star-children-upgrade-purestrain-broodswarm",
+    "name": "Mark of the Star Children (Upgrade)",
     "faction_id": "genestealer-cults",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -2301,8 +2301,8 @@
     "raw_text": "MAGUS/PRIMUS model only. This unit's attacks can reroll damage rolls."
   },
   {
-    "ability_id": "devious-disguises-xenocult-masses",
-    "name": "Devious Disguises",
+    "ability_id": "devious-disguises-upgrade-xenocult-masses",
+    "name": "Devious Disguises (Upgrade)",
     "faction_id": "genestealer-cults",
     "unit_ids": [],
     "ability_type": "enhancement",

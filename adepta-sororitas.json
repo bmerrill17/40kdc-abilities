@@ -40,8 +40,8 @@
     "raw_text": "CANONESS WITH JUMP PACK model only. At the end of your opponent's Fight phase, if this unit is unengaged, you can place this unit in strategic reserves."
   },
   {
-    "ability_id": "symphonic-payload-chorus-of-condemnation",
-    "name": "Symphonic Payload",
+    "ability_id": "symphonic-payload-upgrade-chorus-of-condemnation",
+    "name": "Symphonic Payload (Upgrade)",
     "faction_id": "adepta-sororitas",
     "detachment_id": "chorus-of-condemnation",
     "unit_ids": [],
@@ -142,8 +142,8 @@
     "raw_text": "Friendly CELESTIAN SACRESANTS units' attacks have +1 BS and WS. This detachment has the REVEREND tag and cannot be taken with another REVEREND detachment."
   },
   {
-    "ability_id": "writ-of-compunction-sacred-champions",
-    "name": "Writ of Compunction",
+    "ability_id": "writ-of-compunction-upgrade-sacred-champions",
+    "name": "Writ of Compunction (Upgrade)",
     "faction_id": "adepta-sororitas",
     "detachment_id": "sacred-champions",
     "unit_ids": [],
@@ -260,8 +260,8 @@
     "raw_text": "Enhancements selected from this detachment do not count towards the total number of enhancements in your army. Friendly ADEPTA SORORITAS CHARACTER units have +1 Ld."
   },
   {
-    "ability_id": "hagiomnifex-sanctified-orators",
-    "name": "Hagiomnifex",
+    "ability_id": "hagiomnifex-upgrade-sanctified-orators",
+    "name": "Hagiomnifex (Upgrade)",
     "faction_id": "adepta-sororitas",
     "detachment_id": "sanctified-orators",
     "unit_ids": [],

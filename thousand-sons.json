@@ -282,8 +282,8 @@
     "raw_text": "TZAANGOR SHAMAN model only. In your Movement phase, at the start or end of this unit's move, you can select one friendly battle-shocked MUTANT unit within 6\" of this model. That unit is no longer battle-shocked."
   },
   {
-    "ability_id": "thicket-of-bladed-bone-servants-of-change",
-    "name": "Thicket of Bladed Bone",
+    "ability_id": "thicket-of-bladed-bone-upgrade-servants-of-change",
+    "name": "Thicket of Bladed Bone (Upgrade)",
     "faction_id": "thousand-sons",
     "detachment_id": "servants-of-change",
     "unit_ids": [],
