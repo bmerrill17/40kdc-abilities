@@ -1368,12 +1368,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#3d535da6-73c9-476f-afb4-432030e0c6b3",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One ASTRA MILITARUM and one GENESTEALER CULTS unit from your army that have not been selected to shoot this phase.",
+    "target": "One **ASTRA MILITARUM** and one **GENESTEALER CULTS** unit from your army that have not been selected to shoot this phase.",
     "effect": "Select one enemy unit that is visible to both of those selected units and within range of at least one ranged weapon from each of those units. Until the end of the phase, models in those units can only make attacks that target that enemy unit (and only if it is an eligible target). When doing so, each time such a model makes an attack, re-roll a Wound roll of 1."
   },
   {
@@ -1387,13 +1387,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#89f9667a-2fe9-43f7-acae-2da2c36fdd58",
+      "edition": "11e"
     },
     "when": "Fight phase.",
-    "target": "One ABERRANTS, BIOPHAGUS or PURESTRAIN GENESTEALERS unit from your army that has not been selected to fight this phase.",
-    "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets a MONSTER or VEHICLE, add 1 to the Wound roll."
+    "target": "One **ABERRANTS**, **BIOPHAGUS** or **PURESTRAIN GENESTEALERS** unit from your army that has not been selected to fight this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets a **MONSTER** or **VEHICLE**, add 1 to the Wound roll."
   },
   {
     "ability_id": "hyper-metabolic-vigour-biosanctic-broodsurge",
@@ -1406,12 +1406,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#6ffbf673-7f1b-4712-b52b-7b27da2b77f7",
+      "edition": "11e"
     },
     "when": "Fight phase.",
-    "target": "One ABERRANTS, BIOPHAGUS or PURESTRAIN GENESTEALERS unit from your army that has not been selected to fight this phase.",
+    "target": "One **ABERRANTS**, **BIOPHAGUS** or **PURESTRAIN GENESTEALERS** unit from your army that has not been selected to fight this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes a Pile-in or Consolidation move, it can move up to 6\" instead of up to 3\". In addition, it does not need to end that move closer to the closest enemy model, provided it ends it as close as possible to the closest enemy unit."
   },
   {
@@ -1425,13 +1425,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#a2ef342a-c540-4498-ba3d-9c1a2c5142e9",
+      "edition": "11e"
     },
     "when": "Your Charge phase.",
-    "target": "One ABERRANTS, BIOPHAGUS or PURESTRAIN GENESTEALERS unit from your army that has not declared a charge this phase.",
-    "effect": "Until the end of the phase, each time your unit declares a charge, if the closest eligible enemy unit is selected as one of the targets of that charge, add 1 to the Charge roll for each selected target of that charge (including the closest eligible enemy unit), to a maximum of +3."
+    "target": "One **ABERRANTS**, **BIOPHAGUS** or **PURESTRAIN GENESTEALERS** unit from your army that has not declared a charge this phase.",
+    "effect": "Your unit has +2 to **charge rolls**."
   },
   {
     "ability_id": "devoted-crew-outlander-claw",
@@ -1444,12 +1444,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#fb05d738-b1ad-4a65-8c61-878f9e0f5ee4",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One GOLIATH ROCKGRINDER or GOLIATH TRUCK unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "target": "One **GOLIATH ROCKGRINDER** or **GOLIATH TRUCK** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Damage characteristic of that attack."
   },
   {
@@ -1463,13 +1463,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#2cde0724-fb92-4638-b2b9-ac61fc0bc08c",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One GENESTEALER CULTS MOUNTED or GENESTEALER CULTS VEHICLE unit from your army that has not been selected to shoot this phase.",
-    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the [LETHAL HITS] ability while targeting an enemy unit within 18\"."
+    "target": "One **GENESTEALER CULTS MOUNTED** or **GENESTEALER CULTS VEHICLE** unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the **[LETHAL HITS]** ability while targeting an enemy unit within 18\"."
   },
   {
     "ability_id": "deft-manoeuvring-outlander-claw",
@@ -1482,12 +1482,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#7e26616d-df7c-434a-a91f-049f78fd0863",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
-    "target": "One ACHILLES RIDGERUNNERS or ATALAN JACKALS unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "target": "One **ACHILLES RIDGERUNNERS** or **ATALAN JACKALS** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the end of the phase, models in your unit have a 4+ invulnerable save."
   },
   {
@@ -1558,13 +1558,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#ed33177c-e79a-4f2e-b2af-f1c616eefef5",
+      "edition": "11e"
     },
     "when": "Fight phase.",
-    "target": "One ACOLYTE HYBRIDS, HYBRID METAMORPHS or NEOPHYTE HYBRIDS unit from your army that has not been selected to fight this phase.",
-    "effect": "Until the end of the phase, improve the Attacks and Weapon Skill characteristics of melee weapons equipped by models (excluding CHARACTERS) in your unit by 1 and those weapons have the [HAZARDOUS] ability."
+    "target": "One **ACOLYTE HYBRIDS**, **HYBRID METAMORPHS** or **NEOPHYTE HYBRIDS** unit from your army that has not been selected to fight this phase.",
+    "effect": "Until the end of the phase, improve the Attacks and Weapon Skill characteristics of melee weapons equipped by models (excluding **CHARACTERS**) in your unit by 1 and those weapons have the **[HAZARDOUS]** ability."
   },
   {
     "ability_id": "coordinated-trap-host-of-ascension",
@@ -1577,12 +1577,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#c76dd692-ec4c-47a9-a699-83ce9fa6f236",
+      "edition": "11e"
     },
     "when": "The start of your Shooting phase or the start of the Fight phase.",
-    "target": "Two GENESTEALER CULTS units from your army that have not been selected to shoot or fight this phase.",
+    "target": "Two **GENESTEALER CULTS** units from your army that have not been selected to shoot or fight this phase.",
     "effect": "Select one enemy unit (if this Stratagem is used in the Fight phase, that enemy unit must be within Engagement Range of both of your units). Until the end of the phase, each time a model in either of your units makes an attack, it can only target that enemy unit (and only if it is an eligible target for that attack), and when resolving that attack, add 1 to the Wound roll."
   },
   {
@@ -1596,12 +1596,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#9b058488-cb34-4c33-98a9-dda58f0cec75",
+      "edition": "11e"
     },
     "when": "Your Shooting phase or the Fight phase.",
-    "target": "One GENESTEALER CULTS units from your army that has not been selected to shoot or fight this phase.",
+    "target": "One **GENESTEALER CULTS** units from your army that has not been selected to shoot or fight this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes an attack, a Critical Hit is scored on an unmodified Hit roll of 5+, instead of only a 6."
   },
   {
@@ -1615,13 +1615,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#360a10bc-0d68-42d8-98b6-84cfb92ba592",
+      "edition": "11e"
     },
-    "when": "Fight phase, just after an enemy unit destroys a GENESTEALER CULTS CHARACTER model from your army.",
-    "target": "That destroyed CHARACTER model. You can use this Stratagem on that model even though it was just destroyed.",
-    "effect": "Roll one D6: on a 2+, that enemy unit suffers D3 mortal wounds. If that CHARACTER model is an ABOMINANT or PATRIARCH, that enemy unit suffers 2D3 mortal wounds instead."
+    "when": "Fight phase, just after an enemy unit destroys a **GENESTEALER CULTS CHARACTER** model from your army.",
+    "target": "That destroyed **CHARACTER** model. You can use this Stratagem on that model even though it was just destroyed.",
+    "effect": "Roll one D6: on a 2+, that enemy unit suffers D3 mortal wounds. If that **CHARACTER** model is an **ABOMINANT** or **PATRIARCH**, that enemy unit suffers 2D3 mortal wounds instead."
   },
   {
     "ability_id": "vengeance-for-the-martyr-xenocreed-congregation",
@@ -1634,13 +1634,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#e572e683-b9ce-47ff-b526-f3cdda4a9b4e",
+      "edition": "11e"
     },
-    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit destroys a GENESTEALER CULTS CHARACTER model from your army.",
-    "target": "One other GENESTEALER CULTS CHARACTER model from your army.",
-    "effect": "Until the end of the battle, each time a friendly ACOLYTE HYBRIDS, HYBRID METAMORPHS or NEOPHYTE HYBRIDS model makes an attack that targets that enemy unit, re-roll a Hit roll of 1. If the destroyed model was a MAGUS, PRIMUS or ACOLYTE ICONWARD, you can re-roll the Hit roll instead."
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit destroys a **GENESTEALER CULTS CHARACTER** model from your army.",
+    "target": "One other **GENESTEALER CULTS CHARACTER** model from your army.",
+    "effect": "Until the end of the battle, each time a friendly **ACOLYTE HYBRIDS**, **HYBRID METAMORPHS** or **NEOPHYTE HYBRIDS** model makes an attack that targets that enemy unit, re-roll a Hit roll of 1. If the destroyed model was a **MAGUS**, **PRIMUS** or **ACOLYTE ICONWARD**, you can re-roll the Hit roll instead."
   },
   {
     "ability_id": "in-the-shadow-of-iron-brood-brothers-auxilia",
@@ -1653,13 +1653,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#9b26bc7b-eeba-4fe9-9c9a-b5610346a586",
+      "edition": "11e"
     },
     "when": "Any phase, just after an enemy unit ends a move within 9\" of one or more of your Cult Ambush markers.",
-    "target": "One ASTRA MILITARUM VEHICLE unit from your army.",
-    "effect": "Select one of those Cult Ambush markers. You can set up that Cult Ambush marker anywhere on the battlefield that is more than 9\" horizontally away from all enemy units and wholly within 6\" of your unit."
+    "target": "One **ASTRA MILITARUM VEHICLE** unit from your army.",
+    "effect": "Select one of those Cult Ambush markers. You can set up that Cult Ambush marker anywhere on the battlefield that is more than 8\" horizontally away from all enemy units and wholly within 6\" of your unit."
   },
   {
     "ability_id": "regimental-reinforcements-brood-brothers-auxilia",
@@ -1672,13 +1672,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#f2f73567-774a-4508-9ff3-a0505a2a81a3",
+      "edition": "11e"
     },
-    "when": "Your opponent’s Shooting phase or the Fight phase, just after an ASTRA MILITARUM INFANTRY REGIMENT unit from your army (excluding ARTILLERY and CHARACTER units) is destroyed.",
-    "target": "That INFANTRY unit. You can use this Stratagem on that unit even though it was just destroyed.",
-    "effect": "Roll one D6: on a 3+, place one Cult Ambush marker anywhere on the battlefield that is more than 9\" horizontally away from all enemy units (if this is not possible, no marker is placed) and add a new unit to your army identical to your destroyed unit, in Cult Ambush, at its Starting Strength, with all of its wounds remaining and any [ONE SHOT] weapons those models are equipped with considered as not having been shot.",
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after an **ASTRA MILITARUM INFANTRY REGIMENT** unit from your army (excluding **ARTILLERY** and **CHARACTER** units) is destroyed.",
+    "target": "That **INFANTRY** unit. You can use this Stratagem on that unit even though it was just destroyed.",
+    "effect": "Roll one D6: on a 3+, place one Cult Ambush marker anywhere on the battlefield that is more than 8\" horizontally away from all enemy units (if this is not possible, no marker is placed) and add a new unit to your army identical to your destroyed unit, in Cult Ambush, at its Starting Strength, with all of its wounds remaining and any **[ONE SHOT]** weapons those models are equipped with considered as not having been shot.",
     "restrictions": "You can only use this Stratagem once per battle."
   },
   {
@@ -1692,13 +1692,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#ebd59592-6d4c-403b-aaf5-c9630548fd1e",
+      "edition": "11e"
     },
-    "when": "Your Shooting phase, just after an ASTRA MILITARUM unit from your army has shot.",
-    "target": "That ASTRA MILITARUM unit.",
-    "effect": "Select one enemy unit hit by one or more of those attacks. Until the end of the turn, that enemy unit cannot be targeted with the Fire Overwatch Stratagem and each time a GENESTEALER CULTS unit from your army selects that enemy unit as a target of a charge, you can re-roll the Charge roll."
+    "when": "Your Shooting phase, just after an **ASTRA MILITARUM** unit from your army has shot.",
+    "target": "That **ASTRA MILITARUM** unit.",
+    "effect": "Select one enemy unit hit by one or more of those attacks. Until the end of the turn, that enemy unit cannot be targeted with the Fire Overwatch Stratagem and each time a **GENESTEALER CULTS** unit from your army selects that enemy unit as a target of a charge, you can re-roll the Charge roll."
   },
   {
     "ability_id": "a-dark-network-brood-brothers-auxilia",
@@ -1711,12 +1711,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#040ed6d5-8900-4958-8e16-f8051ea07072",
+      "edition": "11e"
     },
     "when": "Reinforcements step of your opponent’s Movement phase, just after an enemy unit is set up on the battlefield from Reserves.",
-    "target": "One ASTRA MILITARUM or GENESTEALER CULTS unit from your army (excluding MONSTERS and VEHICLES) within 12\" of that enemy unit.",
+    "target": "One **ASTRA MILITARUM** or **GENESTEALER CULTS** unit from your army (excluding **MONSTERS** and **VEHICLES**) within 12\" of that enemy unit.",
     "effect": "Your unit can make a Normal move of up to 6\"."
   },
   {
@@ -1730,9 +1730,9 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#4024f7f1-d14d-464d-85aa-8cc0bf5ce627",
+      "edition": "11e"
     },
     "when": "Any phase, just after an enemy unit ends a move within 9\" of one or more of your Cult Ambush markers, before removing those markers from the battlefield.",
     "target": "Select one of those Cult Ambush markers.",
@@ -1749,12 +1749,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#4cb1bc53-b399-4352-8b12-743fa82c9e82",
+      "edition": "11e"
     },
     "when": "Start of your opponent’s Shooting phase.",
-    "target": "One ABERRANTS, BIOPHAGUS or PURESTRAIN GENESTEALERS unit from your army.",
+    "target": "One **ABERRANTS**, **BIOPHAGUS** or **PURESTRAIN GENESTEALERS** unit from your army.",
     "effect": "Until the end of the phase, each time an enemy unit within 9\" of your unit is selected to shoot, it must take a Leadership test, subtracting 1 from the result. If that test is failed, until the end of the phase, each time a model in that enemy unit makes an attack that targets your unit, subtract 1 from the Hit roll."
   },
   {
@@ -1768,13 +1768,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#a7b25ea7-4f02-426d-8059-064483b8f41a",
+      "edition": "11e"
     },
     "when": "Any phase, just after an enemy unit ends a move within 9\" of one or more of your Cult Ambush markers.",
     "target": "Select one of those Cult Ambush markers.",
-    "effect": "You can set up that Cult Ambush marker anywhere on the battlefield that is more than 9\" horizontally away from all enemy units."
+    "effect": "You can set up that Cult Ambush marker anywhere on the battlefield that is more than 8\" horizontally away from all enemy units."
   },
   {
     "ability_id": "rapid-feint-outlander-claw",
@@ -1787,12 +1787,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#90e8378c-1747-49b3-aaa1-2d6a4ec02f75",
+      "edition": "11e"
     },
     "when": "Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.",
-    "target": "One ACHILLES RIDGERUNNERS or ATALAN JACKALS unit from your army that is within 9\" of that enemy unit.",
+    "target": "One **ACHILLES RIDGERUNNERS** or **ATALAN JACKALS** unit from your army that is within 9\" of that enemy unit.",
     "effect": "Your unit can make a Normal move of up to 6\"."
   },
   {
@@ -1806,12 +1806,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#d1360a0c-0eda-4d70-8a7c-b160d62e177b",
+      "edition": "11e"
     },
     "when": "End of your opponent’s Fight phase.",
-    "target": "One GENESTEALER CULTS MOUNTED or GENESTEALER CULTS VEHICLE unit from your army that is not within Engagement Range of one or more enemy units and is wholly within 9\" of one or more battlefield edges.",
+    "target": "One **GENESTEALER CULTS MOUNTED** or **GENESTEALER CULTS VEHICLE** unit from your army that is not within Engagement Range of one or more enemy units and is wholly within 9\" of one or more battlefield edges.",
     "effect": "Remove your unit from the battlefield and place it into Strategic Reserves."
   },
   {
@@ -1883,13 +1883,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#17595f55-250f-4c5d-88c5-69a79c989cdb",
+      "edition": "11e"
     },
     "when": "Your Charge phase.",
-    "target": "One ACOLYTE HYBRIDS, HYBRID METAMORPHS or NEOPHYTE HYBRIDS unit from your army that has not declared a charge this phase.",
-    "effect": "Until the end of the phase, your unit is eligible to declare a charge in a turn in which it Advanced or Fell Back. When doing so, if it targets an enemy unit within Engagement Range of one or more friendly CHARACTER units, you can re-roll the Charge roll."
+    "target": "One **ACOLYTE HYBRIDS**, **HYBRID METAMORPHS** or **NEOPHYTE HYBRIDS** unit from your army that has not declared a charge this phase.",
+    "effect": "If your unit made an **advance**/**fall-back move** this turn, that **advance**/**fall-back move** does not prevent your unit from being **eligible to declare a charge**. When your unit **declares a charge**, you can use this part of this **stratagem**. If you do: Your unit can re-roll **charge rolls**. Your unit must end that **charge move engaged** with an enemy unit **engaged** with a friendly **CHARACTER** unit."
   },
   {
     "ability_id": "transcendent-celerity-xenocreed-congregation",
@@ -1902,13 +1902,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#33af9d30-cab9-49b0-bb8b-66ac614470c0",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One ACOLYTE HYBRIDS, HYBRID METAMORPHS or NEOPHYTE HYBRIDS unit from your army that has not been selected to shoot this phase.",
-    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the [ASSAULT] ability."
+    "target": "One **ACOLYTE HYBRIDS**, **HYBRID METAMORPHS** or **NEOPHYTE HYBRIDS** unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the **[ASSAULT]** ability."
   },
   {
     "ability_id": "the-path-of-anguish-xenocreed-congregation",
@@ -1921,13 +1921,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#9154029b-9a28-4018-be9a-f198a6972ced",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase, just after an enemy unit has shot.",
-    "target": "One ACOLYTE HYBRIDS or NEOPHYTE HYBRIDS unit from your army that had one or more of its models destroyed as a result of the attacking unit’s attacks.",
-    "effect": "Your unit can make a move of up to D6\", but it unit must end that move as close as possible to the closest enemy unit (excluding AIRCRAFT). When doing so, models in your unit can be moved within Engagement Range of that enemy unit."
+    "target": "One **ACOLYTE HYBRIDS** or **NEOPHYTE HYBRIDS** unit from your army that had one or more of its models destroyed as a result of the attacking unit’s attacks.",
+    "effect": "Your unit can make a move of up to D6\", but it unit must end that move as close as possible to the closest enemy unit (excluding **AIRCRAFT**). When doing so, models in your unit can be moved within Engagement Range of that enemy unit."
   },
   {
     "ability_id": "tunnel-crawlers-host-of-ascension",
@@ -1940,12 +1940,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#07b73b82-71ac-457e-b16a-6b3887d0ae76",
+      "edition": "11e"
     },
     "when": "Your Movement phase.",
-    "target": "One GENESTEALER CULTS unit from your army that is arriving using the Deep Strike ability this phase.",
+    "target": "One **GENESTEALER CULTS** unit from your army that is arriving using the Deep Strike ability this phase.",
     "effect": "Your unit can be set up anywhere on the battlefield that is more than 6\" horizontally away from all enemy units.",
     "restrictions": "A unit targeted by this Stratagem is not eligible to declare a charge in the same turn."
   },
@@ -1960,12 +1960,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#feafb7c5-1b61-432c-9c47-8cefbaf6a6bd",
+      "edition": "11e"
     },
     "when": "Your opponent’s Movement phase.",
-    "target": "One GENESTEALER CULTS BATTLELINE unit from your army in Cult Ambush.",
+    "target": "One **GENESTEALER CULTS BATTLELINE** unit from your army in Cult Ambush.",
     "effect": "Until the end of the phase, when setting your unit up using a Cult Ambush marker, set your unit up anywhere on the battlefield wholly within 6\" of that Cult Ambush marker and not within Engagement Range of one or more enemy units."
   },
   {
@@ -1979,12 +1979,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#d31a2ce5-64ae-4dbc-8212-2d36afb7f389",
+      "edition": "11e"
     },
     "when": "End of your opponent’s Fight phase.",
-    "target": "One GENESTEALER CULTS INFANTRY unit from your army that is not within Engagement Range of one or more enemy units.",
+    "target": "One **GENESTEALER CULTS INFANTRY** unit from your army that is not within Engagement Range of one or more enemy units.",
     "effect": "Remove your unit from the battlefield and place it into Strategic Reserves."
   },
   {
@@ -1998,12 +1998,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#d1a94f20-f4b3-4ec4-8b2c-16c10dccce41",
+      "edition": "11e"
     },
     "when": "Your opponent’s Charge phase, just after an enemy unit declares a charge.",
-    "target": "One GENESTEALER CULTS INFANTRY unit from your army that was selected as a target of that charge.",
+    "target": "One **GENESTEALER CULTS INFANTRY** unit from your army that was selected as a target of that charge.",
     "effect": "Roll one D6: on a 2-4, that enemy unit suffers D3 mortal wounds; on a 5+, that enemy unit suffers 3 mortal wounds."
   },
   {
@@ -2017,13 +2017,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#c7da1f98-33a9-4f15-ae6e-7accbff98fcc",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One ASTRA MILITARUM unit from your army.",
-    "effect": "Select one enemy unit within Engagement Range of one or more GENESTEALER CULTS units from your army. Until the end of the phase, your unit can make ranged attacks that target that enemy unit. If it does, after it has resolved those attacks, roll one D6 for each of those GENESTEALER CULTS units: on a 5+, the unit being rolled for suffers D3+1 mortal wounds."
+    "target": "One **ASTRA MILITARUM** unit from your army.",
+    "effect": "Select one enemy unit within Engagement Range of one or more **GENESTEALER CULTS** units from your army. Until the end of the phase, your unit can make ranged attacks that target that enemy unit. If it does, after it has resolved those attacks, roll one D6 for each of those **GENESTEALER CULTS** units: on a 5+, the unit being rolled for suffers D3+1 mortal wounds."
   },
   {
     "ability_id": "the-downtrodden-rise-xenocreed-congregation",
@@ -2036,12 +2036,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#f86b1f11-1c29-4f27-a110-23184761b26a",
+      "edition": "11e"
     },
-    "when": "End of the Reinforcements step of your opponent’s Movement phase.",
-    "target": "One ACOLYTE HYBRIDS, HYBRID METAMORPHS or NEOPHYTE HYBRIDS unit from your army in Cult Ambush.",
+    "when": "End of your opponent’s Movement phase.",
+    "target": "One **ACOLYTE HYBRIDS**, **HYBRID METAMORPHS** or **NEOPHYTE HYBRIDS** unit from your army in Cult Ambush.",
     "effect": "Until the end of the phase, you can set up your unit on the battlefield without using a Cult Ambush marker. When doing so, set up your unit anywhere on the battlefield that is more than 6\" horizontally away from all enemy units."
   },
   {
@@ -2250,8 +2250,8 @@
     "raw_text": "KELERMORPH/REDUCTUS SABOTEUR model only. This unit's ranged attacks have +2 S."
   },
   {
-    "ability_id": "mark-of-the-star-children-purestrain-broodswarm",
-    "name": "Mark Of The Star Children",
+    "ability_id": "mark-of-the-star-children-upgrade-purestrain-broodswarm",
+    "name": "Mark of the Star Children (Upgrade)",
     "faction_id": "genestealer-cults",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -2301,8 +2301,8 @@
     "raw_text": "MAGUS/PRIMUS model only. This unit's attacks can reroll damage rolls."
   },
   {
-    "ability_id": "devious-disguises-xenocult-masses",
-    "name": "Devious Disguises",
+    "ability_id": "devious-disguises-upgrade-xenocult-masses",
+    "name": "Devious Disguises (Upgrade)",
     "faction_id": "genestealer-cults",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -2328,11 +2328,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#d9d6cbe6-3df2-4a10-be73-424fe1d490c5",
+      "edition": "11e"
     },
-    "raw_text": "Each time an ASTRA MILITARUM unit from your army (see below) is selected to shoot, you can select one enemy unit within 18\" of and visible to that unit. If you do, until the end of the phase, models in that ASTRA MILITARUM unit can only target that enemy unit (and only if it is an eligible target) and that enemy unit is caught in overlapping fire. While an enemy unit is caught in overlapping fire, each time a GENESTEALER CULTS model from your army targets that enemy unit with a ranged attack, add 1 to the Hit roll."
+    "raw_text": "Each time an **ASTRA MILITARUM** unit from your army (see below) is selected to shoot, you can select one enemy unit within 18\" of and visible to that unit. If you do, until the end of the phase, models in that **ASTRA MILITARUM** unit can only target that enemy unit (and only if it is an eligible target) and that enemy unit is caught in overlapping fire. While an enemy unit is caught in overlapping fire, each time a **GENESTEALER CULTS** model from your army targets that enemy unit with a ranged attack, add 1 to the Hit roll."
   },
   {
     "ability_id": "brood-brothers",
@@ -2345,11 +2345,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#692e28b8-13f6-4464-80ad-d4dca1f1d287",
+      "edition": "11e"
     },
-    "raw_text": "You can include ASTRA MILITARUM units in your army, even though they do not have the GENESTEALER CULTS Faction keyword. The combined points cost of such units you can include in your army is: - A GENESTEALER CULTS model must be your WARLORD, and ASTRA MILITARUM models from your army lose the Voice of Command ability if they have it. You cannot include units with any of the following keywords in your army using this rule: AIRCRAFT; COMMISSAR; EPIC HERO; MILITARUM TEMPESTUS; OGRYN; RATLING; TECH-PRIEST ENGINSEER; MINISTORUM PRIEST."
+    "raw_text": "You can include **ASTRA MILITARUM** units in your army, even though they do not have the **GENESTEALER CULTS** Faction keyword. The combined points cost of such units you can include in your army is:\n-\nA **GENESTEALER CULTS** model must be your **WARLORD**, and **ASTRA MILITARUM** models from your army lose the Voice of Command ability if they have it. You cannot include units with any of the following keywords in your army using this rule: **AIRCRAFT**; **COMMISSAR**; **EPIC HERO**; **MILITARUM TEMPESTUS**; **OGRYN**; **RATLING**; **TECH-PRIEST ENGINSEER**; **MINISTORUM PRIEST**."
   },
   {
     "ability_id": "hypermorphic-fury",
@@ -2362,11 +2362,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#bb51fe29-292d-4c77-a593-ea15daa0d3e3",
+      "edition": "11e"
     },
-    "raw_text": "Add 1 to Charge rolls made for ABERRANTS, BIOPHAGUS and PURESTRAIN GENESTEALERS units from your army. In addition, each time such a unit is selected to fight, if it made a Charge move this turn, until the end of the phase, add 1 to the Attacks characteristic of melee weapons equipped by models in that unit."
+    "raw_text": "Add 1 to Charge rolls made for **ABERRANTS**, **BIOPHAGUS** and **PURESTRAIN GENESTEALERS** units from your army. In addition, each time such a unit is selected to fight, if it made a Charge move this turn, until the end of the phase, add 1 to the Attacks characteristic of melee weapons equipped by models in that unit."
   },
   {
     "ability_id": "rapid-takeover",
@@ -2379,11 +2379,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#ccfe9240-89b1-433e-a3b9-e7557e36d2a6",
+      "edition": "11e"
     },
-    "raw_text": "While a GENESTEALER CULTS MOUNTED or GENESTEALER CULTS VEHICLE model from your army is not Battle-shocked, add 1 to its Objective Control characteristic. In addition, at the end of your Command phase, if one or more ATALAN JACKALS units from your army are within range of an objective marker you control, that objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
+    "raw_text": "While a **GENESTEALER CULTS MOUNTED**/**VEHICLE** model from your army is not Battle-shocked, add 1 to its Objective Control characteristic. In addition, at the end of your Command phase, if one or more **ATALAN JACKALS** units from your army are within range of an **objective** you control, that **objective** remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
   },
   {
     "ability_id": "psionic-parasitism",
@@ -2396,11 +2396,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#7767306f-ad29-4d17-8510-f5dcb2a06f78",
+      "edition": "11e"
     },
-    "raw_text": "At the end of your Movement phase, for each TYRANIDS SYNAPSE unit from your army, you can select one friendly GENESTEALER CULTS unit (excluding PURESTRAIN GENESTEALER and PATRIARCH units) and one friendly TYRANIDS unit each within 9\" of and visible to that Synapse unit. If you do, that GENESTEALER CULTS unit from your army suffers D3+1 mortal wounds and one model in the selected TYRANIDS unit regains up to that many lost wounds and until the start of your next Movement phase, each time a model in the selected TYRANIDS unit makes an attack, add 1 to the Hit roll. TYRANIDS units from your army have the following ability: Catalyst (Aura): While an enemy unit is within 6\" of this unit, each time a friendly GENESTEALER CULTS unit makes an attack that targets that enemy unit, add 1 to the Hit roll."
+    "raw_text": "At the end of your Movement phase, for each **TYRANIDS SYNAPSE** unit from your army, you can select one friendly **GENESTEALER CULTS** unit (excluding **PURESTRAIN GENESTEALER** and **PATRIARCH** units) and one friendly **TYRANIDS** unit each within 9\" of and visible to that Synapse unit. If you do, that **GENESTEALER CULTS** unit from your army suffers D3+1 mortal wounds and one model in the selected **TYRANIDS** unit regains up to that many lost wounds and until the start of your next Movement phase, each time a model in the selected **TYRANIDS** unit makes an attack, add 1 to the Hit roll.\n**TYRANIDS** units from your army have the following ability:\n**Catalyst** (**Aura**): While an enemy unit is within 6\" of this unit, each time a friendly **GENESTEALER CULTS** unit makes an attack that targets that enemy unit, add 1 to the Hit roll."
   },
   {
     "ability_id": "unquestioning-fanaticism",
@@ -2413,11 +2413,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#b58f14db-dd11-4e6c-80f0-7e3915af5840",
+      "edition": "11e"
     },
-    "raw_text": "For each ACOLYTE HYBRIDS, HYBRID METAMORPHS and NEOPHYTE HYBRIDS unit from your army, while one or more CHARACTER models are leading that unit, you can re‐roll Advance and Charge rolls made for it. If that CHARACTER model is a MAGUS, PRIMUS or ACOLYTE ICONWARD, that model has the Feel No Pain 3+ ability while leading that unit."
+    "raw_text": "For each **ACOLYTE HYBRIDS**, **HYBRID METAMORPHS** and **NEOPHYTE HYBRIDS** unit from your army, while one or more **CHARACTER** models are leading that unit, you can re‐roll Advance and Charge rolls made for it. If that **CHARACTER** model is a **MAGUS**, **PRIMUS** or **ACOLYTE ICONWARD**, that model has the Feel No Pain 3+ ability while leading that unit."
   },
   {
     "ability_id": "a-perfect-ambush",
@@ -2430,10 +2430,78 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/gsc.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#4947e8db-c886-450b-a59c-4e3455f2d533",
+      "edition": "11e"
     },
-    "raw_text": "Each time a GENESTEALER CULTS unit from your army is set up on the battlefield as Reinforcements, until the end of your next Fight phase, weapons equipped by models in that unit have the [SUSTAINED HITS 1] and [IGNORES COVER] abilities."
+    "raw_text": "Each time a **GENESTEALER CULTS** unit from your army is set up on the battlefield as Reinforcements, until the end of your next Fight phase, weapons equipped by models in that unit have the **[SUSTAINED HITS 1]** and **[IGNORES COVER]** abilities."
+  },
+  {
+    "ability_id": "hordes-of-the-faithful",
+    "name": "Hordes of the Faithful",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#289da449-4707-4d3e-91e8-ffe2c81b3c18",
+      "edition": "11e"
+    },
+    "raw_text": "In your Command phase, if a friendly Neophyte Hybrids unit is within a **terrain area**, that unit **heals** 3 wounds.\rThis **detachment** has the HOSTS tag and cannot be taken with another HOSTS **detachment**."
+  },
+  {
+    "ability_id": "enemy-within",
+    "name": "Enemy Within",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#5b337e6a-34a4-4fc5-a725-bfb57625867a",
+      "edition": "11e"
+    },
+    "raw_text": "At the end of your opponent’s Fight phase, friendly **unengaged** Purestrain Genestealer units can be placed in **strategic reserves**.\rThis **detachment** has the PURESTRAIN tag and cannot be taken with another PURESTRAIN **detachment**."
+  },
+  {
+    "ability_id": "killer-reputation",
+    "name": "Killer Reputation",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#28217f4d-ffb6-4df2-b0e5-1e78c7f86366",
+      "edition": "11e"
+    },
+    "raw_text": "Friendly Kelermorph/Locus/Reductus Saboteur/Sanctus models have Killer.\rFriendly Killer models’ attacks can:\rRe‑roll **hit rolls** of 1.\rRe‑roll **wound rolls** of 1."
+  },
+  {
+    "ability_id": "cult-ambush",
+    "name": "Cult Ambush",
+    "faction_id": "genestealer-cults",
+    "unit_ids": [],
+    "ability_type": "faction",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#9bacf5d4-bc83-4211-86ad-35433875eedf",
+      "edition": "11e"
+    },
+    "raw_text": "If your Army Faction is **GENESTEALER CULTS**, you start the battle with a number of Resurgence points, depending on the battle size, as shown below.\n■ **Incursion**: 6 Resurgence points\n■ **Strike Force**: 10 Resurgence points\n■ **Onslaught**: 14 Resurgence points\nEach time a unit from your army is destroyed, if every model in that unit has this ability, you can spend the relevant number of Resurgence points shown below based on that unit’s Starting Strength.\nIf you do:\n■ Add a new unit to your army identical to your destroyed unit, in Cult Ambush, at its Starting Strength, with all of its wounds remaining and any **[ONE SHOT]** weapons those models are equipped with considered as not having been shot.\n■ Place one Cult Ambush marker (see below) anywhere on the battlefield that is more than 9\" horizontally away from all enemy units (if this is not possible, no marker is placed).\n**Units in Cult Ambush**\nCult Ambush is a type of Strategic Reserves. Units in Cult Ambush cannot be targeted with the Rapid Ingress Stratagem, but can be set up on the battlefield using a Cult Ambush marker as described below, or by following the rules for Strategic Reserves in a subsequent turn. Units in Cult Ambush are not automically destroyed at the end of the third battle round.\n**Cult Ambush Markers**\nUse a circular 32mm diameter marker for Cult Ambush markers. If an enemy model (excluding **AIRCRAFT**) ends any kind of move within 8\" of a Cult Ambush marker you placed, that Cult Ambush marker is removed from the battlefield. At the end of your opponent’s next Movement phase, for each of your Cult Ambush markers still on the battlefield, you can select one unit from your army that is in Cult Ambush to make an **ingress move**. For that **ingress move**, set that unit up with at least one model in that unit in base contact with that Cult Ambush marker and all other models placed wholly within 3\" of that Cult Ambush marker (that Cult Ambush marker is then removed from the battlefield). Units in Cult Ambush can make an **ingress move** in the first battle round using this rule."
   }
 ]

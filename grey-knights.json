@@ -1143,12 +1143,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/greyknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#99a51877-1c52-4b9f-9e51-22c7716542cf",
+      "edition": "11e"
     },
     "when": "Your Shooting phase or the Fight phase.",
-    "target": "One GREY KNIGHTS PSYKER unit from your army that has not been selected to shoot or fight this phase.",
+    "target": "One **GREY KNIGHTS PSYKER** unit from your army that has not been selected to shoot or fight this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes an attack, you can ignore any or all modifiers to that attack’s Weapon Skill or Ballistic Skill characteristics and/or any or all modifiers to the Hit roll."
   },
   {
@@ -1162,12 +1162,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/greyknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#89df668f-dc91-491b-b41b-ca3370711b4b",
+      "edition": "11e"
     },
     "when": "Your Shooting phase or the Fight phase.",
-    "target": "One GREY KNIGHTS PSYKER unit from your army that has not been selected to shoot or fight this phase.",
+    "target": "One **GREY KNIGHTS PSYKER** unit from your army that has not been selected to shoot or fight this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes an attack, an unmodified Hit roll of 5+ scores a Critical Hit."
   },
   {
@@ -1181,13 +1181,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/greyknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#70353176-4c50-48d7-80a5-8f84c5bdeac8",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One GREY KNIGHTS unit from your army that was set up using the Deep Strike ability this turn and has not been selected to shoot this phase.",
-    "effect": "Until the end of the phase, weapons equipped by models in your unit have the [SUSTAINED HITS 1] ability."
+    "target": "One **GREY KNIGHTS** unit from your army that was set up using the Deep Strike ability this turn and has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, weapons equipped by models in your unit have the **[SUSTAINED HITS 1]** ability."
   },
   {
     "ability_id": "shining-veil-brotherhood-strike",
@@ -1200,12 +1200,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/greyknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#fe2f9054-f743-412b-a33d-f6de5dec93dc",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
-    "target": "One GREY KNIGHTS unit that was selected as the target of one or more of the attacking unit’s attacks.",
+    "target": "One **GREY KNIGHTS** unit that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the end of the phase, your unit has the Stealth ability."
   },
   {
@@ -1219,12 +1219,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/greyknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#5d77830b-d1f3-4b68-be52-4897eec1df38",
+      "edition": "11e"
     },
     "when": "Fight phase.",
-    "target": "One GREY KNIGHTS TERMINATOR unit from your army that has not been selected to fight this phase.",
+    "target": "One **GREY KNIGHTS TERMINATOR** unit from your army that has not been selected to fight this phase.",
     "effect": "Until the end of the phase, add 1 to the Attacks characteristic of melee weapons equipped by models in your unit."
   },
   {
@@ -1238,13 +1238,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/greyknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#2bb127f0-35c3-4e5c-b9b3-86eb75105241",
+      "edition": "11e"
     },
     "when": "Your Shooting phase or the Fight phase.",
-    "target": "One GREY KNIGHTS unit from your army that has not been selected to shoot or fight this phase.",
-    "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets a MONSTER or VEHICLE unit, add 1 to the Wound roll."
+    "target": "One **GREY KNIGHTS** unit from your army that has not been selected to shoot or fight this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets a **MONSTER** or **VEHICLE** unit, add 1 to the Wound roll."
   },
   {
     "ability_id": "forewarned-evasion-augurium-task-force",
@@ -1257,12 +1257,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/greyknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#c11cfbb8-bc11-4d44-bb9e-70ac3cca22cb",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One GREY KNIGHTS WALKER unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "target": "One **GREY KNIGHTS WALKER** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
   },
   {
@@ -1276,12 +1276,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/greyknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#9728fe32-3c48-4487-a8cd-8cdeb79c4e31",
+      "edition": "11e"
     },
     "when": "Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One GREY KNIGHTS INFANTRY unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "target": "One **GREY KNIGHTS INFANTRY** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6. If the result is greater than the current battle round number, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play."
   },
   {
@@ -1295,13 +1295,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/greyknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#979b7a00-af6b-410d-b702-43ea02eb6148",
+      "edition": "11e"
     },
     "when": "End of your Command phase.",
-    "target": "One GREY KNIGHTS PSYKER unit from your army that is not within Engagement Range of one or more enemy units.",
-    "effect": "If your unit has the Deep Strike ability, it can be placed into Strategic Reserves. Designer’s Note: This Stratagem lets players utilise abilities that retain control of objective markers and react to their missions and objectives with this unit."
+    "target": "One **GREY KNIGHTS PSYKER** unit from your army that is not within Engagement Range of one or more enemy units.",
+    "effect": "If your unit has the Deep Strike ability, it can be placed into Strategic Reserves. **Designer’s Note:** *This Stratagem lets players utilise abilities that retain control of objective markers and react to their missions and objectives with this unit.*"
   },
   {
     "ability_id": "hexwrought-reprisal-banishers",
@@ -1314,12 +1314,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/greyknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#d6abfabe-6a83-4f8d-b2bc-e64c5a2114ba",
+      "edition": "11e"
     },
     "when": "End of any phase.",
-    "target": "One GREY KNIGHTS PSYKER unit from your army that is on the battlefield and suffered one or more mortal wounds this phase.",
+    "target": "One **GREY KNIGHTS PSYKER** unit from your army that is on the battlefield and suffered one or more mortal wounds this phase.",
     "effect": "Select one enemy unit which inflicted one or more mortal wounds on your unit this phase, then roll a number of dice equal to the number of mortal wounds your unit suffered this phase: for each 2+, that enemy unit suffers one mortal wound (to a maximum of 6 mortal wounds). These mortal wounds are Psychic Attacks."
   },
   {
@@ -1333,12 +1333,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/greyknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#5b8c5b24-068e-42ca-a55c-85efa99df5bf",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One GREY KNIGHTS PSYKER unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "target": "One **GREY KNIGHTS PSYKER** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the end of the phase, models in your unit have the Feel No Pain 5+ ability against attacks with an unmodified Damage characteristic of 1."
   },
   {
@@ -1352,13 +1352,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/greyknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#b325fd46-a00d-4ea6-87f6-f003609e2c7a",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One GREY KNIGHTS PSYKER unit from your army that has not been selected to shoot this phase.",
-    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the [ANTI-CHAOS 4+] ability."
+    "target": "One **GREY KNIGHTS PSYKER** unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the **[ANTI-CHAOS 4+]** ability."
   },
   {
     "ability_id": "celerity-banishers",
@@ -1371,12 +1371,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/greyknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#6562afef-7c55-4453-8b24-f076004aed1d",
+      "edition": "11e"
     },
     "when": "Your Charge phase.",
-    "target": "One GREY KNIGHTS PSYKER INFANTRY unit from your army.",
+    "target": "One **GREY KNIGHTS PSYKER INFANTRY** unit from your army.",
     "effect": "Until the end of the turn, your unit is eligible to declare a charge in a turn in which it Advanced"
   },
   {
@@ -1390,12 +1390,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/greyknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#6505ab81-3d8c-4844-b54f-ed92f7916a59",
+      "edition": "11e"
     },
     "when": "Start of your opponent’s Movement phase.",
-    "target": "One GREY KNIGHTS CHARACTER model from your army.",
+    "target": "One **GREY KNIGHTS CHARACTER** model from your army.",
     "effect": "Until the end of the phase, enemy units that are set up on the battlefield as Reinforcements cannot be set up within 12\" horizontally of your model."
   },
   {
@@ -1409,12 +1409,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/greyknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#47e924b5-01af-47a4-8ca8-509808d47818",
+      "edition": "11e"
     },
     "when": "Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.",
-    "target": "One GREY KNIGHTS PSYKER unit from your army that is within 9\" of that enemy unit and is not within Engagement Range of one or more enemy units.",
+    "target": "One **GREY KNIGHTS PSYKER** unit from your army that is within 9\" of that enemy unit and is not within Engagement Range of one or more enemy units.",
     "effect": "Your unit can make a Normal move of up to 6\" or, if it has the Deep Strike ability, it can be placed into Strategic Reserves."
   },
   {
@@ -1428,13 +1428,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/greyknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#10a88973-f19c-465a-97b8-7bbd5bd442c0",
+      "edition": "11e"
     },
     "when": "Your Movement phase.",
-    "target": "One GREY KNIGHTS unit from your army that is arriving using the Deep Strike ability this phase.",
-    "effect": "Set your unit up anywhere on the battlefield that is more than 3\" horizontally away from all enemy units, but until the end of the turn, it is not eligible to declare a charge."
+    "target": "One **GREY KNIGHTS** unit from your army that is arriving using the Deep Strike ability this phase.",
+    "effect": "Set your unit up anywhere on the battlefield that is more than 6\" horizontally away from all enemy units, but until the end of the turn, it is not eligible to declare a charge."
   },
   {
     "ability_id": "truesilver-will-sanctic-spearhead",
@@ -1447,12 +1447,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/greyknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#ff093638-de55-4e06-be1c-74f65ba523e7",
+      "edition": "11e"
     },
-    "when": "Any phase, just after a GREY KNIGHTS PSYKER VEHICLE unit from your army suffers a mortal wound.",
-    "target": "That GREY KNIGHTS PSYKER VEHICLE unit.",
+    "when": "Any phase, just after a **GREY KNIGHTS PSYKER VEHICLE** unit from your army suffers a mortal wound.",
+    "target": "That **GREY KNIGHTS PSYKER VEHICLE** unit.",
     "effect": "Until the end of the phase, models in your unit have the Feel No Pain 4+ ability against mortal wounds."
   },
   {
@@ -1466,12 +1466,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/greyknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#1d199aa0-6532-4d07-92b0-bb05550242b5",
+      "edition": "11e"
     },
     "when": "The Reinforcements step of your opponent’s Movement phase, just after an enemy unit is set up.",
-    "target": "One GREY KNIGHTS PSYKER unit from your army that is within 12\" of that enemy unit and is not within Engagement Range of one or more enemy units.",
+    "target": "One **GREY KNIGHTS PSYKER** unit from your army that is within 12\" of that enemy unit and is not within Engagement Range of one or more enemy units.",
     "effect": "If your unit has the Deep Strike ability, it can be placed into Strategic Reserves."
   },
   {
@@ -1485,12 +1485,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/greyknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#f4ee723f-87ba-49df-a34a-a31358b591ae",
+      "edition": "11e"
     },
-    "when": "Your opponent’s Movement phase, just after an enemy unit within Engagement Range of one or more GREY KNIGHTS units from your army Falls Back.",
-    "target": "One of those GREY KNIGHTS units that is not within Engagement Range of one or more enemy units.",
+    "when": "Your opponent’s Movement phase, just after an enemy unit within Engagement Range of one or more **GREY KNIGHTS** units from your army Falls Back.",
+    "target": "One of those **GREY KNIGHTS** units that is not within Engagement Range of one or more enemy units.",
     "effect": "If your unit has the Deep Strike ability, it can be placed into Strategic Reserves."
   },
   {
@@ -1504,12 +1504,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/greyknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#2c4768fb-fc8c-46bd-8e3c-9475b01da6fb",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase or the Fight phase.just after an enemy unit has selected its targets.",
-    "target": "One GREY KNIGHTS INFANTRY unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "target": "One **GREY KNIGHTS INFANTRY** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not shot or fought this phase, roll one D6. On a 4+, do not remove the destroyed model from play; it can shoot or fight after the attacking unit has finished making its attacks, and is then removed from play."
   },
   {
@@ -1523,13 +1523,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/greyknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#c0addec3-227c-404f-a291-d2cbf4e87772",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One GREY KNIGHTS INFANTRY unit from your army that has not been selected to shoot this phase.",
-    "effect": "Until the end of the phase, storm bolter weapons equipped by models in your unit have the [PISTOL] and [TWIN-LINKED] abilities."
+    "target": "One **GREY KNIGHTS INFANTRY** unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, storm bolter weapons equipped by models in your unit have the **[PISTOL]** and **[TWIN-LINKED]** abilities."
   },
   {
     "ability_id": "grind-them-underfoot-hallowed-conclave",
@@ -1542,12 +1542,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/greyknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#18fe5a9a-f13b-4207-8113-56e0cbe207cd",
+      "edition": "11e"
     },
-    "when": "Your Charge phase, just after a GREY KNIGHTS TERMINATOR unit from your army ends a Charge move.",
-    "target": "That GREY KNIGHTS unit.",
+    "when": "Your Charge phase, just after a **GREY KNIGHTS TERMINATOR** unit from your army ends a Charge move.",
+    "target": "That **GREY KNIGHTS** unit.",
     "effect": "Select one enemy unit within Engagement Range of your unit, then roll one D6 for each model in your unit that is within Engagement Range of that enemy unit: for each 4+, that enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds)."
   },
   {
@@ -1561,12 +1561,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/greyknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#3d11ed32-99da-4804-bfe1-5ceca5bda07a",
+      "edition": "11e"
     },
     "when": "Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.",
-    "target": "One GREY KNIGHTS INFANTRY unit from your army that is within 9\" of that enemy unit and not within Engagement Range of one or more enemy units.",
+    "target": "One **GREY KNIGHTS INFANTRY** unit from your army that is within 9\" of that enemy unit and not within Engagement Range of one or more enemy units.",
     "effect": "Your unit can make a Normal move of up to D6\"."
   },
   {
@@ -1580,12 +1580,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/greyknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#cc57b05a-4f98-4d78-9e26-f9ae67f6dd79",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
-    "target": "One GREY KNIGHTS INFANTRY unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "target": "One **GREY KNIGHTS INFANTRY** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the end of the phase, each time an attack targets your unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of your unit, subtract 1 from the Wound roll."
   },
   {
@@ -1599,12 +1599,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/greyknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#9f7a24c9-8984-4968-b298-c8154edd47dc",
+      "edition": "11e"
     },
     "when": "Your Command phase.",
-    "target": "One GREY KNIGHTS PSYKER VEHICLE unit from your army.",
+    "target": "One **GREY KNIGHTS PSYKER VEHICLE** unit from your army.",
     "effect": "One model in your unit regains up to 3 lost wounds."
   },
   {
@@ -1618,12 +1618,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/greyknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#8ed11008-bfff-46f6-be2c-07268ed8dc2f",
+      "edition": "11e"
     },
-    "when": "Your Movement phase, just after a GREY KNIGHTS VEHICLE unit from your army Falls Back.",
-    "target": "That GREY KNIGHTS VEHICLE unit.",
+    "when": "Your Movement phase, just after a **GREY KNIGHTS VEHICLE** unit from your army Falls Back.",
+    "target": "That **GREY KNIGHTS VEHICLE** unit.",
     "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
   },
   {
@@ -1637,12 +1637,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/greyknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#34aaebd6-22a5-4c6d-855a-dc56f6315c8f",
+      "edition": "11e"
     },
     "when": "Your Movement phase or your Charge phase.",
-    "target": "One GREY KNIGHTS VEHICLE unit from your army that has not been selected to move or charge this phase",
+    "target": "One **GREY KNIGHTS VEHICLE** unit from your army that has not been selected to move or charge this phase",
     "effect": "Until the end of the phase, each time your unit makes a Normal, Advance or Charge move, it can move horizontally through terrain features"
   },
   {
@@ -1656,12 +1656,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/greyknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#4569dfc7-9a1b-47d6-86f2-04bb9b6a3e89",
+      "edition": "11e"
     },
-    "when": "Your Charge phase, just after a GREY KNIGHTS VEHICLE unit from your army ends a Charge move.",
-    "target": "That GREY KNIGHTS VEHICLE unit.",
+    "when": "Your Charge phase, just after a **GREY KNIGHTS VEHICLE** unit from your army ends a Charge move.",
+    "target": "That **GREY KNIGHTS VEHICLE** unit.",
     "effect": "Each enemy unit within 3\" of your unit must take a Battle-shock test, subtracting 1 from that test."
   },
   {
@@ -1675,13 +1675,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/greyknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#c27c1fef-b27d-4d79-a325-8081ab9992c9",
+      "edition": "11e"
     },
     "when": "Fight phase.",
-    "target": "One GREY KNIGHTS INFANTRY unit from your army that has not been selected to fight this phase.",
-    "effect": "Until the end of the phase, Psychic weapons equipped by models in your unit have the [DEVASTATING WOUNDS] ability,"
+    "target": "One **GREY KNIGHTS INFANTRY** unit from your army that has not been selected to fight this phase.",
+    "effect": "Until the end of the phase, Psychic weapons equipped by models in your unit have the **[DEVASTATING WOUNDS]** ability,"
   },
   {
     "ability_id": "expeditious-exit-brotherhood-strike",
@@ -1694,13 +1694,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/greyknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#faec38a4-dc35-4f94-a2bc-7529c196ad9b",
+      "edition": "11e"
     },
     "when": "End of your opponent’s Fight phase.",
-    "target": "One GREY KNIGHTS PSYKER INFANTRY unit from your army.",
-    "effect": "If every model in your unit has the Deep Strike ability, remove your unit from the battlefield and place it into Strategic Reserves. Designer’s Note: This Stratagem allows you to remove a unit in addition to those removed using the Gate of Infinity rule, and it allows you to remove a unit within Engagement Range of one or more enemy units."
+    "target": "One **GREY KNIGHTS PSYKER INFANTRY** unit from your army.",
+    "effect": "If every model in your unit has the Deep Strike ability, remove your unit from the battlefield and place it into Strategic Reserves. **Designer’s Note:** *This Stratagem allows you* to *remove a unit in addition* to *those removed using the Gate of Infinity rule, and it allows you* to *remove a unit within Engagement Range of one* or *more enemy units.*"
   },
   {
     "ability_id": "sanctified-kill-zone-warpbane-task-force",
@@ -2022,8 +2022,8 @@
     "raw_text": "TERMINATOR model only. At the start of your Shooting phase, you can select one visible enemy unit within 12\" of this unit. That enemy unit has +6\" detection range."
   },
   {
-    "ability_id": "precognicient-volleys-fires-of-purgation",
-    "name": "Precognicient Volleys",
+    "ability_id": "precognicient-volleys-upgrade-fires-of-purgation",
+    "name": "Precognicient Volleys (Upgrade)",
     "faction_id": "grey-knights",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -2039,8 +2039,8 @@
     "raw_text": "PURGATION SQUAD unit only. This unit's snap shooting attacks hit on unmodified hit rolls of 5+."
   },
   {
-    "ability_id": "boons-of-deimos-fires-of-purgation",
-    "name": "Boons Of Deimos",
+    "ability_id": "boons-of-deimos-upgrade-fires-of-purgation",
+    "name": "Boons of Deimos (Upgrade)",
     "faction_id": "grey-knights",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -2056,8 +2056,8 @@
     "raw_text": "PURGATION SQUAD unit only. This unit's ranged attacks have +2 S."
   },
   {
-    "ability_id": "predestined-coordinates-immaterial-interdiction",
-    "name": "Predestined Coordinates",
+    "ability_id": "predestined-coordinates-upgrade-immaterial-interdiction",
+    "name": "Predestined Coordinates (Upgrade)",
     "faction_id": "grey-knights",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -2073,8 +2073,8 @@
     "raw_text": "INTERCEPTOR SQUAD unit only. In your first Movement phase, this unit can make an ingress move."
   },
   {
-    "ability_id": "astral-overlap-immaterial-interdiction",
-    "name": "Astral Overlap",
+    "ability_id": "astral-overlap-upgrade-immaterial-interdiction",
+    "name": "Astral Overlap (Upgrade)",
     "faction_id": "grey-knights",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -2100,11 +2100,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/greyknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#0a1bf1e0-da14-45d5-a15f-3d7ec9a0df56",
+      "edition": "11e"
     },
-    "raw_text": "From the second battle round onwards, at the start of your Movement phase, if you did not select the maximum number of GREY KNIGHTS units from your army using the Gate of Infinity ability at the end of your opponent’s previous turn, you can select one GREY KNIGHTS unit from your army that is on the battlefield that could have been selected using the Gate of Infinity ability. Remove that unit from the battlefield and place it into Strategic Reserves. Designer’s Note: *This means that your unit can retain its position* on *the battlefield at the end of your Command phase, and then be placed into Strategic Reserves at the start of your Movement phase,* to *set it up again in your Reinforcements step in another position.*"
+    "raw_text": "From the second battle round onwards, at the start of your Movement phase, if you did not select the maximum number of **GREY KNIGHTS** units from your army using the Gate of Infinity ability at the end of your opponent’s previous turn, you can select one **GREY KNIGHTS** unit from your army that is on the battlefield that could have been selected using the Gate of Infinity ability. Remove that unit from the battlefield and place it into Strategic Reserves.\n**Designer’s Note:** *This means that your unit can retain its position* on *the battlefield at the end of your Command phase, and then be placed into Strategic Reserves at the start of your Movement phase,* to *set it up again in your Reinforcements step in another position.*"
   },
   {
     "ability_id": "channelled-force",
@@ -2117,11 +2117,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/greyknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#ed4a222f-7ed6-4e9d-b310-0cb08a3c4906",
+      "edition": "11e"
     },
-    "raw_text": "Each time a GREY KNIGHTS unit from your army is selected to fight, that unit can take a Leadership test. If that test is passed, select one of the following rules. Until the end of the phase, that unit has that rule. Melee weapons equipped by models in this unit with the [PSYCHIC] ability also have the [SUSTAINED HITS 1] ability. Melee weapons equipped by models in this unit with the [PSYCHIC] ability also have the [LETHAL HITS] ability."
+    "raw_text": "Each time a **GREY KNIGHTS** unit from your army is selected to fight, that unit can take a Leadership test. If that test is passed, select one of the following rules. Until the end of the phase, that unit has that rule.\n■ Melee weapons equipped by models in this unit with the **[PSYCHIC]** ability also have the **[SUSTAINED HITS 1]** ability.\n■ Melee weapons equipped by models in this unit with the **[PSYCHIC]** ability also have the **[LETHAL HITS]** ability."
   },
   {
     "ability_id": "hallowed-ground",
@@ -2134,11 +2134,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/greyknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#016e04ae-6e40-4e1f-bb09-6cd7ce5f2b76",
+      "edition": "11e"
     },
-    "raw_text": "Certain areas of the battlefield are within your army’s Hallowed Ground, as follows: Your deployment zone is always within your army’s Hallowed Ground. The area of the battlefield within 6\" of one or more PURIFIER SQUAD units from your army is within your army’s Hallowed Ground. At the start of any phase, if you control at least half of the objective markers within No Man’s Land, until the end of that phase, No Man’s Land is within your army’s Hallowed Ground. At the start of any phase, if you control at least half of the objective markers within your opponent’s deployment zone, until the end of that phase, your opponent’s deployment zone is within your army’s Hallowed Ground. Each time a model in a GREY KNIGHTS unit from your army makes a ranged attack that targets a visible target or makes a melee attack, re‐roll a Hit roll of 1. If that unit is a PURIFIER SQUAD and/or is wholly within your army’s Hallowed Ground, you can re‐roll the Hit roll instead."
+    "raw_text": "Certain areas of the battlefield are within your army’s Hallowed Ground, as follows:\n■ Your deployment zone is always within your army’s Hallowed Ground.\n■ The area of the battlefield within 6\" of one or more **PURIFIER SQUAD** units from your army is within your army’s Hallowed Ground.\n■ At the start of any phase, if you control at least half of the objective markers within No Man’s Land, until the end of that phase, No Man’s Land is within your army’s Hallowed Ground.\n■ At the start of any phase, if you control at least half of the objective markers within your opponent’s deployment zone, until the end of that phase, your opponent’s deployment zone is within your army’s Hallowed Ground.\nEach time a model in a **GREY KNIGHTS** unit from your army makes a ranged attack that targets a visible target or makes a melee attack, re‐roll a Hit roll of 1. If that unit is a **PURIFIER SQUAD** and/or is wholly within your army’s Hallowed Ground, you can re‐roll the Hit roll instead."
   },
   {
     "ability_id": "fury-of-titan",
@@ -2151,9 +2151,9 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/greyknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#1061f2f7-cf9f-4b42-b21a-1bf3ec263eb5",
+      "edition": "11e"
     },
     "raw_text": "Each time a unit from your army is set up using the Deep Strike ability, until the end of the turn, each time a model in that unit makes an attack, re-roll a Hit roll of 1 and re-roll a Wound roll of 1."
   },
@@ -2168,11 +2168,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/greyknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#315f6fdb-a89f-4a0d-ae0c-331cfb03bdd6",
+      "edition": "11e"
     },
-    "raw_text": "GREY KNIGHTS TERMINATOR units from your army are eligible to shoot and declare a charge in a turn in which they Fell Back."
+    "raw_text": "**GREY KNIGHTS TERMINATOR** units from your army are eligible to shoot and declare a charge in a turn in which they Fell Back."
   },
   {
     "ability_id": "mailed-fist",
@@ -2185,11 +2185,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/greyknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#a2c33cb8-a90f-427a-b1b2-7f15b0207e36",
+      "edition": "11e"
     },
-    "raw_text": "Each time a GREY KNIGHTS VEHICLE unit from your army Advances, do not make an Advance roll for it; until the end of the phase, add 6\" to the Move characteristic of models in that unit, and until the end of the turn, ranged weapons equipped by models in that unit have the [ASSAULT] ability."
+    "raw_text": "Each time a **GREY KNIGHTS VEHICLE** unit from your army Advances, do not make an Advance roll for it; until the end of the phase, add 6\" to the Move characteristic of models in that unit, and until the end of the turn, ranged weapons equipped by models in that unit have the **[ASSAULT]** ability."
   },
   {
     "ability_id": "dauntless-champions",
@@ -2241,5 +2241,22 @@
       "ref": "eng_08-06_warhammer40000_faction_pack_grey_knights-geqfqwt3wh-g2fikyrqup.pdf"
     },
     "raw_text": "In your Shooting phase, when a friendly INTERCEPTOR SQUAD unit has shot, if that unit did not make an ingress move this turn, you can use this ability. If you do: That unit cannot use its Personal Teleporters ability. That unit can make a surge move of up to D6+1\"."
+  },
+  {
+    "ability_id": "gate-of-infinity",
+    "name": "Gate of Infinity",
+    "faction_id": "grey-knights",
+    "unit_ids": [],
+    "ability_type": "faction",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#bb4413ae-5272-45f1-9fdf-93f8a9570ca6",
+      "edition": "11e"
+    },
+    "raw_text": "If your Army Faction is **GREY KNIGHTS,** at the end of your opponent’s Fight phase, you can select a number of units (see below) from your army that are on the battlefield (excluding units that are within Engagement Range of one or more enemy units), provided every model in those units has this ability. The maximum number of units you can select depends on the battle size, as follows:\nOnce you have made your selections, remove those units from the battlefield and place them into Strategic Reserves."
   }
 ]
