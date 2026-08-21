@@ -40,8 +40,8 @@
     "raw_text": "CANONESS WITH JUMP PACK model only. At the end of your opponent's Fight phase, if this unit is unengaged, you can place this unit in strategic reserves."
   },
   {
-    "ability_id": "symphonic-payload-chorus-of-condemnation",
-    "name": "Symphonic Payload",
+    "ability_id": "symphonic-payload-upgrade-chorus-of-condemnation",
+    "name": "Symphonic Payload (Upgrade)",
     "faction_id": "adepta-sororitas",
     "detachment_id": "chorus-of-condemnation",
     "unit_ids": [],
@@ -142,8 +142,8 @@
     "raw_text": "Friendly CELESTIAN SACRESANTS units' attacks have +1 BS and WS. This detachment has the REVEREND tag and cannot be taken with another REVEREND detachment."
   },
   {
-    "ability_id": "writ-of-compunction-sacred-champions",
-    "name": "Writ of Compunction",
+    "ability_id": "writ-of-compunction-upgrade-sacred-champions",
+    "name": "Writ of Compunction (Upgrade)",
     "faction_id": "adepta-sororitas",
     "detachment_id": "sacred-champions",
     "unit_ids": [],
@@ -260,8 +260,8 @@
     "raw_text": "Enhancements selected from this detachment do not count towards the total number of enhancements in your army. Friendly ADEPTA SORORITAS CHARACTER units have +1 Ld."
   },
   {
-    "ability_id": "hagiomnifex-sanctified-orators",
-    "name": "Hagiomnifex",
+    "ability_id": "hagiomnifex-upgrade-sanctified-orators",
+    "name": "Hagiomnifex (Upgrade)",
     "faction_id": "adepta-sororitas",
     "detachment_id": "sanctified-orators",
     "unit_ids": [],
@@ -514,13 +514,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "pdf",
-      "ref": "eng_11-06_warhammer40000_faction_pack_adepta_sororitas.pdf",
-      "phases": [
-        "Fight"
-      ]
+      "kind": "json",
+      "ref": "mfm-dump",
+      "phases": []
     },
-    "raw_text": "At the start of the Fight phase, each enemy unit within 6\" of this model must take a Battle-shock test, subtracting 1 from that test."
+    "raw_text": "At the start of the Fight phase, each enemy unit within 6\" of this model must take a Battle‑shock test, subtracting 1 from that test."
   },
   {
     "ability_id": "judged-for-execution",
@@ -536,13 +534,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "pdf",
-      "ref": "eng_11-06_warhammer40000_faction_pack_adepta_sororitas.pdf",
-      "phases": [
-        "Movement"
-      ]
+      "kind": "json",
+      "ref": "mfm-dump",
+      "phases": []
     },
-    "raw_text": "At the end of your Movement phase, you can select one enemy unit within 18\" of and visible to this model. Until the start of your next Command phase, each time a friendly Adepta Sororitas model makes an attack that targets that enemy unit, that attack has the [LETHAL HITS] ability."
+    "raw_text": "At the end of your Movement phase, you can select one enemy unit within 18\" of and visible to this model. Until the start of your next Command phase, each time a friendly **ADEPTA SORORITAS** model makes an attack that targets that enemy unit, that attack has the **[LETHAL HITS]** ability."
   },
   {
     "ability_id": "ministorum-sermon",
@@ -734,18 +730,20 @@
     "name": "Acts of Faith",
     "faction_id": "adepta-sororitas",
     "detachment_id": null,
-    "unit_ids": [],
+    "unit_ids": [
+      "intranzia-fraye"
+    ],
     "ability_type": "faction",
     "game_version": {
       "edition": "11th",
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "pdf",
-      "ref": "eng_11-06_warhammer40000_faction_pack_adepta_sororitas.pdf",
+      "kind": "mfm",
+      "ref": "dump",
       "phases": []
     },
-    "raw_text": "If your Army Faction is ADEPTA SORORITAS, you gain 1 Miracle dice: At the start of each battle round. Each time an ADEPTA SORORITAS unit from your army is destroyed. Each time you gain a Miracle dice, roll one D6. The number you roll is the value of that Miracle dice. This value cannot be changed or re-rolled, unless a rule specifically states otherwise. Keep your Miracle dice to one side - this is your Miracle dice pool."
+    "raw_text": "If your Army Faction is **ADEPTA SORORITAS**, each unit from your army with this ability can perform one Act of Faith per phase. This is done using Miracle dice.\nGaining Miracle Dice\nIf your Army Faction is **ADEPTA SORORITAS**, you gain 1 Miracle dice:\n\n■ At the start of each battle round.\n■ Each time an **ADEPTA SORORITAS** unit from your army is destroyed.\n\nEach time you gain a Miracle dice, roll one D6. The number you roll is the value of that Miracle dice. This value cannot be changed or re‐rolled, unless a rule specifically states otherwise. Keep your Miracle dice to one side – this is your Miracle dice pool.\nPerforming an Act of Faith\nBefore making a dice roll for a model or unit from your army with the Acts of Faith ability, if you have one or more dice in your Miracle dice pool, that unit can perform an Act of Faith. If it does, select one of the dice from your Miracle dice pool to substitute that dice roll (if a roll involves more than one dice, e.g. a Charge roll or Battle-shock test, only a single dice can be substituted). The dice that is being substituted is not rolled; instead, the value of the selected Miracle dice is used as if it had been rolled (this counts as an unmodified dice roll of that value for all rules purposes). Each Miracle dice can only be selected for substitution once. Once all Miracle dice substitutions have been made, remove the chosen Miracle dice from your Miracle dice pool, and roll all remaining, unsubstituted dice that are apart of the dice roll. You can use Miracle dice when a unit performs an Act of Faith for any of the following types of dice roll:\n\n■ Advance roll\n■ Battle-shock test\n■ Charge roll\n■ Damage roll\n■ Hit roll\n■ Saving throw\n■ Wound roll\n***Example:** Instead of rolling 2D6 to take a Battle-shock test for a unit, you could use one dice from your Miracle dice pool. If the value of that dice was 4, the unit’s Battle-shock test would be determined by rolling one D6 and adding 4 to it (i.e. it would be D6+4).*\nIt is said the Emperor’s benediction touches the Adepta Sororitas, manifesting as a nimbus of holy light in which his power is revealed in miraculous deeds of fortitude and divine strength."
   },
   {
     "ability_id": "shield-of-aversion-bringers-of-flame",
@@ -2394,13 +2392,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptasororitas.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#a30d560d-8d62-47e7-ab2e-3166b486ce6f",
+      "edition": "11e"
     },
     "when": "Fight phase.",
-    "target": "One PENITENT unit from your army that has not been selected to fight this phase.",
-    "effect": "Until the end of the phase, each time a PENITENT model in your unit makes a melee attack, a successful unmodified Hit roll of 5+ scores a Critical Hit."
+    "target": "One **PENITENT** unit from your army that has not been selected to fight this phase.",
+    "effect": "Until the end of the phase, each time a **PENITENT** model in your unit makes a melee attack, a successful unmodified Hit roll of 5+ scores a Critical Hit."
   },
   {
     "ability_id": "lash-of-guilt-penitent-host",
@@ -2413,13 +2411,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptasororitas.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#d69e5d7f-ef9c-4822-b6fc-b3b5ba87eb7a",
+      "edition": "11e"
     },
-    "when": "Your Movement phase, just before a PENITENT unit from your army Advances.",
-    "target": "That PENITENT unit.",
-    "effect": "Until the end of the turn, your unit is eligible to declare a charge in a turn in which it Advanced. If your unit has the PENITENT ENGINES keyword, do not make an Advance roll for it; instead, until the end of the phase, add 6\" to the Move characteristic of models in your unit."
+    "when": "Your Movement phase, just before a **PENITENT** unit from your army Advances.",
+    "target": "That **PENITENT** unit.",
+    "effect": "Until the end of the turn, your unit is eligible to declare a charge in a turn in which it Advanced. If your unit has the **PENITENT ENGINES** keyword, do not make an Advance roll for it; instead, until the end of the phase, add 6\" to the Move characteristic of models in your unit."
   },
   {
     "ability_id": "purity-of-suffering-penitent-host",
@@ -2432,13 +2430,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptasororitas.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#b1b62829-e231-428c-ab28-f01ec2e5e05f",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One PENITENT unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
-    "effect": "Until the end of the phase, PENITENT models in your unit have the Feel No Pain 4+ ability."
+    "target": "One **PENITENT** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the end of the phase, **PENITENT** models in your unit have the Feel No Pain 4+ ability."
   },
   {
     "ability_id": "righteous-vengeance-hallowed-martyrs",
@@ -2451,12 +2449,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptasororitas.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#4eb9bf89-47c8-4e72-9ec9-949d0b403ae2",
+      "edition": "11e"
     },
     "when": "Fight phase.",
-    "target": "One ADEPTA SORORITAS unit from your army that has not been selected to fight this phase.",
+    "target": "One **ADEPTA SORORITAS** unit from your army that has not been selected to fight this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes a melee attack, you can re-roll the Hit roll and, if your unit is Below Half-strength, you can re-roll the Wound roll as well."
   },
   {
@@ -2470,13 +2468,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptasororitas.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#07a13a5c-5ad0-4a41-ab8c-af3a0b6207d4",
+      "edition": "11e"
     },
     "when": "Fight phase.",
-    "target": "One ADEPTA SORORITAS unit from your army that has not been selected to fight this phase.",
-    "effect": "Until the end of the phase, melee weapons equipped by models in your unit have the [LETHAL HITS] ability. If one or more enemy models are destroyed as the result of attacks made by those weapons this phase, select one of those destroyed models; that destroyed model’s unit must take a Battle-shock test."
+    "target": "One **ADEPTA SORORITAS** unit from your army that has not been selected to fight this phase.",
+    "effect": "Until the end of the phase, melee weapons equipped by models in your unit have the **[LETHAL HITS]** ability. If one or more enemy models are destroyed as the result of attacks made by those weapons this phase, select one of those destroyed models; that destroyed model’s unit must take a Battle-shock test."
   },
   {
     "ability_id": "shield-of-faith-army-of-faith",
@@ -2489,13 +2487,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptasororitas.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#b086ec0e-3e1e-40a6-bcfe-f84331200399",
+      "edition": "11e"
     },
-    "when": "Any phase, just after an ADEPTA SORORITAS unit from your army suffers a mortal wound.",
-    "target": "That ADEPTA SORORITAS unit, or one friendly ADEPTA SORORITAS JUMP PACK unit within 3\" of it.",
-    "effect": "Until the end of the phase, models in your unit have the Feel No Pain 5+ ability against mortal wounds. If you targeted an ADEPTA SORORITAS JUMP PACK unit from your army with this Stratagem, then until the end of the phase, while a friendly ADEPTA SORORITAS unit is within 3\" of your unit, models in that unit have the Feel No Pain 5+ ability against mortal wounds."
+    "when": "Any phase, just after an **ADEPTA SORORITAS** unit from your army suffers a mortal wound.",
+    "target": "That **ADEPTA SORORITAS** unit, or one friendly **ADEPTA SORORITAS JUMP PACK** unit within 3\" of it.",
+    "effect": "Until the end of the phase, models in your unit have the Feel No Pain 5+ ability against mortal wounds. If you targeted an **ADEPTA SORORITAS JUMP PACK** unit from your army with this Stratagem, then until the end of the phase, while a friendly **ADEPTA SORORITAS** unit is within 3\" of your unit, models in that unit have the Feel No Pain 5+ ability against mortal wounds."
   },
   {
     "ability_id": "light-of-the-emperor-army-of-faith",
@@ -2508,13 +2506,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptasororitas.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#9535f9df-440a-42ed-8ce1-fc2b3b3e2e2a",
+      "edition": "11e"
     },
     "when": "Command phase.",
-    "target": "One ADEPTA SORORITAS unit from your army.",
-    "effect": "Until the end of the turn, your unit is blessed. While a unit is blessed, it can ignore any or all modifiers to the following: the profile characteristics of its models; the Weapon Skill or Ballistic Skill characteristics of weapons equipped by its models; any roll or test made for it (excluding modifiers to saving throws). If your unit has the JUMP PACK keyword, until the end of the turn, while a friendly ADEPTA SORORITAS unit is within 3\" of your unit, that friendly unit is also blessed."
+    "target": "One **ADEPTA SORORITAS** unit from your army.",
+    "effect": "Until the end of the turn, your unit is blessed. While a unit is blessed, it can ignore any or all modifiers to the following: the profile characteristics of its models; the Weapon Skill or Ballistic Skill characteristics of weapons equipped by its models; any roll or test made for it (excluding modifiers to saving throws). If your unit has the **JUMP PACK** keyword, until the end of the turn, while a friendly **ADEPTA SORORITAS** unit is within 3\" of your unit, that friendly unit is also blessed."
   },
   {
     "ability_id": "faith-and-fury-army-of-faith",
@@ -2527,13 +2525,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptasororitas.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#76636826-a2ee-46f2-8a54-106731e6ebc8",
+      "edition": "11e"
     },
     "when": "Fight phase.",
-    "target": "One ADEPTA SORORITAS unit from your army that has not been selected to fight this phase.",
-    "effect": "Until the end of the phase, melee weapons equipped by models in your unit have the [LANCE] ability. If one or more enemy models are destroyed as the result of your unit’s attacks this phase, you gain 1 Miracle dice."
+    "target": "One **ADEPTA SORORITAS** unit from your army that has not been selected to fight this phase.",
+    "effect": "Until the end of the phase, melee weapons equipped by models in your unit have the **[LANCE]** ability. If one or more enemy models are destroyed as the result of your unit’s attacks this phase, you gain 1 Miracle dice."
   },
   {
     "ability_id": "divine-guidance-army-of-faith",
@@ -2546,12 +2544,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptasororitas.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#ee842df1-f44d-45b9-9f16-e1ec47871c8f",
+      "edition": "11e"
     },
     "when": "Your Shooting phase or the Fight phase.",
-    "target": "One ADEPTA SORORITAS unit from your army that has not been selected to shoot or fight this phase.",
+    "target": "One **ADEPTA SORORITAS** unit from your army that has not been selected to shoot or fight this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes an attack, improve the Armour Penetration characteristic of that attack by 1. If one or more enemy models are destroyed as the result of any of those attacks, you gain 1 Miracle dice."
   },
   {
@@ -2565,13 +2563,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptasororitas.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#edf56ccf-046e-4f5c-ae39-7ebc3d61d85b",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One ADEPTA SORORITAS unit from your army that has not been selected to shoot this phase.",
-    "effect": "Until the end of the phase, Torrent weapons equipped by models in your unit have the [DEVASTATING WOUNDS] ability."
+    "target": "One **ADEPTA SORORITAS** unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, Torrent weapons equipped by models in your unit have the **[DEVASTATING WOUNDS]** ability."
   },
   {
     "ability_id": "blazing-ire-bringers-of-flame",
@@ -2584,13 +2582,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptasororitas.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#404e1f23-dd4c-4329-8851-86055ac61da4",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase, just after an enemy unit has shot.",
-    "target": "One ADEPTA SORORITAS TRANSPORT unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
-    "effect": "One unit embarked within your TRANSPORT can disembark as if it were your Movement phase, and can then shoot as if it were your Shooting phase, but must target only that enemy unit when doing so, and can only do so if that enemy unit is an eligible target."
+    "target": "One **ADEPTA SORORITAS TRANSPORT** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "One unit embarked within your **TRANSPORT** can disembark as if it were your Movement phase, and can then shoot as if it were your Shooting phase, but must target only that enemy unit when doing so, and can only do so if that enemy unit is an eligible target."
   },
   {
     "ability_id": "final-redemption-penitent-host",
@@ -2603,12 +2601,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptasororitas.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#48c7a8f7-8bee-4691-bd16-bc748c5c8144",
+      "edition": "11e"
     },
     "when": "Any phase.",
-    "target": "One PENITENT unit from your army that was just destroyed while it was within range of an objective marker you controlled. You can use this Stratagem on that unit even though it was just destroyed.",
+    "target": "One **PENITENT** unit from your army that was just destroyed while it was within range of an objective marker you controlled. You can use this Stratagem on that unit even though it was just destroyed.",
     "effect": "That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
   },
   {
@@ -2622,13 +2620,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptasororitas.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#cf743f7c-6df2-40ea-96f7-cdb0de92947e",
+      "edition": "11e"
     },
-    "when": "Your Movement phase, just after an ADEPTA SORORITAS unit from your army Falls Back.",
-    "target": "That ADEPTA SORORITAS unit.",
-    "effect": "Until the end of the turn, your unit is eligible to shoot or declare a charge in a turn in which it Fell Back. If your unit has the PENITENT keyword, it is eligible to shoot and declare a charge in a turn in which it Fell Back instead."
+    "when": "Your Movement phase, just after an **ADEPTA SORORITAS** unit from your army Falls Back.",
+    "target": "That **ADEPTA SORORITAS** unit.",
+    "effect": "Until the end of the turn, your unit is eligible to shoot or declare a charge in a turn in which it Fell Back. If your unit has the **PENITENT** keyword, it is eligible to shoot and declare a charge in a turn in which it Fell Back instead."
   },
   {
     "ability_id": "sanctified-immolation-hallowed-martyrs",
@@ -2641,12 +2639,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptasororitas.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#3cb5147f-4861-46f4-9cc3-5d7e51a985f4",
+      "edition": "11e"
     },
     "when": "Any phase.",
-    "target": "One ADEPTA SORORITAS VEHICLE model from your army with the Deadly Demise ability that was just destroyed. You can use this Stratagem on that model even though it was just destroyed.",
+    "target": "One **ADEPTA SORORITAS VEHICLE** model from your army with the Deadly Demise ability that was just destroyed. You can use this Stratagem on that model even though it was just destroyed.",
     "effect": "Do not roll one D6 to determine whether mortal wounds are inflicted by your model’s Deadly Demise ability. Instead, mortal wounds are automatically inflicted."
   },
   {
@@ -2660,12 +2658,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptasororitas.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#49387306-4b1b-4c97-b135-e3867da6a890",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase, just after an enemy unit has shot.",
-    "target": "One ADEPTA SORORITAS unit from your army that had one or more of its models destroyed as a result of the attacking unit’s attacks.",
+    "target": "One **ADEPTA SORORITAS** unit from your army that had one or more of its models destroyed as a result of the attacking unit’s attacks.",
     "effect": "Your unit can shoot as if it were your Shooting phase, but it must target only that enemy unit when doing so, and can only do so if that enemy unit is an eligible target."
   },
   {
@@ -2679,13 +2677,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptasororitas.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#86a868ed-2e90-4bfe-92b7-b2dcd310d09f",
+      "edition": "11e"
     },
-    "when": "Your Movement phase, just before an ADEPTA SORORITAS TRANSPORT model from your army Advances.",
-    "target": "That ADEPTA SORORITAS TRANSPORT model.",
-    "effect": "Until the end of the turn, you can re-roll Advance rolls made for your TRANSPORT, and units can disembark from your TRANSPORT even though it Advanced. Units that do so count as having made a Normal move, and cannot declare a charge this turn."
+    "when": "Your Movement phase, just before an **ADEPTA SORORITAS TRANSPORT** model from your army Advances.",
+    "target": "That **ADEPTA SORORITAS TRANSPORT** model.",
+    "effect": "Until the end of the turn, you can re-roll Advance rolls made for your **TRANSPORT**, and units can disembark from your **TRANSPORT** even though it Advanced. Units that do so count as having made a Normal move, and cannot declare a charge this turn."
   },
   {
     "ability_id": "blinding-radiance-army-of-faith",
@@ -2698,13 +2696,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptasororitas.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#ee04ab6a-a93f-40e8-b415-d48b5c5e88ba",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One ADEPTA SORORITAS unit from your army that was selected as the target of one or more of the attacking unit’s attacks, or one friendly ADEPTA SORORITAS JUMP PACK unit within 3\" of such a unit.",
-    "effect": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll. If you targeted an ADEPTA SORORITAS JUMP PACK unit from your army with this Stratagem, then until the end of the phase, while a friendly ADEPTA SORORITAS unit is within 3\" of your unit, each time an attack targets that unit, subtract 1 from the Hit roll."
+    "target": "One **ADEPTA SORORITAS** unit from your army that was selected as the target of one or more of the attacking unit’s attacks, or one friendly **ADEPTA SORORITAS JUMP PACK** unit within 3\" of such a unit.",
+    "effect": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll. If you targeted an **ADEPTA SORORITAS JUMP PACK** unit from your army with this Stratagem, then until the end of the phase, while a friendly **ADEPTA SORORITAS** unit is within 3\" of your unit, each time an attack targets that unit, subtract 1 from the Hit roll."
   },
   {
     "ability_id": "angelic-descent-army-of-faith",
@@ -2717,12 +2715,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptasororitas.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#65ffee4d-9359-4c13-9e30-d85c50670f20",
+      "edition": "11e"
     },
     "when": "End of your opponent’s Fight phase.",
-    "target": "One ADEPTA SORORITAS JUMP PACK unit from your army.",
+    "target": "One **ADEPTA SORORITAS JUMP PACK** unit from your army.",
     "effect": "Remove your unit from the battlefield and place to into Strategic Reserves.",
     "restrictions": "You cannot select a unit that is within Engagement Range of one or more enemy units."
   },
@@ -2737,12 +2735,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptasororitas.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#00b13eda-7883-4367-a3db-75713aaada52",
+      "edition": "11e"
     },
     "when": "Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One ADEPTA SORORITAS unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "target": "One **ADEPTA SORORITAS** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, do not remove it from play. The destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play."
   },
   {
@@ -2775,11 +2773,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptasororitas.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#de580a83-e1b2-4ddd-bd86-450d27e98f32",
+      "edition": "11e"
     },
-    "raw_text": "Each time an ADEPTA SORORITAS model from your army makes an attack, add 1 to the Hit roll if that model’s unit is below its Starting Strength, and add 1 to the Wound roll as well if that model’s unit is Below Half-strength."
+    "raw_text": "Each time an **ADEPTA SORORITAS** model from your army makes an attack, add 1 to the Hit roll if that model’s unit is below its Starting Strength, and add 1 to the Wound roll as well if that model’s unit is Below Half-strength."
   },
   {
     "ability_id": "sacred-rites",
@@ -2792,10 +2790,52 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptasororitas.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#4b487119-6e0b-4bb1-a660-3ff874ea5aec",
+      "edition": "11e"
     },
-    "raw_text": "Each ADEPTA SORORITAS unit from your army can perform up to two Acts of Faith per phase, instead of just one."
+    "raw_text": "Each **ADEPTA SORORITAS** unit from your army can perform up to two Acts of Faith per phase, instead of just one."
+  },
+  {
+    "ability_id": "deadly-demise-1",
+    "name": "Deadly Demise 1",
+    "faction_id": "adepta-sororitas",
+    "detachment_id": null,
+    "unit_ids": [
+      "mortifiers",
+      "intranzia-fraye"
+    ],
+    "ability_type": "core",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "json",
+      "ref": "mfm-dump",
+      "phases": []
+    },
+    "raw_text": "This ability always takes the form Deadly Demise X. Each time a model in this unit is destroyed, after the units embarked within it (if any) have made their emergency disembark moves, roll one D6. On a 6, that model suffers a deadly demise; each unit within 6\" of that model suffers a number of mortal wounds denoted by X (if this is a random number, roll separately for each unit within 6\"). Example: An Impulsor with a unit of Intercessors embarked within it is destroyed by ranged attacks. First, any unresolved attacks made by the attacking unit are resolved. Then the Intercessors make an emergency disembark move. Then the roll is made for the Deadly Demise ability, and on a 6, that ability is resolved. Finally, the Impulsor is removed from the battlefield."
+  },
+  {
+    "ability_id": "feel-no-pain-5",
+    "name": "Feel No Pain 5+",
+    "faction_id": "adepta-sororitas",
+    "detachment_id": null,
+    "unit_ids": [
+      "mortifiers",
+      "intranzia-fraye"
+    ],
+    "ability_type": "core",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "json",
+      "ref": "mfm-dump",
+      "phases": []
+    },
+    "raw_text": "This ability always takes the form Feel No Pain X+. Each time a model with this ability would lose a wound, roll one D6: on an X+, that wound is not lost."
   }
 ]

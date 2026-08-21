@@ -1,7 +1,7 @@
 [
   {
     "ability_id": "waaagh-energy",
-    "name": "Waaagh! Energy",
+    "name": "Waaagh! Energy (Psyker level 1)",
     "faction_id": "orks",
     "unit_ids": [
       "weirdboy"
@@ -9,18 +9,18 @@
     "ability_type": "unit",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-29.jpg, page 148 Weirdboy Abilities panel",
+      "edition": "11e"
     },
-    "raw_text": "While this model is leading a unit, add 1 to the Strength and Damage characteristics of this model’s ’Eadbanger weapon for every 5 models in that unit (rounding down), but while that unit contains 10 or more models, that weapon has the [HAZARDOUS] ability."
+    "raw_text": "This model has the psychic abilities listed in the Psychic Abilities section (see left)."
   },
   {
     "ability_id": "da-jump-psychic",
-    "name": "Da Jump (Psychic)",
+    "name": "Da Jump (Psychic level 1)",
     "faction_id": "orks",
     "unit_ids": [
       "weirdboy"
@@ -28,14 +28,14 @@
     "ability_type": "unit",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; _private/sources/codex-orks-11e/rev-2683/source-images/source-29.jpg; pages 148-149; weirdboy ability panel",
+      "edition": "11e"
     },
-    "raw_text": "Once per turn, at the end of your Movement phase, one WEIRDBOY from your army can use this ability. If it does, roll one D6: on a 1, that WEIRDBOY’s unit suffers D6 mortal wounds; on a 2+, remove that WEIRDBOY’s unit from the battlefield and set it up again anywhere on the battlefield that is more than 9\" horizontally away from all enemy models."
+    "raw_text": "Da Jump (psychic level 1, once per army, per battle round): In your Movement phase, if this unit is not battle-shocked, you can make a psychic roll for this unit by rolling one D6. If you do:\n• On a 1, this unit is battle-shocked.\n• Place this unit in strategic reserves.\n• This unit has Deep Strike."
   },
   {
     "ability_id": "drill-through",
@@ -77,23 +77,22 @@
   },
   {
     "ability_id": "deff-from-above",
-    "name": "Deff from Above",
+    "name": "Deff From Above",
     "faction_id": "orks",
     "unit_ids": [
-      "deffkoptas",
-      "deffkoptas-with-big-shootas"
+      "deffkoptas"
     ],
     "ability_type": "unit",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-08.png, page 161 Deffkoptas abilities",
+      "edition": "11e"
     },
-    "raw_text": "Each time this unit ends a Normal move, you can select one enemy unit it moved over during that move and roll one D6 for each model in this unit: for each 4+, that enemy unit suffers 1 mortal wound."
+    "raw_text": "In your Shooting phase, if this unit made an Advance move this turn, this unit’s ranged attacks have [LETHAL HITS]."
   },
   {
     "ability_id": "rivetin-dakka",
@@ -153,25 +152,6 @@
     "raw_text": "Each time an attack made by this model with its ’urty syringe scores a Critical Wound against a unit (excluding VEHICLE units), that unit suffers D6 mortal wounds."
   },
   {
-    "ability_id": "grot-orderly",
-    "name": "Grot Orderly",
-    "faction_id": "orks",
-    "unit_ids": [
-      "painboy"
-    ],
-    "ability_type": "unit",
-    "game_version": {
-      "edition": "11th",
-      "dataslate": "pre-launch-provisional"
-    },
-    "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
-    },
-    "raw_text": "Once per battle, in your Command phase, if the bearer is leading a unit that is below its Starting Strength, you can return up to D3 destroyed Bodyguard models to that unit."
-  },
-  {
     "ability_id": "shooty-power-trip",
     "name": "Shooty Power Trip",
     "faction_id": "orks",
@@ -214,19 +194,21 @@
     "name": "More Dakka",
     "faction_id": "orks",
     "unit_ids": [
-      "big-mek"
+      "big-mek",
+      "big-mek-in-mega-armour",
+      "big-mek-with-shokk-attack-gun"
     ],
     "ability_type": "unit",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-30.png; pages 140-141; Big Mek and Big Mek in Mega Armour ABILITIES blocks; _private/sources/codex-orks-11e/rev-2683/source-images/source-31.jpg; page 143; big-mek-with-shokk-attack-gun ability panel",
+      "edition": "11e"
     },
-    "raw_text": "While this model is leading a unit, each time a model in that unit makes a ranged attack, re‑roll a Hit roll of 1."
+    "raw_text": "This unit's ranged attacks have:\n• [IGNORES COVER]\n• If this unit is riled up, [SUSTAINED HITS 1]."
   },
   {
     "ability_id": "shokk-boosta",
@@ -238,14 +220,14 @@
     "ability_type": "unit",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-30.png; page 140; Big Mek ABILITIES block",
+      "edition": "11e"
     },
-    "raw_text": "You can re‐roll Advance rolls made for this model’s unit. In addition, each time this model’s unit makes a Normal, Advance or Fall Back move, models in that unit can move through models and terrain features. When doing so, they can move within Engagement Range of such models but cannot end that move within Engagement Range of them, and any Desperate Escape test is automatically passed."
+    "raw_text": "In your Movement phase, when this unit is selected to make an advance move, you can use this ability. If you do:\n• This unit can change that advance roll to a 6.\n• This unit can move through all types of model.\nWhen this unit ends that advance move, make a hazard roll for each model in this unit."
   },
   {
     "ability_id": "wild-ride",
@@ -290,19 +272,19 @@
     "name": "Might is Right",
     "faction_id": "orks",
     "unit_ids": [
-      "warboss-in-mega-armour"
+      "warboss"
     ],
     "ability_type": "unit",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; _private/sources/codex-orks-11e/rev-2683/source-images/source-25.jpg; pages 138-139; warboss ability panel",
+      "edition": "11e"
     },
-    "raw_text": "While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Hit roll."
+    "raw_text": "If this unit made a charge move this turn, this model’s melee attacks have:\n• +1 A.\n• +2 S."
   },
   {
     "ability_id": "dead-brutal",
@@ -352,14 +334,14 @@
     "ability_type": "unit",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-09.png, page 175 Wazbom Blastajet abilities",
+      "edition": "11e"
     },
-    "raw_text": "The bearer has a 4+ invulnerable save, but it loses the GRENADES keyword."
+    "raw_text": "Models in this unit:\n• Have 5+ InvSv.\n• Do not have SMOKE."
   },
   {
     "ability_id": "ramshackle-but-rugged",
@@ -428,14 +410,14 @@
     "ability_type": "unit",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; _private/sources/codex-orks-11e/rev-2683/source-images/source-29.jpg; pages 148-149; boss-snikrot ability panel",
+      "edition": "11e"
     },
-    "raw_text": "Once per battle, in your Movement phase, instead of making a Normal move with this model’s unit, you can remove it from the battlefield and set it up again anywhere on the battlefield that is more than 9\" horizontally away from all enemy models."
+    "raw_text": "Kunnin’ Infiltrator: At the end of your opponent’s Fight phase, if each model in this unit is hidden and unengaged, you can place this unit in strategic reserves."
   },
   {
     "ability_id": "clankin-forward",
@@ -466,14 +448,14 @@
     "ability_type": "unit",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-06.png; Morkanaut abilities panel",
+      "edition": "11e"
     },
-    "raw_text": "Each time this model makes a ranged attack, if the Waaagh! is active for your army, add 1 to the Hit roll."
+    "raw_text": "In your Shooting phase, this unit’s ranged attacks can re-roll hit rolls of 1."
   },
   {
     "ability_id": "prophet-of-da-great-waaagh",
@@ -485,14 +467,14 @@
     "ability_type": "unit",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; _private/sources/codex-orks-11e/rev-2683/source-images/source-25.jpg; pages 138-139; ghazghkull-thraka ability panel",
+      "edition": "11e"
     },
-    "raw_text": "While this unit is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Hit roll and add 1 to the Wound roll and if the Waaagh! is active for your army, a Critical Hit is scored on a successful unmodified Hit roll of 5+."
+    "raw_text": "(Aura): While a friendly ORKS unit is within 6\" of this unit, that unit’s melee attacks have:\n• +1 to hit rolls.\n• +1 to wound rolls."
   },
   {
     "ability_id": "ghazghkull-s-waaagh-banner-aura",
@@ -523,14 +505,14 @@
     "ability_type": "unit",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; _private/sources/codex-orks-11e/rev-2683/source-images/source-25.jpg; pages 138-139; ghazghkull-thraka ability panel",
+      "edition": "11e"
     },
-    "raw_text": "If this unit is in your army, its Ghazghkull Thraka model must be your WARLORD."
+    "raw_text": "If this model is in your army, it must be your WARLORD."
   },
   {
     "ability_id": "trophy-hunters",
@@ -542,33 +524,34 @@
     "ability_type": "unit",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-03.png; Breaka Boyz abilities panel",
+      "edition": "11e"
     },
-    "raw_text": "Each time this unit declares a charge, you can re-roll the Charge roll."
+    "raw_text": "This unit has +1 to charge rolls."
   },
   {
     "ability_id": "bomb-squigs",
     "name": "Bomb Squigs",
     "faction_id": "orks",
     "unit_ids": [
-      "breaka-boyz"
+      "breaka-boyz",
+      "tankbustas"
     ],
     "ability_type": "unit",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-03.png; Breaka Boyz abilities panel; source-images/source-03.png; Tankbustas abilities panel",
+      "edition": "11e"
     },
-    "raw_text": "Once per battle, for each bomb squig this unit has, after this unit ends a Normal move, you can use one Bomb Squig. If you do, select one enemy unit within 12\" and visible to this unit and roll one D6: on a 3+, that enemy unit suffers D3 mortal wounds.\n\nDesigner’s Note: Place two Bomb Squig tokens next to the unit, removing one each time this unit uses this ability."
+    "raw_text": "(Once per turn, twice per battle, per unit): In your Movement phase, when this unit ends a normal move, you can select one visible enemy unit within 12\" of this unit and roll one D6.\n• On a 3+, that enemy unit suffers D3 mortal wounds.\nPlace two Bomb Squig tokens next to the unit, removing one each time this ability is used."
   },
   {
     "ability_id": "attached-unit",
@@ -591,7 +574,7 @@
   },
   {
     "ability_id": "waaagh-effigy-aura",
-    "name": "Waaagh! Effigy (Aura)",
+    "name": "Waaagh! Effigy",
     "faction_id": "orks",
     "unit_ids": [
       "stompa"
@@ -599,14 +582,14 @@
     "ability_type": "unit",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-13.png; Stompa preview datasheet image (not a Codex page)",
+      "edition": "11e"
     },
-    "raw_text": "While a friendly ORKS unit is within 12\" of this model, each time you take a Battle‑shock test for that unit, add 1 to that test."
+    "raw_text": "This unit is riled up."
   },
   {
     "ability_id": "stompin-forward",
@@ -656,14 +639,14 @@
     "ability_type": "unit",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-03.png; Tankbustas ABILITIES panel",
+      "edition": "11e"
     },
-    "raw_text": "Once per battle, when the bearer’s unit is selected to shoot in your Shooting phase, the bearer can use its pulsa rokkit. If it does, until the end of the phase, improve the Strength and Armour Penetration characteristics of ranged weapons equipped by models in the bearer’s unit by 1."
+    "raw_text": "(Once per battle, per unit): In your Shooting phase, when this unit is selected to shoot, you can select one enemy MONSTER/VEHICLE unit within 24\" of this unit. If you do so, this unit’s attacks that target that unit have:\n• +1 AP.\n• [LETHAL HITS]"
   },
   {
     "ability_id": "sneaky-gitz",
@@ -808,14 +791,14 @@
     "ability_type": "unit",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-06.png; Gorkanaut abilities panel",
+      "edition": "11e"
     },
-    "raw_text": "Each time this model makes a melee attack, if the Waaagh! is active for your army, add 1 to the Hit roll."
+    "raw_text": "This unit’s melee attacks can re-roll hit rolls of 1."
   },
   {
     "ability_id": "splat",
@@ -849,11 +832,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#0fb25d0d-f1a3-4a1e-aeeb-403437135ac7",
+      "edition": "11e"
     },
-    "raw_text": "This unit is eligible to declare a charge in a turn in which it Advanced or Fell Back."
+    "when": "Your Charge phase, just after a **SPEED FREEKS** unit from your army ends a Charge move.",
+    "target": "That **SPEED FREEKS** unit.",
+    "effect": "Until the end of the turn, each time a model in your unit makes a melee attack, add 1 to the Wound roll."
   },
   {
     "ability_id": "gun-crazy-show-offs",
@@ -903,14 +888,14 @@
     "ability_type": "unit",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-09.png, page 174 Blitza-bommer abilities",
+      "edition": "11e"
     },
-    "raw_text": "Each time this model ends a Normal move, you can select one enemy unit it moved over during that move and roll one D6: on a 4+, that unit suffers D6 mortal wounds."
+    "raw_text": "At the end of your opponent's Fight phase, select one visible enemy unit (excluding Lone Operative units) within 24\" of this unit, and roll one D6 for that unit:\n• On a 1-3, that enemy unit suffers D3 mortal wounds.\n• On a 4-5, that enemy unit suffers 3 mortal wounds.\n• On a 6, that enemy unit suffers D3+3 mortal wounds."
   },
   {
     "ability_id": "piston-driven-brutality",
@@ -1011,20 +996,20 @@
     "ability_id": "dakkastorm-kult-of-speed",
     "name": "Dakkastorm",
     "faction_id": "orks",
-    "unit_ids": [
-      "dakkajet"
-    ],
-    "ability_type": "unit",
+    "unit_ids": [],
+    "ability_type": "stratagem",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
     },
-    "raw_text": "Each time this model makes a ranged attack, every successful Hit roll scores a Critical Hit."
+    "when": "Your Shooting phase, when a friendly SPEED FREEKS unit is selected to shoot.",
+    "target": "That SPEED FREEKS unit.",
+    "effect": "Your unit's ranged attacks have [SUSTAINED HITS 1]."
   },
   {
     "ability_id": "fix-dat-armour-up",
@@ -1036,14 +1021,14 @@
     "ability_type": "unit",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-30.png; page 141; Big Mek in Mega Armour ABILITIES block",
+      "edition": "11e"
     },
-    "raw_text": "While this model is leading a unit, in your Command phase, you can return 1 destroyed Bodyguard model to that unit."
+    "raw_text": "(Once per battle, per unit): In your Command phase, this unit heals 3 wounds.\n\nPlace a Grot Oiler token next to the unit, removing it when this ability is used."
   },
   {
     "ability_id": "kustom-force-field",
@@ -1055,14 +1040,14 @@
     "ability_type": "unit",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; _private/sources/codex-orks-11e/rev-2683/source-images/source-30.png; pages 140-141; big-mek-in-mega-armour ability panel",
+      "edition": "11e"
     },
-    "raw_text": "While the bearer is leading a unit, models in that unit have a 4+ invulnerable save against ranged attacks."
+    "raw_text": "This unit has a 4+ InvSv against ranged attacks."
   },
   {
     "ability_id": "grot-oiler",
@@ -1245,18 +1230,18 @@
     "ability_type": "unit",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; _private/sources/codex-orks-11e/rev-2683/source-images/source-26.png; page 142; Mozrog Skragbad ability panel",
+      "edition": "11e"
     },
-    "raw_text": "While this model is leading a unit, each time a model in that unit is destroyed by a melee attack, if it has not fought this phase, roll one D6: on a 4+, do not remove it from play. The destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play."
+    "raw_text": "One Last Kill: In the Fight phase, when this model is destroyed, if this unit has not been selected to fight this phase, roll one D6:\n• On a 2+, do not remove this model from the battlefield. When this unit has fought, or at the end of the phase (whichever comes first), this model is removed from the battlefield."
   },
   {
     "ability_id": "da-bigger-dey-iz",
-    "name": "Da Bigger Dey Iz…",
+    "name": "Da Bigger Dey Iz...",
     "faction_id": "orks",
     "unit_ids": [
       "mozrog-skragbad"
@@ -1264,14 +1249,14 @@
     "ability_type": "unit",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; _private/sources/codex-orks-11e/rev-2683/source-images/source-26.png; page 142; Mozrog Skragbad ability panel",
+      "edition": "11e"
     },
-    "raw_text": "Each time this model makes a melee attack that targets a MONSTER or VEHICLE unit, add 1 to the Damage characteristic of that attack. Each time this model makes a melee attack that targets a TITANIC unit, add 2 to the Damage characteristic of that attack instead."
+    "raw_text": "Da Bigger Dey Iz...: This unit’s melee attacks that target a MONSTER/VEHICLE unit can re-roll wound rolls."
   },
   {
     "ability_id": "super-runts",
@@ -1283,52 +1268,14 @@
     "ability_type": "unit",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; _private/sources/codex-orks-11e/rev-2683/source-images/source-27.png; page 144; Zodgrod Wortsnagga ability panel",
+      "edition": "11e"
     },
-    "raw_text": "While this model is leading a unit:\n\n■ Models in that unit have the Scouts 9\" ability.\n■ Each time a model in that unit makes an attack, add 1 to the Hit roll and add 1 to the Wound roll.\n■ Each time an attack targets that unit, subtract 1 from the Wound roll."
-  },
-  {
-    "ability_id": "special-dose",
-    "name": "Special Dose",
-    "faction_id": "orks",
-    "unit_ids": [
-      "zodgrod-wortsnagga"
-    ],
-    "ability_type": "unit",
-    "game_version": {
-      "edition": "11th",
-      "dataslate": "pre-launch-provisional"
-    },
-    "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
-    },
-    "raw_text": "While the Waaagh! is active for your army, add 6\" to the Move characteristic of models in this model’s unit."
-  },
-  {
-    "ability_id": "runtherd",
-    "name": "Runtherd",
-    "faction_id": "orks",
-    "unit_ids": [
-      "gretchin"
-    ],
-    "ability_type": "unit",
-    "game_version": {
-      "edition": "11th",
-      "dataslate": "pre-launch-provisional"
-    },
-    "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
-    },
-    "raw_text": "Each time an attack targets this unit, if it contains one or more Gretchin models, until that attack is resolved, Runtherd models in this unit have a Toughness characteristic of 2."
+    "raw_text": "• This unit is riled up.\n• This unit’s Scavenged Shivs weapons have +1A, WS and S."
   },
   {
     "ability_id": "thievin-scavengers",
@@ -1340,14 +1287,14 @@
     "ability_type": "unit",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-32.jpg; pages 150-151; Gretchin ABILITIES block, Thievin’ Scavengers",
+      "edition": "11e"
     },
-    "raw_text": "At the start of your Movement phase, roll one D6 for each objective marker you control that has one or more units from your army with this ability within range of it (excluding Battle-shocked units). If one or more of those rolls is a 4+, you gain 1CP."
+    "raw_text": "At the end of your Movement phase, if this unit is controlling an objective marker, roll one D6. On a 4+, you gain 1CP."
   },
   {
     "ability_id": "deranged-snotling-assault",
@@ -1447,7 +1394,7 @@
   },
   {
     "ability_id": "thundering-stampede",
-    "name": "Thundering Stampede",
+    "name": "Thundering Stampede (Aura)",
     "faction_id": "orks",
     "unit_ids": [
       "beastboss-on-squigosaur"
@@ -1455,14 +1402,14 @@
     "ability_type": "unit",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; _private/sources/codex-orks-11e/rev-2683/source-images/source-26.png; page 143; Beastboss on Squigosaur ability panel",
+      "edition": "11e"
     },
-    "raw_text": "While this model is leading a unit, add 1 to Charge rolls made for that unit."
+    "raw_text": "Friendly BEAST SNAGGA units within 6\" of this unit have +1 to Charge rolls."
   },
   {
     "ability_id": "single-minded-predator",
@@ -1493,14 +1440,14 @@
     "ability_type": "unit",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-01.jpg; Meganobz abilities panel",
+      "edition": "11e"
     },
-    "raw_text": "While the Waaagh! is active for your army, models in this unit have the Feel No Pain 5+ ability."
+    "raw_text": "In the Fight phase, if this unit is riled up, this unit has +1 to hit rolls."
   },
   {
     "ability_id": "billowing-fumes-aura",
@@ -1569,14 +1516,14 @@
     "ability_type": "unit",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-09.png, page 175 Burna-bommer abilities",
+      "edition": "11e"
     },
-    "raw_text": "Each time this model ends a Normal move, you can select one enemy unit it moved over during that move. Until the end of the turn, models in that unit cannot have the Benefit of Cover. In addition, roll one D6 for each model in that unit: for each 6, that unit suffers 1 mortal wound."
+    "raw_text": "At the end of your opponent's Fight phase, select one visible enemy unit (excluding Lone Operative and MONSTER/VEHICLE units) within 36\" of this unit, and roll one D6 for that unit. On a 2+:\n• That enemy unit suffers D3 mortal wounds.\n• That enemy unit cannot be hidden until the end of your next turn.\n• Ranged attacks that target that enemy unit have [IGNORES COVER] until the end of your next turn."
   },
   {
     "ability_id": "on-da-hunt",
@@ -1697,19 +1644,19 @@
     "name": "Strafing Run",
     "faction_id": "orks",
     "unit_ids": [
-      "fighta-bommer"
+      "dakkajet"
     ],
     "ability_type": "unit",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-09.png, page 174 Dakkajet abilities",
+      "edition": "11e"
     },
-    "raw_text": "Each time this model makes a ranged attack that targets a unit that cannot Fly, add 1 to the Hit roll."
+    "raw_text": "In your Shooting phase, this unit’s ranged attacks that target a unit (excluding FLY units) have +1 to hit rolls."
   },
   {
     "ability_id": "big-booms",
@@ -1912,14 +1859,14 @@
     "ability_type": "unit",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-16.png; Big’ed Bossbunka preview datasheet image (not a Codex page)",
+      "edition": "11e"
     },
-    "raw_text": "Each time a ranged attack is allocated to a model, if that model is not fully visible to every model in the attacking unit because of this FORTIFICATION, that model has the Benefit of Cover against that attack."
+    "raw_text": "When an attack targets a unit that is not fully visible to the attacking model because of this unit, the target has the benefit of cover against that attack."
   },
   {
     "ability_id": "shoutin-pole-aura",
@@ -1950,14 +1897,14 @@
     "ability_type": "unit",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-16.png; Big’ed Bossbunka preview datasheet image (not a Codex page)",
+      "edition": "11e"
     },
-    "raw_text": "While an enemy unit is only within Engagement Range of one or more FORTIFICATIONS from your army:\n\n■ That unit can still be selected as the target of ranged attacks, but each time such an attack is made, unless it is made with a Pistol, subtract 1 from the Hit roll.\n■ Models in that unit do not need to take Desperate Escape tests due to Falling Back while Battle-shocked, except for those that will move over enemy models when doing so."
+    "raw_text": "While an enemy unit is engaged with only FORTIFICATION units:\n• That enemy unit can be selected as a target of ranged attacks.\n• When shooting that enemy unit, those ranged attacks have -1 to hit rolls (excluding [CLOSE-QUARTERS] attacks).\n• When that enemy unit is selected to make a Fall Back move, if that enemy unit is only engaged with FORTIFICATION units, and that enemy unit is not battle-shocked, hazard rolls made for that enemy unit are automatically passed."
   },
   {
     "ability_id": "long-uncontrolled-bursts-rollin-deff",
@@ -2035,183 +1982,181 @@
     "ability_id": "mount-up-ladz-blitz-brigade",
     "name": "Mount Up, Ladz",
     "faction_id": "orks",
+    "detachment_id": "blitz-brigade",
     "unit_ids": [],
     "ability_type": "stratagem",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
       "kind": "pdf",
-      "ref": "eng_09-06_warhammer40000_faction_pack_orks-agh9kwrtno-0xarrl5fjj.pdf",
-      "edition": "11e"
+      "ref": "orks-faction-pack-2026-07-22.pdf",
+      "phases": []
     },
-    "when": "End of the Fight phase.",
-    "target": "One Orks Infantry unit from your army that is not within Engagement Range of one or more enemy units, and one friendly Transport it is able to embark within.",
-    "effect": "If your Orks Infantry unit is wholly within 6\" of that Transport, it can embark within it."
+    "raw_text": "BLITZ BRIGADE – STRATEGIC PLOY STRATAGEM With nothing left to blast or krump, these Orks scramble aboard their transport and thunder towards the next engagement. 1CP WHEN: End of the Fight phase. TARGET: One Orks Infantry unit from your army that is not within Engagement Range of one or more enemy units, and one friendly Transport it is able to embark within. EFFECT: If your Orks Infantry unit is wholly within 6\" of that Transport, it can embark within it."
   },
   {
     "ability_id": "armoured-duellists-blitz-brigade",
     "name": "Armoured Duellists",
     "faction_id": "orks",
+    "detachment_id": "blitz-brigade",
     "unit_ids": [],
     "ability_type": "stratagem",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
       "kind": "pdf",
-      "ref": "eng_09-06_warhammer40000_faction_pack_orks-agh9kwrtno-0xarrl5fjj.pdf",
-      "edition": "11e"
+      "ref": "orks-faction-pack-2026-07-22.pdf",
+      "phases": []
     },
-    "when": "Your Shooting phase.",
-    "target": "One Orks Vehicle unit from your army that has not been selected to shoot this phase.",
-    "effect": "Until the end of the phase, each time your unit makes an attack that targets a Monster or Vehicle unit, add 1 to the Hit roll and add 1 to the Wound roll."
+    "raw_text": "BLITZ BRIGADE – BATTLE TACTIC STRATAGEM Ork crews delight in engaging enemy vehicles and monsters in mobile battles. 1CP WHEN: Your Shooting phase. TARGET: One Orks Vehicle unit from your army that has not been selected to shoot this phase. EFFECT: Until the end of the phase, each time your unit makes an attack that targets a Monster or Vehicle unit, add 1 to the Hit roll and add 1 to the Wound roll."
   },
   {
     "ability_id": "impervious-blitz-brigade",
     "name": "Impervious",
     "faction_id": "orks",
+    "detachment_id": "blitz-brigade",
     "unit_ids": [],
     "ability_type": "stratagem",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
       "kind": "pdf",
-      "ref": "eng_09-06_warhammer40000_faction_pack_orks-agh9kwrtno-0xarrl5fjj.pdf",
-      "edition": "11e"
+      "ref": "orks-faction-pack-2026-07-22.pdf",
+      "phases": []
     },
-    "when": "Your opponent's Shooting phase, just after an enemy unit has selected its targets.",
-    "target": "One Battlewagon, Kill Rig or Hunta Rig unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
-    "effect": "Until the end of the phase, each time an attack targets your unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of your unit, subtract 1 from the Wound roll."
+    "raw_text": "BLITZ BRIGADE – STRATEGIC PLOY STRATAGEM Ramshackle though they may appear, Ork vehicles are frighteningly resilient in their construction. 1CP WHEN: Your opponent’s Shooting phase, just after an enemy unit has selected its targets. TARGET: One Battlewagon, Kill Rig or Hunta Rig unit from your army that was selected as the target of one or more of the attacking unit’s attacks. EFFECT: Until the end of the phase, each time an attack targets your unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of your unit, subtract 1 from the Wound roll."
   },
   {
     "ability_id": "mekanised-brutality-blitz-brigade",
     "name": "Mekanised Brutality",
     "faction_id": "orks",
+    "detachment_id": "blitz-brigade",
     "unit_ids": [],
     "ability_type": "stratagem",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
       "kind": "pdf",
-      "ref": "eng_09-06_warhammer40000_faction_pack_orks-agh9kwrtno-0xarrl5fjj.pdf",
-      "edition": "11e"
+      "ref": "orks-faction-pack-2026-07-22.pdf",
+      "phases": []
     },
-    "when": "Your Movement phase.",
-    "target": "One Battlewagon, Kill Rig or Hunta Rig unit from your army that has not been selected to move this phase.",
-    "effect": "Until the end of the turn, each time a unit disembarks from your unit after your unit makes a Normal move, that disembarked unit is still eligible to declare a charge this turn."
+    "raw_text": "BLITZ BRIGADE – STRATEGIC PLOY STRATAGEM As Orkoid vehicles thunder into battle at high speed, hatches and ramps swing open, unleashing eager mobs into the thick of the fight. 1CP WHEN: Your Movement phase. TARGET: One Battlewagon, Kill Rig or Hunta Rig unit from your army that has not been selected to move this phase. EFFECT: Until the end of the turn, each time a unit disembarks from your unit after your unit makes a Normal move, that disembarked unit is still eligible to declare a charge this turn."
   },
   {
     "ability_id": "run-em-down-blitz-brigade",
     "name": "Run ’em Down",
     "faction_id": "orks",
+    "detachment_id": "blitz-brigade",
     "unit_ids": [],
     "ability_type": "stratagem",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
       "kind": "pdf",
-      "ref": "eng_09-06_warhammer40000_faction_pack_orks-agh9kwrtno-0xarrl5fjj.pdf",
-      "edition": "11e"
+      "ref": "orks-faction-pack-2026-07-22.pdf",
+      "phases": []
     },
-    "when": "Your Movement phase.",
-    "target": "One Battlewagon, Kill Rig or Hunta Rig unit from your army that has not been selected to move this phase.",
-    "effect": "Select up to two other friendly Orks Vehicle or Orks Monster units within 6\" of your unit. Until the end of the turn, your unit and each unit you selected are eligible to declare a charge in a turn in which they Advanced."
+    "raw_text": "BLITZ BRIGADE – STRATEGIC PLOY STRATAGEM Driving forward in loose formation, Ork vehicles smash into the foe, crushing fleeing enemies beneath tyres, steel tracks and Squig trotters. 1CP WHEN: Your Movement phase. TARGET: One Battlewagon, Kill Rig or Hunta Rig unit from your army that has not been selected to move this phase. EFFECT: Select up to two other friendly Orks Vehicle or Orks Monster units within 6\" of your unit. Until the end of the turn, your unit and each unit you selected are eligible to declare a charge in a turn in which they Advanced."
   },
   {
     "ability_id": "yooz-in-trouble-now-blitz-brigade",
     "name": "Yooz in Trouble Now",
     "faction_id": "orks",
+    "detachment_id": "blitz-brigade",
     "unit_ids": [],
     "ability_type": "stratagem",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
       "kind": "pdf",
-      "ref": "eng_09-06_warhammer40000_faction_pack_orks-agh9kwrtno-0xarrl5fjj.pdf",
-      "edition": "11e"
+      "ref": "orks-faction-pack-2026-07-22.pdf",
+      "phases": []
     },
-    "when": "Your opponent's Shooting phase, just after an enemy unit has shot.",
-    "target": "One Battlewagon, Hunta Rig or Kill Rig model from your army that was hit by one or more of the attacking unit's attacks.",
-    "effect": "One Orks Infantry unit embarked within your model makes a disembark move, then makes a surge move of up to D6\". 8"
+    "raw_text": "BLITZ BRIGADE – STRATEGIC PLOY STRATAGEM Spilling from their damaged transport, enraged Orkoid infantry mobs surge towards their attackers. 1CP WHEN: Your opponent’s Shooting phase, just after an enemy unit has shot. TARGET: One Battlewagon, Hunta Rig or Kill Rig model from your army that was hit by one or more of the attacking unit’s attacks. EFFECT: One Orks Infantry unit embarked within your model makes a disembark move, then makes a surge move of up to D6\"."
   },
   {
     "ability_id": "runnin-boots-blitz-brigade",
     "name": "Runnin’ Boots",
     "faction_id": "orks",
+    "detachment_id": "blitz-brigade",
     "unit_ids": [],
     "ability_type": "enhancement",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
       "kind": "pdf",
-      "ref": "eng_09-06_warhammer40000_faction_pack_orks-agh9kwrtno-0xarrl5fjj.pdf",
-      "edition": "11e"
+      "ref": "orks-faction-pack-2026-07-22.pdf",
+      "phases": []
     },
-    "raw_text": "Orks Infantry Character model only. Each time you make a Charge roll for the bearer's unit, if that unit disembarked from a Transport this turn, add 1 to the result."
+    "raw_text": "These squighide boots were looted from the corpse of a particularly nippy Speed Freek. The wearer is utterly convinced that they make him faster. Orks Infantry Character model only. Each time you make a Charge roll for the bearer’s unit, if that unit disembarked from a Transport this turn, add 1 to the result."
   },
   {
     "ability_id": "blitzkaptin-blitz-brigade",
     "name": "Blitzkaptin",
     "faction_id": "orks",
+    "detachment_id": "blitz-brigade",
     "unit_ids": [],
     "ability_type": "enhancement",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
       "kind": "pdf",
-      "ref": "eng_09-06_warhammer40000_faction_pack_orks-agh9kwrtno-0xarrl5fjj.pdf",
-      "edition": "11e"
+      "ref": "orks-faction-pack-2026-07-22.pdf",
+      "phases": []
     },
-    "raw_text": "Orks Character model only. After both players have deployed their armies, if the bearer's unit (or any Transport it is embarked within) is on the battlefield, select up to three Orks Vehicle units from your army and redeploy them. When doing so, you can set those units up in Strategic Reserves, regardless of how many units are already in Strategic Reserves."
+    "raw_text": "Keeping a Blitz Brigade going in one direction is hard enough for most Orks. This particular commander, however, is a master of armoured taktiks. Orks Character model only. After both players have deployed their armies, if the bearer’s unit (or any Transport it is embarked within) is on the battlefield, select up to three Orks Vehicle units from your army and redeploy them. When doing so, you can set those units up in Strategic Reserves, regardless of how many units are already in Strategic Reserves."
   },
   {
     "ability_id": "supercharged-squig-oil-blitz-brigade",
     "name": "Supercharged Squig Oil",
     "faction_id": "orks",
+    "detachment_id": "blitz-brigade",
     "unit_ids": [],
     "ability_type": "enhancement",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
       "kind": "pdf",
-      "ref": "eng_09-06_warhammer40000_faction_pack_orks-agh9kwrtno-0xarrl5fjj.pdf",
-      "edition": "11e"
+      "ref": "orks-faction-pack-2026-07-22.pdf",
+      "phases": []
     },
-    "raw_text": "Mek model only. Each time the bearer uses its Mekaniak ability, until the end of the turn, you can reroll Charge rolls for the selected Vehicle model's unit."
+    "raw_text": "A few drops of this volatile admixture of Squig oil, rokkit fuel and various other noxious chemicals is enough to provide any engine with increased performance. Mek model only. Each time the bearer uses its Mekaniak ability, until the end of the turn, you can re‑roll Charge rolls for the selected Vehicle model’s unit."
   },
   {
     "ability_id": "tuff-git-blitz-brigade",
     "name": "Tuff Git",
     "faction_id": "orks",
+    "detachment_id": "blitz-brigade",
     "unit_ids": [],
     "ability_type": "enhancement",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
       "kind": "pdf",
-      "ref": "eng_09-06_warhammer40000_faction_pack_orks-agh9kwrtno-0xarrl5fjj.pdf",
-      "edition": "11e"
+      "ref": "orks-faction-pack-2026-07-22.pdf",
+      "phases": []
     },
-    "raw_text": "Orks Infantry Character model only. At the end of a phase in which the bearer's unit disembarked from 7 a Transport, if that unit is Battleshocked, it is no longer Battleshocked."
+    "raw_text": "Big, brash and belligerent, this Ork is resilient in both mind and body. Even the explosion of his transport isn’t enough to shake him. Orks Infantry Character model only. At the end of a phase in which the bearer’s unit disembarked from a Transport, if that unit is Battle‑shocked, it is no longer Battle‑shocked."
   },
   {
     "ability_id": "follow-me-ladz-war-horde",
@@ -2221,48 +2166,48 @@
     "ability_type": "enhancement",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
     },
-    "raw_text": "ORKS model only. While the bearer is leading a unit, add 2\" to the Move characteristic of models in that unit."
+    "raw_text": "ORKS model only. This unit has +2\" M."
   },
   {
     "ability_id": "headwoppas-killchoppa-war-horde",
-    "name": "Headwoppa’s Killchoppa",
+    "name": "Headwoppa's Killchoppa",
     "faction_id": "orks",
     "unit_ids": [],
     "ability_type": "enhancement",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
     },
-    "raw_text": "ORKS model only. Melee weapons equipped by the bearer (excluding Extra Attacks weapons) have the [DEVASTATING WOUNDS] ability."
+    "raw_text": "ORKS model only. If this unit made a charge move this turn, this model’s melee attacks have +1 AP."
   },
   {
     "ability_id": "kunnin-but-brutal-war-horde",
-    "name": "Kunnin’ but Brutal",
+    "name": "Kunnin’ But Brutal",
     "faction_id": "orks",
     "unit_ids": [],
     "ability_type": "enhancement",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
     },
-    "raw_text": "ORKS model only. While the bearer is leading a unit, that unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
+    "raw_text": "ORKS model only. When this unit is selected to make a fall-back move, that fall-back move does not prevent this unit from being eligible to shoot/declare a charge."
   },
   {
     "ability_id": "supa-cybork-body-war-horde",
@@ -2289,14 +2234,14 @@
     "ability_type": "enhancement",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
     },
-    "raw_text": "BEASTBOSS ON SQUIGOSAUR model only. Models in the bearer’s unit have the Scouts 9\" ability."
+    "raw_text": "BEAST SNAGGA model only. When this unit is selected to make a fall-back move, that fall-back move does not prevent this unit from being eligible to declare a charge."
   },
   {
     "ability_id": "skrag-every-stash-da-big-hunt",
@@ -2487,20 +2432,20 @@
   },
   {
     "ability_id": "ferocious-show-off-green-tide",
-    "name": "Ferocious Show Off",
+    "name": "Ferocious Show-Off",
     "faction_id": "orks",
     "unit_ids": [],
     "ability_type": "enhancement",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
     },
-    "raw_text": "ORKS INFANTRY model only. Each time the bearer fights, while resolving those attacks, add 1 to the Strength characteristic of the bearer’s melee weapons. If the bearer’s unit contains 10 or more models, while resolving those attacks, add 3 to the Strength characteristic instead."
+    "raw_text": "ORKS INFANTRY model only. This model’s melee attacks have:\n• +1 A.\n• Or if this unit has 11+ models, +2 A."
   },
   {
     "ability_id": "brutal-but-kunnin-green-tide",
@@ -2836,13 +2781,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#a1fd6ad7-1d97-46f7-9171-726e506a130a",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One SPEED FREEKS unit from your army that has not been selected to shoot this phase.",
-    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the [LETHAL HITS] ability and, each time a model in your unit makes an attack that targets a unit within 9\", a Critical Hit is scored on an unmodified Hit roll of 5+, instead of only a 6.",
+    "target": "One **SPEED FREEKS** unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the **[LETHAL HITS]** ability and, each time a model in your unit makes an attack that targets a unit within 9\", a Critical Hit is scored on an unmodified Hit roll of 5+, instead of only a 6.",
     "restrictions": "A unit cannot be targeted by this and the Dakkastorm Stratagem in the same phase."
   },
   {
@@ -2856,13 +2801,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#f2d2cb83-69c9-447d-adfa-f2161f6038b3",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
-    "target": "One BEAST SNAGGA INFANTRY or BEAST SNAGGA MOUNTED unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
-    "effect": "Until the end of the phase, each time a ranged attack targets your unit, models in your unit have the Benefit of Cover against that attack. In addition, if your unit has the Infantry keyword, until the end of the phase, models in your unit have the Stealth ability."
+    "target": "One **BEAST SNAGGA INFANTRY** or **BEAST SNAGGA MOUNTED** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the end of the phase, each time a ranged attack targets your unit, models in your unit have the Benefit of Cover against that attack. In addition, if your unit has the **Infantry** keyword, until the end of the phase, models in your unit have the Stealth ability."
   },
   {
     "ability_id": "drag-it-down-da-big-hunt",
@@ -2875,13 +2820,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#57bf2e49-354f-4671-b345-b790d6878929",
+      "edition": "11e"
     },
     "when": "Fight phase.",
-    "target": "One BEAST SNAGGA unit from your army that has not been selected to fight this phase.",
-    "effect": "Until the end of the phase, melee weapons equipped by models in your unit have the [SUSTAINED HITS 1] ability. In addition, each time a model in your unit makes a melee attack that targets your Prey, a Critical Hit is scored on an unmodified Hit roll of 5+, instead of only a 6."
+    "target": "One **BEAST SNAGGA** unit from your army that has not been selected to fight this phase.",
+    "effect": "Until the end of the phase, melee weapons equipped by models in your unit have the **[SUSTAINED HITS 1]** ability. In addition, each time a model in your unit makes a melee attack that targets your Prey, a Critical Hit is scored on an unmodified Hit roll of 5+, instead of only a 6."
   },
   {
     "ability_id": "klankin-klaws-dread-mob",
@@ -2894,13 +2839,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#0bd39ff7-0073-4d87-91b4-a06887f947f0",
+      "edition": "11e"
     },
     "when": "Fight phase.",
-    "target": "One ORKS WALKER unit from your army that has not been selected to fight this phase.",
-    "effect": "Each time you use this Stratagem, you can choose to push it. Until the end of the phase, add 2 to the Strength characteristic of melee weapons equipped by models in your unit and, if you chose to push it, until the end of the phase, add 1 to the Damage characteristic of those weapons and they have the [HAZARDOUS] ability as well."
+    "target": "One **ORKS WALKER** unit from your army that has not been selected to fight this phase.",
+    "effect": "Each time you use this Stratagem, you can choose to push it. Until the end of the phase, add 2 to the Strength characteristic of melee weapons equipped by models in your unit and, if you chose to push it, until the end of the phase, add 1 to the Damage characteristic of those weapons and they have the **[HAZARDOUS]** ability as well."
   },
   {
     "ability_id": "bigger-shells-for-bigger-gitz-dread-mob",
@@ -2913,13 +2858,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#f2274ddd-3d7b-4fe8-a10a-8ca805bd29c9",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One MEK, ORKS WALKER or GROTS VEHICLE unit from your army that has not been selected to shoot this phase.",
-    "effect": "Each time you use this Stratagem, you can choose to push it. Until the end of the phase, each time a model in your unit makes an attack that targets a MONSTER or VEHICLE, add 1 to the Wound roll. If you chose to push it, add 1 to the Damage characteristic of that attack and, until the end of the phase, ranged weapons equipped by models in your unit have the [HAZARDOUS] ability as well."
+    "target": "One **MEK**, **ORKS WALKER** or **GROTS VEHICLE** unit from your army that has not been selected to shoot this phase.",
+    "effect": "Each time you use this Stratagem, you can choose to push it. Until the end of the phase, each time a model in your unit makes an attack that targets a **MONSTER** or **VEHICLE**, add 1 to the Wound roll. If you chose to push it, add 1 to the Damage characteristic of that attack and, until the end of the phase, ranged weapons equipped by models in your unit have the **[HAZARDOUS]** ability as well."
   },
   {
     "ability_id": "extra-gubbinz-dread-mob",
@@ -2932,12 +2877,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#fdfdf495-19e2-479e-a31c-0b2faeb67c6d",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
-    "target": "One ORKS WALKER or GROTS VEHICLE unit from your army (excluding TITANIC units) that was selected as the target of one or more of the attacking unit’s attacks.",
+    "target": "One **ORKS WALKER** or **GROTS VEHICLE** unit from your army (excluding **TITANIC** units) that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the end of the phase, each time an attack is allocated to a model in your unit, subtract 1 from the Damage characteristic of that attack."
   },
   {
@@ -2951,12 +2896,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#7a26c53b-fe19-4d61-9891-875c5145e165",
+      "edition": "11e"
     },
     "when": "Fight phase.",
-    "target": "One Orks unit from your army that has not been selected to fight this phase.",
+    "target": "One **Orks** unit from your army that has not been selected to fight this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes a melee attack, an unmodified hit roll of 5+ scores a Critical Hit."
   },
   {
@@ -2970,12 +2915,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#34ac84a8-2238-430d-827b-eb77eaa25c34",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One ORKS unit from your army (excluding GROTS, MONSTER and VEHICLE units) that was selected as the target of one or more of the attacking unit’s attacks.",
+    "target": "One **ORKS** unit from your army (excluding **GROTS**, **MONSTER** and **VEHICLE** units) that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Wound roll."
   },
   {
@@ -2989,13 +2934,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#efe6d209-735a-46fc-af9d-2a52d65d81ad",
+      "edition": "11e"
     },
     "when": "End of your Command phase.",
-    "target": "One MOB unit from your army that contains 10 or more models and is not Below Half‑strength.",
-    "effect": "Select one friendly Battle‑shocked ORKS INFANTRY unit within 6\" of that Mob unit. That ORKS INFANTRY unit is no longer Battle‑shocked."
+    "target": "One **MOB** unit from your army that contains 10 or more models and is not Below Half‑strength.",
+    "effect": "Select one friendly Battle‑shocked **ORKS INFANTRY** unit within 6\" of that Mob unit. That **ORKS INFANTRY** unit is no longer Battle‑shocked."
   },
   {
     "ability_id": "ere-we-go-war-horde",
@@ -3008,32 +2953,32 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#1c44285a-c668-4b37-9000-787d947acd6d",
+      "edition": "11e"
     },
     "when": "Start of your Movement phase.",
-    "target": "One ORKS INFANTRY unit from your army.",
+    "target": "One **ORKS INFANTRY** unit from your army.",
     "effect": "Until the end of the turn, add 2 to Advance and Charge rolls made for your unit."
   },
   {
     "ability_id": "armed-to-da-teef-bully-boyz",
-    "name": "ARMED TO DA TEEF",
+    "name": "Armed To Da Teef",
     "faction_id": "orks",
     "unit_ids": [],
     "ability_type": "stratagem",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
     },
-    "when": "Your Shooting phase or the Fight phase.",
-    "target": "One NOBZ or MEGANOBZ unit from your army that has not been selected to shoot or fight this phase.",
-    "effect": "Until the end of the phase, each time a model in your unit makes an attack, re‑roll a Hit roll of 1. If a Waaagh! is active for your unit, you can re‑roll the Hit roll instead."
+    "when": "Your Shooting phase or the Fight phase, when a friendly MEGANOBZ/NOBZ unit is selected to attack.",
+    "target": "That MEGANOBZ/NOBZ unit.",
+    "effect": "Your unit’s attacks can:\n• Re-roll hit rolls of 1.\n• If your unit is riled up, re-roll hit rolls."
   },
   {
     "ability_id": "cut-em-down-bully-boyz",
@@ -3046,32 +2991,32 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#38d744bc-cd14-4b0c-90e8-db2f0d038391",
+      "edition": "11e"
     },
     "when": "Your opponent’s Movement phase, just after an enemy unit is selected to Fall Back.",
-    "target": "One NOBZ or MEGANOBZ unit from your army within Engagement Range of that enemy unit.",
+    "target": "One **NOBZ** or **MEGANOBZ** unit from your army within Engagement Range of that enemy unit.",
     "effect": "When that enemy unit Falls Back, all models in that enemy unit must take a Desperate Escape test. When doing so, if a Waaagh! is active for your unit, subtract 1 from each of those tests."
   },
   {
     "ability_id": "hulking-brutes-bully-boyz",
-    "name": "HULKING BRUTES",
+    "name": "Hulking Brutes",
     "faction_id": "orks",
     "unit_ids": [],
     "ability_type": "stratagem",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
     },
-    "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
-    "target": "One NOBZ or MEGANOBZ unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
-    "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+    "when": "Your opponent’s Shooting phase, when an enemy unit targets a friendly MEGANOBZ/NOBZ unit.",
+    "target": "That MEGANOBZ/NOBZ unit.",
+    "effect": "Ranged attacks that target your unit with a S greater than your unit’s T have -1 to wound rolls.\nOR: Ranged attacks that target your unit have -1 to wound rolls."
   },
   {
     "ability_id": "competitive-streak-green-tide",
@@ -3084,12 +3029,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#491ad30f-2460-43ed-8b3e-2bcc30430d0f",
+      "edition": "11e"
     },
     "when": "Fight phase.",
-    "target": "One BOYZ unit from your army that has not been selected to fight this phase.",
+    "target": "One **BOYZ** unit from your army that has not been selected to fight this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes an attack, re‑roll a Wound roll of 1. If your unit contains 10 or more models, re‑roll the Wound roll instead."
   },
   {
@@ -3103,12 +3048,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#3158971d-f24d-4714-972c-9aae56fe50fa",
+      "edition": "11e"
     },
     "when": "Fight phase.",
-    "target": "One BOYZ unit from your army that has not been selected to fight this phase and is within Engagement Range of one or more enemy units.",
+    "target": "One **BOYZ** unit from your army that has not been selected to fight this phase and is within Engagement Range of one or more enemy units.",
     "effect": "Until the end of the phase, each time your unit is selected to fight, when determining which models in your unit are eligible to fight, any models in your unit that are within 3\" of one or more enemy models are eligible to fight. When resolving those attacks, such models can target one of those enemy units that is within 3\" of them and within Engagement Range of their unit."
   },
   {
@@ -3236,13 +3181,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#19668219-6ea6-408a-bea8-d496ef6c0f11",
+      "edition": "11e"
     },
-    "when": "Any phase, just after an ORKS VEHICLE unit from your army with the Deadly Demise ability is destroyed.",
-    "target": "That destroyed ORKS VEHICLE unit, if you rolled a 6 for its Deadly Demise ability. You can use this Stratagem on that unit even though it was just destroyed.",
-    "effect": "Your unit can make a Normal or Fall Back move before its Deadly Demise ability is resolved, and before any embarked units perform an Emergency Disembarkation. When making this move, your unit can move over enemy units (excluding MONSTERS and VEHICLES) as if they were not there."
+    "when": "Any phase, just after an **ORKS VEHICLE** unit from your army with the Deadly Demise ability is destroyed.",
+    "target": "That destroyed **ORKS VEHICLE** unit, if you rolled a 6 for its Deadly Demise ability. You can use this Stratagem on that unit even though it was just destroyed.",
+    "effect": "Your unit can make a Normal or Fall Back move before its Deadly Demise ability is resolved, and before any embarked units perform an Emergency Disembarkation. When making this move, your unit can move over enemy units (excluding **MONSTERS** and **VEHICLES**) as if they were not there."
   },
   {
     "ability_id": "crushing-impact-bully-boyz",
@@ -3274,12 +3219,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#68a2a4e6-bd80-4110-bd53-307d8f2cef44",
+      "edition": "11e"
     },
     "when": "Your Charge phase.",
-    "target": "One BOYZ unit from your army that has not declared a charge this phase.",
+    "target": "One **BOYZ** unit from your army that has not declared a charge this phase.",
     "effect": "Until the end of the phase, each time your unit declares a charge, add 1 to the Charge roll and, if your unit contains 10 or more models, you can re-roll the Charge roll."
   },
   {
@@ -3303,22 +3248,22 @@
   },
   {
     "ability_id": "orks-is-never-beaten-war-horde",
-    "name": "ORKS IS NEVER BEATEN",
+    "name": "Orks Is Never Beaten",
     "faction_id": "orks",
     "unit_ids": [],
     "ability_type": "stratagem",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
     },
-    "when": "Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One ORKS unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
-    "effect": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, do not remove it from play. The destroyed model can fight after the attacking unit has finished making attacks, and is then removed from play."
+    "when": "Fight phase, when an enemy unit targets a friendly ORKS unit (excluding TITANIC units).",
+    "target": "That ORKS unit.",
+    "effect": "When a model in your unit is destroyed, if your unit has not been selected to fight this phase, roll one D6, with +1 to that roll if your unit is riled up:\n• On a 4+, do not remove that model from the battlefield. When your unit has fought, or at the end of the phase (whichever comes first), that model is removed from the battlefield."
   },
   {
     "ability_id": "get-stuck-in-ladz-more-dakka",
@@ -3341,22 +3286,22 @@
   },
   {
     "ability_id": "speediest-freeks-kult-of-speed",
-    "name": "SPEEDIEST FREEKS",
+    "name": "Speediest Freeks",
     "faction_id": "orks",
     "unit_ids": [],
     "ability_type": "stratagem",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
     },
-    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One SPEED FREEKS or TRUKK unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
-    "effect": "Until the end of the phase, models in your unit have a 5+ invulnerable save. If your unit is a VEHICLE unit with an unmodified Toughness characteristic of 8 or less, until the end of the phase, models in your unit have a 4+ invulnerable save instead."
+    "when": "Your opponent's Shooting phase, when an enemy unit targets a friendly SPEED FREEKS unit.",
+    "target": "That SPEED FREEKS unit.",
+    "effect": "Ranged attacks that target your unit fail on an unmodified hit roll of 1-3."
   },
   {
     "ability_id": "squig-flingin-kult-of-speed",
@@ -3369,12 +3314,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#0f45f341-8b72-4d1c-b263-5e4da7197446",
+      "edition": "11e"
     },
-    "when": "Your Movement phase, just after a SPEED FREEKS or TRUKK unit from your army ends a Normal, Advance or Fall Back move.",
-    "target": "That SPEED FREEKS or TRUKK unit.",
+    "when": "Your Movement phase, just after a **SPEED FREEKS** or **TRUKK** unit from your army ends a Normal, Advance or Fall Back move.",
+    "target": "That **SPEED FREEKS** or **TRUKK** unit.",
     "effect": "Select one enemy unit within 9\" of your unit. That enemy unit must take a Battle‑shock test and, when doing so, subtract 1 from the result."
   },
   {
@@ -3388,51 +3333,51 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#d80a3d51-f426-4676-9d7c-83d4d5ebe485",
+      "edition": "11e"
     },
     "when": "Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.",
-    "target": "One SPEED FREEKS unit from your army that is within 9\" of that enemy unit and is not within Engagement Range of one or more enemy units.",
+    "target": "One **SPEED FREEKS** unit from your army that is within 8\" of that enemy unit and is not within Engagement Range of one or more enemy units.",
     "effect": "Your unit can make a Normal move of up to 6\"."
   },
   {
     "ability_id": "where-dya-fink-youre-going-da-big-hunt",
-    "name": "WHERE D’YA FINK YOU’RE GOING?",
+    "name": "Where D’ya Fink You’re Going?",
     "faction_id": "orks",
     "unit_ids": [],
     "ability_type": "stratagem",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
     },
-    "when": "Your opponent’s Movement phase, just after an enemy unit ends a Fall Back move.",
-    "target": "One BEAST SNAGGA INFANTRY or BEAST SNAGGA MOUNTED unit from your army that was within Engagement Range of that enemy unit at the start of the phase.",
-    "effect": "If your unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to 6\"."
+    "when": "Your opponent's Movement phase, when an enemy unit is selected to make a fall-back move, if that enemy unit is engaged with a friendly BEAST SNAGGA unit.",
+    "target": "That BEAST SNAGGA unit.",
+    "effect": "When an enemy unit engaged with your unit is selected to make a fall-back move, that enemy unit must use the desperate escape mode. If that enemy unit is a MONSTER/VEHICLE unit, that enemy unit makes three additional hazard rolls for each BEAST SNAGGA unit it is engaged with, with -1 from those hazard rolls if that enemy unit is battle-shocked."
   },
   {
     "ability_id": "instinctive-hunters-da-big-hunt",
-    "name": "INSTINCTIVE HUNTERS",
+    "name": "Instinctive Hunters",
     "faction_id": "orks",
     "unit_ids": [],
     "ability_type": "stratagem",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
     },
-    "when": "End of your opponent’s Fight phase.",
-    "target": "One BEAST SNAGGA unit from your army that is not within Engagement Range of one or more enemy unit.",
-    "effect": "Remove your unit from the battlefield and place it into Strategic Reserves."
+    "when": "End of your opponent's Fight phase.",
+    "target": "One friendly unengaged BEAST SNAGGA unit within 6\" of a battlefield edge.",
+    "effect": "Place your unit in strategic reserves."
   },
   {
     "ability_id": "unstoppable-momentum-da-big-hunt",
@@ -3445,12 +3390,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#2d2fd41a-acb9-4187-b5fe-10a8ff3a8179",
+      "edition": "11e"
     },
-    "when": "Your Charge phase, just after a BEAST SNAGGA MOUNTED unit from your army ends a Charge move.",
-    "target": "That BEAST SNAGGA unit.",
+    "when": "Your Charge phase, just after a **BEAST SNAGGA MOUNTED** unit from your army ends a Charge move.",
+    "target": "That **BEAST SNAGGA** unit.",
     "effect": "Select one enemy unit within Engagement Range of your unit and roll one D6 for each model in your unit: for each 4+, that enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds). If that enemy unit is your Prey, roll three additional D6."
   },
   {
@@ -3464,13 +3409,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#2d1c7848-2731-4f32-a4e4-5ca325bbff41",
+      "edition": "11e"
     },
     "when": "Your Charge phase.",
-    "target": "One BEAST SNAGGA unit from your army.",
-    "effect": "Until the end of the phase, your unit is eligible to charge in a turn in which it Advanced or Fell Back. In addition, you can re-roll Charge rolls made for your unit, provided one of the targets of that charge is your Prey."
+    "target": "One **BEAST SNAGGA** unit from your army.",
+    "effect": "Until the end of the phase, your unit is **eligible to charge** in a turn in which it Advanced or Fell Back. In addition, you can re-roll **charge rolls** made for your unit. If you do, your unit must end that **charge move engaged** with your Prey."
   },
   {
     "ability_id": "superfuelled-boiler-dread-mob",
@@ -3483,13 +3428,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#a8c4f685-8c50-417f-9822-6b513ec6314c",
+      "edition": "11e"
     },
-    "when": "Your Movement phase, just after an ORKS WALKER unit from your army has been selected to Advance.",
-    "target": "That ORKS WALKER unit.",
-    "effect": "Until the end of the turn, you can re‑roll Advance rolls made for your unit and ranged weapons equipped by models in your unit have the [ASSAULT] ability."
+    "when": "Your Movement phase, just after an **ORKS WALKER** unit from your army has been selected to Advance.",
+    "target": "That **ORKS WALKER** unit.",
+    "effect": "Until the end of the turn, you can re‑roll Advance rolls made for your unit and ranged weapons equipped by models in your unit have the **[ASSAULT]** ability."
   },
   {
     "ability_id": "conniving-runts-dread-mob",
@@ -3502,32 +3447,32 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#8e4282b5-cfaa-4f45-b6d6-76db59ea9521",
+      "edition": "11e"
     },
     "when": "Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.",
-    "target": "One GRETCHIN unit from your army that is within 9\" of that enemy unit and not within Engagement Range of any enemy units.",
+    "target": "One **GRETCHIN** unit from your army that is within 8\" of that enemy unit and not within Engagement Range of any enemy units.",
     "effect": "Roll one D6: on a 4+, that enemy unit suffers D3+1 mortal wounds. Your unit can then make a Normal move."
   },
   {
     "ability_id": "too-arrogant-to-die-bully-boyz",
-    "name": "TOO ARROGANT TO DIE",
+    "name": "Too Arrogant To Die",
     "faction_id": "orks",
     "unit_ids": [],
     "ability_type": "stratagem",
     "game_version": {
       "edition": "11th",
-      "dataslate": "pre-launch-provisional"
+      "dataslate": "codex-orks"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
     },
-    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One NOBZ or MEGANOBZ unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
-    "effect": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not shot or fought this phase, roll one D6, adding 2 to the result if a Waaagh! is active for your unit. On a 5+, do not remove the destroyed model from play; it can shoot or fight after the attacking unit has finished making its attacks, and is then removed from play."
+    "when": "Fight phase, when an enemy unit targets a friendly MEGANOBZ/NOBZ unit.",
+    "target": "That MEGANOBZ/NOBZ unit.",
+    "effect": "When a model in your unit is destroyed, if your unit has not been selected to fight this phase, roll one D6, with +1 to that roll if your unit is riled up:\n• On a 4+, do not remove that model from the battlefield. When your unit has fought, or at the end of the phase (whichever comes first), that model is removed from the battlefield."
   },
   {
     "ability_id": "always-lookin-fer-a-fight-bully-boyz",
@@ -3540,12 +3485,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#8c52a1fb-487d-4cc0-a339-c195a3db15de",
+      "edition": "11e"
     },
     "when": "Fight phase, just after an enemy unit is destroyed.",
-    "target": "One NOBZ or MEGANOBZ unit from your army that destroyed that enemy unit.",
+    "target": "One **NOBZ** or **MEGANOBZ** unit from your army that destroyed that enemy unit.",
     "effect": "Until the end of the phase, each time your unit makes a Consolidation move, it can move up to D3+3\" instead of up to 3\". If a Waaagh! is active for your unit, it can move up to 6\" instead."
   },
   {
@@ -3559,12 +3504,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#4877d4c7-afe0-4d06-bcbf-80c209810708",
+      "edition": "11e"
     },
     "when": "Your Command phase.",
-    "target": "Two BOYZ units from your army that are within 6\" of each other.",
+    "target": "Two **BOYZ** units from your army that are within 6\" of each other.",
     "effect": "Until the start of your next Command phase, while those two units are within 6\" of each other, they both count as containing 10 or more models for the purpose of your Detachment rule, any Enhancements models from your army have and any Stratagems you use."
   },
   {
@@ -3578,13 +3523,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#17d86360-7ab9-4a9f-9a11-643007ccfe6a",
+      "edition": "11e"
     },
     "when": "Your Command phase.",
-    "target": "One BOYZ unit from your army.",
-    "effect": "Return up to D3+2 destroyed models to your unit (excluding CHARACTER models)."
+    "target": "One **BOYZ** unit from your army.",
+    "effect": "Return up to D3+2 destroyed models to your unit (excluding **CHARACTER** models)."
   },
   {
     "ability_id": "go-get-em-green-tide",
@@ -3597,13 +3542,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#9a811758-aef4-44c2-be5b-ecad77eeae4e",
+      "edition": "11e"
     },
-    "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
-    "target": "One BOYZ unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
-    "effect": "After the attacking unit has shot, your unit can make a Go Get ’Em! move. To do so, roll one D6: each model in your unit can move a distance in inches up to the result, but your unit must end that move as close as possible to the closest enemy unit. When doing so, those models can be moved within Engagement Range of that enemy unit. If your unit contains 10 or more models, you can re-roll the D6 to determine how far your unit can move."
+    "when": "Your opponent’s Shooting phase, when an enemy unit that targeted a friendly **unengaged BOYZ** unit this phase has shot.",
+    "target": "That **BOYZ** unit.",
+    "effect": "Your unit can make a **surge move** of up to D6\"."
   },
   {
     "ability_id": "dats-ours-taktikal-brigade",
@@ -3692,13 +3637,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#6634203e-7725-495c-8e79-55d4d527dcf8",
+      "edition": "11e"
     },
-    "when": "Your opponent’s Shooting phase, just after an enemy unit has shot.",
-    "target": "One ORKS unit from your army that had one or more of its models destroyed as a result of the attacking unit’s attacks.",
-    "effect": "Your unit can shoot as if it were your Shooting phase, but must target only that enemy unit when doing so, and can only do so if that enemy unit is an eligible target."
+    "when": "Your opponent’s Shooting phase, when an enemy unit that targeted a friendly Orks Infantry unit has shot.",
+    "target": "That Orks Infantry unit.",
+    "effect": "Your unit shoots using **snap shooting**, but while doing so your unit can only target that enemy unit."
   },
   {
     "ability_id": "grab-and-bash-freebooter-krew",
@@ -3749,13 +3694,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/orks.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#cfcd981d-e0b4-415c-93be-226ed53fe140",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One FLASH GITZ unit from your army that has not been selected to shoot this phase.",
-    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the [ANTI‑VEHICLE 4+] ability."
+    "target": "One **FLASH GITZ** unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the **[ANTI‑VEHICLE 4+]** ability."
   },
   {
     "ability_id": "krump-and-run-freebooter-krew",
@@ -3957,7 +3902,7 @@
     "raw_text": "At the start of your Command phase, select one MONSTER, VEHICLE or CHARACTER unit from your opponent’s army. Until the start of your next Command phase, that enemy unit is your Prey: Each time a BEAST SNAGGA unit from your army declares a charge that includes your Prey as one of the targets, you can re-roll the Charge roll. Each time a BEAST SNAGGA model from your army makes an attack that targets your Prey, improve the Armour Penetration characteristic of that attack by 1."
   },
   {
-    "ability_id": "try-dat-button",
+    "ability_id": "try-dat-button-dread-mob",
     "name": "Try Dat Button!",
     "faction_id": "orks",
     "unit_ids": [],
@@ -4074,5 +4019,2837 @@
       "edition": "10e"
     },
     "raw_text": "Each time a SPEED FREEKS or TRUKK unit (excluding AIRCRAFT) from your army Advances, it can use its turbo. If it does, do not make an Advance roll for it; instead, until the end of the phase, models in that unit have a Move characteristic of 24\" but can only move in one straight line, and until the end of the turn, ranged weapons equipped by those models have the [ASSAULT] ability and that unit cannot declare a charge. Designer’s Note: *When a unit uses its turbo, the models in that unit cannot pivot, and they cannot make a move of two or more straight lines (e.g. to navigate around obstacles). That unit also cannot declare a charge, even if another rule would let it declare a charge in a turn in which it Advanced.*"
+  },
+  {
+    "ability_id": "adrenaline-junkies-kult-of-speed",
+    "name": "Adrenaline Junkies",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "• Friendly WARBIKERS units have BATTLELINE.\n• When a friendly SPEED FREEKS unit is selected to make an advance/fall-back move:\n  ◦ That unit's ranged attacks have [ASSAULT] until the end of the turn.\n  ◦ That move does not prevent that unit from being eligible to declare a charge."
+  },
+  {
+    "ability_id": "aerial-manoeuvres",
+    "name": "Aerial Manoeuvres",
+    "faction_id": "orks",
+    "unit_ids": [
+      "deffkoptas"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-08.png, page 161 Deffkoptas abilities",
+      "edition": "11e"
+    },
+    "raw_text": "At the end of your opponent’s Fight phase, this unit can make a Normal move of up to 6\"."
+  },
+  {
+    "ability_id": "ammo-runts",
+    "name": "Ammo Runts (Once per battle, per unit)",
+    "faction_id": "orks",
+    "unit_ids": [
+      "boyz",
+      "nobz"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-12.png; Boyz preview datasheet image (not a Codex page); source-images/source-15.png; Nobz preview datasheet image (not a Codex page)",
+      "edition": "11e"
+    },
+    "raw_text": "In your Shooting phase, when this unit is selected to shoot, you can use this ability. If you do, this unit’s ranged attacks have +1 to hit rolls.\nPlace any number of Ammo Runt tokens next to the unit, removing them when this ability is used."
+  },
+  {
+    "ability_id": "ard-as-nails-brute-bosses",
+    "name": "’Ard As Nails",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "When a friendly WARBOSS model is destroyed, if this unit has not been selected to fight this phase, roll one D6, with +1 to the roll if your unit is riled up:\n• On a 3+, do not remove this WARBOSS model from the battlefield. When this unit has fought, or at the end of the phase (whichever comes first), this WARBOSS model is removed from the battlefield."
+  },
+  {
+    "ability_id": "ard-boyz-green-tide",
+    "name": "’Ard Boyz",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "BOYZ unit only. This unit has 4+ Sv."
+  },
+  {
+    "ability_id": "arrogant-invulnerability",
+    "name": "Arrogant Invulnerability",
+    "faction_id": "orks",
+    "unit_ids": [
+      "meganobz"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-01.jpg; Meganobz abilities panel",
+      "edition": "11e"
+    },
+    "raw_text": "Attacks that target this unit have -1 AP."
+  },
+  {
+    "ability_id": "beast-snagga-following",
+    "name": "Beast Snagga Following",
+    "faction_id": "orks",
+    "unit_ids": [
+      "mozrog-skragbad"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; _private/sources/codex-orks-11e/rev-2683/source-images/source-26.png; page 142; Mozrog Skragbad ability panel",
+      "edition": "11e"
+    },
+    "raw_text": "Beast Snagga Following: While this unit is within 3\" of a friendly BEAST SNAGGA unit (excluding MONSTER CHARACTER units), this unit has Lone Operative."
+  },
+  {
+    "ability_id": "beastscent-psychic",
+    "name": "Beastscent",
+    "faction_id": "orks",
+    "unit_ids": [
+      "kill-rig"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-05.jpg; Kill Rig PSYCHIC ABILITIES panel",
+      "edition": "11e"
+    },
+    "raw_text": "Beastscent (psychic level 1): In your Movement phase, when a unit embarked within this unit is selected to make a disembark move, if this unit is not battle-shocked, you can make a psychic roll for this unit by rolling one D6. If you do:\n• On a 1, this unit is battle-shocked.\n• That disembarking unit’s attacks that target a MONSTER/VEHICLE unit have +1 to wound rolls until the end of the turn."
+  },
+  {
+    "ability_id": "big-spender",
+    "name": "Big Spender",
+    "faction_id": "orks",
+    "unit_ids": [
+      "flash-gitz"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-02.png; Flash Gitz abilities panel",
+      "edition": "11e"
+    },
+    "raw_text": "In your Shooting phase, if any of the following apply, this unit’s ranged attacks have +1 AP:\n• This unit is within range of an objective.\n• The target of that attack is within range of an objective."
+  },
+  {
+    "ability_id": "blitz-dem-gitz",
+    "name": "Blitz Dem Gitz",
+    "faction_id": "orks",
+    "unit_ids": [
+      "big-mek-dakkarig"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; _private/sources/codex-orks-11e/rev-2683/source-images/source-31.jpg; page 143; big-mek-dakkarig ability panel",
+      "edition": "11e"
+    },
+    "raw_text": "In your Shooting phase, if this unit's BREAKKANON weapon targets a unit (excluding MONSTER/VEHICLE units), that weapon has +6 A."
+  },
+  {
+    "ability_id": "blitzboss-brute-bosses",
+    "name": "Blitzboss",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "WARBOSS model only. A TRANSPORT unit (excluding WALKER units) this unit is embarked within has:\n• +2\" M.\n• 5+ InvSv."
+  },
+  {
+    "ability_id": "bomb-squig-kommandos",
+    "name": "Bomb Squig",
+    "faction_id": "orks",
+    "unit_ids": [
+      "kommandos"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-02.png; Kommandos abilities panel",
+      "edition": "11e"
+    },
+    "raw_text": "(Once per battle, per unit): In your Movement phase, when this unit ends a normal move, you can select one visible enemy unit within 12\" of this unit and roll one D6. On a 3+, that enemy unit suffers D3 mortal wounds. Place one Bomb Squig token next to the unit, removing it after this ability is used."
+  },
+  {
+    "ability_id": "bomb-squig-squighog-boyz",
+    "name": "Bomb Squig",
+    "faction_id": "orks",
+    "unit_ids": [
+      "squighog-boyz"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; _private/sources/codex-orks-11e/rev-2683/source-images/source-33.png; page 163; Squighog Boyz ability panel",
+      "edition": "11e"
+    },
+    "raw_text": "(Once per battle, per unit): In your Movement phase, when this unit ends a Normal move, you can select one enemy unit within 12\" of this unit and roll one D6:\n• On a 3+, that enemy unit suffers D3 mortal wounds.\nPlace one Bomb Squig token next to this unit, removing it after this ability is used."
+  },
+  {
+    "ability_id": "bombdakka-support",
+    "name": "Bombdakka Support",
+    "faction_id": "orks",
+    "unit_ids": [
+      "wartrakk"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-08.png, page 161 Wartrakk abilities",
+      "edition": "11e"
+    },
+    "raw_text": "While each model in this unit is within 3\" of a friendly SPEED FREEKS unit (excluding WARTRAKK units), this unit has Lone Operative."
+  },
+  {
+    "ability_id": "boss-armour-runt",
+    "name": "Boss Armour Runt",
+    "faction_id": "orks",
+    "unit_ids": [
+      "warboss"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; _private/sources/codex-orks-11e/rev-2683/source-images/source-25.jpg; pages 138-139; warboss ability panel",
+      "edition": "11e"
+    },
+    "raw_text": "(Once per battle, per unit): In your Shooting phase, when this unit is selected to shoot, you can use this ability. If you do, this model’s ranged attacks have +1 to hit rolls.\nPlace a Boss’ Armour Runt token next to this unit, removing it when this ability is used."
+  },
+  {
+    "ability_id": "boss-of-da-hunt",
+    "name": "Boss of da Hunt",
+    "faction_id": "orks",
+    "unit_ids": [
+      "beastboss-on-squigosaur"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; _private/sources/codex-orks-11e/rev-2683/source-images/source-26.png; page 143; Beastboss on Squigosaur ability panel",
+      "edition": "11e"
+    },
+    "raw_text": "While this unit is within 3\" of a friendly BEAST SNAGGA unit (excluding MONSTER CHARACTER units), this unit has Lone Operative."
+  },
+  {
+    "ability_id": "breakin-heads-war-horde",
+    "name": "Breakin' Heads",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "when": "Any phase, when a friendly attached ORKS INFANTRY unit becomes battle-shocked.",
+    "target": "That ORKS INFANTRY unit. You can target that unit with this Stratagem even though it is battle-shocked.",
+    "effect": "Roll one D3:\n• Your unit suffers a number of mortal wounds equal to the result.\n• Your unit is no longer battle-shocked."
+  },
+  {
+    "ability_id": "brutal-but-kunnin-brute-bosses",
+    "name": "Brutal But Kunnin’",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "WARBOSS model only. This model’s melee attacks have +1 D."
+  },
+  {
+    "ability_id": "brutal-impact",
+    "name": "Brutal Impact",
+    "faction_id": "orks",
+    "unit_ids": [
+      "squighog-boyz"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; _private/sources/codex-orks-11e/rev-2683/source-images/source-33.png; page 163; Squighog Boyz ability panel",
+      "edition": "11e"
+    },
+    "raw_text": "Brutal Impact: If this unit made a charge move this turn, this unit’s attacks have +1 D."
+  },
+  {
+    "ability_id": "bust-em",
+    "name": "Bust 'Em",
+    "faction_id": "orks",
+    "unit_ids": [
+      "wartrakk"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-08.png, page 161 Wartrakks abilities",
+      "edition": "11e"
+    },
+    "raw_text": "In your Shooting phase, when this unit has shot, select one enemy unit hit by the attacks. That unit is busted until the end of the turn.\n• Friendly SPEED FREEKS units’ attacks that target a busted unit have [LETHAL HITS]."
+  },
+  {
+    "ability_id": "clever-know-wots",
+    "name": "Clever Know-wots",
+    "faction_id": "orks",
+    "unit_ids": [
+      "mek"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; _private/sources/codex-orks-11e/rev-2683/source-images/source-31.jpg; page 143; mek ability panel",
+      "edition": "11e"
+    },
+    "raw_text": "In your Movement phase, at the start or end of this unit's move, you can select one friendly ORKS VEHICLE model (excluding AIRCRAFT/TITANIC models) within 3\" of this model:\n• That VEHICLE model heals D3 wounds.\n• That VEHICLE model's attacks have +1 to Hit rolls until the start of your next Movement phase."
+  },
+  {
+    "ability_id": "close-range-dakka-war-horde",
+    "name": "Close-Range Dakka",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase, when a friendly ORKS unit is selected to shoot.",
+    "target": "That ORKS unit.",
+    "effect": "Your unit’s ranged attacks have:\n• [RAPID FIRE 1]\n• Or: If that attack already has [RAPID FIRE], +1 to the value of that [RAPID FIRE] (e.g. [RAPID FIRE 1] becomes [RAPID FIRE 2])."
+  },
+  {
+    "ability_id": "clownin-dakka-shoota-boyz",
+    "name": "Clownin’ Dakka",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase, when a friendly ORKS INFANTRY unit is selected to shoot.",
+    "target": "That ORKS INFANTRY unit.",
+    "effect": "Your unit's ranged attacks that target a unit within 9\" have +1 AP."
+  },
+  {
+    "ability_id": "competitive-streak-kult-of-speed",
+    "name": "Competitive Streak",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "DEFFKILLA WARTRIKE model only. This unit can re-roll charge rolls."
+  },
+  {
+    "ability_id": "cork-dat-red-bit",
+    "name": "Cork Dat Red Bit",
+    "faction_id": "orks",
+    "unit_ids": [
+      "painboy"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-32.jpg; pages 150-151; Painboy ABILITIES block, Cork Dat Red Bit",
+      "edition": "11e"
+    },
+    "raw_text": "(Once per battle, per unit): When this model uses its Crude Surgery ability, you can add D3 to the number of wounds healed.\n\nPlace a Grot Orderly token next to the unit, removing it when this ability is used."
+  },
+  {
+    "ability_id": "crude-surgery",
+    "name": "Crude Surgery",
+    "faction_id": "orks",
+    "unit_ids": [
+      "painboy"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-32.jpg; pages 150-151; Painboy ABILITIES block, Crude Surgery",
+      "edition": "11e"
+    },
+    "raw_text": "In your Command phase, this unit heals 3 wounds."
+  },
+  {
+    "ability_id": "da-boss-is-watchin-war-horde",
+    "name": "Da Boss Is Watchin’",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "ORKS model only. (Once per battle, per army) In your Movement phase, you can use this ability. If you do, this unit is riled up until the start of your next turn."
+  },
+  {
+    "ability_id": "da-gobshot-thunderbuss-brute-bosses",
+    "name": "Da Gobshot Thunderbuss",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "WARBOSS model only. This model has the following weapon:\n\nDa Gobshot Thunderbuss\n[LETHAL HITS; non-MONSTER/VEHICLE, RAPID FIRE 6]\nRANGE 24\"    A 6    BS 4+    S 7    AP -2    D 2"
+  },
+  {
+    "ability_id": "da-hunt-is-on-da-big-hunt",
+    "name": "Da Hunt Is On",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "Friendly BEAST SNAGGA units' attacks that target a MONSTER/VEHICLE unit have +1 AP."
+  },
+  {
+    "ability_id": "da-krunch-wurrband",
+    "name": "Da Krunch",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "ORKS PSYKER model only. This model has the following weapon:\n\nDa Krunch\n[BLAST, HAZARDOUS, LETHAL HITS, PSYCHIC]\nRANGE 24\"    A D6    BS 4+    S 6    AP -1    D 1"
+  },
+  {
+    "ability_id": "dakka-dakka-dakka-shoota-boyz",
+    "name": "Dakka! Dakka! Dakka!",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "Friendly ORKS INFANTRY units' ranged attacks have:\n• [ASSAULT].\n• While this unit is riled up, +3\" R."
+  },
+  {
+    "ability_id": "delicious-eating-squigs-kult-of-speed",
+    "name": "Delicious Eating Squigs",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "when": "Your Movement phase.",
+    "target": "One friendly RUKKATRUKK SQUIGBUGGIES unit.",
+    "effect": "Select any number of friendly ORKS INFANTRY units within 3\" of your unit. Each selected unit heals 3 wounds."
+  },
+  {
+    "ability_id": "displays-of-savagery-bully-boyz",
+    "name": "Displays of Savagery",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "Friendly MEGANOBZ/NOBZ units’ melee attacks have [SUSTAINED HITS 1]."
+  },
+  {
+    "ability_id": "dodge-dis",
+    "name": "Dodge Dis",
+    "faction_id": "orks",
+    "unit_ids": [
+      "beastboss"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; _private/sources/codex-orks-11e/rev-2683/source-images/source-27.png; page 144; Beastboss ability panel",
+      "edition": "11e"
+    },
+    "raw_text": "This unit’s attacks have +1 to hit rolls."
+  },
+  {
+    "ability_id": "downtrodden",
+    "name": "Downtrodden",
+    "faction_id": "orks",
+    "unit_ids": [
+      "gretchin"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-32.jpg; pages 150-151; Gretchin ABILITIES block, Downtrodden",
+      "edition": "11e"
+    },
+    "raw_text": "For the purposes of Transport capacity, every 2 GRETCHIN models (rounding up) take up the space of 1 model."
+  },
+  {
+    "ability_id": "dread-ard",
+    "name": "Dread ’Ard",
+    "faction_id": "orks",
+    "unit_ids": [
+      "deff-dread"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-07.jpg; Deff Dread abilities panel",
+      "edition": "11e"
+    },
+    "raw_text": "Attacks that target this unit have -1 D."
+  },
+  {
+    "ability_id": "drive-by-bustin-wreckas",
+    "name": "Drive-by Bustin’",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase, when a friendly ORKS TRANSPORT unit is selected to shoot.",
+    "target": "That ORKS TRANSPORT unit.",
+    "effect": "Your unit's ranged attacks with weapons selected for use by its Firing Deck ability have +1 to hit rolls."
+  },
+  {
+    "ability_id": "drive-by-skorchin",
+    "name": "Drive-by Skorchin’",
+    "faction_id": "orks",
+    "unit_ids": [
+      "warbuggies"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-10.png, page 162 Warbuggies abilities",
+      "edition": "11e"
+    },
+    "raw_text": "In your Movement phase, you can select one visible enemy unit (excluding MONSTER/VEHICLE units) within 6\" of this unit.\n• That enemy unit cannot be targeted with the Fire Overwatch Stratagem until the end of the turn."
+  },
+  {
+    "ability_id": "dubious-restraint-taktikal-brigade",
+    "name": "Dubious Restraint",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "when": "Start/end of your Movement phase.",
+    "target": "One friendly BOYZ/KOMMANDOS/STORMBOYZ unit.",
+    "effect": "Select one objective your unit is controlling. That objective is secured."
+  },
+  {
+    "ability_id": "eadbanger-wurrband",
+    "name": "’Eadbanger",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "ORKS PSYKER model only. This model has the following weapon:\n\n’Eadbanger [HAZARDOUS, PRECISION, PSYCHIC]\nRANGE 24\"    A 2    BS 4+    S 6    AP -1    D 3"
+  },
+  {
+    "ability_id": "enhanced-runt-maw-madcap-meks",
+    "name": "Enhanced Runt-Maw",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "BIG MEK WITH SHOKK ATTACK GUN model only. When this unit has shot, select one enemy unit hit by those attacks. That unit is infested with Snotlings until the start of your next turn.\n• While an enemy unit is infested with Snotlings, that unit has -1 to leadership rolls."
+  },
+  {
+    "ability_id": "ere-we-go-green-tide",
+    "name": "’Ere We Go",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "when": "Your Movement phase, when a friendly BEAST SNAGGA BOYZ/BOYZ unit is selected to move.",
+    "target": "That BEAST SNAGGA BOYZ/BOYZ unit.",
+    "effect": "Your unit has +2 to advance rolls."
+  },
+  {
+    "ability_id": "even-more-dakka",
+    "name": "Even More Dakka",
+    "faction_id": "orks",
+    "unit_ids": [
+      "big-mek-dakkarig"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; _private/sources/codex-orks-11e/rev-2683/source-images/source-31.jpg; page 143; big-mek-dakkarig ability panel",
+      "edition": "11e"
+    },
+    "raw_text": "Each time this unit is selected to shoot, its ranged attacks have [SUSTAINED HITS 1]."
+  },
+  {
+    "ability_id": "extra-sneaky-runt-swarm",
+    "name": "Extra Sneaky",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "GRETCHIN unit only. This unit has -3\" detection range."
+  },
+  {
+    "ability_id": "flyboss-flyboyz",
+    "name": "Flyboss",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "ORKS AIRCRAFT unit only.\n• This unit has CHARACTER.\n• When this unit ends an ingress move, each friendly ORKS AIRCRAFT/DEFFKOPTAS unit within 6\" of this unit is riled up until the start of your next turn."
+  },
+  {
+    "ability_id": "flyin-headbutt-flyboyz",
+    "name": "Flyin' Headbutt",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "when": "Any phase, when a friendly ORKS AIRCRAFT unit is destroyed, before rolling for any Deadly Demise.",
+    "target": "That ORKS unit.",
+    "effect": "Your unit does not have the Deadly Demise ability. Select one enemy unit within 12\" of your unit and roll eight D6.\n• For each 4+, that enemy unit suffers 1 mortal wound.\nThen remove your unit from the battlefield."
+  },
+  {
+    "ability_id": "found-em",
+    "name": "Found ’Em!",
+    "faction_id": "orks",
+    "unit_ids": [
+      "kommandos"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-02.png; Kommandos abilities panel",
+      "edition": "11e"
+    },
+    "raw_text": "In your Movement phase, you can select one enemy unit within 12\" of this unit. That unit has +3\" detection range until the end of the turn. Place one Kommando Grot token next to that enemy unit to remind you."
+  },
+  {
+    "ability_id": "full-throttle",
+    "name": "Full Throttle",
+    "faction_id": "orks",
+    "unit_ids": [
+      "deffkilla-wartrike",
+      "wazdakka-gutsmek"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; _private/sources/codex-orks-11e/rev-2683/source-images/source-31.jpg; page 143; deffkilla-wartrike ability panel; source-images/source-27.png; Wazdakka Gutsmek ABILITIES block, Full Throttle",
+      "edition": "11e"
+    },
+    "raw_text": "This unit has +1 to advance rolls."
+  },
+  {
+    "ability_id": "fully-loaded-butchery",
+    "name": "Fully Loaded Butchery",
+    "faction_id": "orks",
+    "unit_ids": [
+      "hunta-rig"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-05.jpg; Hunta Rig abilities panel",
+      "edition": "11e"
+    },
+    "raw_text": "This unit’s Butcha Boyz weapon has +2 A for each model embarked within this unit (to a maximum of +22 A)."
+  },
+  {
+    "ability_id": "fungus-fuel-injection-war-horde",
+    "name": "Fungus-Fuel Injection",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "when": "Your Movement phase, when a friendly ORKS MOUNTED/VEHICLE unit is selected to move.",
+    "target": "That ORKS MOUNTED/VEHICLE unit.",
+    "effect": "Your unit has +2\" M."
+  },
+  {
+    "ability_id": "get-back-in-da-race",
+    "name": "Get Back in da Race!",
+    "faction_id": "orks",
+    "unit_ids": [
+      "deffkilla-wartrike"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; _private/sources/codex-orks-11e/rev-2683/source-images/source-31.jpg; page 143; deffkilla-wartrike ability panel",
+      "edition": "11e"
+    },
+    "raw_text": "(Once per battle round, per army): In your Movement phase, at the start or end of this unit's move, you can select one friendly SPEED FREEKS unit within 6\" of this unit. That unit:\n• Is no longer battle-shocked.\n• Is riled up until the start of your next turn."
+  },
+  {
+    "ability_id": "get-out-da-way",
+    "name": "Get Out da Way!",
+    "faction_id": "orks",
+    "unit_ids": [
+      "nobz"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-15.png; Nobz preview datasheet image (not a Codex page)",
+      "edition": "11e"
+    },
+    "raw_text": "While making a charge move, this unit can move through models (excluding MONSTER/VEHICLE models)."
+  },
+  {
+    "ability_id": "get-stuck-in-war-horde",
+    "name": "Get Stuck In",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "Friendly ORKS units’ melee attacks have [SUSTAINED HITS 1]."
+  },
+  {
+    "ability_id": "go-fer-da-waz-spot",
+    "name": "Go fer da Waz Spot",
+    "faction_id": "orks",
+    "unit_ids": [
+      "wazbom-blastajet"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-09.png; Wazbom Blastajet ABILITIES block, first paragraph",
+      "edition": "11e"
+    },
+    "raw_text": "In your Shooting phase, this unit's ranged attacks that target a MONSTER/VEHICLE unit have +1 to wound rolls."
+  },
+  {
+    "ability_id": "gooped-into-action-da-big-hunt",
+    "name": "Gooped Into Action",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "when": "Your opponent's Shooting phase, when an enemy unit has shot.",
+    "target": "One friendly unengaged BEAST SNAGGA unit that lost a wound as a result of those attacks.",
+    "effect": "Your unit can make a surge move of up to D6\". If your unit is riled up, it can re-roll that D6."
+  },
+  {
+    "ability_id": "grab-it-wreckas",
+    "name": "Grab It",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase, when a friendly unengaged BREAKA BOYZ/FLASH GITZ/TANKBUSTAS unit has shot.",
+    "target": "That BREAKA BOYZ/FLASH GITZ/TANKBUSTAS unit.",
+    "effect": "• Your unit can make a normal move of up to 6\", but must end that move within range of an objective.\n• Your unit is not eligible to declare a charge until the end of the turn."
+  },
+  {
+    "ability_id": "grot-shields-runt-swarm",
+    "name": "Grot Shields",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "when": "Your opponent's Shooting phase, when an enemy unit targets a friendly ORKS INFANTRY unit (excluding GRETCHIN units).",
+    "target": "One friendly GRETCHIN unit within 3\" of that ORKS INFANTRY unit.",
+    "effect": "When a Hit roll for that enemy unit's ranged attack that targets that ORKS unit results in a hit, if a model in your GRETCHIN unit is on the battlefield, end the attack sequence for that attack and your GRETCHIN unit suffers 1 mortal wound."
+  },
+  {
+    "ability_id": "gun-crazy-show-offs-wreckas",
+    "name": "Gun-Crazy Show-offs",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "when": "Your opponent's Shooting phase, when an enemy unit has shot.",
+    "target": "One friendly FLASH GITZ/TANKBUSTAS unit hit by those attacks.",
+    "effect": "Your unit shoots again as normal. While doing so, your unit can only target that enemy unit."
+  },
+  {
+    "ability_id": "gut-hatch",
+    "name": "Gut Hatch",
+    "faction_id": "orks",
+    "unit_ids": [
+      "gorkanaut",
+      "morkanaut"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-06.png; Gorkanaut and Morkanaut abilities panels",
+      "edition": "11e"
+    },
+    "raw_text": "In your Movement phase, when this unit ends a normal move, units embarked within this unit can make an assault disembark move (pg 12)."
+  },
+  {
+    "ability_id": "hardy-bioniks",
+    "name": "Hardy Bioniks",
+    "faction_id": "orks",
+    "unit_ids": [
+      "painboss"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-32.jpg; pages 150-151; Painboss ABILITIES block, Hardy Bioniks",
+      "edition": "11e"
+    },
+    "raw_text": "Attacks that target this unit with a S greater than this unit’s T have -1 to wound rolls."
+  },
+  {
+    "ability_id": "high-speed-carnage",
+    "name": "High-speed Carnage",
+    "faction_id": "orks",
+    "unit_ids": [
+      "warbikers"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-08.png, page 160 Warbikers abilities",
+      "edition": "11e"
+    },
+    "raw_text": "If this unit made a Charge move this turn, this unit’s melee attacks have [SUSTAINED HITS 1]."
+  },
+  {
+    "ability_id": "hit-em-harder-war-horde",
+    "name": "Hit ’Em Harder",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "when": "Fight phase, when a friendly ORKS unit is selected to fight.",
+    "target": "That ORKS unit.",
+    "effect": "Your unit’s melee attacks have [LETHAL HITS]."
+  },
+  {
+    "ability_id": "idol-of-belligerence",
+    "name": "Idol of Belligerence",
+    "faction_id": "orks",
+    "unit_ids": [
+      "stompa"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-13.png; Stompa preview datasheet image (not a Codex page)",
+      "edition": "11e"
+    },
+    "raw_text": "In your Movement phase, when a unit embarked within this unit is selected to make a disembark move, that unit is riled up until the start of your next turn."
+  },
+  {
+    "ability_id": "impulsive-recon-flyboyz",
+    "name": "Impulsive Recon",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "ORKS AIRCRAFT unit only. In your first Movement phase, this unit can make an ingress move."
+  },
+  {
+    "ability_id": "infested-war-zone-runt-swarm",
+    "name": "Infested War Zone",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "when": "Any phase, when an enemy unit has attacked.",
+    "target": "One friendly GRETCHIN unit that was just destroyed. You can target that unit with this Stratagem even though that unit was just destroyed.",
+    "effect": "Add a new GRETCHIN unit to your army identical to your destroyed unit, in strategic reserves, at its starting strength, with its full wounds remaining."
+  },
+  {
+    "ability_id": "intimidating-motivation",
+    "name": "Intimidating Motivation",
+    "faction_id": "orks",
+    "unit_ids": [
+      "nazdreg",
+      "warboss",
+      "warboss-in-mega-armour"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; _private/sources/codex-orks-11e/rev-2683/source-images/source-25.jpg; pages 138-139; nazdreg ability panel; _private/sources/codex-orks-11e/rev-2683/source-images/source-25.jpg; pages 138-139; warboss ability panel; source-images/source-30.png; pages 140-141; Warboss in Mega Armour ABILITIES block",
+      "edition": "11e"
+    },
+    "raw_text": "(Once per battle round, per army): In your Movement phase, at the start or end of this unit’s move, you can select one friendly ORKS unit within 6\" of this unit. That unit:\n• Is no longer battle-shocked\n• Is riled up until the start of your next turn."
+  },
+  {
+    "ability_id": "it-came-from-da-drops-da-big-hunt",
+    "name": "It Came From Da Drops",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "BEASTBOSS ON SQUIGOSAUR model only. This model has +1 T."
+  },
+  {
+    "ability_id": "kaptins-hat-wreckas",
+    "name": "Kaptin’s Hat",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "BIG MEK/WARBOSS INFANTRY model only. When both players have deployed their armies, you can redeploy up to three friendly ORKS INFANTRY units. When doing so, you can set those units up in strategic reserves, regardless of how many units are already in strategic reserves."
+  },
+  {
+    "ability_id": "keep-huntin",
+    "name": "Keep Huntin’",
+    "faction_id": "orks",
+    "unit_ids": [
+      "beastboss",
+      "beastboss-on-squigosaur"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; _private/sources/codex-orks-11e/rev-2683/source-images/source-26.png; page 143; Beastboss on Squigosaur ability panel; _private/sources/codex-orks-11e/rev-2683/source-images/source-27.png; page 144; Beastboss ability panel",
+      "edition": "11e"
+    },
+    "raw_text": "(Once per battle round, per army): In your Movement phase, at the start or end of this unit’s move, you can select one friendly BEAST SNAGGA unit within 6\" of this unit. That unit:\n• Is no longer battle-shocked.\n• Is riled up until the start of your next turn."
+  },
+  {
+    "ability_id": "kill-kommando-taktikal-brigade",
+    "name": "Kill Kommando",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "BIG MEK/WARBOSS INFANTRY model only. While this model is part of an attached unit, this model has:\n• Infiltrators\n• Stealth"
+  },
+  {
+    "ability_id": "krushin-impetus",
+    "name": "Krushin’ Impetus",
+    "faction_id": "orks",
+    "unit_ids": [
+      "warboss-in-mega-armour"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-30.png; pages 140-141; Warboss in Mega Armour ABILITIES block",
+      "edition": "11e"
+    },
+    "raw_text": "When this unit ends a charge move, you can select one enemy unit engaged with this unit. If you do, roll one D6 for each model in this unit engaged with that enemy unit.\n• For each 3+, that enemy unit suffers 1 mortal wound."
+  },
+  {
+    "ability_id": "kustom-dakka",
+    "name": "Kustom Dakka",
+    "faction_id": "orks",
+    "unit_ids": [
+      "mek"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; _private/sources/codex-orks-11e/rev-2683/source-images/source-31.jpg; page 143; mek ability panel",
+      "edition": "11e"
+    },
+    "raw_text": "This unit’s ranged attacks have [ASSAULT, SUSTAINED HITS 1]."
+  },
+  {
+    "ability_id": "kustom-dakka-shoota-boyz",
+    "name": "Kustom Dakka",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase, when a friendly ORKS INFANTRY unit is selected to shoot.",
+    "target": "That ORKS INFANTRY unit.",
+    "effect": "Your unit's ranged attacks that target a unit (excluding MONSTER/VEHICLE units) have +1 to wound rolls."
+  },
+  {
+    "ability_id": "long-uncontrolled-bursts-flyboyz",
+    "name": "Long, Uncontrolled Bursts",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase, when a friendly ORKS AIRCRAFT/DEFFKOPTAS unit is selected to shoot.",
+    "target": "That ORKS AIRCRAFT/DEFFKOPTAS unit.",
+    "effect": "When your unit's ranged attacks target a FLY unit, those attacks can re-roll hit rolls."
+  },
+  {
+    "ability_id": "madcap-artillery",
+    "name": "Madcap Artillery",
+    "faction_id": "orks",
+    "unit_ids": [
+      "mek-gunz"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-03.png; Mek Gunz abilities panel",
+      "edition": "11e"
+    },
+    "raw_text": "In your Shooting phase, when this unit has shot, if all ranged weapons equipped by each Mek Gunz model in this unit are the same, select one enemy unit hit by those attacks. That enemy unit has the ability below that matches that weapon’s name until the start of your next turn.\n• Bubblechukka: This unit is wobbled. While a wobbled unit is attacking, its targets have the benefit of cover against those attacks.\n• Kustom Mega-kannon: This unit is zapped. While a unit is zapped, that unit has -1 Ld.\n• Smasha Gun: This unit is smashed. While a unit is smashed, that unit has -2\" M.\n• Traktor Kannon: This unit is grounded. While a unit is grounded, it cannot take to the skies.\nPlace five Grot Crew tokens next to each Mek Gunz model, removing one each time its Mek Gunz model loses a wound (a Mek Gunz model itself is considered to represent its final wound)."
+  },
+  {
+    "ability_id": "mekwaaagh-mastermind-madcap-meks",
+    "name": "MEKWAAAGH! Mastermind",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "BIG MEK model only. This unit is riled up."
+  },
+  {
+    "ability_id": "mind-mostly-on-the-mission-taktikal-brigade",
+    "name": "Mind Mostly On the Mission",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "when": "Your Movement phase, when a friendly BOYZ/KOMMANDOS/STORMBOYZ unit is selected to make an advance/fall-back move.",
+    "target": "That BOYZ/KOMMANDOS/STORMBOYZ unit.",
+    "effect": "That move does not prevent your unit from being eligible to start an action."
+  },
+  {
+    "ability_id": "minefield-detail-runt-swarm",
+    "name": "Minefield Detail",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "GRETCHIN unit only. While this unit is not embarked, this unit has Scouts 6\"."
+  },
+  {
+    "ability_id": "mob-handed-brutality-green-tide",
+    "name": "Mob-Handed Brutality",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "• Friendly BOYZ units’ melee attacks have [SUSTAINED HITS 1].\n• If a friendly ORKS INFANTRY unit made a charge move this turn, that unit’s melee attacks have [LETHAL HITS: non-MONSTER/VEHICLE]."
+  },
+  {
+    "ability_id": "mob-mentality-green-tide",
+    "name": "Mob Mentality",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "when": "Start of the Battle-shock step of your Command phase.",
+    "target": "One friendly ORKS INFANTRY unit of 13+ models.",
+    "effect": "Select one visible friendly ORKS unit within 12\" of your unit. That unit’s battle-shock rolls are automatically successful."
+  },
+  {
+    "ability_id": "mobbed",
+    "name": "Mobbed",
+    "faction_id": "orks",
+    "unit_ids": [
+      "beast-snagga-boyz"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; _private/sources/codex-orks-11e/rev-2683/source-images/source-34.png; page 153; Beast Snagga Boyz ability panel",
+      "edition": "11e"
+    },
+    "raw_text": "Mobbed: When this unit ends a charge move, each enemy MONSTER/VEHICLE unit engaged with this unit makes a battle-shock roll:\n• With +1 to that battle-shock roll.\n• Or With -2 to that battle-shock roll if this unit has 3+ models."
+  },
+  {
+    "ability_id": "mobile-arsenal",
+    "name": "Mobile Arsenal",
+    "faction_id": "orks",
+    "unit_ids": [
+      "gunwagon"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-04.png; Gunwagon abilities panel",
+      "edition": "11e"
+    },
+    "raw_text": "In your Shooting phase, this unit’s ranged attacks can re-roll hit rolls of 1."
+  },
+  {
+    "ability_id": "mobile-fortress",
+    "name": "Mobile Fortress",
+    "faction_id": "orks",
+    "unit_ids": [
+      "battlewagon"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-04.png; Battlewagon abilities panel",
+      "edition": "11e"
+    },
+    "raw_text": "Ranged attacks that target this unit have -1 D."
+  },
+  {
+    "ability_id": "morgogs-finkin-cap-brute-bosses",
+    "name": "Morgog’s Finkin’ Cap",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "WARBOSS model only. (Once per battle, per army) At the end of your opponent’s Movement phase, if this unit is unengaged, this unit can make a normal move of:\n• Up to D6\".\n• If this unit is riled up, you can re-roll that D6."
+  },
+  {
+    "ability_id": "mow-em-down-war-horde",
+    "name": "Mow ’Em Down",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "when": "Fight phase, when a friendly ORKS VEHICLE unit (excluding WALKER units) that made a charge move this turn is selected to fight.",
+    "target": "That ORKS VEHICLE unit.",
+    "effect": "Your unit’s melee attacks have:\n• [CLEAVE 1]\n• Or: if that attack already has [CLEAVE], +1 to the value of that [CLEAVE] (e.g. [CLEAVE 1] becomes [CLEAVE 2])."
+  },
+  {
+    "ability_id": "nazdreg-knows-best",
+    "name": "Nazdreg Knows Best",
+    "faction_id": "orks",
+    "unit_ids": [
+      "nazdreg"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; _private/sources/codex-orks-11e/rev-2683/source-images/source-25.jpg; pages 138-139; nazdreg ability panel",
+      "edition": "11e"
+    },
+    "raw_text": "• This unit has Deep Strike.\n• This unit’s ranged attacks have [IGNORES COVER]."
+  },
+  {
+    "ability_id": "never-enough-dakka-shoota-boyz",
+    "name": "Never Enough Dakka",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase, when a friendly ORKS INFANTRY unit is selected to shoot.",
+    "target": "That ORKS INFANTRY unit.",
+    "effect": "Your unit's ranged attacks have [SUSTAINED HITS 1]."
+  },
+  {
+    "ability_id": "never-too-busy-to-fight",
+    "name": "Never Too Busy to Fight",
+    "faction_id": "orks",
+    "unit_ids": [
+      "boyz"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-12.png; Boyz preview datasheet image (not a Codex page)",
+      "edition": "11e"
+    },
+    "raw_text": "Being engaged does not prevent this unit from being eligible to start an action."
+  },
+  {
+    "ability_id": "nowhere-to-hide",
+    "name": "Nowhere to Hide",
+    "faction_id": "orks",
+    "unit_ids": [
+      "kommandos"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-02.png; Kommandos abilities panel",
+      "edition": "11e"
+    },
+    "raw_text": "This unit’s attacks that target a hidden unit have +1 to hit rolls."
+  },
+  {
+    "ability_id": "out-from-da-shadows",
+    "name": "Out From da Shadows",
+    "faction_id": "orks",
+    "unit_ids": [
+      "boss-snikrot"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; _private/sources/codex-orks-11e/rev-2683/source-images/source-29.jpg; pages 148-149; boss-snikrot ability panel",
+      "edition": "11e"
+    },
+    "raw_text": "Out From the Shadows (First battle round onwards): At the end of your opponent’s Movement phase, if this unit is in strategic reserves, this unit can make an ingress move."
+  },
+  {
+    "ability_id": "paired-krumpas",
+    "name": "Paired Krumpas",
+    "faction_id": "orks",
+    "unit_ids": [
+      "nobz"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-15.png; Nobz preview datasheet image (not a Codex page)",
+      "edition": "11e"
+    },
+    "raw_text": "Attacks made with this model’s Kustom Krumpa weapon can re-roll hit rolls and wound rolls."
+  },
+  {
+    "ability_id": "pillin-out",
+    "name": "Pillin’ Out!",
+    "faction_id": "orks",
+    "unit_ids": [
+      "trukk"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-04.png; Trukk ABILITIES block, first paragraph",
+      "edition": "11e"
+    },
+    "raw_text": "In your opponent’s Movement phase, when an enemy unit ends a move within 8\" of this model, units embarked within this model can make a disembark move using the Rapid Disembark rules."
+  },
+  {
+    "ability_id": "powers-of-da-waaagh-wurrband",
+    "name": "Powers Of Da Waaagh!",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "Friendly ORKS PSYKER models’ [PSYCHIC] attacks have:\n• +1 S.\n• +1 S for every 5 models in this unit (or embarked within this model).\n\nFriendly ORKS PSYKER models have the following psychic abilities:\n\nRoar of Mork (psychic level 1): In your Movement phase, if this unit is not battle-shocked, you can make a psychic roll for this unit by rolling one D6. If you do:\n• On a 1, this unit is battle-shocked.\n• Select one enemy unit (excluding MONSTER/VEHICLE units) within 12\" of this unit. That enemy unit makes a battle-shock roll, with -1 from that battle-shock roll for every 10 models in this unit.\n\nVisions of Violence (psychic level 1): At the start of the Fight phase, if this unit is not battle-shocked, you can make a psychic roll for this unit by rolling one D6. If you do:\n• On a 1, this unit is battle-shocked.\n• This unit has Fights First."
+  },
+  {
+    "ability_id": "proper-killy-brute-bosses",
+    "name": "Proper Killy",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "WARBOSS model only. This model can re-roll hit rolls of 1."
+  },
+  {
+    "ability_id": "pulse-jet",
+    "name": "Pulse Jet",
+    "faction_id": "orks",
+    "unit_ids": [
+      "wazdakka-gutsmek"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; _private/sources/codex-orks-11e/rev-2683/source-images/source-27.png; page 145; THROTTLEROKKIT SHOKKA ENGINE ABILITIES panel",
+      "edition": "11e"
+    },
+    "raw_text": "In your Movement phase, when this unit is selected to move, if this unit is unengaged, this unit can make a pulse jet move (pg 121)."
+  },
+  {
+    "ability_id": "push-dat-bit-back-in",
+    "name": "Push Dat Bit Back In",
+    "faction_id": "orks",
+    "unit_ids": [
+      "painboss"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-32.jpg; pages 150-151; Painboss ABILITIES block, Push Dat Bit Back In",
+      "edition": "11e"
+    },
+    "raw_text": "(Once per battle, per unit): In your Command phase, select one friendly BEAST SNAGGA unit within 6\" of this unit. That unit heals 3 wounds.\n\nPlace a Grot Orderly token next to the unit, removing it when this ability is used."
+  },
+  {
+    "ability_id": "raucous-occupants",
+    "name": "Raucous Occupants",
+    "faction_id": "orks",
+    "unit_ids": [
+      "biged-bossbunka"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-16.png; Big’ed Bossbunka preview datasheet image (not a Codex page)",
+      "edition": "11e"
+    },
+    "raw_text": "While this model is within range of your home objective, add the OC of models embarked within this model to this model’s OC."
+  },
+  {
+    "ability_id": "rokkit-barrage",
+    "name": "Rokkit Barrage",
+    "faction_id": "orks",
+    "unit_ids": [
+      "tankbustas"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-03.png; Tankbustas abilities panel",
+      "edition": "11e"
+    },
+    "raw_text": "In your Shooting phase, when this unit has shot, select one enemy unit hit by those attacks. That unit makes a Battle-shock roll, with -1 to that Battle-shock roll."
+  },
+  {
+    "ability_id": "rokkit-charge",
+    "name": "Rokkit Charge",
+    "faction_id": "orks",
+    "unit_ids": [
+      "stormboyz"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-02.png; Stormboyz abilities panel",
+      "edition": "11e"
+    },
+    "raw_text": "When this unit is selected to fight, if this unit made a charge move this turn, you can use this ability. If you do, this unit’s melee attacks have: • +1 A and S. • [HAZARDOUS]."
+  },
+  {
+    "ability_id": "runnin-wiv-da-herd",
+    "name": "Runnin’ Wiv da Herd",
+    "faction_id": "orks",
+    "unit_ids": [
+      "painboss"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-32.jpg; pages 150-151; Painboss ABILITIES block, Runnin’ Wiv da Herd",
+      "edition": "11e"
+    },
+    "raw_text": "While this model is attached to a MOUNTED unit, this model:\n• Does not have INFANTRY\n• Has MOBILE and MOUNTED\n• Has +4\" M"
+  },
+  {
+    "ability_id": "scarper-runt-swarm",
+    "name": "Scarper!",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "when": "Your opponent's Movement phase, when an enemy unit ends a move within 8\" of a friendly non-engaged GRETCHIN unit.",
+    "target": "That GRETCHIN unit.",
+    "effect": "Your unit can make a normal move of:\n• Up to D6\".\n• Or, Up to 6\" instead if your unit is an attached unit."
+  },
+  {
+    "ability_id": "shokk-attack-engine",
+    "name": "Shokk Attack Engine",
+    "faction_id": "orks",
+    "unit_ids": [
+      "wazdakka-gutsmek"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; _private/sources/codex-orks-11e/rev-2683/source-images/source-27.png; page 145; THROTTLEROKKIT SHOKKA ENGINE ABILITIES panel",
+      "edition": "11e"
+    },
+    "raw_text": "In your Command phase, if this unit is unengaged, you can place this unit in strategic reserves."
+  },
+  {
+    "ability_id": "skyborne-loons-flyboyz",
+    "name": "Skyborne Loons",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "• Friendly ORKS AIRCRAFT units do not count towards the combined points value of your strategic reserves units.\n• While a friendly ORKS AIRCRAFT/DEFFKOPTAS unit is riled up, this unit's ranged attacks have +1 to hit rolls."
+  },
+  {
+    "ability_id": "smashin-da-eads",
+    "name": "Smashin’ da ’Eads",
+    "faction_id": "orks",
+    "unit_ids": [
+      "bigboss"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; _private/sources/codex-orks-11e/rev-2683/source-images/source-29.jpg; pages 148-149; bigboss ability panel",
+      "edition": "11e"
+    },
+    "raw_text": "Smashin’ da ’Eads: This unit’s melee attacks have +1 to hit rolls."
+  },
+  {
+    "ability_id": "smoky-gubbinz-kult-of-speed",
+    "name": "Smoky Gubbinz",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "SPEED FREEKS unit only (excluding AIRCRAFT units). When an attack targets a unit that is not fully visible to the attacking model because of a model in this unit, the target has the benefit of cover against that attack."
+  },
+  {
+    "ability_id": "sneaky-little-gitz-runt-swarm",
+    "name": "Sneaky Little Gitz",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "• Friendly GRETCHIN units have BATTLELINE.\n• When a friendly GRETCHIN unit is selected to make an Advance/Fall-back move, that move does not prevent this unit from being eligible to start an action."
+  },
+  {
+    "ability_id": "spiteful-power-trip",
+    "name": "Spiteful Power Trip",
+    "faction_id": "orks",
+    "unit_ids": [
+      "killa-kans"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-14.png; Killa Kans preview datasheet image (not a Codex page)",
+      "edition": "11e"
+    },
+    "raw_text": "This unit’s attacks that target a unit that has no models with a T of 7+ have +1 to hit rolls."
+  },
+  {
+    "ability_id": "squig-barrage",
+    "name": "Squig Barrage",
+    "faction_id": "orks",
+    "unit_ids": [
+      "rukkatrukk-squigbuggy"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-11.png, Rukkatrukk Squigbuggies abilities",
+      "edition": "11e"
+    },
+    "raw_text": "In your Shooting phase, when this unit has shot, select one enemy unit (excluding MONSTER/VEHICLE units) hit by this unit’s Squig Launcha weapons. That enemy unit is covered in Squigs until the start of your next turn.\n• While a unit is covered in Squigs, that unit’s attacks have -1 to hit rolls."
+  },
+  {
+    "ability_id": "supa-glowy-fing-shoota-boyz",
+    "name": "Supa-Glowy Fing",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "ORKS INFANTRY model only (excluding VEHICLE models). This model's ranged attacks have:\n• [ANTI-INFANTRY 4+].\n• [DEVASTATING WOUNDS].\n• [SUPA-HAZARDOUS].\n\n[SUPA-HAZARDOUS]: Each time a unit is selected to shoot, after that unit has resolved all of its attacks, make two Hazard rolls for that unit for each [SUPA-HAZARDOUS] weapon you selected in the Select Weapons step."
+  },
+  {
+    "ability_id": "supa-snazz-dakka-upgrade-wreckas",
+    "name": "Supa-Snazz Dakka Upgrade",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "FLASH GITZ unit only. This unit's Snazzgun weapons have [RAPID FIRE 1]"
+  },
+  {
+    "ability_id": "support-bubble",
+    "name": "Support Bubble",
+    "faction_id": "orks",
+    "unit_ids": [
+      "big-mek-with-shokk-attack-gun"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; _private/sources/codex-orks-11e/rev-2683/source-images/source-31.jpg; page 143; big-mek-with-shokk-attack-gun ability panel",
+      "edition": "11e"
+    },
+    "raw_text": "While this model is within 3\" of a friendly ORKS INFANTRY unit (excluding BIG MEK WITH SHOKK ATTACK GUN units), this model has Lone Operative."
+  },
+  {
+    "ability_id": "supreme-ironskin",
+    "name": "Supreme Ironskin",
+    "faction_id": "orks",
+    "unit_ids": [
+      "nazdreg"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; _private/sources/codex-orks-11e/rev-2683/source-images/source-25.jpg; pages 138-139; nazdreg ability panel",
+      "edition": "11e"
+    },
+    "raw_text": "(Once per phase, per army): In your opponent’s Movement phase, when an enemy unit ends a move within 9\" of this unit, if this unit is unengaged, this unit can:\n• Make a normal move of up to 6\".\n• If this unit is riled up, make a normal move of up to 9\"."
+  },
+  {
+    "ability_id": "surly-as-a-squiggoth-brute-bosses",
+    "name": "Surly As A Squiggoth",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "INFANTRY WARBOSS model only. (Once per battle, per army)\nAt the end of a phase in which this model is destroyed, roll one D6:\n• On a 2+, set this model back up on the battlefield as close as possible to where it was destroyed, unengaged, with 3 wounds remaining."
+  },
+  {
+    "ability_id": "suspiciously-well-organised-taktikal-brigade",
+    "name": "Suspiciously Well Organised",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "• Friendly STORMBOYZ units have BATTLELINE.\n• When a friendly BOYZ/KOMMANDOS/STORMBOYZ unit is selected to make a fall-back move, that fall-back move does not prevent that unit from being eligible to declare a charge."
+  },
+  {
+    "ability_id": "taktikal-know-wotz",
+    "name": "Taktikal Know-wotz",
+    "faction_id": "orks",
+    "unit_ids": [
+      "kommandos"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-02.png; Kommandos abilities panel",
+      "edition": "11e"
+    },
+    "raw_text": "In the Declare Battle Formations step, you can split this unit into two units, each with a starting strength of 5. If you do, select which one of those units will have the Bomb Squig ability and which one of those units will have the Found ’Em! ability."
+  },
+  {
+    "ability_id": "targetin-squigs-shoota-boyz",
+    "name": "Targetin’ Squigs",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "BIG MEK/BIG BOSS/MEKBOSS model only. This unit's ranged attacks (excluding [TORRENT] attacks) have +3\" R."
+  },
+  {
+    "ability_id": "tellyporta-boss-bully-boyz",
+    "name": "Tellyporta Boss",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "MEGA ARMOUR model only. This unit (excluding VEHICLE units) has Deep Strike."
+  },
+  {
+    "ability_id": "temperamental-shokka-madcap-meks",
+    "name": "Temperamental Shokka",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "BIG MEK WITH SHOKK ATTACK GUN model only. In your Shooting phase, when this unit is selected to shoot, you can roll one D6:\n• On a 1, this model's Shokk Attack Gun weapon has [TORRENT], and when this unit has shot, this model is destroyed.\n• On a 2-5, this model's Shokk Attack Gun weapon has +1 A.\n• On a 6, this model's Shokk Attack Gun weapon has [SUSTAINED HITS 2]."
+  },
+  {
+    "ability_id": "thatll-learn-ya",
+    "name": "That’ll Learn Ya",
+    "faction_id": "orks",
+    "unit_ids": [
+      "runtherd"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-32.jpg; pages 150-151; Runtherd ABILITIES block, That’ll Learn Ya",
+      "edition": "11e"
+    },
+    "raw_text": "(Once per battle round, per unit): When this unit becomes battle-shocked, if this unit contains 4+ Gretchin models, you can roll one D3:\n• That number of Gretchin models in this unit are destroyed.\n• This unit is no longer battle-shocked."
+  },
+  {
+    "ability_id": "throat-slittas-upgrade-taktikal-brigade",
+    "name": "Throat-Slittas Upgrade",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "KOMMANDOS/STORMBOYZ unit only. This unit's melee attacks have [LETHAL HITS: non-MONSTER/VEHICLE]"
+  },
+  {
+    "ability_id": "tide-of-muscle",
+    "name": "Tide of Muscle",
+    "faction_id": "orks",
+    "unit_ids": [
+      "boyz"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-12.png; Boyz preview datasheet image (not a Codex page)",
+      "edition": "11e"
+    },
+    "raw_text": "In the Fight phase, if this unit made a charge move this turn, this unit’s melee attacks have [LETHAL HITS]."
+  },
+  {
+    "ability_id": "tramplasquig-charge",
+    "name": "Tramplasquig Charge",
+    "faction_id": "orks",
+    "unit_ids": [
+      "hunta-rig"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-05.jpg; Hunta Rig abilities panel",
+      "edition": "11e"
+    },
+    "raw_text": "When you target a unit with the Crushing Impact Stratagem, that unit suffers -1CP."
+  },
+  {
+    "ability_id": "try-dat-button-madcap-meks",
+    "name": "Try Dat Button!",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "In your Shooting phase or the Fight phase, when a friendly ORKS WALKER unit (excluding TITANIC units) is selected to attack, you can use this ability. If you do, roll either one D6 or two D6 (keep re-rolling duplicate results). This unit’s attacks have the relevant rule(s):\n\nTRY DAT BUTTON!\nD6    RESULT\n1-2    +1 A\n3-4    +2 S\n5-6    +1 AP\n\nIf you rolled two D6, when this unit has attacked, this unit makes one hazard roll."
+  },
+  {
+    "ability_id": "turbo-engine",
+    "name": "Turbo Engine",
+    "faction_id": "orks",
+    "unit_ids": [
+      "wazdakka-gutsmek"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; _private/sources/codex-orks-11e/rev-2683/source-images/source-27.png; page 145; THROTTLEROKKIT SHOKKA ENGINE ABILITIES panel",
+      "edition": "11e"
+    },
+    "raw_text": "When this unit is selected to make an advance/fall-back move, that move does not prevent this unit from being eligible to declare a charge."
+  },
+  {
+    "ability_id": "unbridled-carnage-green-tide",
+    "name": "Unbridled Carnage",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "when": "Fight phase, when a friendly BOYZ unit that made a charge move this turn is selected to fight.",
+    "target": "That BOYZ unit.",
+    "effect": "Your unit’s melee attacks have +1 A."
+  },
+  {
+    "ability_id": "unpredictable-genius-madcap-meks",
+    "name": "Unpredictable Genius",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "In your Shooting phase, when all of a friendly BIG MEK/MEK GUNZ/MORKANAUT/WAZBOM BLASTAJET unit's ranged attacks target a single enemy unit, roll one D6:\nD6 | RESULT\n1 | Dat's Weird: The target unit has 4+ InvSv until your unit has shot.\n2-3 | Hop Splat: Select one other enemy unit within 3\" of the target. That unit suffers D3 mortal wounds.\n4 | Seekerz: Those attacks have +1 to hit rolls.\n5 | Lifted: The target unit has FLY, and cannot have the benefit of cover, until your unit has shot.\n6 | Runtified: The target unit has -1 T until your unit has shot."
+  },
+  {
+    "ability_id": "vindictive-artillerists-madcap-meks",
+    "name": "Vindictive Artillerists",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase, when a friendly MEK GUNZ unit is selected to shoot.",
+    "target": "That MEK GUNZ unit.",
+    "effect": "Your unit's ranged attacks have:\n• [LETHAL HITS]\n• Or [SUSTAINED HITS 1]\n• Or [HAZARDOUS], [LETHAL HITS], [SUSTAINED HITS 1]"
+  },
+  {
+    "ability_id": "waaagh-banner",
+    "name": "Waaagh! Banner",
+    "faction_id": "orks",
+    "unit_ids": [
+      "bannernob"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; _private/sources/codex-orks-11e/rev-2683/source-images/source-29.jpg; pages 148-149; bannernob ability panel",
+      "edition": "11e"
+    },
+    "raw_text": "Waaagh! Banner: This unit has +1 to charge rolls."
+  },
+  {
+    "ability_id": "warpath-psychic-kill-rig",
+    "name": "Warpath",
+    "faction_id": "orks",
+    "unit_ids": [
+      "kill-rig"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-05.jpg; Kill Rig PSYCHIC ABILITIES panel",
+      "edition": "11e"
+    },
+    "raw_text": "Warpath (psychic level 1): In the Fight phase, when this unit is selected to fight, if this unit is not battle-shocked, you can make a psychic roll for this unit by rolling one D6. If you do:\n• On a 1, this unit is battle-shocked.\n• This unit’s melee attacks have [LETHAL HITS] and [PSYCHIC]."
+  },
+  {
+    "ability_id": "warpath-psychic-weirdboy",
+    "name": "Warpath (Psychic level 1)",
+    "faction_id": "orks",
+    "unit_ids": [
+      "weirdboy"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-29.jpg, page 148 Weirdboy Psychic Abilities panel",
+      "edition": "11e"
+    },
+    "raw_text": "In the Fight phase, when this unit is selected to fight, if this unit is not battle-shocked, you can make a psychic roll for this unit by rolling one D6. If you do:\n• On a 1, this unit is battle-shocked.\n• This unit’s melee attacks can re-roll wound rolls of 1.\n• This unit’s melee attacks have [PSYCHIC]."
+  },
+  {
+    "ability_id": "warphead-wurrband",
+    "name": "Warphead",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "ORKS PSYKER model only. This model:\n• Has psychic level 2.\n• Has Deadly Demise D6.\n• Can re-roll psychic rolls."
+  },
+  {
+    "ability_id": "while-their-backs-are-turned-taktikal-brigade",
+    "name": "While Their Backs Are Turned",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "when": "End of your opponent's Movement phase.",
+    "target": "One friendly unengaged BOYZ/KOMMANDOS/STORMBOYZ unit that was engaged at the start of the phase.",
+    "effect": "Your unit can make a normal move of up to 6\"."
+  },
+  {
+    "ability_id": "whirligig-evasion-flyboyz",
+    "name": "Whirligig Evasion",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "when": "Your opponent's Movement phase, when an enemy unit ends a move.",
+    "target": "One friendly unengaged DEFFKOPTAS unit within 8\" of that enemy unit.",
+    "effect": "Your unit can make a normal move of:\n• Up to D6\".\n• Or, if your unit is riled up, up to 6\"."
+  },
+  {
+    "ability_id": "wimp-kickaz-bully-boyz",
+    "name": "Wimp-Kickaz",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "NOBZ unit only. When an enemy unit engaged with this unit is selected to make a fall-back move:\n• That enemy unit must select the desperate escape mode.\n• If this unit is riled up, that enemy unit has -1 to the hazard rolls made for that desperate escape."
+  },
+  {
+    "ability_id": "wreckin-and-lootin-wreckas",
+    "name": "Wreckin’ and Lootin’",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; ",
+      "edition": "11e"
+    },
+    "raw_text": "In your Shooting phase, when a friendly BREAKA BOYZ/FLASH GITZ/TANKBUSTAS unit is selected to shoot, if any of the following apply, that unit's attacks can re-roll hit rolls of 1.\n• That unit is within range of an objective.\n• The target of that attack is within range of an objective."
+  },
+  {
+    "ability_id": "wurrboy-psychic",
+    "name": "Wurrboy Psychic",
+    "faction_id": "orks",
+    "unit_ids": [
+      "kill-rig"
+    ],
+    "ability_type": "unit",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "image",
+      "ref": "Ork Codex Leaks Aug. 19, 2026; source-images/source-05.jpg; Kill Rig abilities panel",
+      "edition": "11e"
+    },
+    "raw_text": "Wurrboy (psychic level 1): This model has the psychic abilities listed in the Psychic Abilities section (see left)."
+  },
+  {
+    "ability_id": "riled-up",
+    "name": "Riled Up",
+    "faction_id": "orks",
+    "detachment_id": null,
+    "unit_ids": [],
+    "ability_type": "faction",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "json",
+      "ref": "campaign decision Q23/Q32",
+      "phases": []
+    },
+    "raw_text": "A riled-up Orks unit treats its ranged weapons as Assault weapons, can re-roll Advance rolls, can declare a charge after it Advances, and has a 5+ invulnerable save."
+  },
+  {
+    "ability_id": "eager-for-the-fight",
+    "name": "Eager for the Fight",
+    "faction_id": "orks",
+    "detachment_id": "blitz-brigade",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "codex-orks"
+    },
+    "source": {
+      "kind": "pdf",
+      "ref": "orks-faction-pack-2026-07-22.pdf",
+      "phases": []
+    },
+    "raw_text": "Blitz Brigades thunder into battle laden with eager, belligerent Orks, all desperate to get stuck into the enemy. Clambering from transport compartments or leaping from armoured hulls, these wild‑eyed killers descend on the enemy in roaring savagery. Each time an Orks unit from your army disembarks from a Transport, until the end of the turn, you can re‑roll Advance and Charge rolls made for that Orks unit."
+  },
+  {
+    "ability_id": "waaagh",
+    "name": "Waaagh!",
+    "faction_id": "orks",
+    "detachment_id": null,
+    "unit_ids": [
+      "biged-bossbunka",
+      "deffkoptas-with-big-shootas",
+      "skorchas",
+      "bannernob",
+      "big-mek-dakkarig",
+      "bigboss",
+      "wartrakk",
+      "wazdakka-gutsmek"
+    ],
+    "ability_type": "faction",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "json",
+      "ref": "dump",
+      "phases": []
+    },
+    "raw_text": "If your Army Faction is **ORKS**, once per battle, at the start of your Command phase, you can call a Waaagh!. If you do, until the start of your next Command phase, the Waaagh! is active for your army and:\n\n■ Units from your army with this ability are eligible to declare a charge in a turn in which they Advanced.\n■ Add 1 to the Strength and Attacks characteristics of melee weapons equipped by models from your army with this ability.\n■ Models from your army with this ability have a 5+ invulnerable save.\nThe infamous war cry of the Orks is known and feared throughout the galaxy. When it echoes across the battlefield, bellowed from hundreds or even thousands of toothy maws, even the most stalwart warriors fear the onslaught to come."
+  },
+  {
+    "ability_id": "concealed-krumpin-equatorial-hordes",
+    "name": "Concealed Krumpin’",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#f62eb18e-c65a-454f-9f6e-08fc29aa4a65",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase or the Fight phase, when a friendly **hidden** MOB unit is **selected to attack**.",
+    "target": "That Mob unit.",
+    "effect": "Your unit’s attacks have [Lethal Hits]."
+  },
+  {
+    "ability_id": "ded-killy-construction-speedwaaagh",
+    "name": "Ded Killy Construction",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#81f6c4eb-5bec-4ee6-9d8f-fcefbab49374",
+      "edition": "11e"
+    },
+    "when": "Your Fight phase.",
+    "target": "One **SPEED FREEKS** or **TRUKK** unit from your army that has not been selected to fight this phase.",
+    "effect": "Until the end of the phase, melee weapons equipped by models in your unit have the **[LANCE]** ability and, if your unit made a Charge move this turn, until the end of the phase, add 1 to the Damage characteristic of those weapons."
+  },
+  {
+    "ability_id": "deyre-over-ere-equatorial-hordes",
+    "name": "Dey’re Over ‘Ere",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#12473d80-5b22-4553-af1b-c59d565eb9a7",
+      "edition": "11e"
+    },
+    "when": "Start of your Shooting phase.",
+    "target": "One friendly Mob/Kommandos unit.",
+    "effect": "While a **visible** enemy unit is within 6\" of your unit, that unit has +3\" **detection range**."
+  },
+  {
+    "ability_id": "dust-trails-speedwaaagh",
+    "name": "Dust Trails",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#9bf2df4c-4b32-4566-ae07-328cc1cf2614",
+      "edition": "11e"
+    },
+    "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
+    "target": "One **ORKS** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the end of the phase, your unit has the Benefit of Cover."
+  },
+  {
+    "ability_id": "evasive-manoova-speedwaaagh",
+    "name": "Evasive Manoova",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#6dbaa42c-18ba-445d-8409-42128d9613a2",
+      "edition": "11e"
+    },
+    "when": "End of your opponent’s Fight phase.",
+    "target": "**SPEED FREEKS** or **TRUKK** unit from your army that is not within Engagement Range of one or more enemy units.",
+    "effect": "Remove your unit from the battlefield and place it into Strategic Reserves."
+  },
+  {
+    "ability_id": "get-stuck-in-ardmob",
+    "name": "Get Stuck In",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#268cafb0-9d7a-4a47-bc8e-112cbc78b505",
+      "edition": "11e"
+    },
+    "when": "Your opponent's Shooting phase, when an enemy unit that targeted a friendly **unengaged** 'Ardmob unit has shot.",
+    "target": "That 'Ardmob unit.",
+    "effect": "Your unit can make a **surge move** of up to D6+1\"."
+  },
+  {
+    "ability_id": "krump-em-ardmob",
+    "name": "Krump ’Em",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#10d5e5dd-b0ba-4b15-93d6-cf57f2d8df30",
+      "edition": "11e"
+    },
+    "when": "Fight phase, when a friendly ’Ardmob unit is **selected to fight**.",
+    "target": "That ’Ardmob unit.",
+    "effect": "Your unit's melee attacks have +1 **S**."
+  },
+  {
+    "ability_id": "krushin-impact-bully-boyz",
+    "name": "Krushin' Impact",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#414c47a3-bb1f-4f75-a534-52b114978f89",
+      "edition": "11e"
+    },
+    "when": "Your Charge phase, just after a **NOBZ** or **MEGANOBZ** unit from your army ends a Charge move.",
+    "target": "That **NOBZ** or **MEGANOBZ** unit.",
+    "effect": "Select one enemy unit within Engagement Range of your unit, then roll one D6 for each model in your unit that is within Engagement Range of that enemy unit: for each 5+, that enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds). If a Waaagh! is active for your unit, that enemy unit suffers 1 mortal wound for each 4+ instead."
+  },
+  {
+    "ability_id": "medi-squigs-ardmob",
+    "name": "Medi-Squigs",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#f3c2ea35-be0f-4526-aff0-037a7291bbbf",
+      "edition": "11e"
+    },
+    "when": "Your opponent's Shooting phase, when an enemy unit targets a friendly 'Ardmob unit.",
+    "target": "That 'Ardmob unit.",
+    "effect": "Your unit has 5+ **InSv**."
+  },
+  {
+    "ability_id": "mobile-dakkastorm-speedwaaagh",
+    "name": "Mobile Dakkastorm",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#9da4621c-23e6-4d5a-a6d0-54fcc410b521",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase, just after a Speed Freeks or Trukk unit from your army has shot.",
+    "target": "That **SPEED FREEKS** or **TRUKK** unit.",
+    "effect": "Select one enemy unit hit by one or more of those attacks (excluding attacks made with Indirect Fire weapons). Until the end of the phase, each time a model in a **SPEED FREEKS** or **TRUKK** unit from your army makes an attack that targets that unit, improve the Strength characteristic of that attack by 2."
+  },
+  {
+    "ability_id": "on-da-move-speedwaaagh",
+    "name": "On Da Move",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#9cadafce-436d-48e2-89bc-32dd3cdc44b7",
+      "edition": "11e"
+    },
+    "when": "Your Movement phase.",
+    "target": "One **ORKS** unit from your army that has not been selected to move this phase.",
+    "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back or Advanced (unless it used its turbo this turn)."
+  },
+  {
+    "ability_id": "speshul-ammo-speedwaaagh",
+    "name": "Speshul Ammo",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#ccc88b1d-359c-4bdd-8dd6-b6d408514eab",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase.",
+    "target": "One **ORKS** unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit (excluding Torrent weapons) have the **[ANTI‑MONSTER 4+]** and **[ANTI‑VEHICLE 4+]** abilities."
+  },
+  {
+    "ability_id": "stragglerz-equatorial-hordes",
+    "name": "Stragglerz",
+    "faction_id": "orks",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#02ddf041-3103-4e99-b506-ac50ded9e1b9",
+      "edition": "11e"
+    },
+    "when": "Your Command phase.",
+    "target": "One friendly Mob/Kommandos unit.",
+    "effect": "Your unit **heals** 2D3 wounds."
+  },
+  {
+    "ability_id": "dreadherder-dread-mob",
+    "name": "Dreadherder",
+    "faction_id": "orks",
+    "detachment_id": "dread-mob",
+    "unit_ids": [],
+    "ability_type": "enhancement",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "json",
+      "ref": "https://www.warhammer-community.com/en-gb/articles/fvsvtvtu/build-a-better-waaagh-warhammer-community-cooks-up-their-ideal-ork-armies/",
+      "phases": []
+    },
+    "raw_text": "BIG MEK model only. While this model is within 3\" of a friendly ORKS WALKER unit (excluding BIG MEK units): This model has Lone Operative. In your Shooting phase, you can select one friendly ORKS WALKER unit within 3\" of this model. That unit’s attacks can re-roll hit rolls of 1 until the end of the turn."
   }
 ]

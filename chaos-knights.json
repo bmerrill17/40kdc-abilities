@@ -618,13 +618,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaosknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#39493fcc-0ea8-44a4-92e8-0758641e3074",
+      "edition": "11e"
     },
-    "when": "Any phase.",
-    "target": "One CHAOS KNIGHTS unit from your army that was just destroyed. You can use this Stratagem on that unit even though it was just destroyed.",
-    "effect": "Until the end of the battle, the enemy unit that destroyed your unit is Marked. Each time a DAMNED model from your army makes an attack that targets a Marked unit, that attack has the [LETHAL HITS] ability."
+    "when": "Any phase, when a friendly Chaos Knights unit is **destroyed** by an enemy unit.",
+    "target": "That enemy unit.",
+    "effect": "That enemy unit is **marked** until the end of the battle. Friendly Damned units’ attacks that target a **marked** unit have [Lethal Hits]."
   },
   {
     "ability_id": "hunters-helm-helhunt-lance",
@@ -819,12 +819,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaosknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#6a8d33d9-4f1e-472c-baeb-ae9d59ee0c42",
+      "edition": "11e"
     },
     "when": "Start of your Command phase.",
-    "target": "One CHAOS KNIGHTS CHARACTER unit from your army that is within range of one or more objective markers you control.",
+    "target": "One **CHAOS KNIGHTS CHARACTER** unit from your army that is within range of one or more objective markers you control.",
     "effect": "Select one of those objective markers. That objective marker remains under your control, with a Level of Control of 5 (unless it would otherwise be higher), until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
   },
   {
@@ -838,12 +838,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaosknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#7813c85e-8f42-40db-af14-04fe182ab410",
+      "edition": "11e"
     },
-    "when": "Any phase, just after a CHAOS KNIGHTS CHARACTER unit from your army is destroyed.",
-    "target": "That CHAOS KNIGHTS CHARACTER unit. You can use this Stratagem on that unit even though it was just destroyed.",
+    "when": "Any phase, just after a **CHAOS KNIGHTS CHARACTER** unit from your army is destroyed.",
+    "target": "That **CHAOS KNIGHTS CHARACTER** unit. You can use this Stratagem on that unit even though it was just destroyed.",
     "effect": "When rolling to determine whether mortal wounds are inflicted by your unit’s Deadly Demise ability, that model’s Deadly Demise ability inflicts mortal wounds on a D6 roll of a 4+ instead of on a 6."
   },
   {
@@ -857,13 +857,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaosknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#958aac89-eac4-4925-bc4b-1cd30c809f1c",
+      "edition": "11e"
     },
     "when": "Your Shooting phase or the Fight phase.",
-    "target": "One CHAOS KNIGHTS CHARACTER unit from your army that has not been selected to shoot or fight this phase.",
-    "effect": "Select one enemy MONSTER or VEHICLE unit. Until the end of the phase, each time a model in your unit makes an attack that targets that enemy unit, re-roll a Hit roll of 1 and re-roll a Wound roll of 1. Each time a model in your unit makes an attack that targets that enemy unit, if that enemy unit is TITANIC, you can re-roll the Hit roll and you can re-roll the Wound roll instead."
+    "target": "One **CHAOS KNIGHTS CHARACTER** unit from your army that has not been selected to shoot or fight this phase.",
+    "effect": "Select one enemy **MONSTER** or **VEHICLE** unit. Until the end of the phase, each time a model in your unit makes an attack that targets that enemy unit, re-roll a Hit roll of 1 and re-roll a Wound roll of 1. Each time a model in your unit makes an attack that targets that enemy unit, if that enemy unit is **TITANIC,** you can re-roll the Hit roll and you can re-roll the Wound roll instead."
   },
   {
     "ability_id": "trophy-hunter-lords-of-dread",
@@ -876,12 +876,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaosknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#632536a8-7da8-40ef-beca-12e1684245f7",
+      "edition": "11e"
     },
-    "when": "Fight phase, just before a CHAOS KNIGHTS CHARACTER unit from your army consolidates.",
-    "target": "That CHAOS KNIGHTS CHARACTER unit.",
+    "when": "Fight phase, just before a **CHAOS KNIGHTS CHARACTER** unit from your army consolidates.",
+    "target": "That **CHAOS KNIGHTS CHARACTER** unit.",
     "effect": "Until the end of the phase, each time your unit Consolidates, models in it can move an additional 3\" as long as your unit can end that move within Engagement Range of one or more enemy units."
   },
   {
@@ -895,13 +895,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaosknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#dbd96ef4-5b6f-4026-9c77-257579233b5f",
+      "edition": "11e"
     },
-    "when": "Your Movement phase, just after a CHAOS KNIGHTS CHARACTER unit from your army ends a Normal move.",
-    "target": "That CHAOS KNIGHTS CHARACTER unit.",
-    "effect": "Select one enemy unit (excluding MONSTERS and VEHICLES) that your unit moved over during that move and roll six D6: for each 4+, that enemy unit suffers 1 mortal wound. If one or more models are destroyed as a result of this Stratagem, that enemy unit must take a Battle-shock test."
+    "when": "Your Movement phase, just after a **CHAOS KNIGHTS CHARACTER** unit from your army ends a Normal move.",
+    "target": "That **CHAOS KNIGHTS CHARACTER** unit.",
+    "effect": "Select one enemy unit (excluding **MONSTERS** and **VEHICLES)** that your unit moved over during that move and roll six D6: for each 4+, that enemy unit suffers 1 mortal wound. If one or more models are destroyed as a result of this Stratagem, that enemy unit must take a Battle-shock test."
   },
   {
     "ability_id": "runes-of-disdain-lords-of-dread",
@@ -914,12 +914,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaosknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#f09aa1f8-3eff-4de9-b32a-bb88c4f8fcf8",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One CHAOS KNIGHTS CHARACTER unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "target": "One **CHAOS KNIGHTS CHARACTER** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the end of the phase, each time an attack is allocated to a model in your unit, subtract 1 from the Damage characteristic of that attack."
   },
   {
@@ -1035,12 +1035,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaosknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#913832d8-081b-4a43-a3ff-b05a11e3a184",
+      "edition": "11e"
     },
     "when": "End of any phase.",
-    "target": "One CHAOS KNIGHTS unit from your army that is not Empowered.",
+    "target": "One **CHAOS KNIGHTS** unit from your army that is not Empowered.",
     "effect": "Your unit makes a Malefic Surge.",
     "restrictions": "You cannot select the same unit as the target of this Stratagem more than once per battle round."
   },
@@ -1055,12 +1055,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaosknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#9dfac69d-e8a2-4d38-8d6b-19858eaea882",
+      "edition": "11e"
     },
     "when": "Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One CHAOS KNIGHTS unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "target": "One **CHAOS KNIGHTS** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
   },
   {
@@ -1074,12 +1074,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaosknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#035699dc-c92e-4cd3-89ff-1b514fd6ea24",
+      "edition": "11e"
     },
-    "when": "Your Command phase, just after a CHAOS KNIGHTS CHARACTER unit from your army makes a Malefic Surge.",
-    "target": "That CHAOS KNIGHTS CHARACTER unit.",
+    "when": "Your Command phase, just after a **CHAOS KNIGHTS CHARACTER** unit from your army makes a Malefic Surge.",
+    "target": "That **CHAOS KNIGHTS CHARACTER** unit.",
     "effect": "Select one objective marker your unit is within range of that you control. That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
   },
   {
@@ -1093,12 +1093,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaosknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#64f0a546-c26f-4f2f-9f2d-086ead0a161b",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One CHAOS KNIGHTS unit from your army that has not been selected to shoot this phase.",
+    "target": "One **CHAOS KNIGHTS** unit from your army that has not been selected to shoot this phase.",
     "effect": "After your unit has shot, select one enemy unit hit by one or more of those attacks. That enemy unit must take a Battle-shock test; if the test is failed, until the end of your opponent’s next turn, it is aflame. While a unit is aflame, subtract 2\" from its Move characteristic and subtract 2 from Charge rolls made for it."
   },
   {
@@ -1112,13 +1112,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaosknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#0e0a9e37-fc6d-4ac8-8e17-9d44dc5ed741",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One CHAOS KNIGHTS unit from your army that has not been selected to shoot this phase.",
-    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the [IGNORES COVER] ability."
+    "target": "One **CHAOS KNIGHTS** unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the **[IGNORES COVER]** ability."
   },
   {
     "ability_id": "diabolic-bulwark-infernal-lance",
@@ -1131,12 +1131,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaosknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#71e5b868-02ba-4f1b-a154-3344075c17f1",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
-    "target": "One CHAOS KNIGHTS unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "target": "One **CHAOS KNIGHTS** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the end of the phase, models in your unit have a 4+ invulnerable save."
   },
   {
@@ -1218,13 +1218,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaosknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#d9cbaa4f-8f0d-40e6-a9b9-10627b23b0f9",
+      "edition": "11e"
     },
     "when": "Start of the Fight phase.",
-    "target": "Two or more WAR DOG units from your army within Engagement Range of the same enemy unit.",
-    "effect": "Select one enemy unit within Engagement Range of those WAR DOG units. Until the end of the phase, models in those WAR DOG units can only target that enemy unit, but each time a model in one of those WAR DOG units makes an attack, an unmodified Hit roll of 5+ scores a Critical Hit."
+    "target": "Two or more **WAR DOG** units from your army within Engagement Range of the same enemy unit.",
+    "effect": "Select one enemy unit within Engagement Range of those **WAR DOG** units. Until the end of the phase, models in those **WAR DOG** units can only target that enemy unit, but each time a model in one of those **WAR DOG** units makes an attack, an unmodified Hit roll of 5+ scores a Critical Hit."
   },
   {
     "ability_id": "animalistic-rage-houndpack-lance",
@@ -1237,12 +1237,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaosknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#3420f462-d007-4008-a716-9c5b5ee3f6b9",
+      "edition": "11e"
     },
-    "when": "Your opponent’s Shooting phase or the Fight phase, just after a WAR DOG unit from your army that has not yet fought is destroyed.",
-    "target": "That WAR DOG unit. You can use this Stratagem on that unit even though it was just destroyed.",
+    "when": "Your opponent’s Shooting phase or the Fight phase, just after a **WAR DOG** unit from your army that has not been **selected to attack** this phase is destroyed.",
+    "target": "That **WAR DOG** unit. You can use this Stratagem on that unit even though it was just destroyed.",
     "effect": "Before resolving your unit’s Deadly Demise ability, it can either shoot or fight. When doing so, it must target only the enemy unit that just destroyed it, and can only do so if that enemy unit is an eligible target. After it has done so and after any Consolidation moves have been made, resolve your unit’s Deadly Demise ability as normal."
   },
   {
@@ -1256,13 +1256,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaosknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#9191017d-e18a-403e-8592-36d0c812b866",
+      "edition": "11e"
     },
     "when": "Start of the Shooting phase or the start of the Fight phase.",
-    "target": "One WAR DOG CHARACTER unit from your army.",
-    "effect": "Each enemy unit within 6\" of your unit must take a Battle-shock test. Each friendly WAR DOG unit that is within 6\" of your unit and is Battle-shocked must take a Leadership test; if that test is passed, that unit is no longer Battle-shocked.",
+    "target": "One **WAR DOG CHARACTER** unit from your army.",
+    "effect": "Each enemy unit within 6\" of your unit must take a Battle-shock test. Each friendly **WAR DOG** unit that is within 6\" of your unit and is Battle-shocked must take a Leadership test; if that test is passed, that unit is no longer Battle-shocked.",
     "restrictions": "You can only use this Stratagem once per turn."
   },
   {
@@ -1276,12 +1276,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaosknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#ea343cd7-7ed7-4c03-8b15-13ceb7796371",
+      "edition": "11e"
     },
-    "when": "Your Movement phase, just after a WAR DOG unit from your army Falls Back",
-    "target": "That WAR DOG unit.",
+    "when": "Your Movement phase, just after a **WAR DOG** unit from your army Falls Back",
+    "target": "That **WAR DOG** unit.",
     "effect": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
   },
   {
@@ -1295,12 +1295,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaosknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#4bf9fe07-de25-4794-a9ed-e936f128cd50",
+      "edition": "11e"
     },
     "when": "Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.",
-    "target": "One WAR DOG unit from your army that is within 9\" of that enemy unit.",
+    "target": "One **WAR DOG** unit from your army that is within 8\" of that enemy unit.",
     "effect": "Your unit can make a Normal move of up to 6\"."
   },
   {
@@ -1314,12 +1314,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaosknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#bc3a4417-63e6-4d37-8114-8e453b15b394",
+      "edition": "11e"
     },
     "when": "End of your opponent’s Fight phase.",
-    "target": "One WAR DOG unit from your army that is wholly within 12\" of one or more battlefield edges and not within Engagement Range of one or more enemy units.",
+    "target": "One **WAR DOG** unit from your army that is wholly within 12\" of one or more battlefield edges and not within Engagement Range of one or more enemy units.",
     "effect": "Remove your unit from the battlefield and place it into Strategic Reserves."
   },
   {
@@ -1401,12 +1401,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaosknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#fdd0d950-98d1-4116-829b-4be30e80c3ac",
+      "edition": "11e"
     },
     "when": "Fight phase.",
-    "target": "One CHAOS KNIGHTS model from your army that made a Charge move this turn and has not been selected to fight this phase.",
+    "target": "One **CHAOS KNIGHTS** model from your army that made a Charge move this turn and has not been selected to fight this phase.",
     "effect": "Until the end of the phase, improve the Armour Penetration characteristic of melee weapons equipped by your model by 1. After your model has finished making its attacks this phase, if it destroyed one or more enemy units this phase, each enemy unit within 6\" of your model must take a Battle-shock test."
   },
   {
@@ -1420,12 +1420,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaosknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#60b20b10-a89a-4388-b49e-cc3fc677df77",
+      "edition": "11e"
     },
     "when": "Your Movement phase or your Charge phase.",
-    "target": "Up to two WAR DOG units from your army or one TITANIC CHAOS KNIGHTS unit from your army.",
+    "target": "Up to two **WAR DOG** units from your army or one **TITANIC CHAOS KNIGHTS** unit from your army.",
     "effect": "Until the end of the phase, each time a model in one of your units makes a Normal, Advance, Fall Back or Charge move, it can move through models and terrain features. When doing so, it can move within Engagement Range of such models but, unless it made a Charge move, cannot end that move within Engagement Range of them, and any Desperate Escape test is automatically passed (the Super-heavy Walker ability does not apply while using this Stratagem)."
   },
   {
@@ -1439,12 +1439,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaosknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#342ebf3d-58b7-43b4-9ee7-a300640f2855",
+      "edition": "11e"
     },
     "when": "Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One CHAOS KNIGHTS unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "target": "One **CHAOS KNIGHTS** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the end of the phase, your model has the Feel No Pain 6+ ability, and the Feel No Pain 5+ ability against attacks made by Battle-shocked models."
   },
   {
@@ -1458,13 +1458,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaosknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#523896e0-be0c-4070-a657-95bf6f408242",
+      "edition": "11e"
     },
     "when": "Your Command phase.",
-    "target": "One ABHORRENT model from your army and up to two friendly WAR DOG units.",
-    "effect": "Until the start of your next Command phase, those WAR DOG units are treated as being within range of any Aura abilities your ABHORRENT unit has."
+    "target": "One **ABHORRENT** model from your army and up to two friendly **WAR DOG** units.",
+    "effect": "Until the start of your next Command phase, those **WAR DOG** units are treated as being within range of any Aura abilities your **ABHORRENT** unit has."
   },
   {
     "ability_id": "storm-of-darkness-traitoris-lance",
@@ -1477,12 +1477,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaosknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#27661185-4352-4946-a96b-554be5d5502e",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
-    "target": "One CHAOS KNIGHTS unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "target": "One **CHAOS KNIGHTS** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the end of the phase, models in your unit have the Stealth ability, and each time an attack targets your unit, models in it have the Benefit of Cover against that attack."
   },
   {
@@ -1496,12 +1496,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/chaosknights.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#1e114a1f-1c50-474d-bae5-0b3b9b29d180",
+      "edition": "11e"
     },
     "when": "Any phase, just after an enemy unit fails a Battle-shock test.",
-    "target": "One CHAOS KNIGHTS unit from your army that is within 12\" of that enemy unit.",
+    "target": "One **CHAOS KNIGHTS** unit from your army that is within 12\" of that enemy unit.",
     "effect": "Roll six D6. For each 4+, that enemy unit suffers 1 mortal wound and one model in your unit regains up to 1 lost wound.",
     "restrictions": "You can only use this Stratagem once per battle round."
   },
@@ -1760,8 +1760,8 @@
     "raw_text": "KNIGHT TYRANT model only. This unit can re-roll rolls to determine the A of a weapon."
   },
   {
-    "ability_id": "soul-spoor-auspicator-hunting-warpack",
-    "name": "Soul-Spoor Auspicator",
+    "ability_id": "soul-spoor-auspicator-upgrade-hunting-warpack",
+    "name": "Soul-spoor Auspicator (Upgrade)",
     "faction_id": "chaos-knights",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -1777,8 +1777,8 @@
     "raw_text": "HUNTSMAN unit only. This unit's ranged attacks have +6\" R."
   },
   {
-    "ability_id": "snarling-rivalry-hunting-warpack",
-    "name": "Snarling Rivalry",
+    "ability_id": "snarling-rivalry-upgrade-hunting-warpack",
+    "name": "Snarling Rivalry (Upgrade)",
     "faction_id": "chaos-knights",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -1792,5 +1792,192 @@
       "edition": "11e"
     },
     "raw_text": "EXECUTIONER unit only. This unit's ranged attacks have [IGNORES COVER]."
+  },
+  {
+    "ability_id": "paragons-of-terror",
+    "name": "Paragons of Terror",
+    "faction_id": "chaos-knights",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#6adc0da1-fe25-407b-97f5-e0035fdc8678",
+      "edition": "11e"
+    },
+    "raw_text": "At the start of the first battle round, after selecting one or more Dread abilities to be active for your army, you can select one additional Dread ability to be active for your army (this additional Dread ability cannot be randomly selected)."
+  },
+  {
+    "ability_id": "marked-prey",
+    "name": "Marked Prey",
+    "faction_id": "chaos-knights",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#73e45769-afa4-4e4a-a0e9-7fa425bb77f9",
+      "edition": "11e"
+    },
+    "raw_text": "At the start of your Command phase, select one unit from your opponent’s army. Until the start of your next Command phase, each time a **WAR DOG** model from your army makes an attack that targets that enemy unit, if that unit is visible to the attacking model, that attack has the **[SUSTAINED HITS 1]** ability."
+  },
+  {
+    "ability_id": "tyrannical-court",
+    "name": "Tyrannical Court",
+    "faction_id": "chaos-knights",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#757eaeb4-cb7c-4967-8cf2-3a42aece8d2e",
+      "edition": "11e"
+    },
+    "raw_text": "Improve the Objective Control characteristic of **CHAOS KNIGHTS CHARACTER** models from your army by 2. In addition, once per battle round, if your **WARLORD** is on the battlefield, you can use the Claimed for the Dark Gods Stratagem for 0CP."
+  },
+  {
+    "ability_id": "malefic-surge",
+    "name": "Malefic Surge",
+    "faction_id": "chaos-knights",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#ea8bac27-a7f4-40a5-8e9c-ee20b6cc609c",
+      "edition": "11e"
+    },
+    "raw_text": "In your Command phase, one or more **CHAOS KNIGHTS** units from your army can make a Malefic Surge. Each one that does must first take a Leadership test; if that test is failed, that unit suffers D3 mortal wounds. Then, until the start of your next Command phase, that unit is Empowered. While a unit is Empowered it can use one of the Malefic Surge abilities below. Once that unit has used a Malefic Surge ability, it is no longer Empowered.\n■ **Unholy Hunger:** When a model in this unit makes a Normal, Advance or Fall Back move, until the end of the phase, add 3\" to its Move characteristic.\n■ **Diabolic Power:** When this unit is selected to shoot or fight, select either the **[LETHAL HITS]** or **[SUSTAINED HITS 1]** ability. Until the end of the phase, weapons equipped by models in this unit have the selected ability.\n■ **Unnatural Fortitude:** When this unit is selected as the target of an attack, select one of the following to apply until the end of the phase:\n▪ Models in this unit have a 5+ invulnerable save.\n▪ Models in this unit have the Feel No Pain 6+ ability.\n**Designer’s Note:** *We recommend placing a token next to Chaos Knights models that are Empowered, removing it once they have used a Malefic Surge ability, and removing all unused tokens at the start of your Command phase*"
+  },
+  {
+    "ability_id": "masters-of-the-pack",
+    "name": "Masters of the Pack",
+    "faction_id": "chaos-knights",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#788a4578-aaf9-4801-a35e-8e4d224c0a90",
+      "edition": "11e"
+    },
+    "raw_text": "If a **TITANIC CHAOS KNIGHTS** unit from your army has an Aura ability that affects friendly **WAR DOG** units, while two or more friendly **WAR DOG** models are within range of that **TITANIC CHAOS KNIGHTS** unit’s Aura ability, that **TITANIC CHAOS KNIGHTS** unit is affected by that Aura ability as well.\n**Example:** *Two friendly War Dog models are within 9” of a Knight Desecrator when it is selected to shoot. As a result, the Knight Desecrator’s Taskmaster ability also affects itself, even though it does not have the War Dog keyword, so each time that Knight Desecrator makes a ranged attack, Hit rolls of 1 are re‑rolled.*"
+  },
+  {
+    "ability_id": "annihilate-the-unworthy",
+    "name": "Annihilate the Unworthy",
+    "faction_id": "chaos-knights",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#ee08748e-78e1-428c-8e57-132887580ab5",
+      "edition": "11e"
+    },
+    "raw_text": "Friendly Knight Tyrant units’ attacks that target a **battle-shocked** unit have +1 to the **hit roll**."
+  },
+  {
+    "ability_id": "wretched-thralls",
+    "name": "Wretched Thralls",
+    "faction_id": "chaos-knights",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#8e53964f-0b98-4164-a9f3-3be724b5bdbd",
+      "edition": "11e"
+    },
+    "raw_text": "You can include Damned units in your army (see Codex: Chaos Space Marines). The combined points cost of such units cannot exceed 500 points.\rFriendly Damned units can re‑roll **leadership rolls**."
+  },
+  {
+    "ability_id": "scenting-fear",
+    "name": "Scenting Fear",
+    "faction_id": "chaos-knights",
+    "unit_ids": [],
+    "ability_type": "detachment",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#b67c28a7-c32b-4505-8831-7d4942e5bda2",
+      "edition": "11e"
+    },
+    "raw_text": "(Once per battle round, per army) In your Shooting phase, you can select one **visible** enemy unit within 12\" of a friendly War Dog unit. That enemy unit has +6\" **detection range**.\rThis **detachment** has the War Dogs tag and cannot be taken with another War Dogs **detachment**."
+  },
+  {
+    "ability_id": "harbingers-of-dread",
+    "name": "Harbingers of Dread",
+    "faction_id": "chaos-knights",
+    "unit_ids": [],
+    "ability_type": "faction",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#a035ead2-fd10-4271-a295-0b1823f4792f",
+      "edition": "11e"
+    },
+    "raw_text": "If your Army Faction is **CHAOS KNIGHTS,** each unit from your army with this ability gains Dread abilities, depending which are active for your army (see below). The Deathly Terror ability is active for your army from the start of the battle. In addition, at the start of the first, third and fifth battle rounds, you can either select one of the other Dread abilities or randomly select two Dread abilities to apply by rolling two D6 and applying the results rolled, from those numbered 1-6 below.\nAny Dread abilities that have been selected are active until the end of the battle. You cannot select the same Dread ability more than once, and any duplicated Dread abilities (as a result of randomly selecting them) have no additional effect.\n**N/A - Deathly Terror (Aura)**\nWhile an enemy unit is within 9\" of this model, worsen the Leadership characteristic of models in that unit by 1\n**1 - Despair (Aura)**\nWhile an enemy unit is within 9\" of this model, worsen the Leadership characteristic of models in that unit by 1. This is cumulative with the Deathly Terror ability [see above].\n**2 - Doom**\nEach time this model makes an attack, if the target of that attack is Battle-shocked, add 1 to the Wound roll.\n**3 - Darkness**\nThis model has **Stealth**.\n**4 - Dismay (Aura)**\nIn the Battle-shock step of your opponent’s Command phase, for each enemy unit that is below its Starting Strength and within 9\" of this model, that enemy unit must take a Battle-shock test.\n**5 - Delirium (Aura)**\nWhile an enemy unit that is Below Half-strength is within 9\" of this model, each time that unit fails a Battle-shock test, it suffers D3 mortal wounds.\n**6 - Dominion**\nAdd 3\"to the range of this model’s Aura abilities."
+  },
+  {
+    "ability_id": "dreadblades",
+    "name": "Dreadblades",
+    "faction_id": "chaos-knights",
+    "unit_ids": [],
+    "ability_type": "faction",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#af512856-dc8f-428b-8562-bb30b6f1d257",
+      "edition": "11e"
+    },
+    "raw_text": "If every model in your army has the **CHAOS** keyword, you can include either 1 **TITANIC CHAOS KNIGHTS** model or up to 3 **WAR DOG** models in your army, even if they do not have the Faction keyword you selected in the Select Army Faction step. None of these models can be your **WARLORD**, and they cannot be given Enhancements."
+  },
+  {
+    "ability_id": "super-heavy-walker",
+    "name": "Super-heavy Walker",
+    "faction_id": "chaos-knights",
+    "unit_ids": [],
+    "ability_type": "faction",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#c48bf6a9-08ac-4d49-bede-b2543a75d1f8",
+      "edition": "11e"
+    },
+    "raw_text": "Each time a model with this ability makes a Normal, Advance or Fall Back move, it can move through models (excluding **TITANIC** models) and sections of terrain features that are 4\" or less in height. When doing so:\n■ It can move within Engagement Range of enemy models, but cannot end that move within Engagement Range of them.\n■ It can also move through sections of terrain features that are more than 4\" in height, but if it does, after it has moved, roll one D6: on a 1, that model is Battle-shocked."
   }
 ]

@@ -833,13 +833,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "pdf",
-      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
-      "phases": [
-        "Command"
-      ]
+      "kind": "json",
+      "ref": "mfm-dump",
+      "phases": []
     },
-    "raw_text": "In your Command phase, select one of the abilities in the Icon of War section (see next page). Until the start of your next Command phase, this model has that ability."
+    "raw_text": "In your Command phase, select one of the abilities in the Icon of War section. Until the start of your next Command phase, this model has that ability."
   },
   {
     "ability_id": "mechanicus-bodyguard",
@@ -856,11 +854,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "pdf",
-      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "kind": "json",
+      "ref": "mfm-dump",
       "phases": []
     },
-    "raw_text": "While this model is within 3\" of one or more other friendly Adeptus Mechanicus units, this model has the Lone Operative ability."
+    "raw_text": "While this model is within 3\" of one or more other friendly **ADEPTUS MECHANICUS** units, this model has the Lone Operative ability."
   },
   {
     "ability_id": "cybernetic-augmentation",
@@ -876,11 +874,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "pdf",
-      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
+      "kind": "json",
+      "ref": "mfm-dump",
       "phases": []
     },
-    "raw_text": "This model can move through terrain features, but cannot end a move within a wall, a floor, etc. This model can be set up or end a move on any floor level of Ruins, but if that level is not the ground floor, it can only do so if its base does not overhang the floor at that level."
+    "raw_text": "This model can move through terrain features, but cannot end a move within a wall, a floor, etc. This model can be set up or end a move on any floor level of **RUINS**, but if that level is not the ground floor, it can only do so if its base does not overhang the floor at that level."
   },
   {
     "ability_id": "secutor-of-olympus",
@@ -896,13 +894,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "pdf",
-      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
-      "phases": [
-        "Shooting"
-      ]
+      "kind": "json",
+      "ref": "mfm-dump",
+      "phases": []
     },
-    "raw_text": "At the start of your Shooting phase, select one enemy Vehicle unit within 12\" of this model and roll one D6: on a 2+, that enemy unit suffers D3+1 mortal wounds."
+    "raw_text": "At the start of your Shooting phase, select one enemy **VEHICLE** unit within 12\" of this model and roll one D6: on a 2+, that enemy unit suffers D3+1 mortal wounds."
   },
   {
     "ability_id": "fanatical-devotion",
@@ -972,7 +968,7 @@
   },
   {
     "ability_id": "broad-spectrum-targeting-augurs",
-    "name": "Broad-spectrum Targeting Augurs",
+    "name": "Broad‑spectrum Targeting Augurs",
     "faction_id": "adeptus-mechanicus",
     "detachment_id": null,
     "unit_ids": [
@@ -984,13 +980,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "pdf",
-      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
-      "phases": [
-        "Shooting"
-      ]
+      "kind": "json",
+      "ref": "mfm-dump",
+      "phases": []
     },
-    "raw_text": "Each time a model in this unit makes an attack with an eradication caster that targets a unit (excluding Monster and Vehicle units), that attack has the [SUSTAINED HITS 1] ability."
+    "raw_text": "Each time a model in this unit makes an attack with an eradication caster that targets a unit (excluding **MONSTER** and **VEHICLE** units), that attack has the **[SUSTAINED HITS 1]** ability."
   },
   {
     "ability_id": "monocular-targeting-helms",
@@ -1006,13 +1000,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "pdf",
-      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
-      "phases": [
-        "Shooting"
-      ]
+      "kind": "json",
+      "ref": "mfm-dump",
+      "phases": []
     },
-    "raw_text": "Each time a model in this unit makes an attack with a neutron fusil against a Monster or Vehicle unit, that attack has the [IGNORES COVER] ability."
+    "raw_text": "Each time a model in this unit makes an attack with a neutron fusil against a **MONSTER** or **VEHICLE** unit, that attack has the **[IGNORES COVER]** ability."
   },
   {
     "ability_id": "network-override",
@@ -1211,21 +1203,22 @@
     "name": "Doctrina Imperatives",
     "faction_id": "adeptus-mechanicus",
     "detachment_id": null,
-    "unit_ids": [],
+    "unit_ids": [
+      "hastarii-exterminators",
+      "hastarii-fusiliers",
+      "thulia-ghuld"
+    ],
     "ability_type": "faction",
     "game_version": {
       "edition": "11th",
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "pdf",
-      "ref": "eng_11-06_warhammer40000_faction_pack_adeptus_mechanicus-4dczibqdew-ebqqmotlpe.pdf",
-      "phases": [
-        "Shooting",
-        "Fight"
-      ]
+      "kind": "mfm",
+      "ref": "dump",
+      "phases": []
     },
-    "raw_text": "Protector Imperative:\n Ranged weapons equipped by models in this unit have the [HEAVY] ability.\n Improve the Ballistic Skill characteristic of ranged weapons equipped by models in this unit by 1.\n Each time a melee attack targets this unit, if this unit has the BATTLELINE keyword and/or it is within 6\" of one or more friendly ADEPTUS MECHANICUS BATTLELINE units, subtract 1 from the Hit roll.\n\nConqueror Imperative:\n Ranged weapons equipped by models in this unit have the [ASSAULT] ability.\n Improve the Weapon Skill characteristic of melee weapons equipped by models in this unit by 1.\n Each time a model in this unit makes an attack, if this unit has the BATTLELINE keyword and/or it is within 6\" of one or more friendly ADEPTUS MECHANICUS BATTLELINE units, improve the Armour Penetration characteristic of that attack by 1."
+    "raw_text": "At the start of the battle round, you can select one of the Doctrina Imperatives below. Until the end of the battle round, that Doctrina Imperative is active for your army, and all units from your army that have the Doctrina Imperatives ability gain the relevant abilities shown below.\nPROTECTOR IMPERATIVE\n■ Ranged weapons equipped by models in this unit have the **[HEAVY]** ability.\n■ Improve the Ballistic Skill characteristic of ranged weapons equipped by models in this unit by 1.\n■ Each time a melee attack targets this unit, if this unit has the **BATTLELINE** keyword and/or it is within 6\" of one or more friendly **ADEPTUS MECHANICUS BATTLELINE** units, subtract 1 from the Hit roll.\nCONQUEROR IMPERATIVE\n■ Ranged weapons equipped by models in this unit have the **[ASSAULT]** ability.\n■ Improve the Weapon Skill characteristic of melee weapons equipped by models in this unit by 1.\n■ Each time a model in this unit makes an attack, if this unit has the **BATTLELINE** keyword and/or it is within 6\" of one or more friendly **ADEPTUS MECHANICUS BATTLELINE** units, improve the Armour Penetration characteristic of that attack by 1.\nAn Adeptus Mechanicus army marching to war is a sight both terrifying and glorious, each holy warrior a disturbing fusion of Human and machine. The ruling Tech-Priests and their fanatical followers raise modified voices in praise of the Machine God, controlling their cyborg soldiery and mechanical creations through doctrina imperatives encoded to augment and adapt the warriors’ abilities."
   },
   {
     "ability_id": "scuttling-walker",
@@ -2609,12 +2602,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptusmechanicus.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#85cd645b-36de-4c71-94fb-d1dd8b63d61d",
+      "edition": "11e"
     },
     "when": "Your Command phase.",
-    "target": "One ADEPTUS MECHANICUS VEHICLE unit from your army.",
+    "target": "One **ADEPTUS MECHANICUS VEHICLE** unit from your army.",
     "effect": "Until the start of your next Command phase, add 3\" to the Move characteristic of models in your unit and add 1 to Advance and Charge rolls made for it."
   },
   {
@@ -2628,13 +2621,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptusmechanicus.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#bb586cc5-9709-418d-b4c6-cfe1fd80928e",
+      "edition": "11e"
     },
     "when": "Your Command phase.",
-    "target": "One LEGIO CYBERNETICA or ADEPTUS MECHANICUS VEHICLE unit from your army, and one objective marker.",
-    "effect": "Until the start of your next Command phase, ranged weapons equipped by models in your unit have a Ballistic Skill characteristic of 3+ and the [IGNORES COVER] ability, but they can only target units within range of the selected objective marker."
+    "target": "One **LEGIO CYBERNETICA** or **ADEPTUS MECHANICUS VEHICLE** unit from your army, and one objective marker.",
+    "effect": "Until the start of your next Command phase, ranged weapons equipped by models in your unit have a Ballistic Skill characteristic of 3+ and the **[IGNORES COVER]** ability, but they can only target units within range of the selected objective marker."
   },
   {
     "ability_id": "benevolence-of-the-omnissiah-cohort-cybernetica",
@@ -2647,12 +2640,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptusmechanicus.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#e9b63132-d31d-4435-a89e-4c9a49a7bf50",
+      "edition": "11e"
     },
     "when": "Your Command phase.",
-    "target": "One LEGIO CYBERNETICA or ADEPTUS MECHANICUS VEHICLE unit from your army.",
+    "target": "One **LEGIO CYBERNETICA** or **ADEPTUS MECHANICUS VEHICLE** unit from your army.",
     "effect": "Until the start of your next Command phase, models in your unit have the Feel No Pain 6+ ability, which is improved to Feel No Pain 5+ against mortal wounds."
   },
   {
@@ -2666,13 +2659,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptusmechanicus.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#87035c38-ee30-42d3-8590-098f1cdd797b",
+      "edition": "11e"
     },
-    "when": "Any phase, just after you allocate a mortal wound to a CULT MECHANICUS model from your army.",
-    "target": "That CULT MECHANICUS model’s unit.",
-    "effect": "Until the end of the phase, CULT MECHANICUS models in your unit have the Feel No Pain 4+ ability against mortal wounds."
+    "when": "Any phase, just after you allocate a mortal wound to a **CULT MECHANICUS** model from your army.",
+    "target": "That **CULT MECHANICUS** model’s unit.",
+    "effect": "Until the end of the phase, **CULT MECHANICUS** models in your unit have the Feel No Pain 4+ ability against mortal wounds."
   },
   {
     "ability_id": "chant-of-the-remorseless-fist-data-psalm-conclave",
@@ -2685,13 +2678,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptusmechanicus.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#df721828-da79-4f3a-adfc-7a2b9dc1cad9",
+      "edition": "11e"
     },
     "when": "Fight phase.",
-    "target": "One CULT MECHANICUS unit from your army that has not been selected to fight this phase.",
-    "effect": "Until the end of the phase, each time a CULT MECHANICUS model in your unit makes a melee attack, add 1 to the Wound roll."
+    "target": "One **CULT MECHANICUS** unit from your army that has not been selected to fight this phase.",
+    "effect": "Until the end of the phase, each time a **CULT MECHANICUS** model in your unit makes a melee attack, add 1 to the Wound roll."
   },
   {
     "ability_id": "luminescent-blessing-data-psalm-conclave",
@@ -2704,13 +2697,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptusmechanicus.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#2a8a67fa-6d84-4862-b69d-37cfa44b9fd6",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
-    "target": "One CULT MECHANICUS unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
-    "effect": "Until the end of the phase, CULT MECHANICUS models in your unit have a 4+ invulnerable save."
+    "target": "One **CULT MECHANICUS** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the end of the phase, **CULT MECHANICUS** models in your unit have a 4+ invulnerable save."
   },
   {
     "ability_id": "priority-reclamation-explorator-maniple",
@@ -2723,12 +2716,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptusmechanicus.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#87a34510-f566-4e43-b1e4-40eecc4557f9",
+      "edition": "11e"
     },
-    "when": "Fight phase, just before an ADEPTUS MECHANICUS unit from your army Consolidates.",
-    "target": "That ADEPTUS MECHANICUS unit.",
+    "when": "Fight phase, just before an **ADEPTUS MECHANICUS** unit from your army Consolidates.",
+    "target": "That **ADEPTUS MECHANICUS** unit.",
     "effect": "Until the end of the phase, each time a model in your unit makes a Consolidation move, it can move up to 6\" instead of up to 3\", provided your unit ends that Consolidation move within range of your Acquisition objective marker.",
     "restrictions": "You cannot target a unit with this Stratagem if it is within 3\" of one or more enemy units."
   },
@@ -2743,12 +2736,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptusmechanicus.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#5988385b-4997-4228-9e6d-4f4b85d270a8",
+      "edition": "11e"
     },
     "when": "Your Movement phase.",
-    "target": "One SKITARII unit from your army that has not been selected to move this phase. If that unit is BATTLELINE, you can also target one friendly Skitarii unit (excluding BATTLELINE units) within 6\" of it.",
+    "target": "One **SKITARII** unit from your army that has not been selected to move this phase. If that unit is **BATTLELINE**, you can also target one friendly **Skitarii** unit (excluding **BATTLELINE** units) within 6\" of it.",
     "effect": "Until the end of the phase, each time one of those units Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in that unit."
   },
   {
@@ -2762,12 +2755,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptusmechanicus.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#8eec028f-2394-41b3-b5b4-941549956875",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One ADEPTUS MECHANICUS unit from your army that has not been selected to shoot this phase. If that unit is BATTLELINE, you can also target one friendly SKITARII unit (excluding BATTLELINE units) within 6\" of it.",
+    "target": "One **ADEPTUS MECHANICUS** unit from your army that has not been selected to shoot this phase. If that unit is **BATTLELINE**, you can also target one friendly **SKITARII** unit (excluding **BATTLELINE** units) within 6\" of it.",
     "effect": "Until the end of the phase, each time a model in one of those units makes a ranged attack, if the target of that attack is within your opponent’s deployment zone, you can re-roll the Hit roll."
   },
   {
@@ -2781,12 +2774,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptusmechanicus.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#66f322cb-8c53-4c82-9dd4-29eba0609afc",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One ADEPTUS MECHANICUS unit from your army that disembarked from a TRANSPORT this turn.",
+    "target": "One **ADEPTUS MECHANICUS** unit from your army that disembarked from a **TRANSPORT** this turn.",
     "effect": "Until the end of the phase, each time a model in your unit makes a ranged attack that targets an enemy unit within range of your Acquisition objective marker, add 1 to the Wound roll."
   },
   {
@@ -2800,12 +2793,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptusmechanicus.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#e1fcf12a-9177-4f04-bb48-7eec3ff9414f",
+      "edition": "11e"
     },
     "when": "Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One ADEPTUS MECHANICUS unit from your army (excluding VEHICLE units) that was selected as the target of one or more of the attacking unit’s attacks. If that unit is BATTLELINE, you can also target one friendly SKITARII unit (excluding BATTLELINE units) within 6\" of it.",
+    "target": "One **ADEPTUS MECHANICUS** unit from your army (excluding **VEHICLE** units) that was selected as the target of one or more of the attacking unit’s attacks. If that unit is **BATTLELINE**, you can also target one friendly **SKITARII** unit (excluding **BATTLELINE** units) within 6\" of it.",
     "effect": "Until the end of the phase, each time an attack targets one of those units from your army, subtract 1 from the Wound roll."
   },
   {
@@ -2819,12 +2812,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptusmechanicus.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#5ca929e2-f7b2-467f-bde5-0bbc37bbea76",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
-    "target": "One SKITARII unit from your army that was selected as the target of one or more of the attacking unit’s attacks. If that unit is BATTLELINE, you can also target one friendly SKITARII unit (excluding BATTLELINE units) within 6\" of it.",
+    "target": "One **SKITARII** unit from your army that was selected as the target of one or more of the attacking unit’s attacks. If that unit is **BATTLELINE**, you can also target one friendly **SKITARII** unit (excluding **BATTLELINE** units) within 6\" of it.",
     "effect": "Until the end of the phase, models in those units from your army have a 4+ invulnerable save."
   },
   {
@@ -2838,12 +2831,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptusmechanicus.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#c2dd3842-a258-4cd0-a417-20eb7f1c0784",
+      "edition": "11e"
     },
     "when": "Your Command phase.",
-    "target": "One LEGIO CYBERNETICA or ADEPTUS MECHANICUS VEHICLE unit from your army that is below its Starting Strength.",
+    "target": "One **LEGIO CYBERNETICA** or **ADEPTUS MECHANICUS VEHICLE** unit from your army that is below its Starting Strength.",
     "effect": "Until the start of your next Command phase, each time a model in your unit makes an attack, you can re-roll the Hit roll. If your unit is Below Half-strength, you can re-roll the Wound roll as well."
   },
   {
@@ -2857,12 +2850,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptusmechanicus.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#9d32a227-4426-4022-b975-9eff2d94f201",
+      "edition": "11e"
     },
     "when": "Your Command phase.",
-    "target": "One LEGIO CYBERNETICA or ADEPTUS MECHANICUS VEHICLE unit from your army.",
+    "target": "One **LEGIO CYBERNETICA** or **ADEPTUS MECHANICUS VEHICLE** unit from your army.",
     "effect": "Until the end of the turn, your unit is eligible to shoot in a turn in which it Fell Back and you can ignore any or all modifiers to its characteristics and/or to any roll or test made for it (excluding modifiers to saving throws)."
   },
   {
@@ -2876,12 +2869,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptusmechanicus.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#7a8cacf2-6dbc-46b6-8eae-8e7b0b9ed3e0",
+      "edition": "11e"
     },
     "when": "Any phase.",
-    "target": "One ADEPTUS MECHANICUS unit from your army that was just destroyed while it was within range of an objective marker you controlled. You can use this Stratagem on that unit even though it was just destroyed.",
+    "target": "One **ADEPTUS MECHANICUS** unit from your army that was just destroyed while it was within range of an objective marker you controlled. You can use this Stratagem on that unit even though it was just destroyed.",
     "effect": "That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
   },
   {
@@ -2895,12 +2888,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptusmechanicus.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#7bb3d74a-56e1-4630-acea-12feb2392a74",
+      "edition": "11e"
     },
     "when": "Your Command phase.",
-    "target": "One LEGIO CYBERNETICA or ADEPTUS MECHANICUS VEHICLE unit from your army.",
+    "target": "One **LEGIO CYBERNETICA** or **ADEPTUS MECHANICUS VEHICLE** unit from your army.",
     "effect": "Until the start of your next Command phase, the Conqueror Imperative and Protector Imperative are both active for your unit."
   },
   {
@@ -2914,12 +2907,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptusmechanicus.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#8873139d-a32b-459e-b0a6-98d0ea2ea25a",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One SICARIAN, PTERAXII, SYDONIAN, IRONSTRIDER BALLISTARII or SKITARII MOUNTED unit from your army that has not been selected to shoot this phase.",
+    "target": "One **SICARIAN**, **PTERAXII**, **SYDONIAN**, **IRONSTRIDER BALLISTARII** or **SKITARII MOUNTED** unit from your army that has not been selected to shoot this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes an attack, if there are no other enemy units within 6\" of the unit targeted by that attack, add 1 to the Wound roll."
   },
   {
@@ -2933,12 +2926,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptusmechanicus.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#74e2ed2e-3189-40e6-9740-4f6474f43cbd",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
-    "target": "One SKITARII INFANTRY unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "target": "One **SKITARII INFANTRY** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the end of the phase, your unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
   },
   {
@@ -2952,12 +2945,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptusmechanicus.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#21636add-3ada-4a24-99f7-3c5aa22458fa",
+      "edition": "11e"
     },
     "when": "End of your opponent’s Fight phase.",
-    "target": "Up to two SICARIAN units from your army, or one SKITARII INFANTRY or SKITARII MOUNTED unit from your army.",
+    "target": "Up to two **SICARIAN** units from your army, or one **SKITARII INFANTRY** or **SKITARII MOUNTED** unit from your army.",
     "effect": "Remove those units from the battlefield and place them into Strategic Reserves.",
     "restrictions": "Each unit targeted with this Stratagem must be more than 3\" away from all enemy units."
   },
@@ -2972,12 +2965,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptusmechanicus.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#b6df434f-d754-4673-aa84-4ec62abb19d6",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One SICARIAN, PTERAXII or SYDONIAN unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "target": "One **SICARIAN**, **PTERAXII** or **SYDONIAN** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the end of the phase, models in your unit have the Feel No Pain 5+ ability."
   },
   {
@@ -2991,12 +2984,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptusmechanicus.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#d432b30d-d875-4def-8332-2938cabbc264",
+      "edition": "11e"
     },
     "when": "Your Charge phase.",
-    "target": "One SKITARII unit from your army.",
+    "target": "One **SKITARII** unit from your army.",
     "effect": "Until the end of the phase, your unit is eligible to declare a charge in a turn in which it Advanced."
   },
   {
@@ -3010,13 +3003,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptusmechanicus.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#12f687bf-3db8-4995-90b7-230529c2b595",
+      "edition": "11e"
     },
     "when": "Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One CULT MECHANICUS unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
-    "effect": "Until the end of the phase, each time a CULT MECHANICUS model in your unit is destroyed, if that model has not fought this phase, roll one D6: on a 4+, do not remove it from play. The destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play."
+    "target": "One **CULT MECHANICUS** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Until the end of the phase, each time a **CULT MECHANICUS** model in your unit is destroyed, if that model has not fought this phase, roll one D6: on a 4+, do not remove it from play. The destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play."
   },
   {
     "ability_id": "tribute-of-emphatic-veneration-data-psalm-conclave",
@@ -3029,12 +3022,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptusmechanicus.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#c6dd192f-f94c-4862-9822-b630c7872c5c",
+      "edition": "11e"
     },
     "when": "Start of your Movement phase.",
-    "target": "One CULT MECHANICUS unit from your army and one enemy unit within 18\" of it.",
+    "target": "One **CULT MECHANICUS** unit from your army and one enemy unit within 18\" of it.",
     "effect": "That enemy unit must take a Battle-shock test. If that test is failed, until the start of your next Command phase, each time a model in that enemy unit makes an attack, subtract 1 from the Hit roll."
   },
   {
@@ -3048,13 +3041,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptusmechanicus.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#a0d7b0aa-8bf1-40cd-959a-e741fb98b7fe",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One CULT MECHANICUS unit from your army.",
-    "effect": "Roll one D6 for each enemy unit within 6\" of one or more Cult Mechanicus models in your unit, adding 1 to the result if that model is an ELECTRO-PRIEST. On a 5+, that enemy unit suffers D3 mortal wounds."
+    "target": "One **CULT MECHANICUS** unit from your army.",
+    "effect": "Roll one D6 for each enemy unit within 6\" of one or more **Cult Mechanicus** models in your unit, adding 1 to the result if that model is an **ELECTRO-PRIEST**. On a 5+, that enemy unit suffers D3 mortal wounds."
   },
   {
     "ability_id": "reactive-safeguard-explorator-maniple",
@@ -3067,14 +3060,14 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptusmechanicus.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#429d23f8-128f-43eb-8d67-753c93475a5d",
+      "edition": "11e"
     },
     "when": "Your opponent’s Charge phase, just after an enemy unit has declared a charge.",
-    "target": "One ADEPTUS MECHANICUS INFANTRY unit from your army within range of your Acquisition objective marker that was selected as a target of that charge, and one friendly ADEPTUS MECHANICUS TRANSPORT.",
-    "effect": "Your unit can embark within that TRANSPORT.",
-    "restrictions": "Every model in your unit must be within 3\" of that TRANSPORT and there must be sufficient transport capacity to embark the entire unit."
+    "target": "One **ADEPTUS MECHANICUS INFANTRY** unit from your army within range of your Acquisition objective marker that was selected as a target of that charge, and one friendly **ADEPTUS MECHANICUS TRANSPORT**.",
+    "effect": "Your unit can embark within that **TRANSPORT**.",
+    "restrictions": "Every model in your unit must be within 3\" of that **TRANSPORT** and there must be sufficient transport capacity to embark the entire unit."
   },
   {
     "ability_id": "extinction-order-rad-zone-corps",
@@ -3087,12 +3080,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptusmechanicus.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#5226c7be-29f9-44d5-8111-80f337294496",
+      "edition": "11e"
     },
     "when": "Your Command phase.",
-    "target": "One TECH-PRIEST model from your army and one objective marker within 24\" of that model.",
+    "target": "One **TECH-PRIEST** model from your army and one objective marker within 24\" of that model.",
     "effect": "Roll one D6 for each enemy unit within range of that objective marker. On a 4+, that unit suffers 1 mortal wound and must take a Battle-shock test."
   },
   {
@@ -3106,12 +3099,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptusmechanicus.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#e532731c-37b8-43d9-9d77-d4263507e900",
+      "edition": "11e"
     },
     "when": "The start of your Shooting phase or the start of the Fight phase.",
-    "target": "Two SKITARII units from your army that have not been selected to shoot or fight this phase, and one enemy unit.",
+    "target": "Two **SKITARII** units from your army that have not been selected to shoot or fight this phase, and one enemy unit.",
     "effect": "Until the end of the phase, improve the Armour Penetration characteristic of weapons equipped by models in both of your units by 1.",
     "restrictions": "Until the end of the phase, each time a model in either of your units makes an attack, it can only target that enemy unit (and only if it is an eligible target)."
   },
@@ -3126,12 +3119,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptusmechanicus.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#da0a62a0-f560-4e4d-9b41-c274bee8bc33",
+      "edition": "11e"
     },
     "when": "Your Command phase.",
-    "target": "One TECH-PRIEST model from your army and one objective marker within 24\" of that model (excluding your Acquisition objective marker).",
+    "target": "One **TECH-PRIEST** model from your army and one objective marker within 24\" of that model (excluding your Acquisition objective marker).",
     "effect": "Until the start of your next Command phase, that objective marker is also considered to be one of your Acquisition objective markers for all rules purposes."
   },
   {
@@ -3145,12 +3138,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptusmechanicus.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#e4005739-ca42-4298-9462-752d4d07cea1",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
-    "target": "One ADEPTUS MECHANICUS INFANTRY unit from your army that was selected as the target of one or more of the attacking unit’s attacks, and one friendly ADEPTUS MECHANICUS SMOKE unit within 6\" of it.",
+    "target": "One **ADEPTUS MECHANICUS INFANTRY** unit from your army that was selected as the target of one or more of the attacking unit’s attacks, and one friendly **ADEPTUS MECHANICUS SMOKE** unit within 6\" of it.",
     "effect": "Until the end of the phase, both of those units have the Stealth ability and the Benefit of Cover."
   },
   {
@@ -3164,17 +3157,17 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptusmechanicus.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#8caaa11d-0b04-485d-b7a0-1051940ba64d",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One ADEPTUS MECHANICUS unit from your army that has not been selected to shoot this phase.",
-    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the [LETHAL HITS] ability."
+    "target": "One **ADEPTUS MECHANICUS** unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the **[LETHAL HITS]** ability."
   },
   {
-    "ability_id": "stealth-screened-cybercanids-cohort-acquisitus",
-    "name": "Stealth-Screened Cybercanids",
+    "ability_id": "stealth-screened-cybercanids-upgrade-cohort-acquisitus",
+    "name": "Stealth-screened Cybercanids (Upgrade)",
     "faction_id": "adeptus-mechanicus",
     "unit_ids": [],
     "ability_type": "enhancement",
@@ -3200,11 +3193,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptusmechanicus.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#a17d231c-9e86-4986-b9a9-577f25cf8e0c",
+      "edition": "11e"
     },
-    "raw_text": "SKITARII INFANTRY, SKITARII MOUNTED and IRONSTRIDER BALLISTARII units from your army have the Stealth ability, and each time a ranged attack targets a SICARIAN unit from your army, unless the attacking model is within 12\", the target has the Benefit of Cover against that attack."
+    "raw_text": "**SKITARII INFANTRY**, **SKITARII MOUNTED** and **IRONSTRIDER BALLISTARII** units from your army have the Stealth ability, and each time a ranged attack targets a **SICARIAN** unit from your army, unless the attacking model is within 12\", the target has the Benefit of Cover against that attack."
   },
   {
     "ability_id": "benedictions-of-the-omnissiah",
@@ -3217,11 +3210,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptusmechanicus.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#46d34802-7b56-4948-8651-f39dae58a197",
+      "edition": "11e"
     },
-    "raw_text": "At the start of the first battle round, select one of the following Benedictions of the Omnissiah to be active for Cult Mechanicus units from your army until the end of the battle: PANEGYRIC PROCESSION Each time a CULT MECHANICUS model from your army makes a ranged attack that targets a unit within half range, improve the Armour Penetration characteristic of that attack by 1. CITATION IN SAVAGERY Each time a CULT MECHANICUS unit from your army is selected to fight, if that unit made a Charge move this turn, until the end of the phase, add 1 to the Strength and Attacks characteristics of melee weapons equipped by models in that unit."
+    "raw_text": "At the start of the first battle round, select one of the following Benedictions of the Omnissiah to be active for **Cult Mechanicus** units from your army until the end of the battle:\n**PANEGYRIC PROCESSION**\nEach time a **CULT MECHANICUS** model from your army makes a ranged attack that targets a unit within half range, improve the Armour Penetration characteristic of that attack by 1.\n**CITATION IN SAVAGERY**\nEach time a **CULT MECHANICUS** unit from your army is selected to fight, if that unit made a Charge move this turn, until the end of the phase, add 1 to the Strength and Attacks characteristics of melee weapons equipped by models in that unit."
   },
   {
     "ability_id": "acquisition-at-any-cost",
@@ -3234,11 +3227,11 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptusmechanicus.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#6c14eff9-8f15-4315-a0e7-d83e9a7773da",
+      "edition": "11e"
     },
-    "raw_text": "At the start of your Command phase, select one objective marker. Until the start of your next Command phase, that objective marker is your Acquisition objective marker. Each time an ADEPTUS MECHANICUS model from your army makes an attack, if that model’s unit is within range of your Acquisition objective marker, or if the target of that attack is within range of your Acquisition objective marker, re-roll a Wound roll of 1."
+    "raw_text": "At the start of your Command phase, select one objective marker. Until the start of your next Command phase, that objective marker is your Acquisition objective marker. Each time an **ADEPTUS MECHANICUS** model from your army makes an attack, if that model’s unit is within range of your Acquisition objective marker, or if the target of that attack is within range of your Acquisition objective marker, re-roll a Wound roll of 1."
   },
   {
     "ability_id": "rad-bombardment",
@@ -3251,10 +3244,10 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/adeptusmechanicus.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#ca98207f-8ae7-4580-b66f-1838b93b18d6",
+      "edition": "11e"
     },
-    "raw_text": "- BOMBARDMENT At the start of the first battle round, for each enemy unit within your opponent’s deployment zone, your opponent must decide whether that unit will take cover or stand firm. You then roll one D6 for each of those enemy units and apply the relevant result below: Unit Standing Firm: On a 3+, that unit suffers D3 mortal wounds. Unit Taking Cover: Until the end of the battle round, that unit is Battle-shocked and, on a 5+, that unit suffers D3 mortal wounds. - FALLOUT At the start of your Command phase during the second, third, fourth and fifth battle rounds, roll one D6 for each enemy unit within your opponent’s deployment zone. On a 3+, that unit suffers 1 mortal wound and must take a Battle-shock test."
+    "raw_text": "**BOMBARDMENT**\nAt the start of the first battle round, for each enemy unit within your opponent’s deployment zone, your opponent must decide whether that unit will take cover or stand firm. You then roll one D6 for each of those enemy units and apply the relevant result below:\n■ **Unit Standing Firm:** On a 3+, that unit suffers D3 mortal wounds.\n■ **Unit Taking Cover:** Until the end of the battle round, that unit is Battle-shocked and, on a 5+, that unit suffers D3 mortal wounds.\n**FALLOUT**\nAt the start of your Command phase during the second, third, fourth and fifth battle rounds, roll one D6 for each enemy unit within your opponent’s deployment zone. On a 3+, that unit suffers 1 mortal wound and must take a Battle-shock test."
   }
 ]

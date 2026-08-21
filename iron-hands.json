@@ -928,12 +928,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#7f1ca1b2-6c84-4602-bdc4-d13555bc0eb8",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One ADEPTUS ASTARTES unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
   },
   {
@@ -947,12 +947,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#58c32d7a-b0f7-4cfe-8f3b-086adfedbeba",
+      "edition": "11e"
     },
     "when": "Your Shooting phase or the Fight phase.",
-    "target": "One ADEPTUS ASTARTES DREADNOUGHT, TERMINATOR, BLADEGUARD VETERAN SQUAD, STERNGUARD VETERAN SQUAD or VANGUARD VETERAN SQUAD unit from your army that has not been selected to shoot or fight this phase.",
+    "target": "One **ADEPTUS ASTARTES DREADNOUGHT**, **TERMINATOR**, **BLADEGUARD VETERAN SQUAD**, **STERNGUARD VETERAN SQUAD** or **VANGUARD VETERAN SQUAD** unit from your army that has not been selected to shoot or fight this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes an attack, add 1 to the Hit roll. If your unit is below Starting Strength, add 1 to the Wound roll as well."
   },
   {
@@ -966,12 +966,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#fb5116e6-606d-42b4-8f7c-a4022ba507b7",
+      "edition": "11e"
     },
     "when": "Your opponent’s Charge phase, just after an enemy unit ends a Charge move.",
-    "target": "One ADEPTUS ASTARTES TERMINATOR, BLADEGUARD VETERAN SQUAD, STERNGUARD VETERAN SQUAD or VANGUARD VETERAN SQUAD unit from your army within Engagement Range of that enemy unit.",
+    "target": "One **ADEPTUS ASTARTES TERMINATOR**, **BLADEGUARD VETERAN SQUAD**, **STERNGUARD VETERAN SQUAD** or **VANGUARD VETERAN SQUAD** unit from your army within Engagement Range of that enemy unit.",
     "effect": "Until the end of the turn, each time an attack is allocated to a model in your unit, subtract 1 from the Damage characteristic of that attack."
   },
   {
@@ -985,12 +985,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#71999f34-cbf0-4539-92ac-0ef53a14349e",
+      "edition": "11e"
     },
     "when": "Your Movement phase.",
-    "target": "One ADEPTUS ASTARTES DREADNOUGHT, TERMINATOR, BLADEGUARD VETERAN SQUAD, STERNGUARD VETERAN SQUAD or VANGUARD VETERAN SQUAD unit from your army within range of an objective marker you control.",
+    "target": "One **ADEPTUS ASTARTES DREADNOUGHT**, **TERMINATOR**, **BLADEGUARD VETERAN SQUAD**, **STERNGUARD VETERAN SQUAD** or **VANGUARD VETERAN SQUAD** unit from your army within range of an objective marker you control.",
     "effect": "That objective marker remains under your control, even if you have no models within range of it, until your opponent controls it at the end of a phase."
   },
   {
@@ -1004,13 +1004,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#ffc1f7a8-e339-4e23-bf68-39c6624d4302",
+      "edition": "11e"
     },
     "when": "Your Fight phase.",
-    "target": "One ADEPTUS ASTARTES DREADNOUGHT, TERMINATOR, BLADEGUARD VETERAN SQUAD, STERNGUARD VETERAN SQUAD or VANGUARD VETERAN SQUAD unit from your army that has not been selected to fight this phase.",
-    "effect": "Select either the [SUSTAINED HITS 1] or [LETHAL HITS] abilities. Until the end of the phase, melee weapons equipped by models in your unit have the selected ability."
+    "target": "One **ADEPTUS ASTARTES DREADNOUGHT**, **TERMINATOR**, **BLADEGUARD VETERAN SQUAD**, **STERNGUARD VETERAN SQUAD** or **VANGUARD VETERAN SQUAD** unit from your army that has not been selected to fight this phase.",
+    "effect": "Select either the **[SUSTAINED HITS 1]** or **[LETHAL HITS]** abilities. Until the end of the phase, melee weapons equipped by models in your unit have the selected ability."
   },
   {
     "ability_id": "dropship-extraction-hammer-of-avernii",
@@ -1023,12 +1023,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#6db33180-28e3-4c70-a4a9-9d7c0a882f61",
+      "edition": "11e"
     },
-    "when": "End of your opponent’s Fight phase.&x20;",
-    "target": "One ADEPTUS ASTARTES TERMINATOR unit from your army. You cannot target a unit that is within Engagement Range of one or more enemy units.",
+    "when": "End of your opponent’s Fight phase.",
+    "target": "One **ADEPTUS ASTARTES TERMINATOR** unit from your army. You cannot target a unit that is within Engagement Range of one or more enemy units.",
     "effect": "Remove your unit from the battlefield and place it into Strategic Reserves."
   },
   {
@@ -1042,12 +1042,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#06423f32-dc7b-43d8-8feb-65f462b5c8b6",
+      "edition": "11e"
     },
     "when": "Your Shooting phase or the Fight phase.",
-    "target": "One ADEPTUS ASTARTES TERMINATOR, BLADEGUARD VETERAN SQUAD, STERNGUARD VETERAN SQUAD or VANGUARD VETERAN SQUAD unit from your army that has not been selected to shoot or fight this phase.",
+    "target": "One **ADEPTUS ASTARTES TERMINATOR**, **BLADEGUARD VETERAN SQUAD**, **STERNGUARD VETERAN SQUAD** or **VANGUARD VETERAN SQUAD** unit from your army that has not been selected to shoot or fight this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes an attack, add 1 to the Hit roll. If your unit is Below Half-strength, add 1 to the Wound roll as well."
   },
   {
@@ -1061,12 +1061,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#6525f05c-d6ef-435d-b59b-83c9b1ee4c0c",
+      "edition": "11e"
     },
     "when": "Your opponent’s Charge phase, just after an enemy unit ends a Charge move.",
-    "target": "One ADEPTUS ASTARTES TERMINATOR, BLADEGUARD VETERAN SQUAD, STERNGUARD VETERAN SQUAD or VANGUARD VETERAN SQUAD unit from your army within Engagement Range of that enemy unit.",
+    "target": "One **ADEPTUS ASTARTES TERMINATOR**, **BLADEGUARD VETERAN SQUAD**, **STERNGUARD VETERAN SQUAD** or **VANGUARD VETERAN SQUAD** unit from your army within Engagement Range of that enemy unit.",
     "effect": "Until the end of the turn, each time an attack is allocated to a model in your unit, subtract 1 from the Damage characteristic of that attack."
   },
   {
@@ -1080,12 +1080,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#33129f94-2402-4249-8849-f07538730ed4",
+      "edition": "11e"
     },
     "when": "Your Fight phase.",
-    "target": "One ADEPTUS ASTARTES TERMINATOR, BLADEGUARD VETERAN SQUAD, STERNGUARD VETERAN SQUAD or VANGUARD VETERAN SQUAD unit from your army that made a Charge move this turn and destroyed one or more enemy units this phase.",
+    "target": "One **ADEPTUS ASTARTES TERMINATOR**, **BLADEGUARD VETERAN SQUAD**, **STERNGUARD VETERAN SQUAD** or **VANGUARD VETERAN SQUAD** unit from your army that made a Charge move this turn and destroyed one or more enemy units this phase.",
     "effect": "In your opponent’s next Command phase, each enemy unit within 6\" of your unit must take a Battle-shock test. If the unit taking that test is Below Half-strength, subtract 1 from that test. Enemy units affected by this Stratagem do not need to take any other Battle-shock tests in the same phase."
   },
   {
@@ -1099,12 +1099,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#64923c21-5845-4888-9aa9-9038bdce515a",
+      "edition": "11e"
     },
     "when": "Your Movement phase.",
-    "target": "One ADEPTUS ASTARTES TERMINATOR, BLADEGUARD VETERAN SQUAD, STERNGUARD VETERAN SQUAD or VANGUARD VETERAN SQUAD unit from your army within range of an objective marker you control.",
+    "target": "One **ADEPTUS ASTARTES TERMINATOR**, **BLADEGUARD VETERAN SQUAD**, **STERNGUARD VETERAN SQUAD** or **VANGUARD VETERAN SQUAD** unit from your army within range of an objective marker you control.",
     "effect": "That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
   },
   {
@@ -1118,12 +1118,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#5589b725-ecd7-41f0-b459-0bbed900ffef",
+      "edition": "11e"
     },
     "when": "End of your opponent’s Fight phase.",
-    "target": "One ADEPTUS ASTARTES TERMINATOR unit from your army.",
+    "target": "One **ADEPTUS ASTARTES TERMINATOR** unit from your army.",
     "effect": "Remove your unit from the battlefield and place it into Strategic Reserves. It will arrive back on the battlefield in the Reinforcements step of your next Movement phase using the Deep Strike ability.",
     "restrictions": "You cannot select a unit that is within Engagement Range of one or more enemy units."
   },
@@ -1138,13 +1138,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#c055b116-504d-418e-9e52-0951913d32e5",
+      "edition": "11e"
     },
     "when": "Fight phase.",
-    "target": "One ADEPTUS ASTARTES unit from your army.",
-    "effect": "Until the end of the phase, melee weapons equipped by models in your unit have the [LANCE] ability. If your unit is under the effects of the Assault Doctrine, until the end of the phase, improve the Armour Penetration characteristic of such weapons by 1 as well."
+    "target": "One **ADEPTUS ASTARTES** unit from your army.",
+    "effect": "Until the end of the phase, melee weapons equipped by models in your unit have the **[LANCE]** ability. If your unit is under the effects of the Assault Doctrine, until the end of the phase, improve the Armour Penetration characteristic of such weapons by 1 as well."
   },
   {
     "ability_id": "storm-of-fire-gladius-task-force",
@@ -1157,13 +1157,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#07ce705a-e059-48a8-8dec-1d83b27162f0",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One ADEPTUS ASTARTES unit from your army that has not been selected to shoot this phase.",
-    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the [IGNORES COVER] ability. If your unit is under the effects of the Devastator Doctrine, until the end of the phase, improve the Armour Penetration characteristic of such weapons by 1 as well."
+    "target": "One **ADEPTUS ASTARTES** unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the **[IGNORES COVER]** ability. If your unit is under the effects of the Devastator Doctrine, until the end of the phase, improve the Armour Penetration characteristic of such weapons by 1 as well."
   },
   {
     "ability_id": "only-in-death-does-duty-end-gladius-task-force",
@@ -1176,12 +1176,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#be905c00-8306-4b94-b024-daa173af45e3",
+      "edition": "11e"
     },
     "when": "Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One ADEPTUS ASTARTES unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, do not remove it from play. The destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play."
   },
   {
@@ -1195,12 +1195,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#65f32f5f-2ce7-4cba-b5df-587638af8528",
+      "edition": "11e"
     },
     "when": "Your Command phase.",
-    "target": "One ADEPTUS ASTARTES unit from your army.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army.",
     "effect": "Select the Devastator Doctrine, Tactical Doctrine or Assault Doctrine. Until the start of your next Command phase, that Combat Doctrine is active for that unit instead of any other Combat Doctrine that is active for your army, even if you have already selected that Combat Doctrine this battle."
   },
   {
@@ -1214,12 +1214,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#14c98a7e-0020-4269-a679-99d1e40d4e4c",
+      "edition": "11e"
     },
     "when": "Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.",
-    "target": "One ADEPTUS ASTARTES INFANTRY or ADEPTUS ASTARTES MOUNTED unit from your army that is within 9\" of the enemy unit that just ended that move.",
+    "target": "One **ADEPTUS ASTARTES INFANTRY** or **ADEPTUS ASTARTES MOUNTED** unit from your army that is within 8\" of the enemy unit that just ended that move.",
     "effect": "Your unit can make a Normal move of up to D6\", or a Normal move of up to 6\" instead if it is under the effects of the Tactical Doctrine.",
     "restrictions": "You cannot select a unit that is within Engagement Range of one or more enemy units."
   },
@@ -1234,13 +1234,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#8fd86a3f-9b2e-42c2-a4c9-55e9bbc2ab4d",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One ADEPTUS ASTARTES unit from your army that has not been selected to shoot this phase.",
-    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the [ASSAULT] ability. If such a weapon already has this ability, until the end of the phase, that weapon has the [SUSTAINED HITS 1] ability as well."
+    "target": "One **ADEPTUS ASTARTES** unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the **[ASSAULT]** ability. If such a weapon already has this ability, until the end of the phase, that weapon has the **[SUSTAINED HITS 1]** ability as well."
   },
   {
     "ability_id": "shock-assault-stormlance-task-force",
@@ -1253,13 +1253,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#dd4d6731-dd3d-4b45-9721-add5b7ac613d",
+      "edition": "11e"
     },
     "when": "Your Charge phase.",
-    "target": "One ADEPTUS ASTARTES MOUNTED unit from your army that has not declared a charge this phase.",
-    "effect": "Until the end of the turn, you can re-roll Charge rolls made for your unit and melee weapons equipped by models in that unit have the [LANCE] ability."
+    "target": "One **ADEPTUS ASTARTES MOUNTED** unit from your army that has not declared a charge this phase.",
+    "effect": "Until the end of the turn, you can re-roll Charge rolls made for your unit and melee weapons equipped by models in that unit have the **[LANCE]** ability."
   },
   {
     "ability_id": "ride-hard-ride-fast-stormlance-task-force",
@@ -1272,12 +1272,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#8e81e95a-22ff-4aa2-aa33-754b64fbb814",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
-    "target": "One ADEPTUS ASTARTES MOUNTED or ADEPTUS ASTARTES FLY VEHICLE unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "target": "One **ADEPTUS ASTARTES MOUNTED** or **ADEPTUS ASTARTES FLY VEHICLE** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll and subtract 1 from the Wound roll."
   },
   {
@@ -1291,12 +1291,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#97f24038-3b98-4140-8b29-3167c7dfd01a",
+      "edition": "11e"
     },
     "when": "Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.",
-    "target": "One ADEPTUS ASTARTES INFANTRY or ADEPTUS ASTARTES MOUNTED unit from your army that is within 9\" of that enemy unit.",
+    "target": "One **ADEPTUS ASTARTES INFANTRY** or **ADEPTUS ASTARTES MOUNTED** unit from your army that is within 8\" of that enemy unit.",
     "effect": "Your unit can make a Normal move of up to 6\".",
     "restrictions": "You cannot select a unit that is within Engagement Range of one or more enemy units."
   },
@@ -1311,12 +1311,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#b1a41a8f-ad96-4a14-9794-5549fef75ede",
+      "edition": "11e"
     },
     "when": "Your Movement phase.",
-    "target": "One ADEPTUS ASTARTES MOUNTED or ADEPTUS ASTARTES VEHICLE unit (excluding WALKERS) from your army.",
+    "target": "One **ADEPTUS ASTARTES MOUNTED** or **ADEPTUS ASTARTES VEHICLE** unit (excluding **WALKERS**) from your army.",
     "effect": "Until the end of the phase, if your unit Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in your unit, or 9\" instead if your unit is Mounted."
   },
   {
@@ -1330,12 +1330,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#2c55924e-6941-4332-bd1a-aa474581fad2",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One ADEPTUS ASTARTES INFANTRY unit from your army that has not been selected to shoot this phase.",
+    "target": "One **ADEPTUS ASTARTES INFANTRY** unit from your army that has not been selected to shoot this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes a ranged attack that targets an enemy unit that is more than 12\" away, improve the Ballistic Skill and Armour Penetration characteristics of that attack by 1. If one or more enemy models are destroyed as a result of those attacks, select one of those destroyed models; that destroyed model’s unit must take a Battle-shock test."
   },
   {
@@ -1349,13 +1349,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#715656ae-384c-4b07-a709-b5519e16f0e6",
+      "edition": "11e"
     },
     "when": "Fight phase.",
-    "target": "One ADEPTUS ASTARTES INFANTRY unit from your army that has not been selected to fight this phase.",
-    "effect": "Until the end of the phase, melee weapons equipped by models in your unit have the [PRECISION] ability."
+    "target": "One **ADEPTUS ASTARTES INFANTRY** unit from your army that has not been selected to fight this phase.",
+    "effect": "Until the end of the phase, melee weapons equipped by models in your unit have the **[PRECISION]** ability."
   },
   {
     "ability_id": "calculated-feint-vanguard-spearhead",
@@ -1368,13 +1368,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#f8956478-ef64-4e96-ba30-4d8f5467509f",
+      "edition": "11e"
     },
     "when": "Your opponent’s Charge phase, just after an enemy unit declares a charge.",
-    "target": "One ADEPTUS ASTARTES INFANTRY unit from your army that was selected as a target of that charge.",
-    "effect": "Your unit can make a Normal move of up to D6\", or up to 6\" instead if it is a PHOBOS or SCOUT SQUAD unit.",
+    "target": "One friendly **ADEPTUS ASTARTES INFANTRY** unit within 12\" of that enemy unit.",
+    "effect": "Your unit can make a Normal move of up to D6\", or up to 6\" instead if it is a **PHOBOS** or **SCOUT SQUAD** unit.",
     "restrictions": "You cannot select a unit that is within Engagement Range of one or more enemy units."
   },
   {
@@ -1408,12 +1408,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#479f9124-f497-49ba-aa57-b5bd6dced46f",
+      "edition": "11e"
     },
     "when": "Start of the Command phase.",
-    "target": "One ADEPTUS ASTARTES INFANTRY or ADEPTUS ASTARTES MOUNTED unit from your army within range of an objective marker you control.",
+    "target": "One **ADEPTUS ASTARTES INFANTRY** or **ADEPTUS ASTARTES MOUNTED** unit from your army within range of an objective marker you control.",
     "effect": "That objective marker is said to be Sabotaged, and remains under your control even if you have no models within range of it, until your opponent controls it at the start or end of any turn. While an objective marker is Sabotaged and under your control, each time an enemy unit ends a Normal, Advance, Fall Back or Charge move within range of that objective marker, roll one D6: on a 2+, that enemy unit suffers D3 mortal wounds."
   },
   {
@@ -1427,12 +1427,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#a0a9cd06-14de-4c8f-ab3f-8a44f65a47cf",
+      "edition": "11e"
     },
     "when": "Command phase.",
-    "target": "One ADEPTUS ASTARTES unit from your army.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army.",
     "effect": "Select one enemy unit visible to and within 18\" of your unit. That enemy unit takes a Battle‑shock test. When doing so, subtract 1 from that test and, if that test is failed, until the start of your next turn, that enemy unit is suppressed. While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll.",
     "restrictions": "You cannot use this Stratagem more than once per battle round."
   },
@@ -1464,12 +1464,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#dd818b80-27a5-4b4d-b0ed-ac7e5b769bfe",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
-    "target": "One ADEPTUS ASTARTES unit (excluding TITANIC units) from your army that was selected as the target of one or more of the attacking unit’s attacks and one friendly ADEPTUS ASTARTES SMOKE VEHICLE or DROP POD unit within 9\" of it.",
+    "target": "One **ADEPTUS ASTARTES** unit (excluding **TITANIC** units) from your army that was selected as the target of one or more of the attacking unit’s attacks and one friendly **ADEPTUS ASTARTES SMOKE VEHICLE** or **DROP POD** unit within 9\" of it.",
     "effect": "Until the end of the phase, models in your units have the Stealth ability and each time a ranged attack targets one of your units, models in that unit have the Benefit of Cover against that attack."
   },
   {
@@ -1483,13 +1483,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#7cac734b-0aa3-4cc8-a869-0c52cddac5b5",
+      "edition": "11e"
     },
     "when": "Your Shooting phase or the Fight phase.",
-    "target": "One ADEPTUS ASTARTES unit from your army that has not been selected to shoot or fight this phase.",
-    "effect": "Until the end of the phase, weapons equipped by models in your unit have the [PRECISION] ability and each time a model in your unit makes an attack that targets a CHARACTER unit, add 1 to the Hit roll."
+    "target": "One **ADEPTUS ASTARTES** unit from your army that has not been selected to shoot or fight this phase.",
+    "effect": "Until the end of the phase, weapons equipped by models in your unit have the **[PRECISION]** ability and each time a model in your unit makes an attack that targets a **CHARACTER** unit, add 1 to the Hit roll."
   },
   {
     "ability_id": "shock-onslaught-orbital-assault-force",
@@ -1502,12 +1502,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#4138f4fd-20d9-4e5f-97e5-c065bb12adae",
+      "edition": "11e"
     },
     "when": "Fight phase.",
-    "target": "One ADEPTUS ASTARTES unit from your army that has not been selected to fight this phase.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that has not been selected to fight this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes a Pile‑in or Consolidation move, it can move up to 6\" instead of up to 3\"."
   },
   {
@@ -1521,13 +1521,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#5ebe01fd-a152-4b94-bf5d-236b6403faae",
+      "edition": "11e"
     },
     "when": "End of your opponent’s Fight phase.",
-    "target": "One ADEPTUS ASTARTES INFANTRY unit from your army that was not set up on the battlefield this turn and one friendly TRANSPORT it is able to embark within.",
-    "effect": "If your ADEPTUS ASTARTES unit is wholly within 6\" of that TRANSPORT, it can embark within it."
+    "target": "One **ADEPTUS ASTARTES INFANTRY** unit from your army that was not set up on the battlefield this turn and one friendly **TRANSPORT** it is able to embark within.",
+    "effect": "If your **ADEPTUS ASTARTES** unit is wholly within 6\" of that **TRANSPORT**, it can embark within it."
   },
   {
     "ability_id": "battle-drill-recall-anvil-siege-force",
@@ -1540,13 +1540,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#c4be5f8e-562c-4805-bc00-aad3fa8e99f8",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One ADEPTUS ASTARTES unit from your army that has not been selected to shoot this phase.",
-    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the [SUSTAINED HITS 1] ability. If your unit Remained Stationary this turn, then until the end of the phase, each time a model in your unit makes a ranged attack, a successful unmodified Hit roll of 5+ scores a Critical Hit."
+    "target": "One **ADEPTUS ASTARTES** unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the **[SUSTAINED HITS 1]** ability. If your unit Remained Stationary this turn, then until the end of the phase, each time a model in your unit makes a ranged attack, a successful unmodified Hit roll of 5+ scores a Critical Hit."
   },
   {
     "ability_id": "no-threat-too-great-anvil-siege-force",
@@ -1559,13 +1559,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#d5a92214-c343-4bfb-879e-9f067f42503e",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One ADEPTUS ASTARTES unit from your army that has not been selected to shoot this phase.",
-    "effect": "Until the end of the phase, each time a model in your unit makes a ranged attack that targets a MONSTER or VEHICLE unit, you can re-roll the Wound roll."
+    "target": "One **ADEPTUS ASTARTES** unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes a ranged attack that targets a **MONSTER** or **VEHICLE** unit, you can re-roll the Wound roll."
   },
   {
     "ability_id": "rigid-discipline-anvil-siege-force",
@@ -1578,12 +1578,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#d3f3fd1c-68e2-4fe0-b199-391011b22105",
+      "edition": "11e"
     },
     "when": "End of the Fight phase.",
-    "target": "One ADEPTUS ASTARTES unit from your army that is within Engagement Range of one or more enemy units.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that is within Engagement Range of one or more enemy units.",
     "effect": "Your unit can immediately make a Fall Back move of up to 6\".",
     "restrictions": "When making that move, your unit must end that move either wholly within your deployment zone or within range of an objective marker."
   },
@@ -1598,12 +1598,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#785677c5-013d-4173-8c1b-e81b052065f2",
+      "edition": "11e"
     },
     "when": "Your Command phase.",
-    "target": "One ADEPTUS ASTARTES INFANTRY unit from your army within range of an objective marker.",
+    "target": "One **ADEPTUS ASTARTES INFANTRY** unit from your army within range of an objective marker.",
     "effect": "Until the end of the turn, double the Objective Control characteristic of models in your unit, but it must Remain Stationary this turn."
   },
   {
@@ -1617,12 +1617,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#a8a38f4c-44fd-4620-84d5-221c143fdbce",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase, just after an enemy unit has resolved its attacks.",
-    "target": "One ADEPTUS ASTARTES unit from your army that had one or more of its models destroyed as a result of the attacking unit’s attacks.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that had one or more of its models destroyed as a result of the attacking unit’s attacks.",
     "effect": "Your unit can shoot as if it were your Shooting phase, but must target only that enemy unit when doing so, and can only do so if that enemy unit is an eligible target."
   },
   {
@@ -1636,12 +1636,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#acb62a30-656d-4994-ac0b-2f1f29f41d43",
+      "edition": "11e"
     },
     "when": "Your Shooting phase or the Fight phase.",
-    "target": "One ADEPTUS ASTARTES INFANTRY unit from your army that has not been selected to shoot or fight this phase.",
+    "target": "One **ADEPTUS ASTARTES INFANTRY** unit from your army that has not been selected to shoot or fight this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets the closest eligible target within 6\", add 1 to the Wound roll."
   },
   {
@@ -1655,12 +1655,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#6602438d-0065-4144-8df2-00a495e664e2",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One ADEPTUS ASTARTES unit from your army that disembarked from a TRANSPORT this turn and has not been selected to shoot this phase.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that disembarked from a **TRANSPORT** this turn and has not been selected to shoot this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes a ranged attack that targets the closest eligible target within 12\", add 1 to the Hit roll. If one or more enemy models are destroyed as the result of any of those attacks, select one of those destroyed models; that destroyed model’s unit must take a Battle-shock test."
   },
   {
@@ -1674,13 +1674,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#cb6f4527-0f7d-40a8-93ae-fc3151d69d23",
+      "edition": "11e"
     },
-    "when": "Your opponent’s Shooting phase, just after an enemy unit has shot.",
-    "target": "One ADEPTUS ASTARTES TRANSPORT unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
-    "effect": "One unit embarked within that TRANSPORT can disembark as if it were your Movement phase, and can then shoot as if it were your Shooting phase, but must target only that enemy unit when doing so, and can only do so if that enemy unit is an eligible target."
+    "when": "Your opponent’s Shooting phase, just after an enemy unit has resolved its attacks.",
+    "target": "One **ADEPTUS ASTARTES TRANSPORT** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "One unit embarked within that **TRANSPORT** can disembark as if it were your Movement phase, and can then shoot as if it were your Shooting phase, but must target only that enemy unit when doing so, and can only do so if that enemy unit is an eligible target."
   },
   {
     "ability_id": "immolation-protocols-firestorm-assault-force",
@@ -1693,13 +1693,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#a3195f2f-f195-4286-bc99-09ae17814e5e",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One ADEPTUS ASTARTES unit from your army that has not been selected to shoot this phase.",
-    "effect": "Until the end of the phase, Torrent weapons equipped by models in your unit have the [DEVASTATING WOUNDS] ability."
+    "target": "One **ADEPTUS ASTARTES** unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, Torrent weapons equipped by models in that unit have the **[DEVASTATING WOUNDS]** ability."
   },
   {
     "ability_id": "rapid-embarkation-firestorm-assault-force",
@@ -1712,14 +1712,14 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#b33f5dad-69d9-4e9d-a3e1-8f8fcb4057d5",
+      "edition": "11e"
     },
     "when": "End of the Fight phase.",
-    "target": "One ADEPTUS ASTARTES TRANSPORT unit from your army that has no models embarked within it, and one ADEPTUS ASTARTES INFANTRY unit from your army wholly within 6\" of that TRANSPORT.",
-    "effect": "Your Infantry unit can embark within that TRANSPORT.",
-    "restrictions": "You cannot target an INFANTRY unit that is within Engagement Range of one or more enemy units, that cannot normally embark within that TRANSPORT, or that disembarked from a TRANSPORT this turn."
+    "target": "One **ADEPTUS ASTARTES TRANSPORT** unit from your army that has no models embarked within it, and one **ADEPTUS ASTARTES INFANTRY** unit from your army wholly within 6\" of that **TRANSPORT**.",
+    "effect": "Your Infantry unit can embark within that **TRANSPORT**.",
+    "restrictions": "You cannot target an **INFANTRY** unit that is within Engagement Range of one or more enemy units, that cannot normally embark within that **TRANSPORT**, or that disembarked from a **TRANSPORT** this turn."
   },
   {
     "ability_id": "unbowed-conviction-ironstorm-spearhead",
@@ -1732,12 +1732,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#a282b244-52c2-468c-8b2d-7887009a1228",
+      "edition": "11e"
     },
     "when": "Command phase.",
-    "target": "One ADEPTUS ASTARTES unit from your army that is below its Starting Strength.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that is below its Starting Strength.",
     "effect": "Until the end of the turn, your unit can ignore any or all modifiers to its characteristics and/or to any roll or test made for it (excluding modifiers to saving throws)."
   },
   {
@@ -1751,13 +1751,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#a6c31db3-14f8-4d8a-a25f-46fc6428ada8",
+      "edition": "11e"
     },
     "when": "Your Shooting phase or the Fight phase.",
-    "target": "One ADEPTUS ASTARTES unit from your army that has not been selected to shoot or fight this phase.",
-    "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets a unit that is below its Starting Strength, that attack has the [SUSTAINED HITS 1] ability, and when making such an attack, if the attacking model is a VEHICLE, a successful unmodified Hit roll of 5+ scores a Critical Hit."
+    "target": "One **ADEPTUS ASTARTES** unit from your army that has not been selected to shoot or fight this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets a unit that is below its Starting Strength, that attack has the **[SUSTAINED HITS 1]** ability, and when making such an attack, if the attacking model is a **VEHICLE**, a successful unmodified Hit roll of 5+ scores a Critical Hit."
   },
   {
     "ability_id": "vengeful-animus-ironstorm-spearhead",
@@ -1770,12 +1770,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#95d70201-f7be-4981-b611-375aeca3f4ab",
+      "edition": "11e"
     },
-    "when": "Any phase, just after an ADEPTUS ASTARTES VEHICLE model from your army with the Deadly Demise ability is destroyed.",
-    "target": "That ADEPTUS ASTARTES VEHICLE model. You can use this Stratagem on that model even though it was just destroyed.",
+    "when": "Any phase, just after an **ADEPTUS ASTARTES VEHICLE** model from your army with the Deadly Demise ability is destroyed.",
+    "target": "That **ADEPTUS ASTARTES VEHICLE** model. You can use this Stratagem on that model even though it was just destroyed.",
     "effect": "Do not roll one D6 to determine whether mortal wounds are inflicted by your model’s Deadly Demise ability. Instead, mortal wounds are automatically inflicted."
   },
   {
@@ -1789,12 +1789,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#07c5c566-9c8f-4037-85e0-02be57f30805",
+      "edition": "11e"
     },
     "when": "Your Command phase.",
-    "target": "One ADEPTUS ASTARTES WALKER model from your army.",
+    "target": "One **ADEPTUS ASTARTES WALKER** model from your army.",
     "effect": "Until the start of your next Command phase, improve your model’s Move, Toughness, Leadership and Objective Control characteristics by 1 and each time your model makes an attack, add 1 to the Hit roll."
   },
   {
@@ -1808,12 +1808,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#de1df29b-b5b9-43ea-88a8-6d5099f8750f",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase, just after an enemy unit has resolved its attacks.",
-    "target": "One ADEPTUS ASTARTES VEHICLE unit from your army that was reduced to Below Half-strength as a result of the attacking unit’s attacks.",
+    "target": "One **ADEPTUS ASTARTES VEHICLE** unit from your army that was reduced to Below Half-strength as a result of the attacking unit’s attacks.",
     "effect": "Your unit can shoot as if it were your Shooting phase, but must target only that enemy unit when doing so, and can only do so if that enemy unit is an eligible target."
   },
   {
@@ -1827,13 +1827,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#d0f7ea35-148a-4868-897d-cbbc200d815a",
+      "edition": "11e"
     },
-    "when": "Any phase, just after a HEAVY TRANSPORT unit from your army with the Deadly Demise ability is destroyed.",
-    "target": "That HEAVY TRANSPORT unit, if you rolled a 6 for its Deadly Demise ability. You can use this Stratagem on that unit even though it was just destroyed.",
-    "effect": "Your unit can make a Normal or Fall Back move before its Deadly Demise ability is resolved, and before any embarked units perform an Emergency Disembarkation. When making this move, your unit can move through enemy models (excluding MONSTERS and VEHICLES) and can move within Engagement Range of such models, but cannot end that move within Engagement Range of them, and any Desperate Escape test is automatically passed."
+    "when": "Any phase, just after a **HEAVY TRANSPORT** unit from your army with the Deadly Demise ability is destroyed.",
+    "target": "That **HEAVY TRANSPORT** unit, if you rolled a 6 for its Deadly Demise ability. You can use this Stratagem on that unit even though it was just destroyed.",
+    "effect": "Your unit can make a Normal or Fall Back move before its Deadly Demise ability is resolved, and before any embarked units perform an Emergency Disembarkation. When making this move, your unit can move through enemy models (excluding **MONSTERS** and **VEHICLES**) and can move within Engagement Range of such models, but cannot end that move within Engagement Range of them, and any Desperate Escape test is automatically passed."
   },
   {
     "ability_id": "ceramite-sledgehammer-armoured-speartip",
@@ -1846,13 +1846,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#14145498-0d5f-409f-926a-023ee8b5d26b",
+      "edition": "11e"
     },
-    "when": "Your Movement phase.&x20;",
-    "target": "One ADEPTUS ASTARTES TRANSPORT unit from your army that has not been selected to move this phase.",
-    "effect": "Until the end of the phase, each time your unit makes a Normal or Advance move, it can move horizontally through terrain features. In addition, if your unit is a HEAVY TRANSPORT, when making this move, your unit can move through enemy models (excluding MONSTERS and VEHICLES) and can move within Engagement Range of such models, but cannot end that move within Engagement Range of them, and any Desperate Escape test is automatically passed."
+    "when": "Your Movement phase.&#x20;",
+    "target": "One **ADEPTUS ASTARTES TRANSPORT** unit from your army that has not been selected to move this phase.",
+    "effect": "Until the end of the phase, each time your unit makes a Normal or Advance move, it can move horizontally through terrain features. In addition, if your unit is a **HEAVY TRANSPORT**, when making this move, your unit can move through enemy models (excluding **MONSTERS** and **VEHICLES**) and can move within Engagement Range of such models, but cannot end that move within Engagement Range of them, and any Desperate Escape test is automatically passed."
   },
   {
     "ability_id": "advanced-deployment-armoured-speartip",
@@ -1865,13 +1865,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#bf423f02-f60e-4422-adac-7da5f00bc5c1",
+      "edition": "11e"
     },
     "when": "Your Movement phase.",
-    "target": "One ADEPTUS ASTARTES TRANSPORT unit from your army that has not been selected to move this phase.",
-    "effect": "Until the end of the phase, units can disembark from your TRANSPORT after it has Advanced. Units that do so count as having made a Normal move this phase, and cannot declare a charge in the same turn (unless your TRANSPORT has the Assault Ramp ability), but can otherwise act normally."
+    "target": "One **ADEPTUS ASTARTES TRANSPORT** unit from your army that has not been selected to move this phase.",
+    "effect": "Until the end of the phase, units can disembark from your **TRANSPORT** after it has Advanced. Units that do so count as having made a Normal move this phase, and cannot declare a charge in the same turn (unless your **TRANSPORT** has the Assault Ramp ability), but can otherwise act normally."
   },
   {
     "ability_id": "purgation-doctrine-armoured-speartip",
@@ -1884,13 +1884,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#2915804d-209d-48e9-95e1-8a1ca387ad8c",
+      "edition": "11e"
     },
-    "when": "Your Shooting phase.&x20;",
-    "target": "One ADEPTUS ASTARTES unit from your army that has not been selected to shoot this phase.&x20;",
-    "effect": "Until the end of the phase, each time a model in your unit makes an attack, add 1 to the Hit roll (if your unit disembarked from a HEAVY TRANSPORT this turn, add 1 to the Wound roll as well)."
+    "when": "Your Shooting phase.&#x20;",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that has not been selected to shoot this phase.&#x20;",
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack, add 1 to the Hit roll (if your unit disembarked from a **HEAVY TRANSPORT** this turn, add 1 to the Wound roll as well)."
   },
   {
     "ability_id": "codex-discipline-bastion-task-force",
@@ -1903,12 +1903,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#b79464c8-d554-4720-9b75-7d48ad1454d6",
+      "edition": "11e"
     },
     "when": "Your Shooting phase or the Fight phase.",
-    "target": "One ADEPTUS ASTARTES unit from your army that has not been selected to shoot or fight this phase.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that has not been selected to shoot or fight this phase.",
     "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit, re‑roll a Hit roll of 1. If that target is auspex scanned, re‑roll a Wound roll of 1 as well."
   },
   {
@@ -1922,12 +1922,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#ef39d403-61d0-486b-b172-85cb9555fa79",
+      "edition": "11e"
     },
-    "when": "Your Shooting phase or the Fight phase, just after an ADEPTUS ASTARTES BATTLELINE unit from your army finished making its attacks.",
-    "target": "That ADEPTUS ASTARTES BATTLELINE unit.",
+    "when": "Your Shooting phase or the Fight phase, just after an **ADEPTUS ASTARTES BATTLELINE** unit from your army finished making its attacks.",
+    "target": "That **ADEPTUS ASTARTES BATTLELINE** unit.",
     "effect": "When an enemy unit is auspex scanned as a result of those attacks this turn, until the start of your next turn, it is suppressed. While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll."
   },
   {
@@ -1941,13 +1941,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#7c0da99f-c645-4b51-b145-5b9cf61f5a5d",
+      "edition": "11e"
     },
-    "when": "Your Shooting phase or the Fight phase, just after an ADEPTUS ASTARTES BATTLELINE unit from your army has finished making its attacks.",
-    "target": "That ADEPTUS ASTARTES BATTLELINE unit.",
-    "effect": "When an enemy unit is auspex scanned as a result of those attacks this turn, if that enemy unit does not have the MONSTER or VEHICLE keywords, until the start of your next turn, it is pinned. While a unit is pinned, subtract 2 from that unit’s Move characteristic and subtract 2 from Charge rolls made for that unit."
+    "when": "Your Shooting phase or the Fight phase, just after an **ADEPTUS ASTARTES BATTLELINE** unit from your army has finished making its attacks.",
+    "target": "That **ADEPTUS ASTARTES BATTLELINE** unit.",
+    "effect": "When an enemy unit is auspex scanned as a result of those attacks this turn, if that enemy unit does not have the **MONSTER** or **VEHICLE** keywords, until the start of your next turn, it is pinned. While a unit is pinned, subtract 2 from that unit’s Move characteristic and subtract 2 from Charge rolls made for that unit."
   },
   {
     "ability_id": "angels-defiant-bastion-task-force",
@@ -1960,12 +1960,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#8aa79799-c501-4907-858c-63559c810778",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One ADEPTUS ASTARTES BATTLELINE unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "target": "One **ADEPTUS ASTARTES BATTLELINE** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the end of the phase, each time an attack targets your unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of your unit, subtract 1 from the Wound roll."
   },
   {
@@ -1979,13 +1979,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#88477031-d757-4918-82f9-a7c3e949008b",
+      "edition": "11e"
     },
     "when": "Your Shooting phase or the Fight phase.",
-    "target": "One ADEPTUS ASTARTES unit from your army that has not been selected to shoot or fight this phase.",
-    "effect": "Select the [LETHAL HITS] or [SUSTAINED HITS 1] ability. Until the end of the phase, weapons equipped by models in your unit have that ability while targeting an auspex scanned unit or if the bearer has the BATTLELINE keyword."
+    "target": "One **ADEPTUS ASTARTES** unit from your army that has not been selected to shoot or fight this phase.",
+    "effect": "Select the **[LETHAL HITS]** or **[SUSTAINED HITS 1]** ability. Until the end of the phase, weapons equipped by models in your unit have that ability while targeting an auspex scanned unit or if the bearer has the **BATTLELINE** keyword."
   },
   {
     "ability_id": "heresy-undone-bastion-task-force",
@@ -1998,12 +1998,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#b167e9a1-e72e-49a4-9131-1feb084ad7bd",
+      "edition": "11e"
     },
     "when": "Your Shooting phase or your Charge phase.",
-    "target": "One ADEPTUS ASTARTES unit (excluding BATTLELINE units) from your army.",
+    "target": "One **ADEPTUS ASTARTES** unit (excluding **BATTLELINE** units) from your army.",
     "effect": "Until the end of the phase, your unit is eligible to shoot and declare a charge in a turn in which it Advanced or Fell Back. If it does, every target of that charge and every target of those attacks must be an auspex scanned unit."
   },
   {
@@ -2017,12 +2017,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#20843126-7ad3-4368-bdba-6fc715bafabb",
+      "edition": "11e"
     },
     "when": "Command phase.",
-    "target": "One ADEPTUS ASTARTES unit from your army that is within Engagement Range of one or more enemy units.",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that is within Engagement Range of one or more enemy units.",
     "effect": "Until the start of your next Command phase, add 1 to the Objective Control characteristics of models in your unit."
   },
   {
@@ -2036,13 +2036,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#127b27ae-4656-4840-9362-e82c0d1dd235",
+      "edition": "11e"
     },
-    "when": "Fight phase, just after an enemy unit has selected its targets.&x20;",
-    "target": "One ADEPTUS ASTARTES unit from your army that was selected as the target of one or more of the attacking unit’s attacks",
-    "effect": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, adding 1 to the result if it is an ENTRENCHED unit: on a 4+, do not remove it from play. That destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play."
+    "when": "Fight phase, just after an enemy unit has selected its targets.&#x20;",
+    "target": "One **ADEPTUS ASTARTES** unit from your army that was selected as the target of one or more of the attacking unit’s attacks",
+    "effect": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, adding 1 to the result if it is an **ENTRENCHED** unit: on a 4+, do not remove it from play. That destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play."
   },
   {
     "ability_id": "priority-strike-ceramite-sentinels",
@@ -2055,13 +2055,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#234149a5-d3b8-4204-ad8e-15e797077811",
+      "edition": "11e"
     },
-    "when": "Your Shooting phase or the Fight phase.&x20;",
-    "target": "One ADEPTUS ASTARTES INFANTRY or ADEPTUS ASTARTES MOUNTED unit from your army that has not been selected to shoot or fight this phase.",
-    "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets a CHARACTER, MONSTER or VEHICLE unit, you can re‑roll the Wound roll."
+    "when": "Your Shooting phase or the Fight phase.&#x20;",
+    "target": "One **ADEPTUS ASTARTES INFANTRY** or **ADEPTUS ASTARTES MOUNTED** unit from your army that has not been selected to shoot or fight this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets a **CHARACTER**, **MONSTER** or **VEHICLE** unit, you can re‑roll the Wound roll."
   },
   {
     "ability_id": "augmented-targeting-ceramite-sentinels",
@@ -2074,13 +2074,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#b9894e70-4267-4344-aeb6-038746a63de3",
+      "edition": "11e"
     },
     "when": "Your Shooting phase",
-    "target": "One ADEPTUS ASTARTES unit from your army that has not been selected to shoot this phase",
-    "effect": "Select either the [SUSTAINED HITS 1] or [LETHAL HITS] abilities. Until the end of the phase, ranged weapons equipped by models in your unit have the selected ability. If your unit is Entrenched, until the end of the phase, ranged weapons equipped by models in your unit have the [SUSTAINED HITS 1] and [LETHAL HITS] abilities instead."
+    "target": "One **ADEPTUS ASTARTES** unit from your army that has not been selected to shoot this phase",
+    "effect": "Select either the **[SUSTAINED HITS 1]** or **[LETHAL HITS]** abilities. Until the end of the phase, ranged weapons equipped by models in your unit have the selected ability. If your unit is Entrenched, until the end of the phase, ranged weapons equipped by models in your unit have the **[SUSTAINED HITS 1]** and **[LETHAL HITS]** abilities instead."
   },
   {
     "ability_id": "evasive-repositioning-ceramite-sentinels",
@@ -2093,13 +2093,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#5c0b9aab-254c-47c3-b554-523d54f159dd",
+      "edition": "11e"
     },
-    "when": "Your opponent’s Shooting phase, just after an enemy unit has shot.&x20;",
-    "target": "One ADEPTUS ASTARTES INFANTRY or ADEPTUS ASTARTES MOUNTED unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
-    "effect": "Your unit can make a Normal move of up to D6\". If your unit is ENTRENCHED, you can re‑roll the D6 to determine how far your unit can move."
+    "when": "Your opponent’s Shooting phase, just after an enemy unit has shot.&#x20;",
+    "target": "One **ADEPTUS ASTARTES INFANTRY** or **ADEPTUS ASTARTES MOUNTED** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
+    "effect": "Your unit can make a Normal move of up to D6\". If your unit is **ENTRENCHED**, you can re‑roll the D6 to determine how far your unit can move."
   },
   {
     "ability_id": "rapid-gunnery-headhunter-task-force",
@@ -2112,9 +2112,9 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#edf27bd5-ca47-48f0-b6f8-afcbb323b67b",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
     "target": "One Adeptus Astartes unit from your army that has not been selected to shoot this phase.",
@@ -2131,12 +2131,12 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#37ae8e5f-b8e5-4566-af22-d370a1a2806c",
+      "edition": "11e"
     },
     "when": "Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.",
-    "target": "One TANK ACE unit from your army (excluding units containing one or more models with a Wounds characteristic of 16+) that is within 9\" of that enemy unit.",
+    "target": "One **TANK ACE** unit from your army (excluding units containing one or more models with a Wounds characteristic of 16+) that is within 8\" of that enemy unit.",
     "effect": "Your unit can make a Normal move of up to D6."
   },
   {
@@ -2150,13 +2150,13 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#02c615e1-a6c1-4a12-ab10-334cdd64dc94",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One TANK ACE unit from your army that has not been selected to shoot this phase.",
-    "effect": "Until the end of the phase, each time a model in your unit makes a ranged attack that targets a MONSTER or VEHICLE unit, improve the Armour Penetration characteristic of that attack by 1.&x20;",
+    "target": "One **TANK ACE** unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes a ranged attack that targets a **MONSTER** or **VEHICLE** unit, improve the Armour Penetration characteristic of that attack by 1.&#x20;",
     "restrictions": "A unit cannot be targeted with this and the Kill Shot Stratagem in the same phase."
   },
   {
@@ -2170,14 +2170,14 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#e18e9e2e-166f-4b09-aa71-a939be148dbc",
+      "edition": "11e"
     },
     "when": "Your Shooting phase.",
-    "target": "One TANK ACE unit from your army that has not been selected to shoot this phase.",
-    "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets a MONSTER or VEHICLE unit, re-roll a Wound roll of 1. If the target unit is below its Starting Strength, you can re-roll the Wound roll instead.",
-    "restrictions": "&x20;A unit cannot be targeted with this and the Target Weak Point Stratagem in the same phase."
+    "target": "One **TANK ACE** unit from your army that has not been selected to shoot this phase.",
+    "effect": "Until the end of the phase, each time a model in your unit makes an attack that targets a **MONSTER** or **VEHICLE** unit, re-roll a Wound roll of 1. If the target unit is below its Starting Strength, you can re-roll the Wound roll instead.",
+    "restrictions": "&#x20;A unit cannot be targeted with this and the Target Weak Point Stratagem in the same phase."
   },
   {
     "ability_id": "machine-vengeance-headhunter-task-force",
@@ -2190,12 +2190,107 @@
       "dataslate": "pre-launch-provisional"
     },
     "source": {
-      "kind": "game-datacards",
-      "ref": "10th/json/space_marines.json",
-      "edition": "10e"
+      "kind": "mfm",
+      "ref": "dump.json#0c9c11fb-4109-4334-ae01-5f5f5b7445bc",
+      "edition": "11e"
     },
     "when": "Your opponent’s Shooting phase, just after an enemy unit has shot.",
-    "target": "One TANK ACE unit from your army (excluding units containing one or more models with a Wounds characteristic of 16+) that was selected as the target of one or more of the attacking unit’s attacks.",
+    "target": "One **TANK ACE** unit from your army (excluding units containing one or more models with a Wounds characteristic of 16+) that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Your unit can shoot as if it were your Shooting phase, but must target only that enemy unit when doing so, and can only do so if that enemy unit is visible and an eligible target."
+  },
+  {
+    "ability_id": "data-link-augury-fulguris-task-force",
+    "name": "Data-link Augury",
+    "faction_id": "iron-hands",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#d6f4436d-bf82-446b-a11b-780296eab536",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase, when a friendly Speeder unit is **selected to shoot**.",
+    "target": "That Speeder unit.",
+    "effect": "Select one enemy unit within 24\" of your unit. That enemy unit has +6\" **detection range** until your unit has shot."
+  },
+  {
+    "ability_id": "reactive-evasion-fulguris-task-force",
+    "name": "Reactive Evasion",
+    "faction_id": "iron-hands",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#1c250b90-5d7e-46fa-8fb3-6b521b17608c",
+      "edition": "11e"
+    },
+    "when": "Your opponent’s Movement phase, when an enemy unit ends a move within 8\" of a friendly **unengaged** Speeder unit.",
+    "target": "That Speeder unit.",
+    "effect": "Your unit can make a **normal move** of up to D3+3\"."
+  },
+  {
+    "ability_id": "anti-grav-surge-fulguris-task-force",
+    "name": "Anti-grav Surge",
+    "faction_id": "iron-hands",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#b82cb0a7-9708-4fdb-863e-2bb41d4f6dee",
+      "edition": "11e"
+    },
+    "when": "End of your opponent’s Fight phase.",
+    "target": "One friendly **unengaged** Speeder unit.",
+    "effect": "Place your unit in **strategic reserves**."
+  },
+  {
+    "ability_id": "adaptive-operations-subversion-assets",
+    "name": "Adaptive Operations",
+    "faction_id": "iron-hands",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#a0720d22-addd-498f-afc8-f31e333747fe",
+      "edition": "11e"
+    },
+    "when": "Your Shooting phase, when a friendly Phobos/Scout Squad unit **starts an action**.",
+    "target": "That Phobos/Scout Squad unit.",
+    "effect": "That **action** does not prevent your unit from being **eligible to shoot**."
+  },
+  {
+    "ability_id": "cloaked-position-subversion-assets",
+    "name": "Cloaked Position",
+    "faction_id": "iron-hands",
+    "unit_ids": [],
+    "ability_type": "stratagem",
+    "game_version": {
+      "edition": "11th",
+      "dataslate": "pre-launch-provisional"
+    },
+    "source": {
+      "kind": "mfm",
+      "ref": "dump.json#962dc773-9882-46b4-9737-2b92b361e495",
+      "edition": "11e"
+    },
+    "when": "Start of your opponent’s Movement phase.",
+    "target": "One friendly **unengaged** Phobos/Scout Squad unit.",
+    "effect": "Your unit has -3\" **detection range** until the end of the turn."
   }
 ]
