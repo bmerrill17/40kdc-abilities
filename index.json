@@ -16505,10 +16505,6 @@
     "faction": "orks",
     "raw_text": "(Aura): While a friendly ORKS unit is within 6\" of this unit, that unit’s melee attacks have:\n• +1 to hit rolls.\n• +1 to wound rolls."
   },
-  "ghazghkull-s-waaagh-banner-aura": {
-    "faction": "orks",
-    "raw_text": "While a friendly ORKS unit is within 12\" of Makari, if the Waaagh! is active for your army, melee weapons equipped by models in that unit have the [LETHAL HITS] ability."
-  },
   "trophy-hunters": {
     "faction": "orks",
     "raw_text": "This unit has +1 to charge rolls."
@@ -16829,41 +16825,9 @@
     "faction": "orks",
     "raw_text": "ORKS model only. When this unit is selected to make a fall-back move, that fall-back move does not prevent this unit from being eligible to shoot/declare a charge."
   },
-  "supa-cybork-body-war-horde": {
-    "faction": "orks",
-    "raw_text": "ORKS model only. The bearer has the Feel No Pain 4+ ability."
-  },
   "glory-hog-da-big-hunt": {
     "faction": "orks",
     "raw_text": "BEAST SNAGGA model only. When this unit is selected to make a fall-back move, that fall-back move does not prevent this unit from being eligible to declare a charge."
-  },
-  "skrag-every-stash-da-big-hunt": {
-    "faction": "orks",
-    "raw_text": "BEAST SNAGGA model only. At the end of your Command phase, if the bearer is within range of an objective marker you control, that objective marker remains under your control, even if you have no models within range of it, until your opponent controls it at the start or end of any turn."
-  },
-  "proper-killy-da-big-hunt": {
-    "faction": "orks",
-    "raw_text": "BEAST SNAGGA model only. Add 1 to the Damage characteristic of melee weapons equipped by the bearer."
-  },
-  "surly-as-a-squiggoth-da-big-hunt": {
-    "faction": "orks",
-    "raw_text": "BEASTBOSS ON SQUIGOSAUR model only. While the bearer is leading a unit, each time an attack targets that unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of that unit, subtract 1 from the Wound roll."
-  },
-  "wazblasta-kult-of-speed": {
-    "faction": "orks",
-    "raw_text": "DEFFKILLA WARTRIKE model only. In your Shooting phase, after the bearer’s unit has shot, if it is not within Engagement Range of one or more enemy units, it can make a Normal move of up to 6\". If it does, until the end of the turn, it is not eligible to declare a charge."
-  },
-  "fasta-than-yooz-kult-of-speed": {
-    "faction": "orks",
-    "raw_text": "ORKS INFANTRY model only. Each time the bearer’s unit disembarks from a TRANSPORT after that TRANSPORT has made a Normal move, the bearer’s unit is still eligible to declare a charge this turn."
-  },
-  "squig-hide-tyres-kult-of-speed": {
-    "faction": "orks",
-    "raw_text": "DEFFKILLA WARTRIKE model only. Each time a model in the bearer’s unit makes a Consolidation move, it can move up to 6\" instead of up to 3\"."
-  },
-  "speed-makes-right-kult-of-speed": {
-    "faction": "orks",
-    "raw_text": "ORKS model only. In your Command phase, if the bearer (or a TRANSPORT the bearer is embarked within) is within 9\" of one or more enemy units, roll one D6: on a 3+, you gain 1CP."
   },
   "smoky-gubbinz-dread-mob": {
     "faction": "orks",
@@ -16884,50 +16848,6 @@
   "ferocious-show-off-green-tide": {
     "faction": "orks",
     "raw_text": "ORKS INFANTRY model only. This model’s melee attacks have:\n• +1 A.\n• Or if this unit has 11+ models, +2 A."
-  },
-  "brutal-but-kunnin-green-tide": {
-    "faction": "orks",
-    "raw_text": "ORKS INFANTRY model only. In your Command phase, if the bearer is on the battlefield (or is embarked within a TRANSPORT that is on the battlefield), roll one D6, adding 2 to the result if the bearer’s unit contains 10 or more models: on a 5+, you gain 1CP."
-  },
-  "bloodthirsty-belligerence-green-tide": {
-    "faction": "orks",
-    "raw_text": "ORKS INFANTRY model only. While the bearer is leading a unit, you can re‑roll Advance rolls made for that unit. While that unit contains 10 or more models, you can re‑roll Charge rolls made for that unit as well."
-  },
-  "raucous-warcaller-green-tide": {
-    "faction": "orks",
-    "raw_text": "ORKS INFANTRY model only. While the bearer is leading a unit, that unit always counts as containing 10 or more models for the purposes of your Detachment rule and any Stratagems you use."
-  },
-  "tellyporta-bully-boyz": {
-    "faction": "orks",
-    "raw_text": "WARBOSS IN MEGA ARMOUR model only. Models in the bearer’s unit have the Deep Strike ability."
-  },
-  "big-gob-bully-boyz": {
-    "faction": "orks",
-    "raw_text": "INFANTRY WARBOSS model only. At the start of the Fight phase, select one enemy unit within Engagement range of the bearer. That unit must take a Battle‑shock test, and when doing so, subtract 1 from the result."
-  },
-  "da-biggest-boss-bully-boyz": {
-    "faction": "orks",
-    "raw_text": "INFANTRY WARBOSS model only. Add 2 to the bearer’s Wounds characteristic."
-  },
-  "eadstompa-bully-boyz": {
-    "faction": "orks",
-    "raw_text": "INFANTRY WARBOSS model only. Each time the bearer makes an attack that targets a unit that is below its Starting Strength, re‑roll a Wound roll of 1. If that unit is Below Half‑strength, you can re‑roll the Wound roll instead."
-  },
-  "skwad-leader-taktikal-brigade": {
-    "faction": "orks",
-    "raw_text": "WARBOSS INFANTRY model only. During the Declare Battle Formations step, the bearer can be attached to a KOMMANDOS unit. While leading a KOMMANDOS unit, it has the Infiltrators and Stealth abilities."
-  },
-  "mek-kaptin-taktikal-brigade": {
-    "faction": "orks",
-    "raw_text": "BIG MEK, BIG MEK IN MEGA ARMOUR or BIG MEK WITH SHOKK ATTACK GUN model only. During the Declare Battle Formations step, the bearer can be attached to a FLASH GITZ unit. Each time a model in the bearer’s unit makes a ranged attack, you can re‑roll the Hit roll."
-  },
-  "morks-kunnin-taktikal-brigade": {
-    "faction": "orks",
-    "raw_text": "ORKS model only. When both players have deployed their armies, you can redeploy up to three friendly ORKS INFANTRY units. When doing so, you can set those units up in strategic reserves, regardless of how many units are already in strategic reserves."
-  },
-  "gob-boomer-taktikal-brigade": {
-    "faction": "orks",
-    "raw_text": "WARBOSS or MEK model only. Each time the bearer issues Taktiks, it can do so to a friendly ORKS INFANTRY or ORKS MOUNTED unit within 18\", instead of 6\"."
   },
   "da-gobshot-thunderbuss-more-dakka": {
     "faction": "orks",
@@ -16961,25 +16881,6 @@
     "faction": "orks",
     "raw_text": "Orks model only. After both players have deployed their armies, select up to three Orks Infantry 9 units from your army and redeploy them. When doing so, you can set those units up in Strategic"
   },
-  "blitza-fire-kult-of-speed": {
-    "faction": "orks",
-    "when": "Your Shooting phase.",
-    "target": "One **SPEED FREEKS** unit from your army that has not been selected to shoot this phase.",
-    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the **[LETHAL HITS]** ability and, each time a model in your unit makes an attack that targets a unit within 9\", a Critical Hit is scored on an unmodified Hit roll of 5+, instead of only a 6.",
-    "restrictions": "A unit cannot be targeted by this and the Dakkastorm Stratagem in the same phase."
-  },
-  "stalkin-taktiks-da-big-hunt": {
-    "faction": "orks",
-    "when": "Your opponent’s Shooting phase, just after an enemy unit has selected its targets.",
-    "target": "One **BEAST SNAGGA INFANTRY** or **BEAST SNAGGA MOUNTED** unit from your army that was selected as the target of one or more of the attacking unit’s attacks.",
-    "effect": "Until the end of the phase, each time a ranged attack targets your unit, models in your unit have the Benefit of Cover against that attack. In addition, if your unit has the **Infantry** keyword, until the end of the phase, models in your unit have the Stealth ability."
-  },
-  "drag-it-down-da-big-hunt": {
-    "faction": "orks",
-    "when": "Fight phase.",
-    "target": "One **BEAST SNAGGA** unit from your army that has not been selected to fight this phase.",
-    "effect": "Until the end of the phase, melee weapons equipped by models in your unit have the **[SUSTAINED HITS 1]** ability. In addition, each time a model in your unit makes a melee attack that targets your Prey, a Critical Hit is scored on an unmodified Hit roll of 5+, instead of only a 6."
-  },
   "klankin-klaws-dread-mob": {
     "faction": "orks",
     "when": "Fight phase.",
@@ -16998,67 +16899,13 @@
     "target": "One **ORKS WALKER** or **GROTS VEHICLE** unit from your army (excluding **TITANIC** units) that was selected as the target of one or more of the attacking unit’s attacks.",
     "effect": "Until the end of the phase, each time an attack is allocated to a model in your unit, subtract 1 from the Damage characteristic of that attack."
   },
-  "unbridled-carnage-war-horde": {
-    "faction": "orks",
-    "when": "Fight phase.",
-    "target": "One **Orks** unit from your army that has not been selected to fight this phase.",
-    "effect": "Until the end of the phase, each time a model in your unit makes a melee attack, an unmodified hit roll of 5+ scores a Critical Hit."
-  },
-  "ard-as-nails-war-horde": {
-    "faction": "orks",
-    "when": "Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
-    "target": "One **ORKS** unit from your army (excluding **GROTS**, **MONSTER** and **VEHICLE** units) that was selected as the target of one or more of the attacking unit’s attacks.",
-    "effect": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Wound roll."
-  },
-  "mob-rule-war-horde": {
-    "faction": "orks",
-    "when": "End of your Command phase.",
-    "target": "One **MOB** unit from your army that contains 10 or more models and is not Below Half‑strength.",
-    "effect": "Select one friendly Battle‑shocked **ORKS INFANTRY** unit within 6\" of that Mob unit. That **ORKS INFANTRY** unit is no longer Battle‑shocked."
-  },
-  "ere-we-go-war-horde": {
-    "faction": "orks",
-    "when": "Start of your Movement phase.",
-    "target": "One **ORKS INFANTRY** unit from your army.",
-    "effect": "Until the end of the turn, add 2 to Advance and Charge rolls made for your unit."
-  },
   "armed-to-da-teef-bully-boyz": {
     "faction": "orks",
     "raw_text": "WHEN: Your Shooting phase or the Fight phase, when a friendly MEGANOBZ/NOBZ unit is selected to attack.\nTARGET: That MEGANOBZ/NOBZ unit.\nEFFECT: Your unit’s attacks can:\n• Re-roll hit rolls of 1.\n• If your unit is riled up, re-roll hit rolls."
   },
-  "cut-em-down-bully-boyz": {
-    "faction": "orks",
-    "when": "Your opponent’s Movement phase, just after an enemy unit is selected to Fall Back.",
-    "target": "One **NOBZ** or **MEGANOBZ** unit from your army within Engagement Range of that enemy unit.",
-    "effect": "When that enemy unit Falls Back, all models in that enemy unit must take a Desperate Escape test. When doing so, if a Waaagh! is active for your unit, subtract 1 from each of those tests."
-  },
   "hulking-brutes-bully-boyz": {
     "faction": "orks",
     "raw_text": "WHEN: Your opponent’s Shooting phase, when an enemy unit targets a friendly MEGANOBZ/NOBZ unit.\nTARGET: That MEGANOBZ/NOBZ unit.\nEFFECT: Ranged attacks that target your unit with a S greater than your unit’s T have -1 to wound rolls.\nOR: Ranged attacks that target your unit have -1 to wound rolls."
-  },
-  "competitive-streak-green-tide": {
-    "faction": "orks",
-    "when": "Fight phase.",
-    "target": "One **BOYZ** unit from your army that has not been selected to fight this phase.",
-    "effect": "Until the end of the phase, each time a model in your unit makes an attack, re‑roll a Wound roll of 1. If your unit contains 10 or more models, re‑roll the Wound roll instead."
-  },
-  "bulldozer-brutality-green-tide": {
-    "faction": "orks",
-    "when": "Fight phase.",
-    "target": "One **BOYZ** unit from your army that has not been selected to fight this phase and is within Engagement Range of one or more enemy units.",
-    "effect": "Until the end of the phase, each time your unit is selected to fight, when determining which models in your unit are eligible to fight, any models in your unit that are within 3\" of one or more enemy models are eligible to fight. When resolving those attacks, such models can target one of those enemy units that is within 3\" of them and within Engagement Range of their unit."
-  },
-  "fight-proppa-taktikal-brigade": {
-    "faction": "orks",
-    "when": "Fight phase.",
-    "target": "One ORKS INFANTRY or ORKS MOUNTED unit from your army that has not been selected to fight this phase.",
-    "effect": "Select the [SUSTAINED HITS 1] or [LETHAL HITS] ability. Until the end of the phase, melee weapons equipped by models in your unit have the selected ability."
-  },
-  "krunchin-descent-taktikal-brigade": {
-    "faction": "orks",
-    "when": "Your Charge phase, just after a STORMBOYZ unit from your army ends a Charge move.",
-    "target": "That STORMBOYZ unit.",
-    "effect": "Select one enemy unit within Engagement Range of your unit, then roll one D6 for each model in your unit that is within Engagement Range of that enemy unit: for each 4+, that enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds)."
   },
   "orks-is-still-orks-more-dakka": {
     "faction": "orks",
@@ -17084,24 +16931,6 @@
     "target": "One Orks unit from your army that has not been selected to move this phase.",
     "effect": "Until the end of the phase, each time your unit Advances, do not make an Advance roll. Instead, until the end of the phase, add 6\" to the Move characteristic of models in your unit."
   },
-  "careen-war-horde": {
-    "faction": "orks",
-    "when": "Any phase, just after an **ORKS VEHICLE** unit from your army with the Deadly Demise ability is destroyed.",
-    "target": "That destroyed **ORKS VEHICLE** unit, if you rolled a 6 for its Deadly Demise ability. You can use this Stratagem on that unit even though it was just destroyed.",
-    "effect": "Your unit can make a Normal or Fall Back move before its Deadly Demise ability is resolved, and before any embarked units perform an Emergency Disembarkation. When making this move, your unit can move over enemy units (excluding **MONSTERS** and **VEHICLES**) as if they were not there."
-  },
-  "crushing-impact-bully-boyz": {
-    "faction": "orks",
-    "when": "Your Charge phase, just after a NOBZ or MEGANOBZ unit from your army ends a Charge move.",
-    "target": "That NOBZ or MEGANOBZ unit.",
-    "effect": "Select one enemy unit within Engagement Range of your unit, then roll one D6 for each model in your unit that is within Engagement Range of that enemy unit: for each 5+, that enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds). If a Waaagh! is active for your unit, that enemy unit suffers 1 mortal wound for each 4+ instead."
-  },
-  "tide-of-muscle-green-tide": {
-    "faction": "orks",
-    "when": "Your Charge phase.",
-    "target": "One **BOYZ** unit from your army that has not declared a charge this phase.",
-    "effect": "Until the end of the phase, each time your unit declares a charge, add 1 to the Charge roll and, if your unit contains 10 or more models, you can re-roll the Charge roll."
-  },
   "huge-show-offs-more-dakka": {
     "faction": "orks",
     "when": "Your Command phase.",
@@ -17122,18 +16951,6 @@
     "faction": "orks",
     "raw_text": "WHEN: Your opponent's Shooting phase, when an enemy unit targets a friendly SPEED FREEKS unit.\nTARGET: That SPEED FREEKS unit.\nEFFECT: Ranged attacks that target your unit fail on an unmodified hit roll of 1-3."
   },
-  "squig-flingin-kult-of-speed": {
-    "faction": "orks",
-    "when": "Your Movement phase, just after a **SPEED FREEKS** or **TRUKK** unit from your army ends a Normal, Advance or Fall Back move.",
-    "target": "That **SPEED FREEKS** or **TRUKK** unit.",
-    "effect": "Select one enemy unit within 9\" of your unit. That enemy unit must take a Battle‑shock test and, when doing so, subtract 1 from the result."
-  },
-  "more-gitz-over-ere-kult-of-speed": {
-    "faction": "orks",
-    "when": "Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.",
-    "target": "One **SPEED FREEKS** unit from your army that is within 8\" of that enemy unit and is not within Engagement Range of one or more enemy units.",
-    "effect": "Your unit can make a Normal move of up to 6\"."
-  },
   "where-dya-fink-youre-going-da-big-hunt": {
     "faction": "orks",
     "raw_text": "WHEN: Your opponent's Movement phase, when an enemy unit is selected to make a fall-back move, if that enemy unit is engaged with a friendly BEAST SNAGGA unit.\nTARGET: That BEAST SNAGGA unit.\nEFFECT: When an enemy unit engaged with your unit is selected to make a fall-back move, that enemy unit must use the desperate escape mode. If that enemy unit is a MONSTER/VEHICLE unit, that enemy unit makes three additional hazard rolls for each BEAST SNAGGA unit it is engaged with, with -1 from those hazard rolls if that enemy unit is battle-shocked."
@@ -17141,18 +16958,6 @@
   "instinctive-hunters-da-big-hunt": {
     "faction": "orks",
     "raw_text": "WHEN: End of your opponent's Fight phase.\nTARGET: One friendly unengaged BEAST SNAGGA unit within 6\" of a battlefield edge.\nEFFECT: Place your unit in strategic reserves."
-  },
-  "unstoppable-momentum-da-big-hunt": {
-    "faction": "orks",
-    "when": "Your Charge phase, just after a **BEAST SNAGGA MOUNTED** unit from your army ends a Charge move.",
-    "target": "That **BEAST SNAGGA** unit.",
-    "effect": "Select one enemy unit within Engagement Range of your unit and roll one D6 for each model in your unit: for each 4+, that enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds). If that enemy unit is your Prey, roll three additional D6."
-  },
-  "dat-ones-even-bigga-da-big-hunt": {
-    "faction": "orks",
-    "when": "Your Charge phase.",
-    "target": "One **BEAST SNAGGA** unit from your army.",
-    "effect": "Until the end of the phase, your unit is **eligible to charge** in a turn in which it Advanced or Fell Back. In addition, you can re-roll **charge rolls** made for your unit. If you do, your unit must end that **charge move engaged** with your Prey."
   },
   "superfuelled-boiler-dread-mob": {
     "faction": "orks",
@@ -17169,54 +16974,6 @@
   "too-arrogant-to-die-bully-boyz": {
     "faction": "orks",
     "raw_text": "WHEN: Fight phase, when an enemy unit targets a friendly MEGANOBZ/NOBZ unit.\nTARGET: That MEGANOBZ/NOBZ unit.\nEFFECT: When a model in your unit is destroyed, if your unit has not been selected to fight this phase, roll one D6, with +1 to that roll if your unit is riled up:\n• On a 4+, do not remove that model from the battlefield. When your unit has fought, or at the end of the phase (whichever comes first), that model is removed from the battlefield."
-  },
-  "always-lookin-fer-a-fight-bully-boyz": {
-    "faction": "orks",
-    "when": "Fight phase, just after an enemy unit is destroyed.",
-    "target": "One **NOBZ** or **MEGANOBZ** unit from your army that destroyed that enemy unit.",
-    "effect": "Until the end of the phase, each time your unit makes a Consolidation move, it can move up to D3+3\" instead of up to 3\". If a Waaagh! is active for your unit, it can move up to 6\" instead."
-  },
-  "braggin-rights-green-tide": {
-    "faction": "orks",
-    "when": "Your Command phase.",
-    "target": "Two **BOYZ** units from your army that are within 6\" of each other.",
-    "effect": "Until the start of your next Command phase, while those two units are within 6\" of each other, they both count as containing 10 or more models for the purpose of your Detachment rule, any Enhancements models from your army have and any Stratagems you use."
-  },
-  "come-on-ladz-green-tide": {
-    "faction": "orks",
-    "when": "Your Command phase.",
-    "target": "One **BOYZ** unit from your army.",
-    "effect": "Return up to D3+2 destroyed models to your unit (excluding **CHARACTER** models)."
-  },
-  "go-get-em-green-tide": {
-    "faction": "orks",
-    "when": "Your opponent’s Shooting phase, when an enemy unit that targeted a friendly **unengaged BOYZ** unit this phase has shot.",
-    "target": "That **BOYZ** unit.",
-    "effect": "Your unit can make a **surge move** of up to D6\"."
-  },
-  "dats-ours-taktikal-brigade": {
-    "faction": "orks",
-    "when": "Command phase.",
-    "target": "One ORKS unit from your army that is within Engagement Range of one or more enemy units.",
-    "effect": "Until the start of the next Command phase, add 1 to the Objective Control characteristic of models in your unit."
-  },
-  "taktikal-retreat-taktikal-brigade": {
-    "faction": "orks",
-    "when": "Your Movement phase, when a friendly KOMMANDOS/ STORMBOYZ unit is selected to make a fall-back move.",
-    "target": "That KOMMANDOS/STORMBOYZ unit.",
-    "effect": "That move does not prevent your unit from being eligible to declare a charge."
-  },
-  "on-to-da-next-taktikal-brigade": {
-    "faction": "orks",
-    "when": "End of your opponent's Movement phase.",
-    "target": "One friendly unengaged BOYZ/KOMMANDOS/STORMBOYZ unit that was engaged at the start of the phase.",
-    "effect": "Your unit can make a normal move of up to 6\"."
-  },
-  "ded-sneaky-taktikal-brigade": {
-    "faction": "orks",
-    "when": "End of your opponent's Fight phase.",
-    "target": "One friendly unengaged KOMMANDOS/STORMBOYZ unit.",
-    "effect": "Place your unit in strategic reserves. SPEEDWAAAGH! When a Speedwaaagh! is unleashed, entire planets become Ork speedways. The aliens tear across battlefields and weave through no man's land at breakneck pace, blazing away at anything in their path. So fastmoving are these Orkoid formations that they often punch clean through the enemy lines before their foes truly realise they are in battle. The Orks then haul their jostling vehicles and turboboosted Trukks around, charging back for another pass and then another. As they roar, they fill the air with deafening hails of firepower and choking clouds of dust and fume. Halfblinded, deafened by engines and bellowing, the enemy reels as swarms of light vehicles hit them from every direction. Ordered battle descends into highoctane anarchy as the Orks compete in contests of speed and violence in which their enemies are an unwilling audience and participants. Soon enough, the onceproud ranks of the foe are reduced to mangled ruin and the Orks race onward towards the next battle."
   },
   "call-dat-dakka-more-dakka": {
     "faction": "orks",
@@ -17666,10 +17423,6 @@
     "faction": "orks",
     "raw_text": "WHEN: Fight phase, when a friendly ORKS VEHICLE unit (excluding WALKER units) that made a charge move this turn is selected to fight.\nTARGET: That ORKS VEHICLE unit.\nEFFECT: Your unit’s melee attacks have:\n• [CLEAVE 1]\n• Or: if that attack already has [CLEAVE], +1 to the value of that [CLEAVE] (e.g. [CLEAVE 1] becomes [CLEAVE 2])."
   },
-  "nazdreg-knows-best": {
-    "faction": "orks",
-    "raw_text": "• This unit has Deep Strike.\n• This unit’s ranged attacks have [IGNORES COVER]."
-  },
   "never-enough-dakka-shoota-boyz": {
     "faction": "orks",
     "raw_text": "WHEN: Your Shooting phase, when a friendly ORKS INFANTRY unit is selected to shoot.\nTARGET: That ORKS INFANTRY unit.\nEFFECT: Your unit's ranged attacks have [SUSTAINED HITS 1]."
@@ -17765,10 +17518,6 @@
   "support-bubble": {
     "faction": "orks",
     "raw_text": "While this model is within 3\" of a friendly ORKS INFANTRY unit (excluding BIG MEK WITH SHOKK ATTACK GUN units), this model has Lone Operative."
-  },
-  "supreme-ironskin": {
-    "faction": "orks",
-    "raw_text": "(Once per phase, per army): In your opponent’s Movement phase, when an enemy unit ends a move within 9\" of this unit, if this unit is unengaged, this unit can:\n• Make a normal move of up to 6\".\n• If this unit is riled up, make a normal move of up to 9\"."
   },
   "surly-as-a-squiggoth-brute-bosses": {
     "faction": "orks",
@@ -17919,12 +17668,6 @@
     "when": "Fight phase, when a friendly ’Ardmob unit is **selected to fight**.",
     "target": "That ’Ardmob unit.",
     "effect": "Your unit's melee attacks have +1 **S**."
-  },
-  "krushin-impact-bully-boyz": {
-    "faction": "orks",
-    "when": "Your Charge phase, just after a **NOBZ** or **MEGANOBZ** unit from your army ends a Charge move.",
-    "target": "That **NOBZ** or **MEGANOBZ** unit.",
-    "effect": "Select one enemy unit within Engagement Range of your unit, then roll one D6 for each model in your unit that is within Engagement Range of that enemy unit: for each 5+, that enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds). If a Waaagh! is active for your unit, that enemy unit suffers 1 mortal wound for each 4+ instead."
   },
   "medi-squigs-ardmob": {
     "faction": "orks",
